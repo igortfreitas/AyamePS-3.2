@@ -1,5 +1,5 @@
 // Grasscutter 3.0.0 GM Handbook
-// Created 2022/09/11 14:24:49
+// Created 2022/09/27 15:23:25
 
 // Commands
        account : Modify user accounts
@@ -99,12 +99,12 @@ setFetterLevel : Sets your fetter level for your current active character
 10000064 : Yun Jin
 10000065 : Kuki Shinobu
 10000066 : Kamisato Ayato
-10000067 : [EN] - Collei
-10000068 : [EN] - Dori
-10000069 : [EN] - Tighnari
-10000070 : [EN] - Nilou
-10000071 : [EN] - Cyno
-10000072 : [EN] - Candace
+10000067 : Collei
+10000068 : Dori
+10000069 : Tighnari
+10000070 : Nilou
+10000071 : Cyno
+10000072 : Candace
 11000008 : Test Đội Số 4
 11000009 : Test Cảnh
 11000010 : Mô Hình Số 1
@@ -178,13 +178,13 @@ setFetterLevel : Sets your fetter level for your current active character
     140 : U Uẩn Thạch
     141 : Vật Trôi Nổi Óng Ánh
     142 : Mảnh Ngọc Chiến Lược
-    143 : [EN] - Creative Note
-    144 : [EN] - Whimsical Draft
-    145 : [EN] - Ancient Iron Coin
-    147 : [EN] - Festive Fever
-    148 : [EN] - Business Earnings
-    149 : [EN] - Usable Funds
-    150 : [EN] - Strategic Inspiration
+    143 : Sổ Tay Chế Tác
+    144 : Phác Thảo Nhanh
+    145 : Tiền Sắt Cổ
+    147 : Độ Náo Nhiệt Lễ Hội
+    148 : Doanh Thu
+    149 : Vốn Khả Dụng
+    150 : Cảm Hứng Chiến Lược
     201 : Nguyên Thạch
     202 : Mora
     203 : Đá Sáng Thế
@@ -204,7 +204,7 @@ setFetterLevel : Sets your fetter level for your current active character
     307 : Ấn Nham
     314 : EXP Danh Vọng - Inazuma
     315 : EXP Danh Vọng - Mondstadt
-    316 : [EN] - Sumeru Reputation EXP
+    316 : EXP Danh Vọng - Sumeru
     317 : EXP Danh Vọng - Liyue
     911 : Ký Ức Thiêu Đốt
     912 : Ký Ức Bôn Ba Không Nghỉ
@@ -265,12 +265,12 @@ setFetterLevel : Sets your fetter level for your current active character
    1064 : Yun Jin
    1065 : Kuki Shinobu
    1066 : Kamisato Ayato
-   1067 : [EN] - Collei
-   1068 : [EN] - Dori
-   1069 : [EN] - Tighnari
-   1070 : [EN] - Nilou
-   1071 : [EN] - Cyno
-   1072 : [EN] - Candace
+   1067 : Collei
+   1068 : Dori
+   1069 : Tighnari
+   1070 : Nilou
+   1071 : Cyno
+   1072 : Candace
    1102 : Chòm Sao Của Kamisato Ayaka
    1103 : Chòm Sao Của Jean
    1105 : Chòm Sao Của Nhà Lữ Hành (Nam)
@@ -323,12 +323,12 @@ setFetterLevel : Sets your fetter level for your current active character
    1164 : Chòm Sao Của Yun Jin
    1165 : Chòm Sao Của Kuki Shinobu
    1166 : Chòm Sao Của Kamisato Ayato
-   1167 : [EN] - Collei's Stella Fortuna
-   1168 : [EN] - Dori's Stella Fortuna
-   1169 : [EN] - Tighnari's Stella Fortuna
-   1170 : [EN] - Nilou's Stella Fortuna
-   1171 : [EN] - Cyno's Stella Fortuna
-   1172 : [EN] - Candace's Stella Fortuna
+   1167 : Chòm Sao Của Collei
+   1168 : Chòm Sao Của Dori
+   1169 : Chòm Sao Của Tighnari
+   1170 : Chòm Sao Của Nilou
+   1171 : Chòm Sao Của Cyno
+   1172 : Chòm Sao Của Candace
    1201 : Nhật Ký Hành Trình Trân Châu - Khởi Đầu
    1202 : Không Nguyệt Chúc Phúc - Trăng Non
    2001 : Cầu Năng Lượng Nguyên Tố (Hỏa)
@@ -405,8 +405,8 @@ setFetterLevel : Sets your fetter level for your current active character
   11414 : Đoản Đao Amenoma
   11415 : Con Thoi Chu Sa
   11416 : Kagotsurube Isshin
-  11417 : [EN] - Sapwood Blade
-  11418 : [EN] - Xiphos' Moonlight
+  11417 : Kiếm Gỗ
+  11418 : Ánh Trăng Xiphos
   11419 : Danh Đao "Trường Phái Isshin"
   11420 : Danh Đao "Trường Phái Isshin"
   11421 : Danh Đao "Trường Phái Isshin"
@@ -420,7 +420,7 @@ setFetterLevel : Sets your fetter level for your current active character
   11508 : [N/A] 1664039091
   11509 : Ánh Sáng Đêm Sương Mù
   11510 : Haran Geppaku Futsu
-  11511 : [EN] - Key of Hierophany
+  11511 : Chìa Khóa Khaj-Nisut
   12101 : Kiếm Huấn Luyện
   12201 : Kiếm Dụng Binh
   12301 : Kiếm Thiết Ảnh
@@ -442,9 +442,9 @@ setFetterLevel : Sets your fetter level for your current active character
   12411 : Tuyết Vùi Tinh Ngân
   12412 : Vua Biển Hàng Hiệu
   12414 : Trường Đao Katsuragi
-  12415 : [EN] - Mahara Aquamarine
+  12415 : Sắc Nước Makhaira
   12416 : Akuoumaru
-  12417 : [EN] - Forest Regalia
+  12417 : Vương Khí Rừng Sâu
   12501 : Thiên Không Kiêu Ngạo
   12502 : Đường Cùng Của Sói
   12503 : Tiếng Gió Trong Rừng Thông
@@ -472,8 +472,8 @@ setFetterLevel : Sets your fetter level for your current active character
   13414 : Giáo Thập Tự Kitain
   13415 : Lao Xiên Cá
   13416 : Vây Cá Chẻ Sóng
-  13417 : [EN] - Moonpiercer
-  13419 : [EN] - Shifting Windblade
+  13417 : Quán Nguyệt Thương
+  13419 : Mũi Nhọn Của Gió
   13501 : Trượng Hộ Ma
   13502 : Xương Sống Thiên Không
   13503 : [N/A] 469555475
@@ -482,7 +482,7 @@ setFetterLevel : Sets your fetter level for your current active character
   13506 : Sát Chủ
   13507 : Hủy Diệt
   13509 : Đoạn Thảo Trường Đao
-  13511 : [EN] - Staff of the Scarlet Sands
+  13511 : Quyền Trượng Cát Đỏ
   14101 : Nhật Ký Học Sinh
   14201 : Số Tay Ma Pháp
   14301 : Tóm Tắt Ma Pháp
@@ -506,8 +506,8 @@ setFetterLevel : Sets your fetter level for your current active character
   14413 : Tuyển tập các câu chuyện về Dodoco
   14414 : Vòng Bạch Thần
   14415 : Con Ngươi Tuyên Thệ
-  14416 : [EN] - Wandering Evenstar
-  14417 : [EN] - Fruit of Fulfillment
+  14416 : Sao Đêm Rong Ruổi
+  14417 : Quả Mọng
   14501 : Quyển Thiên Không
   14502 : Điển Tích Tây Phong
   14503 : Bài Thơ Kể Chuyện
@@ -540,8 +540,8 @@ setFetterLevel : Sets your fetter level for your current active character
   15414 : Cung Trừ Ma
   15415 : Kẻ Săn Mồi
   15416 : Ánh Trăng Mouun
-  15417 : [EN] - King's Squire
-  15418 : [EN] - End of the Line
+  15417 : Cận Vệ Nhà Vua
+  15418 : Sông Cạn
   15501 : Cánh Thiên Không
   15502 : Cung Amos
   15503 : Tiếng Thở Dài Vô Tận
@@ -551,50 +551,50 @@ setFetterLevel : Sets your fetter level for your current active character
   15507 : Ngôi Sao Cực Đông
   15508 : Nhược Thủy
   15509 : Sấm Sét Rung Động
-  15511 : [EN] - Hunter's Path
+  15511 : Con Đường Thợ Săn
   20001 : (test) Test cần câu
   20002 : Lông Vũ Sơ Cấp
   20004 : Hoa Sơ Cấp
-  20412 : [EN] - Lamp of the Lost
-  20413 : [EN] - Lamp of the Lost
-  20422 : [EN] - Scholar of Vines
-  20423 : [EN] - Scholar of Vines
-  20432 : [EN] - Laurel Coronet
-  20433 : [EN] - Laurel Coronet
-  20442 : [EN] - Labyrinth Wayfarer
-  20443 : [EN] - Labyrinth Wayfarer
-  20452 : [EN] - A Time of Insight
-  20453 : [EN] - A Time of Insight
-  20513 : [EN] - Lamp of the Lost
-  20514 : [EN] - Lamp of the Lost
-  20523 : [EN] - Scholar of Vines
-  20524 : [EN] - Scholar of Vines
-  20533 : [EN] - Laurel Coronet
-  20534 : [EN] - Laurel Coronet
-  20543 : [EN] - Labyrinth Wayfarer
-  20544 : [EN] - Labyrinth Wayfarer
-  20553 : [EN] - A Time of Insight
-  20554 : [EN] - A Time of Insight
-  21412 : [EN] - Honeyed Final Feast
-  21413 : [EN] - Honeyed Final Feast
-  21422 : [EN] - Feather of Judgment
-  21423 : [EN] - Feather of Judgment
-  21432 : [EN] - Shadow of the Sand King
-  21433 : [EN] - Shadow of the Sand King
-  21442 : [EN] - Dreaming Steelbloom
-  21443 : [EN] - Dreaming Steelbloom
-  21452 : [EN] - The Sunken Years
-  21453 : [EN] - The Sunken Years
-  21513 : [EN] - Honeyed Final Feast
-  21514 : [EN] - Honeyed Final Feast
-  21523 : [EN] - Feather of Judgment
-  21524 : [EN] - Feather of Judgment
-  21533 : [EN] - Shadow of the Sand King
-  21534 : [EN] - Shadow of the Sand King
-  21543 : [EN] - Dreaming Steelbloom
-  21544 : [EN] - Dreaming Steelbloom
-  21553 : [EN] - The Sunken Years
-  21554 : [EN] - The Sunken Years
+  20412 : Đèn Của Kẻ Lạc Lối
+  20413 : Đèn Của Kẻ Lạc Lối
+  20422 : Trí Giả Của Rừng Xanh
+  20423 : Trí Giả Của Rừng Xanh
+  20432 : Vương Miện Của Nguyệt Quế
+  20433 : Vương Miện Của Nguyệt Quế
+  20442 : Lữ Khách Của Mê Cung
+  20443 : Lữ Khách Của Mê Cung
+  20452 : Thời Hạn Của Hiền Trí
+  20453 : Thời Hạn Của Hiền Trí
+  20513 : Đèn Của Kẻ Lạc Lối
+  20514 : Đèn Của Kẻ Lạc Lối
+  20523 : Trí Giả Của Rừng Xanh
+  20524 : Trí Giả Của Rừng Xanh
+  20533 : Vương Miện Của Nguyệt Quế
+  20534 : Vương Miện Của Nguyệt Quế
+  20543 : Lữ Khách Của Mê Cung
+  20544 : Lữ Khách Của Mê Cung
+  20553 : Thời Hạn Của Hiền Trí
+  20554 : Thời Hạn Của Hiền Trí
+  21412 : Bữa Cuối Ngọt Ngào
+  21413 : Bữa Cuối Ngọt Ngào
+  21422 : Lông Vũ Phán Quyết
+  21423 : Lông Vũ Phán Quyết
+  21432 : Hình Chiếu Vua Cát
+  21433 : Hình Chiếu Vua Cát
+  21442 : Hoa Thép Trong Mộng
+  21443 : Hoa Thép Trong Mộng
+  21452 : Năm Tháng Vàng Son
+  21453 : Năm Tháng Vàng Son
+  21513 : Bữa Cuối Ngọt Ngào
+  21514 : Bữa Cuối Ngọt Ngào
+  21523 : Lông Vũ Phán Quyết
+  21524 : Lông Vũ Phán Quyết
+  21533 : Hình Chiếu Vua Cát
+  21534 : Hình Chiếu Vua Cát
+  21543 : Hoa Thép Trong Mộng
+  21544 : Hoa Thép Trong Mộng
+  21553 : Năm Tháng Vàng Son
+  21554 : Năm Tháng Vàng Son
   23300 : [CHS] - 移动速度百分比
   23301 : [CHS] - 火元素伤害加成
   23302 : [CHS] - 电元素伤害加成
@@ -903,26 +903,26 @@ setFetterLevel : Sets your fetter level for your current active character
   23618 : Khuyên Tai Trôi Nổi
   23619 : Hoa Hương Hồn
   23620 : Chứng Nhận Tán Dương
-  23621 : [EN] - Lamp of the Lost
-  23622 : [EN] - Scholar of Vines
-  23623 : [EN] - Laurel Coronet
-  23624 : [EN] - Labyrinth Wayfarer
-  23625 : [EN] - A Time of Insight
-  23626 : [EN] - Lamp of the Lost
-  23627 : [EN] - Scholar of Vines
-  23628 : [EN] - Laurel Coronet
-  23629 : [EN] - Labyrinth Wayfarer
-  23630 : [EN] - A Time of Insight
-  23631 : [EN] - Honeyed Final Feast
-  23632 : [EN] - Feather of Judgment
-  23633 : [EN] - Shadow of the Sand King
-  23634 : [EN] - Dreaming Steelbloom
-  23635 : [EN] - The Sunken Years
-  23636 : [EN] - Honeyed Final Feast
-  23637 : [EN] - Feather of Judgment
-  23638 : [EN] - Shadow of the Sand King
-  23639 : [EN] - Dreaming Steelbloom
-  23640 : [EN] - The Sunken Years
+  23621 : Đèn Của Kẻ Lạc Lối
+  23622 : Trí Giả Của Rừng Xanh
+  23623 : Vương Miện Của Nguyệt Quế
+  23624 : Lữ Khách Của Mê Cung
+  23625 : Thời Hạn Của Hiền Trí
+  23626 : Đèn Của Kẻ Lạc Lối
+  23627 : Trí Giả Của Rừng Xanh
+  23628 : Vương Miện Của Nguyệt Quế
+  23629 : Lữ Khách Của Mê Cung
+  23630 : Thời Hạn Của Hiền Trí
+  23631 : Bữa Cuối Ngọt Ngào
+  23632 : Lông Vũ Phán Quyết
+  23633 : Hình Chiếu Vua Cát
+  23634 : Hoa Thép Trong Mộng
+  23635 : Năm Tháng Vàng Son
+  23636 : Bữa Cuối Ngọt Ngào
+  23637 : Lông Vũ Phán Quyết
+  23638 : Hình Chiếu Vua Cát
+  23639 : Hoa Thép Trong Mộng
+  23640 : Năm Tháng Vàng Son
   24101 : Giác Đấu Sĩ Uống Say
   24102 : Giác Đấu Sĩ Trở Về
   24103 : Nón Hoa Mỹ
@@ -4312,7 +4312,7 @@ setFetterLevel : Sets your fetter level for your current active character
  100093 : Tôm Bóc Nõn
  100094 : Thịt Tươi Lạnh
  100095 : Thịt Lươn
- 100096 : [EN] - Glabrous Beans
+ 100096 : Đậu Bóng
  100101 : Tài liệu của Jean
  100102 : [Trốn Thoát Cực Hạn]
  100103 : Mảnh nhạc phổ (nửa chương đầu)
@@ -4767,7 +4767,7 @@ setFetterLevel : Sets your fetter level for your current active character
  100628 : Túi Đựng Thô Ráp
  100629 : Phiến Đá Thần Bí
  100630 : "Tin Tình Báo Trinh Sát" Của Đạo Bảo Đoàn
- 100631 : Chiệc Hộp Viktor Làm Mất
+ 100631 : Chiếc Hộp Viktor Làm Mất
  100632 : Tờ Giấy Ghi Nội Dung Thông Báo
  100633 : Giấy Phép Kinh Doanh Cũ
  100634 : Giấy Phép Cơ Sở Kinh Doanh Và Giấy Cam Kết Kinh Doanh An Toàn
@@ -5152,11 +5152,11 @@ setFetterLevel : Sets your fetter level for your current active character
  101108 : Trọng Kiếm Bắc Lục
  101109 : Pháp Khí Bắc Lục
  101110 : Vũ Khí Cán Dài Bắc Lục
- 101111 : [EN] - Midlander Sword Billet
- 101112 : [EN] - Midlander Bow Billet
- 101113 : [EN] - Midlander Claymore Billet
- 101114 : [EN] - Midlander Catalyst Billet
- 101115 : [EN] - Midlander Polearm Billet
+ 101111 : Phôi Kiếm Đơn Trung Địa
+ 101112 : Phôi Cung Trung Địa
+ 101113 : Phôi Trọng Kiếm Trung Địa
+ 101114 : Phôi Pháp Khí Trung Địa
+ 101115 : Phôi Vũ Khí Cán Dài Trung Địa
  101201 : Onikabuto
  101202 : Tú Cầu Anh Đào
  101203 : Tủy Pha Lê
@@ -5169,19 +5169,19 @@ setFetterLevel : Sets your fetter level for your current active character
  101210 : Rong Biển
  101211 : Dưa Tím
  101212 : Nấm Sao
- 101213 : [EN] - Rukkhashava Mushrooms
- 101214 : [EN] - Padisarah
- 101215 : [EN] - Nilotpala Lotus
- 101216 : [EN] - Harra Fruit
- 101217 : [EN] - Kalpalata Lotus
- 101218 : [EN] - Zaytun Peach
- 101219 : [EN] - Sumeru Rose
- 101220 : [EN] - Redcrest
- 101221 : [EN] - Ajilenakh
- 101225 : [EN] - Scarab
- 101226 : [EN] - Activated Starshroom
- 101227 : [EN] - Scorched Starshroom
- 101228 : [EN] - Viparyas
+ 101213 : Nấm Thánh Rukkhashava
+ 101214 : Padisarah
+ 101215 : Sen Nilotpala
+ 101216 : Quả Harra
+ 101217 : Sen Kalpalata
+ 101218 : Đào Zaytun
+ 101219 : Tường Vi Sumeru
+ 101220 : Quả Xích Niệm
+ 101221 : Quả Ajilenakh
+ 101225 : Bọ Thánh Kim
+ 101226 : Nấm Sao Bung Nở
+ 101227 : Nấm Sao Cháy Khô
+ 101228 : Viparyas
  101301 : Gỗ Hoa
  101302 : Gỗ Tụy Hoa
  101303 : Gỗ Thông
@@ -5194,11 +5194,11 @@ setFetterLevel : Sets your fetter level for your current active character
  101310 : Gỗ Phong
  101311 : Gỗ Khổng Tước
  101312 : Gỗ Otogi
- 101313 : [EN] - Brightwood
- 101314 : [EN] - Karmaphala Wood
- 101315 : [EN] - Adhigama Wood
- 101316 : [EN] - Mountain Date Wood
- 101317 : [EN] - Athel Wood
+ 101313 : Gỗ Sáng
+ 101314 : Gỗ Karmaphala
+ 101315 : Gỗ Adhigama
+ 101316 : Gỗ Chà Là
+ 101317 : Gỗ Sanh
  101401 : Vải Vóc
  101402 : Thuốc Nhuộm Đỏ
  101403 : Thuốc Nhuộm Vàng
@@ -5463,12 +5463,12 @@ setFetterLevel : Sets your fetter level for your current active character
  101771 : Kho Báu Ako II
  101772 : Kho Báu Ako III
  101773 : Kho Báu Ako IV
- 101774 : [EN] - Yajna Grass
- 101775 : [EN] - Zohrah Mushroom
- 101776 : [EN] - Barsam Flower
+ 101774 : Cỏ Yajna
+ 101775 : Nấm Zohrah
+ 101776 : Hoa Barsam
  101777 : [CHS] - （test）封印钥匙其一
  101778 : [CHS] - （test）封印钥匙其二
- 101779 : [EN] - Arahaoma
+ 101779 : Arahaoma
  101780 : Kịch Bản "Mushounin"
  101781 : Kịch Bản "Mushounin"
  101782 : Canh Jinwu
@@ -5485,7 +5485,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101793 : [CHS] - （test）神秘的信笺11
  101794 : [CHS] - （test）神秘的信笺12
  101795 : Một Túi Trang Sức
- 101796 : [EN] - Vasmrti
+ 101796 : Vasmrti
  101797 : Xuất Phát Thôi! Dodoco
  101798 : Lộ Trình Hàng Hải
  101799 : Thư Dọc Đường I
@@ -5498,31 +5498,31 @@ setFetterLevel : Sets your fetter level for your current active character
  101806 : Mảnh Tinh Tượng
  101807 : Mảnh Tinh Tượng
  101808 : Mảnh Tinh Tượng
- 101809 : [EN] - Vasoma Fruit
+ 101809 : Quả Vasoma
  101810 : [CHS] - (test)恒素果2
- 101811 : [EN] - Garland
- 101812 : [EN] - Garland
- 101813 : [EN] - Bija
- 101814 : [EN] - Arana's Flower
- 101815 : [EN] - Araja's Flower
- 101816 : [EN] - Nameless Flower
- 101817 : [EN] - Arapandu's Flower
- 101818 : [EN] - Arakunti's Flower
- 101819 : [EN] - Aranakula's Flower
- 101820 : [EN] - Arabalika's Flower
- 101821 : [EN] - Aranaga's Flower
- 101822 : [EN] - Aranakin's Flower
- 101823 : [EN] - Aragaru's Flower
- 101824 : [EN] - Ararycan's Flower
- 101825 : [EN] - Araesha's Flower
- 101826 : [EN] - Arakara's Flower
- 101827 : [EN] - The Siblings' Flowers
- 101828 : [EN] - The Song Gatherers' Flowers
- 101829 : [EN] - Aralila and Aranishat's Flowers
- 101830 : [EN] - Arakanta's Flower
+ 101811 : Dây Hoa
+ 101812 : Dây Hoa
+ 101813 : Bija
+ 101814 : Hoa Arana
+ 101815 : Hoa Araja
+ 101816 : Hoa Vô Danh
+ 101817 : Hoa Arapandu
+ 101818 : Hoa Arakunti
+ 101819 : Hoa Aranakula
+ 101820 : Hoa Arabalika
+ 101821 : Hoa Aranaga
+ 101822 : Hoa Aranakin
+ 101823 : Hoa Aragaru
+ 101824 : Hoa Ararycan
+ 101825 : Hoa Araesha
+ 101826 : Hoa Arakara
+ 101827 : Hoa "Anh Em"
+ 101828 : Hoa Người Lấy Nhạc
+ 101829 : Hoa Aralila Và Aranishat
+ 101830 : Hoa Arakanta
  101831 : [CHS] - (test)兰那罗小花18
- 101832 : [EN] - Stories of You and the Aranara
- 101833 : [EN] - "Emergency Adjustment Plan"
+ 101832 : Câu Chuyện Về Bạn Và Aranara
+ 101833 : "Bản Kế Hoạch Điều Chỉnh Khẩn Cấp"
  101834 : Mảnh Tinh Tượng
  101835 : Chìa Khóa
  101836 : Chiếc Bình Chứa Đầy Nước Suối
@@ -5546,7 +5546,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101857 : Đá Phù Quang - Phải
  101858 : Đá Kiên Cố - Trái
  101859 : Đá Kiên Cố - Phải
- 101860 : [EN] - Living Spring
+ 101860 : Suối Nguồn
  101861 : Một Hộp Linh Kiện
  101862 : Mảnh Giấy Không Rõ Lai Lịch 1
  101863 : Mảnh Giấy Không Rõ Lai Lịch 2
@@ -5581,7 +5581,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101892 : Thảm Xanh
  101893 : Trang Ghi Chép Nghiên Cứu Phòng Pháp Y
  101894 : Mảnh Giấy Không Rõ Lai Lịch
- 101895 : [EN] - ？？？
+ 101895 : [CHS] - (test）钥匙
  101896 : Tinh Hạt Nhân
  101897 : Tinh Hạt Nhân
  101898 : Tinh Hạt Nhân
@@ -5591,102 +5591,101 @@ setFetterLevel : Sets your fetter level for your current active character
  101902 : Chìa Khóa Dư Âm
  101903 : Thư Vừa Nhận
  101904 : Nước Ép Nho Quý Của Tửu Trang Dawn
- 101905 : [EN] - Slime Condensate-Soaked Soil
- 101906 : [EN] - Whopperflower Root Soil
- 101907 : [EN] - Moist Soil
+ 101905 : Đất Thấm Dịch Slime
+ 101906 : Đất Trên Rễ Hoa Lừa Dối
+ 101907 : Đất Ẩm
  101908 : Ánh Sao Ngưng Tụ
  101909 : Tiếp Tế Núi Tuyết - Giăm Bông
  101910 : Khế Ước Bay Đêm
- 101911 : [EN] - Special "Concresoil" for Toys
+ 101911 : "Đất Cứng" Dùng Cho Đồ Chơi
  101912 : [CHS] - (test)材料参照物
- 101913 : [EN] - Whopperflower Root Soil
- 101914 : [EN] - Fertile Soil (Reportedly)
- 101915 : [EN] - Discarded "Concresoil"
+ 101913 : Đất Trên Rễ Hoa Lừa Dối
+ 101914 : Bùn Đất Nghe Nói Rất Màu Mỡ
+ 101915 : "Đất Cứng" Bỏ Đi
  101916 : Ủy Thác Tìm Người Của Hiệp Hội
  101917 : Chìa Khóa Dính Muối Biển
  101918 : [CHS] - （test）危危岛遗迹钥匙2
- 101919 : [EN] - Special Bird Egg
- 101920 : [EN] - Special Mushroom
- 101921 : [EN] - Special Mint
- 101922 : [EN] - Special Harra Fruit
- 101923 : [EN] - Special Sweet Flower
+ 101919 : Trứng Chim Đặc Biệt
+ 101920 : Nấm Rơm Đặc Biệt
+ 101921 : Bạc Hà Đặc Biệt
+ 101922 : Quả Harra Đặc Biệt
+ 101923 : Hoa Ngọt Đặc Biệt
  101924 : [CHS] - (test)新鲜的材料2
- 101925 : [EN] - Box Lunch from Tighnari
- 101926 : [EN] - Letter to Haypasia
- 101927 : [EN] - Box Lunch from the Traveler
- 101928 : [EN] - Tighnari's Introduction Letter
- 101929 : [EN] - Bag of Transaction Funds
- 101930 : [EN] - Package of Canned Knowledge
- 101931 : [EN] - Canned Knowledge "Swordfighting Techniques VIII"
- 101932 : [EN] - Bag of Intel Transaction Funds
- 101933 : [EN] - Picture of the Transaction
- 101934 : [EN] - Informant Code Chart
+ 101925 : Hộp Cơm Của Tighnari
+ 101926 : Thư Gửi Haypasia
+ 101927 : Cơm Hộp Chính Tay Nhà Lữ Hành Làm
+ 101928 : Thư Giới Thiệu Của Tighnari
+ 101929 : Túi Tiền Giao Dịch
+ 101930 : Túi Hũ Tri Thức
+ 101931 : Hũ Tri Thức "Kỹ Thuật Dùng Kiếm Đơn - 8"
+ 101932 : Túi Tiền Mua Tình Báo
+ 101933 : Ảnh Hiện Trường Giao Dịch
+ 101934 : Bảng Ám Hiệu
  101935 : Ốc Biển Sai Vị Trí I
  101936 : Ốc Biển Sai Vị Trí II
  101937 : Ốc Biển Sai Vị Trí III
- 101938 : [EN] - Prescription Medication from Bimarstan for Gurgen
- 101939 : [EN] - Prescription Medication from Bimarstan for Azra
- 101940 : [EN] - Prescription Medication from Bimarstan for Aftab
- 101941 : [EN] - Fresh Harra Fruit
- 101942 : [EN] - Fresh Zaytun Peach
+ 101938 : Đơn Thuốc Bimarstan Kê Cho Gurgen
+ 101939 : Đơn Thuốc Bimarstan Kê Cho Azra
+ 101940 : Đơn Thuốc Bimarstan Kê Cho Aftab
+ 101941 : Quả Harra Tươi
+ 101942 : Đào Zaytun Tươi
  101943 : Vải Nhuộm Đỏ
- 101944 : [EN] - "The Best Water"
+ 101944 : "Nước Ngon Nhất"
  101945 : Đồng Hồ Khảm Bạc
  101946 : Phù Hiệu Cũ Kỹ
- 101947 : [EN] - Fresh Slime Condensate
- 101948 : [EN] - Sareh's Note
- 101949 : [EN] - Sareh's Note
- 101950 : [EN] - Sareh's Note
- 101951 : [EN] - Fresh Nilotpala Lotus
- 101952 : [EN] - Rose Sprout
- 101953 : [EN] - Eagle Feather of The Brave
- 101954 : [EN] - Florescent Talisman
- 101955 : [EN] - Freshly-Picked Mushroom
- 101956 : [EN] - Strange Sumeru Rose
- 101957 : [EN] - Riddle Note
- 101958 : [EN] - Riddle Note
- 101959 : [EN] - Riddle Note
- 101960 : [EN] - Riddle Note
- 101961 : [EN] - Rafiq's Shipbuilding Materials
- 101962 : [EN] - Little Dried Flower
- 101963 : [EN] - Activated·Canned Knowledge
+ 101947 : Dịch Slime Tươi Ngon
+ 101948 : Ghi Chú Của Sareh
+ 101949 : Ghi Chú Của Sareh
+ 101950 : Ghi Chú Của Sareh
+ 101951 : Sen Nilotpala Tươi
+ 101952 : Tường Vi Non Nớt
+ 101953 : Lông Ưng Dũng Sĩ
+ 101954 : Đóa Hoa Hộ Mệnh
+ 101955 : Nấm Tươi Mới Hái
+ 101956 : Tường Vi Sumeru Kỳ Lạ
+ 101957 : Mảnh Giấy Viết Câu Đố
+ 101958 : Mảnh Giấy Viết Câu Đố
+ 101959 : Mảnh Giấy Viết Câu Đố
+ 101960 : Mảnh Giấy Viết Câu Đố
+ 101961 : Nguyên Liệu Đóng Thuyền Của Rafiq
+ 101962 : Hoa Phơi Khô
+ 101963 : Hũ Tri Thức - Đã Kích Hoạt
  101964 : Bản Thảo Của Persikov
- 101965 : [EN] - Normal Wood
- 101966 : [EN] - Fatui Meal
- 101967 : [EN] - Treasure Map in a Box
- 101968 : [EN] - Glinting Component
- 101969 : [EN] - Sacred Seal: Valley
- 101970 : [EN] - Sacred Seal: Bird Head
- 101971 : [EN] - Sacred Seal: Raised Arm
- 101972 : [EN] - Sacred Seal: Sandstorm
- 101973 : [EN] - Sacred Seal: Auricle
- 101974 : [EN] - Sacred Seal: Forest
- 101975 : [EN] - Sacred Seal: Thunderstrike
- 101976 : [EN] - Sacred Seal: Danger
- 101977 : [EN] - Sacred Seal: Chisel Hammer
- 101978 : [EN] - Sacred Seal: Sunrise
- 101979 : [EN] - Sacred Seal: Right to Rule
- 101980 : [EN] - Sacred Seal: Sheep Head
- 101981 : [EN] - Sacred Seal: Crocodile Head
- 101982 : [EN] - Sacred Seal: Giant Serpent
- 101983 : [EN] - Sacred Seal: Ceremony
- 101984 : [EN] - Sacred Seal: Labor
- 101985 : [EN] - Sacred Seal: Dune
+ 101965 : Gỗ Thường
+ 101966 : Bữa Ăn Của Fatui
+ 101967 : Bản Đồ Kho Báu Trong Rương
+ 101968 : Linh Kiện Lấp Lánh
+ 101969 : Đá Thánh Chương - Thung Lũng
+ 101970 : Đá Thánh Chương - Đầu Chim
+ 101971 : Đá Thánh Chương - Giơ Tay
+ 101972 : Đá Thánh Chương - Bão Cát
+ 101973 : Đá Thánh Chương - Vành Tai
+ 101974 : Đá Thánh Chương - Cây Cối
+ 101975 : Đá Thánh Chương - Sấm Sét
+ 101976 : Đá Thánh Chương - Nguy Hiểm
+ 101977 : Đá Thánh Chương - Búa Đục
+ 101978 : Đá Thánh Chương - Mặt Trời Mọc
+ 101979 : Đá Thánh Chương - Vương Quyền
+ 101980 : Đá Thánh Chương - Đầu Cừu
+ 101981 : Đá Thánh Chương - Đầu Cá Sấu
+ 101982 : Đá Thánh Chương - Mãng Xà
+ 101983 : Đá Thánh Chương - Tế Lễ
+ 101984 : Đá Thánh Chương - Lao Động
+ 101985 : Đá Thánh Chương - Đồi Cát
  101986 : [CHS] - (test)黑乎乎的怪东西
- 101987 : [EN] - Golden Rose Seeds
- 101988 : [EN] - Transparent Ruins Record (I)
- 101989 : [EN] - Record of Lamb-Eater Rock
- 101990 : [EN] - Record of the Tomb of Full Flagons
- 101991 : [EN] - Soheil's Old Notes
- 101992 : [EN] - Record of Aaru's Reflection
+ 101987 : Hạt Giống Tường Vi Vàng
+ 101988 : Ghi Chép Của Di Tích Trong Suốt I
+ 101989 : Ghi Chép Của Thôn Dương Nham
+ 101990 : Ghi Chép Của Lăng No Say
+ 101991 : Ghi Chép Khảo Cổ Của Soheil
+ 101992 : Ghi Chép Về Hình Bóng Của Aaru
  101993 : Bản Thảo Trưởng Đoàn Kịch Hoàng Hôn
- 101994 : [EN] - Freshly-Picked Harra Fruit
- 101995 : [EN] - Unsigned Note
- 101996 : [EN] - Ragged Records
- 101997 : [EN] - Remelting Device
- 101998 : [EN] - Remelting Tablet
- 101999 : [EN] - Employer's Orders
- 102000 : [EN] - Unknown Object With an Earthy Glow
+ 101994 : Quả Harra Vừa Hái
+ 101995 : Mảnh Giấy Nặc Danh
+ 101996 : Ghi Chép Mục Nát
+ 101997 : Thiết Bị Tái Luyện
+ 101998 : Thuốc Tái Luyện
+ 101999 : Mệnh Lệnh Chủ Thuê
  102001 : Mảnh Nguyên Tố Hỏa
  102002 : Mảnh Nguyên Tố Thủy
  102003 : Mảnh Nguyên Tố Thảo
@@ -5770,15 +5769,15 @@ setFetterLevel : Sets your fetter level for your current active character
  104326 : Bài Giảng Của "Ánh Sáng"
  104327 : Hướng Dẫn Của "Ánh Sáng"
  104328 : Triết Học Của "Ánh Sáng"
- 104329 : [EN] - Teachings of Admonition
- 104330 : [EN] - Guide to Admonition
- 104331 : [EN] - Philosophies of Admonition
- 104332 : [EN] - Teachings of Ingenuity
- 104333 : [EN] - Guide to Ingenuity
- 104334 : [EN] - Philosophies of Ingenuity
- 104335 : [EN] - Teachings of Praxis
- 104336 : [EN] - Guide to Praxis
- 104337 : [EN] - Philosophies of Praxis
+ 104329 : Bài Giảng Của "Khuyên Nhủ"
+ 104330 : Hướng Dẫn Của "Khuyên Nhủ"
+ 104331 : Triết Học Của "Khuyên Nhủ"
+ 104332 : Bài Giảng Của "Tinh Tế"
+ 104333 : Hướng Dẫn Của "Tinh Tế"
+ 104334 : Triết Học Của "Tinh Tế"
+ 104335 : Bài Giảng Của "Thực Hành"
+ 104336 : Hướng Dẫn Của "Thực Hành"
+ 104337 : Triết Học Của "Thực Hành"
  105001 : Giọt Nước Chúc Phúc
  105002 : Dầu Chúc Phúc
  105003 : Tinh Hoa Chúc Phúc
@@ -5801,8 +5800,8 @@ setFetterLevel : Sets your fetter level for your current active character
  107014 : Lôi Thần Đồng
  107015 : Bùa Trục Nguyệt
  107016 : Lưu Minh Tinh Thạch
- 107017 : [EN] - Dendroculus
- 107018 : [EN] - Sumeru Shrine of Depths Key
+ 107017 : Thảo Thần Đồng
+ 107018 : Chìa Khóa Đền Địa Linh Sumeru
  108000 : Món ăn
  108001 : Bánh Người Cá Kỳ Lạ
  108002 : Bánh Người Cá
@@ -6194,85 +6193,85 @@ setFetterLevel : Sets your fetter level for your current active character
  108388 : Vũ Điệu Cơm Cuộn Trứng
  108389 : Tôm Nhuốm Sương
  108390 : Chân Tướng Duy Nhất
- 108391 : [EN] - Suspicious Butter Chicken
- 108392 : [EN] - Butter Chicken
- 108393 : [EN] - Delicious Butter Chicken
- 108394 : [EN] - Suspicious Shawarma Wrap
- 108395 : [EN] - Shawarma Wrap
- 108396 : [EN] - Delicious Shawarma Wrap
- 108397 : [EN] - Suspicious Selva Salad
- 108398 : [EN] - Selva Salad
- 108399 : [EN] - Delicious Selva Salad
- 108400 : [EN] - Suspicious Masala Cheese Balls
- 108401 : [EN] - Masala Cheese Balls
- 108402 : [EN] - Delicious Masala Cheese Balls
- 108403 : [EN] - Suspicious Mushroom Hodgepodge
- 108404 : [EN] - Mushroom Hodgepodge
- 108405 : [EN] - Delicious Mushroom Hodgepodge
- 108406 : [EN] - Suspicious Pita Pocket
- 108407 : [EN] - Pita Pocket
- 108408 : [EN] - Delicious Pita Pocket
- 108409 : [EN] - Suspicious Panipuri
- 108410 : [EN] - Panipuri
- 108411 : [EN] - Delicious Panipuri
- 108412 : [EN] - Suspicious Minty Bean Soup
- 108413 : [EN] - Minty Bean Soup
- 108414 : [EN] - Delicious Minty Bean Soup
- 108415 : [EN] - Suspicious Biryani
- 108416 : [EN] - Biryani
- 108417 : [EN] - Delicious Biryani
- 108418 : [EN] - Suspicious Tahchin
- 108419 : [EN] - Tahchin
- 108420 : [EN] - Delicious Tahchin
- 108421 : [EN] - Suspicious Lambad Fish Roll
- 108422 : [EN] - Lambad Fish Roll
- 108423 : [EN] - Delicious Lambad Fish Roll
- 108424 : [EN] - Suspicious Curry Shrimp
- 108425 : [EN] - Curry Shrimp
- 108426 : [EN] - Delicious Curry Shrimp
- 108427 : [EN] - Suspicious Tandoori Roast Chicken
- 108428 : [EN] - Tandoori Roast Chicken
- 108429 : [EN] - Delicious Tandoori Roast Chicken
- 108430 : [EN] - Suspicious Potato Boat
- 108431 : [EN] - Potato Boat
- 108432 : [EN] - Delicious Potato Boat
- 108433 : [EN] - Suspicious Fish With Cream Sauce
- 108434 : [EN] - Fish With Cream Sauce
- 108435 : [EN] - Delicious Fish With Cream Sauce
- 108436 : [EN] - Forest Watcher's Choice
- 108437 : [EN] - Yearning
- 108438 : [EN] - Show Me the Mora
- 108439 : [EN] - Suspicious Meat Lovers' Mushroom Pizza
- 108440 : [EN] - Meat Lovers' Mushroom Pizza
- 108441 : [EN] - Delicious Meat Lovers' Mushroom Pizza
- 108442 : [EN] - Suspicious Sunset Berry Tea
- 108443 : [EN] - Sunset Berry Tea
- 108444 : [EN] - Delicious Sunset Berry Tea
- 108445 : [EN] - Suspicious Milky Mushroom Crisp Tower
- 108446 : [EN] - Milky Mushroom Crisp Tower
- 108447 : [EN] - Delicious Milky Mushroom Crisp Tower
- 108448 : [EN] - Suspicious Coconut Charcoal Cakes
- 108449 : [EN] - Coconut Charcoal Cakes
- 108450 : [EN] - Delicious Coconut Charcoal Cakes
- 108451 : [EN] - Suspicious Baklava
- 108452 : [EN] - Baklava
- 108453 : [EN] - Delicious Baklava
- 108454 : [EN] - Suspicious Candied Ajilenakh Nut
- 108455 : [EN] - Candied Ajilenakh Nut
- 108456 : [EN] - Delicious Candied Ajilenakh Nut
- 108457 : [EN] - Suspicious Padisarah Pudding
- 108458 : [EN] - Padisarah Pudding
- 108459 : [EN] - Delicious Padisarah Pudding
- 108460 : [EN] - Suspicious Aaru Mixed Rice
- 108461 : [EN] - Aaru Mixed Rice
- 108462 : [EN] - Delicious Aaru Mixed Rice
- 108463 : [EN] - ？？？
- 108464 : [EN] - ？？？
- 108465 : [EN] - ？？？
- 108466 : [EN] - Swirling Steps
- 108467 : [EN] - Duel Soul
- 108468 : [EN] - Utmost Care
- 108469 : [EN] - ？？？
+ 108391 : Gà Áp Chảo Kỳ Lạ
+ 108392 : Gà Áp Chảo
+ 108393 : Gà Áp Chảo Ngon
+ 108394 : Cuốn Shawarma Kỳ Lạ
+ 108395 : Cuốn Shawarma
+ 108396 : Cuốn Shawarma Ngon
+ 108397 : Salad Nhiệt Đới Kỳ Lạ
+ 108398 : Salad Nhiệt Đới
+ 108399 : Salad Nhiệt Đới Ngon
+ 108400 : Viên Phô Mai Masala Kỳ Lạ
+ 108401 : Viên Phô Mai Masala
+ 108402 : Viên Phô Mai Masala Ngon
+ 108403 : Nấm Thập Cẩm Kỳ Lạ
+ 108404 : Nấm Thập Cẩm
+ 108405 : Nấm Thập Cẩm Ngon
+ 108406 : Bánh Túi Kỳ Lạ
+ 108407 : Bánh Túi
+ 108408 : Bánh Túi Ngon
+ 108409 : Panipuri Kỳ Lạ
+ 108410 : Panipuri
+ 108411 : Panipuri Ngon
+ 108412 : Canh Đậu Bạc Hà Kỳ Lạ
+ 108413 : Canh Đậu Bạc Hà
+ 108414 : Canh Đậu Bạc Hà Ngon
+ 108415 : Biryani Kỳ Lạ
+ 108416 : Biryani
+ 108417 : Biryani Ngon
+ 108418 : Tahchin Kỳ Lạ
+ 108419 : Tahchin
+ 108420 : Tahchin Ngon
+ 108421 : Cuốn Cá Lambad Kỳ Lạ
+ 108422 : Cuốn Cá Lambad
+ 108423 : Cuốn Cá Lambad Ngon
+ 108424 : Tôm Cà Ri Kỳ Lạ
+ 108425 : Tôm Cà Ri
+ 108426 : Tôm Cà Ri Ngon
+ 108427 : Gà Nướng Tandoori Kỳ Lạ
+ 108428 : Gà Nướng Tandoori
+ 108429 : Gà Nướng Tandoori Ngon
+ 108430 : Thuyền Khoai Tây Kỳ Lạ
+ 108431 : Thuyền Khoai Tây
+ 108432 : Thuyền Khoai Tây Ngon
+ 108433 : Cá Tươi Sốt Kem Kỳ Lạ
+ 108434 : Cá Tươi Sốt Kem
+ 108435 : Cá Tươi Sốt Kem Ngon
+ 108436 : Tuyển Chọn Của Đội Trưởng Kiểm Lâm
+ 108437 : Khát Khao
+ 108438 : Mora Đến Đây Nhanh
+ 108439 : Pizza Nấm Thịt Kỳ Lạ
+ 108440 : Pizza Nấm Thịt
+ 108441 : Pizza Nấm Thịt Ngon
+ 108442 : Trà Nhật Lạc Kỳ Lạ
+ 108443 : Trà Nhật Lạc
+ 108444 : Trà Nhật Lạc Ngon
+ 108445 : Tháp Nấm Sữa Giòn Kỳ Lạ
+ 108446 : Tháp Nấm Sữa Giòn
+ 108447 : Tháp Nấm Sữa Giòn Ngon
+ 108448 : Bánh Ajilenakh Nướng Kỳ Lạ
+ 108449 : Bánh Ajilenakh Nướng
+ 108450 : Bánh Ajilenakh Nướng Ngon
+ 108451 : Baklava Kỳ Lạ
+ 108452 : Baklava
+ 108453 : Baklava Ngon
+ 108454 : Ajilenakh Ngào Đường Kỳ Lạ
+ 108455 : Ajilenakh Ngào Đường
+ 108456 : Ajilenakh Ngào Đường Ngon
+ 108457 : Pudding Padisarah Kỳ Lạ
+ 108458 : Pudding Padisarah
+ 108459 : Pudding Padisarah Ngon
+ 108460 : Cơm Trộn Aaru Kỳ Lạ
+ 108461 : Cơm Trộn Aaru
+ 108462 : Cơm Trộn Aaru Ngon
+ 108463 : Hương Vị Lễ Hội Kỳ Lạ
+ 108464 : Hương Vị Lễ Hội
+ 108465 : Hương Vị Lễ Hội Ngon
+ 108466 : Vũ Điệu Quay Cuồng
+ 108467 : Linh Hồn Quyết Đấu
+ 108468 : Chăm Sóc Tận Tình
+ 108469 : Nước Trái Cây Sủi Bọt
  109000 : Đạo Cụ Công Thức
  109101 : Công Thức: Xiên Thịt Gà Nấm
  109102 : Công Thức: Bánh Người Cá
@@ -6383,30 +6382,30 @@ setFetterLevel : Sets your fetter level for your current active character
  109490 : Công Thức: Mì Udon
  109491 : Công Thức: Sandwich Katsu
  109492 : Công Thức: Tử Uyển Cầu Vồng
- 109493 : [EN] - Recipe: Butter Chicken
- 109494 : [EN] - Recipe: Shawarma Wrap
- 109495 : [EN] - Recipe: Selva Salad
- 109496 : [EN] - Recipe: Masala Cheese Balls
- 109497 : [EN] - Recipe: Mushroom Hodgepodge
- 109498 : [EN] - Recipe: Pita Pocket
- 109499 : [EN] - Recipe: Panipuri
- 109500 : [EN] - Recipe: Minty Bean Soup
- 109501 : [EN] - Recipe: Biryani
- 109502 : [EN] - Recipe: Tahchin
- 109503 : [EN] - Recipe: Lambad Fish Roll
- 109504 : [EN] - Recipe: Curry Shrimp
- 109505 : [EN] - Recipe: Tandoori Roast Chicken
- 109506 : [EN] - Recipe: Potato Boat
- 109507 : [EN] - Recipe: Fish With Cream Sauce
- 109508 : [EN] - Recipe: Meat Lovers' Mushroom Pizza
- 109509 : [EN] - Recipe: Sunset Berry Tea
- 109510 : [EN] - Recipe: Milky Mushroom Crisp Tower
- 109511 : [EN] - Recipe: Charcoal-Baked Ajilenakh Cake
- 109512 : [EN] - Recipe: Baklava
- 109513 : [EN] - Recipe: Candied Ajilenakh Nut
- 109514 : [EN] - Recipe: Padisarah Pudding
- 109515 : [EN] - Recipe: Aaru Mixed Rice
- 109516 : [EN] - ？？？
+ 109493 : Công Thức: Gà Áp Chảo
+ 109494 : Công Thức: Cuốn Shawarma
+ 109495 : Công Thức: Salad Nhiệt Đới
+ 109496 : Công Thức: Viên Phô Mai Masala
+ 109497 : Công Thức: Nấm Thập Cẩm
+ 109498 : Công Thức: Bánh Túi
+ 109499 : Công Thức: Panipuri
+ 109500 : Công Thức: Canh Đậu Bạc Hà
+ 109501 : Công Thức: Biryani
+ 109502 : Công Thức: Tahchin
+ 109503 : Công Thức: Cuốn Cá Lambad
+ 109504 : Công Thức: Tôm Cà Ri
+ 109505 : Công Thức: Gà Nướng Tandoori
+ 109506 : Công Thức: Thuyền Khoai Tây
+ 109507 : Công Thức: Cá Tươi Sốt Kem
+ 109508 : Công Thức: Pizza Nấm Thịt
+ 109509 : Công Thức: Trà Nhật Lạc
+ 109510 : Công Thức: Tháp Nấm Sữa Giòn
+ 109511 : Công Thức: Bánh Ajilenakh Nướng
+ 109512 : Công Thức: Baklava
+ 109513 : Công Thức: Ajilenakh Ngào Đường
+ 109514 : Công Thức: Pudding Padisarah
+ 109515 : Công Thức: Cơm Trộn Aaru
+ 109516 : Công Thức: Hương Vị Lễ Hội
  110000 : Sản Phẩm Ghép
  110001 : Bột Mì
  110002 : Kem
@@ -6420,14 +6419,14 @@ setFetterLevel : Sets your fetter level for your current active character
  110011 : Xúc Xích
  110012 : Cá Xông Khói
  110013 : Cá Khô
- 110014 : [EN] - Spice
+ 110014 : Gia Vị
  111006 : Thuốc Chịu Nhiệt
  111007 : Thuốc Chống Ẩm
  111008 : Thuốc Chịu Lạnh
  111009 : Thuốc Kháng Phong
  111010 : Thuốc Tuyệt Duyên
  111011 : Thuốc Chống Bụi
- 111012 : Thuốc Diệt Cỏ
+ 111012 : Thuốc Thảo Dược
  111013 : Tinh Dầu Liệt Hỏa
  111014 : Tinh Dầu Kích Lưu
  111015 : Tinh Dầu Băng Giá
@@ -6443,7 +6442,7 @@ setFetterLevel : Sets your fetter level for your current active character
  111025 : Mồi Giun Giả
  111026 : Mồi Ruồi Giả
  111027 : Mồi Óng Ánh
- 111028 : [EN] - Sugardew Bait
+ 111028 : Mồi Cam Lộ
  112001 : Nguyên Chất
  112002 : Dịch Slime
  112003 : Tinh Slime
@@ -6505,18 +6504,18 @@ setFetterLevel : Sets your fetter level for your current active character
  112059 : Bào Tử Nấm Quỷ
  112060 : Bột Huỳnh Quang
  112061 : Bụi Tinh Thể
- 112062 : [EN] - Inactivated Fungal Nucleus
- 112063 : [EN] - Dormant Fungal Nucleus
- 112064 : [EN] - Robust Fungal Nucleus
- 112065 : [EN] - Faded Red Satin
- 112066 : [EN] - Trimmed Red Silk
- 112067 : [EN] - Rich Red Brocade
- 112068 : [EN] - Chaos Storage
- 112069 : [EN] - Chaos Module
- 112070 : [EN] - Chaos Bolt
- 112071 : [EN] - Damaged Prism
- 112072 : [EN] - Turbid Prism
- 112073 : [EN] - Radiant Prism
+ 112062 : Nhân Bào Nấm Đã Chết
+ 112063 : Nhân Bào Nấm Bất Động
+ 112064 : Nhân Bào Nấm Hồi Phục
+ 112065 : Băng Đỏ Phai Màu
+ 112066 : Băng Đỏ Viền Vàng
+ 112067 : Băng Đỏ Ánh Vàng
+ 112068 : Vật Chứa Hỗn Độn
+ 112069 : Mô Đun Hỗn Độn
+ 112070 : Chốt Neo Hỗn Độn
+ 112071 : Lăng Kính Hỏng Hóc
+ 112072 : Lăng Kính Vẩn Đục
+ 112073 : Lăng Kính Phát Sáng
  113001 : Hạt Giống Bão
  113002 : Lăng Kính Sấm Sét
  113003 : Lông Vũ Đông Phong
@@ -6552,10 +6551,10 @@ setFetterLevel : Sets your fetter level for your current active character
  113033 : Nước Mắt Tai Ương
  113034 : Chân Ý Vạn Kiếp
  113035 : Bánh Răng Ấn Ký
- 113036 : [EN] - Majestic Hooked Beak
- 113037 : [EN] - Thunderclap Fruitcore
- 113038 : [EN] - Perpetual Caliber
- 113039 : [EN] - Light Guiding Tetrahedron
+ 113036 : Mỏ Vua Nấm
+ 113037 : Hạt Tụ Sấm
+ 113038 : Lõi Chuyển Động Vĩnh Viễn
+ 113039 : Khối Tứ Diện Dẫn Sáng
  114001 : Ngói Vỡ Tháp Cô Vương
  114002 : Xác Tàu Tháp Cô Vương
  114003 : Mảnh Vỡ Tháp Cô Vương
@@ -6592,18 +6591,18 @@ setFetterLevel : Sets your fetter level for your current active character
  114034 : Nanh Cọp Của Gekiga
  114035 : Sừng Của Gekiga
  114036 : Con Quỷ Của Gekiga
- 114037 : [EN] - Copper Talisman of the Forest Dew
- 114038 : [EN] - Iron Talisman of the Forest Dew
- 114039 : [EN] - Silver Talisman of the Forest Dew
- 114040 : [EN] - Golden Talisman of the Forest Dew
- 114041 : [EN] - Oasis Garden's Reminiscence
- 114042 : [EN] - Oasis Garden's Kindness
- 114043 : [EN] - Oasis Garden's Mourning
- 114044 : [EN] - Oasis Garden's Truth
- 114045 : [EN] - Echo of Scorching Might
- 114046 : [EN] - Remnant Glow of Scorching Might
- 114047 : [EN] - Dream of Scorching Might
- 114048 : [EN] - Olden Days of Scorching Might
+ 114037 : Bùa Rừng Xanh Sương Đọng - Đồng
+ 114038 : Bùa Rừng Xanh Sương Đọng - Sắt
+ 114039 : Bùa Rừng Xanh Sương Đọng - Bạc
+ 114040 : Bùa Rừng Xanh Sương Đọng - Vàng
+ 114041 : Hồi Ức Vườn Hoa Ốc Đảo
+ 114042 : Ân Huệ Vườn Hoa Ốc Đảo
+ 114043 : Nỗi Buồn Vườn Hoa Ốc Đảo
+ 114044 : Chân Lý Vườn Hoa Ốc Đảo
+ 114045 : Dư Âm Của Ánh Nắng Quyền Uy
+ 114046 : Tia Sáng Của Ánh Nắng Quyền Uy
+ 114047 : Mơ Ước Của Ánh Nắng Quyền Uy
+ 114048 : Quá Khứ Của Ánh Nắng Quyền Uy
  115001 : [CHS] - (test)新手礼包
  115002 : [CHS] - (test)角色养成包一（全平台）
  115003 : [CHS] - (test)角色养成包二（IOS）
@@ -6641,7 +6640,7 @@ setFetterLevel : Sets your fetter level for your current active character
  115037 : Món Quà Của Hiệp Hội Yashiro
  115038 : Quà Trưng Bày Tinh Tế
  115039 : Quà Trưng Bày Kỳ Diệu
- 115040 : [EN] - Midlander Billet Trove
+ 115040 : Hộp Phôi Trung Địa
  116001 : Kinh Nghiệm Nhật Ký Hành Trình
  116002 : Rương Báu Nhật Ký Hành Trình
  116003 : BP chọn 1 trong 3 Test gói quà
@@ -6653,8 +6652,8 @@ setFetterLevel : Sets your fetter level for your current active character
  116009 : [CHS] - (test)BP付费高级礼包
  116010 : Hướng dẫn của Lôi Điện
  116011 : Triết Học Của Lôi Điện
- 116012 : [EN] - Guidance of the Land of Verdure
- 116013 : [EN] - Philosophies of the Land of Verdure
+ 116012 : Hướng Dẫn Của "Xanh Ngát"
+ 116013 : Triết Học Của "Xanh Ngát"
  117001 : Hộp Thánh Vật Thần Bí - Hạng 1
  117002 : Hộp Thánh Vật Thần Bí - Hạng 2
  117003 : Hộp Thánh Vật Thần Bí - Hạng 3
@@ -6662,110 +6661,125 @@ setFetterLevel : Sets your fetter level for your current active character
  117005 : Hộp Báu Thánh Di Vật - Gánh Hát Rong Và Giác Đấu Sĩ
  117006 : Hộp Thánh Vật Thần Bí - Hạng 2
  117007 : Hộp Thánh Vật Thần Bí - Hạng 1
- 117008 : [EN] - Domain Reliquary: Tier II
- 117009 : [EN] - Domain Reliquary: Tier I
+ 117008 : Hộp Thánh Vật Thần Bí - Hạng 2
+ 117009 : Hộp Thánh Vật Thần Bí - Hạng 1
  118001 : Bánh kem tặng cho Nhà Lữ Hành
  118002 : Bánh kem tặng cho Nhà Lữ Hành
  118003 : Bánh kem tặng cho Nhà Lữ Hành
  118004 : Bánh kem tặng cho Nhà Lữ Hành
- 118005 : [EN] - Cake for Traveler
- 118006 : [EN] - Cake for Traveler
- 120000 : [EN] - A Note Alrani Left for Niloofar
- 120001 : [EN] - A Research Paper by Pir Kavikavus
- 120002 : [EN] - Dried Flower
- 120003 : [EN] - Amiti Device Fragment (I)
- 120004 : [EN] - Amiti Device Fragment (II)
- 120005 : [EN] - Amiti Device Fragment (III)
- 120006 : [EN] - Jazari's Mora Purse
- 120007 : [EN] - "The Ultra Invincible" Adventure Handbook
- 120008 : [EN] - Lost Energy Block
- 120009 : [EN] - Strange Parchment
+ 118005 : Bánh Kem Tặng Cho Nhà Lữ Hành
+ 118006 : Bánh Kem Tặng Cho Nhà Lữ Hành
+ 120000 : Ghi Chú Alrani Đưa Cho Niloofar
+ 120001 : Luận Văn Của Pir Kavikavus
+ 120002 : Hoa Khô
+ 120003 : Mảnh Cơ Quan Amiti I
+ 120004 : Mảnh Cơ Quan Amiti II
+ 120005 : Mảnh Cơ Quan Amiti III
+ 120006 : Túi Mora Của Jazari
+ 120007 : Sổ Tay Mạo Hiểm "Bất Khả Chiến Bại"
+ 120008 : Khối Năng Lượng Thất Lạc
+ 120009 : Cuộn Giấy Da Kỳ Lạ
  120010 : [CHS] - (test)冒险地图
- 120011 : [EN] - Withered Kusava
- 120012 : [EN] - Gulabgir's Special Pet Snake Food
- 120013 : [EN] - Strange Bead
- 120014 : [EN] - Strange Tiny Hats
- 120015 : [EN] - Shabby Rack
- 120016 : [EN] - Javi's Dream
- 120017 : [EN] - Tattered Paper
- 120018 : [EN] - The Shepherd and the Magic Bottle
- 120019 : [EN] - The Tale of Shiruyeh and Shirin (I)
- 120020 : [EN] - The Tale of Shiruyeh and Shirin (II)
- 120021 : [EN] - The Lay of Al-Ahmar
- 120022 : [EN] - The Folio of Foliage (I)
- 120023 : [EN] - The Folio of Foliage (II)
- 120024 : [EN] - The Folio of Foliage (III)
- 120025 : [EN] - Scroll of Streaming Song (I)
- 120026 : [EN] - Scroll of Streaming Song (II)
- 120027 : [EN] - Scroll of Streaming Song (III)
- 120028 : [EN] - An Ode to Soul-Light
- 120029 : [EN] - Transparent Ruins Record (II)
- 120030 : [EN] - Transparent Ruins Record (III)
- 120031 : [EN] - A Key
- 120032 : [EN] - Unsealed Parchment
- 120033 : [EN] - Guiding Parchment
- 120034 : [EN] - Whispering Parchment
- 120035 : [EN] - Mysterious Parchment
- 120036 : [EN] - Ancient Work Log
- 120037 : [EN] - Akademiya Investigation Team's Interim Report
- 120038 : [EN] - Zandik's Note
- 120039 : [EN] - Sohreh's Note
- 120040 : [EN] - Sumeru Investigation Team's Note
- 120041 : [EN] - Dissection Records
- 120042 : [EN] - Ragged Attendance Record
- 120043 : [EN] - ？？？
- 120044 : [EN] - ？？？
- 120045 : [EN] - ？？？
- 120046 : [EN] - ？？？
- 120047 : [EN] - Medical Records
- 120048 : [EN] - Diagnostic Report
- 120049 : [EN] - Shevirme's Funds
- 120050 : [EN] - Quqing's Funds
- 120051 : [EN] - Guanchui's Funds
- 120052 : [EN] - Zakariya's Prescription for Maruf
- 120053 : [EN] - Zakariya's Prescription for Maruf
- 120054 : [EN] - Zakariya's Prescription for Maruf
+ 120011 : Kusava Khô Héo
+ 120012 : Thức Ăn Thú Cưng Rắn Của Gulabgir
+ 120013 : Hạt Châu Kỳ Lạ
+ 120014 : Nón Nhỏ Kỳ Lạ
+ 120015 : Chiếc Kệ Cũ Kỹ
+ 120016 : "Mơ Ước" Của Javi
+ 120017 : Mảnh Giấy Nát
+ 120018 : Câu Chuyện Về Mục Đồng Và Bình Ma
+ 120019 : Câu Chuyện Về Shiruyeh Và Shirin I
+ 120020 : Câu Chuyện Về Shiruyeh Và Shirin II
+ 120021 : Câu Chuyện Về Al-Ahmar
+ 120022 : Luận Kinh Cổ Xưa I
+ 120023 : Luận Kinh Cổ Xưa II
+ 120024 : Luận Kinh Cổ Xưa III
+ 120025 : Quyển Nhạc Trôi Nổi I
+ 120026 : Quyển Nhạc Trôi Nổi II
+ 120027 : Quyển Nhạc Trôi Nổi III
+ 120028 : Bài Ca Ánh Sáng
+ 120029 : Ghi Chép Của Di Tích Trong Suốt II
+ 120030 : Ghi Chép Của Di Tích Trong Suốt III
+ 120031 : Chìa Khóa Cũ Kỹ
+ 120032 : Cuộn Giấy Da Mở Niêm
+ 120033 : Cuộn Giấy Da Dẫn Đường
+ 120034 : Cuộn Giấy Da Thì Thầm
+ 120035 : Cuộn Giấy Da Thần Bí
+ 120036 : Nhật Ký Công Việc Cũ
+ 120037 : Báo Cáo Tạm Thời Của Đội Khảo Sát Giáo Viện.
+ 120038 : Nhật Ký Của Zandik
+ 120039 : Nhật Ký Của Sohreh
+ 120040 : Nhật Ký Của Đội Khảo Sát Giáo Viện
+ 120041 : Hồ Sơ Giải Phẫu
+ 120042 : Sổ Tay Chuyên Cần Rách Nát
+ 120043 : Vật Tư Mua Sắm
+ 120044 : Vật Tư Mua Sắm
+ 120045 : Vật Tư Mua Sắm
+ 120046 : Vật Tư Mua Sắm
+ 120047 : Hồ Sơ Bệnh Án
+ 120048 : Báo Cáo Chẩn Đoán
+ 120049 : Tiền Vốn Của Shevirme
+ 120050 : Tiền Vốn Của Quqing
+ 120051 : Tiền Vốn Của Guanchui
+ 120052 : Đơn Thuốc Zakariya Kê Cho Maruf
+ 120053 : Đơn Thuốc Zakariya Kê Cho Maruf
+ 120054 : Đơn Thuốc Zakariya Kê Cho Maruf
  120055 : [CHS] - （test）马鲁夫的万能药包
- 120056 : [EN] - Zakariya's Medicine for Maruf
+ 120056 : Thuốc Zakariya đưa cho Maruf
  120057 : [CHS] - （test）蕈兽孢粉
  120058 : [CHS] - （test）新鲜的须弥蔷薇
- 120059 : [EN] - An Elegantly-Written Note
+ 120059 : Sổ Tay Với Nét Chữ Ngay Ngắn
  120060 : [CHS] - （test）仙人掌凝胶
- 120061 : [EN] - Nermin's Minty Bean Soup
+ 120061 : Canh Đậu Bạc Hà Nermin Nấu
  120062 : [CHS] - （test）内尔敏做的香水
- 120063 : [EN] - Future Star
- 120065 : [EN] - Raef's Bag
- 120066 : [EN] - Nermin's Spices
- 120067 : [EN] - Keystone (I)
- 120068 : [EN] - Torn Page: A Thousand Nights (I)
- 120069 : [EN] - Torn Page: A Thousand Nights (II)
- 120070 : [EN] - Torn Page: A Thousand Nights (III)
- 120071 : [EN] - Torn Page: A Thousand Nights (IV)
- 120072 : [EN] - Torn Page: A Thousand Nights (V)
- 120073 : [EN] - Torn Page: A Thousand Nights (VI)
- 120074 : [EN] - A Thousand Nights (I)
- 120075 : [EN] - A Thousand Nights (II)
- 120076 : [EN] - A Thousand Nights (III)
- 120077 : [EN] - A Thousand Nights (IV)
- 120078 : [EN] - A Thousand Nights (V)
- 120079 : [EN] - A Thousand Nights (VI)
- 120080 : [EN] - Samer's Missive
- 120081 : [EN] - Samer's Missive
- 120082 : [EN] - Shevirme's Invoice
- 120083 : [EN] - Quqing's Invoice
- 120084 : [EN] - Guanchui's Invoice
- 120113 : [EN] - ？？？
- 120114 : [EN] - ？？？
- 120115 : [EN] - ？？？
- 120116 : [EN] - ？？？
- 120117 : [EN] - Keystone (II)
- 120118 : [EN] - Azalai's Payment
- 120119 : [EN] - Rama's Receipt
- 120120 : [EN] - Butrus' Receipt
- 120121 : [EN] - Jut's Receipt
- 120122 : [EN] - Jahangir's Receipt
- 120123 : [EN] - ？？？
+ 120063 : Sao Tương Lai
+ 120065 : Túi Của Raef
+ 120066 : Gia Vị Của Nermin
+ 120067 : Đá Chìa Khóa I
+ 120068 : Mảnh Câu Chuyện Ngàn Đêm I
+ 120069 : Mảnh Câu Chuyện Ngàn Đêm II
+ 120070 : Mảnh Câu Chuyện Ngàn Đêm III
+ 120071 : Mảnh Câu Chuyện Ngàn Đêm IV
+ 120072 : Mảnh Câu Chuyện Ngàn Đêm V
+ 120073 : Mảnh Câu Chuyện Ngàn Đêm VI
+ 120074 : Câu Chuyện Ngàn Đêm I
+ 120075 : Câu Chuyện Ngàn Đêm II
+ 120076 : Câu Chuyện Ngàn Đêm III
+ 120077 : Câu Chuyện Ngàn Đêm IV
+ 120078 : Câu Chuyện Ngàn Đêm V
+ 120079 : Câu Chuyện Ngàn Đêm VI
+ 120080 : Tin Nhắn Của Samail
+ 120081 : Tin Nhắn Của Samail
+ 120082 : Hóa Đơn Đặt Hàng Của Shevirme
+ 120083 : Hóa Đơn Đặt Hàng Của Quqing
+ 120084 : Hóa Đơn Đặt Hàng Của Guanchui
+ 120113 : Thư Giới Thiệu Của Cyno
+ 120114 : Bản Đồ Cổ
+ 120115 : Thông Tin Đấu Giá
+ 120116 : Tài Liệu Mật Của Sảnh Đường Phiền Muộn
+ 120117 : Đá Chìa Khóa II
+ 120118 : Tiền Hàng Của Azalai
+ 120119 : Biên Nhận Của Rama
+ 120120 : Biên Nhận Của Butrus
+ 120121 : Biên Nhận Của Jut
+ 120122 : Biên Nhận Của Jahangir
+ 120123 : Túi Du Lịch Sa Mạc Đặc Biệt Phiên Bản Giới Hạn
  120125 : [CHS] - （test）赛芭的蔷薇
+ 120126 : Bức Thư Ngắn
+ 120128 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120129 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120130 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120131 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120132 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120133 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120134 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120135 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120136 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120137 : Dòng Chữ Mơ Hồ Có Thể Đọc
+ 120138 : Báo Cáo Của Đội Điều Tra Giáo Viện
+ 120139 : Báo Cáo Của Đội Điều Tra Giáo Viện
+ 120140 : Sắc Lệnh Niêm Phong
+ 120141 : Sắc Lệnh Cổ
  130001 : Hạt giống Hoa Nghê Thường
  130002 : Hạt giống Hoa Ngọt
  130003 : Hạt giống hoa Cecilia
@@ -6790,9 +6804,9 @@ setFetterLevel : Sets your fetter level for your current active character
  130022 : Hạt giống "Hoa Mộng Mơ - Sao Hibiscus"
  130023 : Hạt giống "Hoa Mộng Mơ - Chuông Hải Đường"
  130024 : Hạt giống "Hoa Mộng Mơ - Quả Gấm"
- 130025 : [EN] - Harra Fruit Seed
- 130026 : [EN] - Zaytun Peach Seed
- 130027 : [EN] - Sumeru Rose Seed
+ 130025 : Hạt Giống Quả Harra
+ 130026 : Hạt Giống Đào Zaytun
+ 130027 : Hạt Giống Tường Vi Sumeru
  131000 : Cá Khổng Tước
  131001 : Cá Khổng Tước Lưu Ly
  131002 : Cá Khổng Tước Ngọt
@@ -6815,12 +6829,12 @@ setFetterLevel : Sets your fetter level for your current active character
  131020 : Cá Pháo Cay Đắng
  131021 : Cá Đuối Divda
  131022 : Cá Đuối Formalo
- 131023 : [EN] - True Fruit Angler
- 131024 : [EN] - Peach of the Deep Waves
- 131025 : [EN] - Sandstorm Angler
- 131026 : [EN] - Sunset Cloud Angler
- 131027 : [EN] - Lazurite Axe Marlin
- 131028 : [EN] - Halcyon Jade Axe Marlin
+ 131023 : Cá Nóc Trái Cây
+ 131024 : Cá Nóc Trái Đào
+ 131025 : Cá Nóc Bão Cát
+ 131026 : Cá Nóc Mây Mù
+ 131027 : Cá Rìu Lam Ngọc
+ 131028 : Cá Rìu Bích Ngọc
  140001 : Đôi Cánh Sơ Khai
  140002 : Đôi Cánh Bảo Vệ
  140003 : Đôi Cánh Giáng Lâm
@@ -6830,7 +6844,7 @@ setFetterLevel : Sets your fetter level for your current active character
  140007 : Đôi Cánh Dạ Yến
  140008 : Cánh Cưỡi Sấm
  140009 : Cánh Rực Rỡ
- 140010 : [EN] - Wings of the Forest
+ 140010 : Cánh Rừng Hoa
  141001 : Ngọc Thạch Âm Vang 1
  141002 : Ngọc Thạch Âm Vang 2
  141003 : Ngọc Thạch Âm Vang 3
@@ -6903,21 +6917,21 @@ setFetterLevel : Sets your fetter level for your current active character
  141070 : Ngọc Thạch Âm Vang 70
  141071 : Ngọc Thạch Âm Vang 71
  141072 : Ngọc Thạch Âm Vang 72
- 141073 : [EN] - Radiant Spincrystal 73
- 141074 : [EN] - Radiant Spincrystal 74
- 141075 : [EN] - Radiant Spincrystal 75
- 141076 : [EN] - Radiant Spincrystal 76
- 141077 : [EN] - Radiant Spincrystal 77
- 141078 : [EN] - Radiant Spincrystal 78
- 141079 : [EN] - Radiant Spincrystal 79
- 141080 : [EN] - Radiant Spincrystal 80
- 141081 : [EN] - Radiant Spincrystal 81
- 141082 : [EN] - Radiant Spincrystal 82
- 141083 : [EN] - Radiant Spincrystal 83
- 141084 : [EN] - Radiant Spincrystal 84
- 141085 : [EN] - Radiant Spincrystal 85
- 141086 : [EN] - Radiant Spincrystal 86
- 141087 : [EN] - Radiant Spincrystal 87
+ 141073 : Ngọc Thạch Âm Vang 73
+ 141074 : Ngọc Thạch Âm Vang 74
+ 141075 : Ngọc Thạch Âm Vang 75
+ 141076 : Ngọc Thạch Âm Vang 76
+ 141077 : Ngọc Thạch Âm Vang 77
+ 141078 : Ngọc Thạch Âm Vang 78
+ 141079 : Ngọc Thạch Âm Vang 79
+ 141080 : Ngọc Thạch Âm Vang 80
+ 141081 : Ngọc Thạch Âm Vang 81
+ 141082 : Ngọc Thạch Âm Vang 82
+ 141083 : Ngọc Thạch Âm Vang 83
+ 141084 : Ngọc Thạch Âm Vang 84
+ 141085 : Ngọc Thạch Âm Vang 85
+ 141086 : Ngọc Thạch Âm Vang 86
+ 141087 : Ngọc Thạch Âm Vang 87
  200001 : Giấy Đèn
  200002 : Dây Tâm Đèn
  200003 : Mảnh Phù Sinh Thạch
@@ -6932,8 +6946,8 @@ setFetterLevel : Sets your fetter level for your current active character
  200108 : Alkahest
  200109 : Dầu Cá Thị Lực
  200110 : Bảo Châu Hoàng Hôn
- 200111 : [EN] - Original Fish Ointment
- 200112 : [EN] - Plume of the Changing Winds
+ 200111 : Dầu Cá Biển Cả
+ 200112 : Lông Vũ Chuyển Gió
  200201 : Vũ Điệu Chim Ưng
  200202 : Cánh Thép
  200203 : Suối Nguồn Của Gió
@@ -7001,7 +7015,7 @@ setFetterLevel : Sets your fetter level for your current active character
  200902 : Cần Câu Cầu Nguyện
  200903 : Narukawa Ukai
  200904 : Kẻ Trói Trăng
- 200905 : [EN] - Serendipity
+ 200905 : Tùy Duyên
  210001 : Nguyên Thần - Ấn Tượng
  210002 : Nhật Ký Hành Trình Của Gió
  210003 : Amber - Con Thỏ
@@ -7121,22 +7135,22 @@ setFetterLevel : Sets your fetter level for your current active character
  210121 : Nhật Ký Hành Trình - Thiên Mệnh
  210122 : Shikanoin Heizou - Temari
  210123 : Nhật Ký Hành Trình - Biển Xanh
- 210124 : [EN] - Tighnari: Dew-Kissed
- 210125 : [EN] - Collei: Good Virtue
- 210126 : [EN] - Dori: Jinni
- 210127 : [EN] - Travel Notes: Woodlands
- 210128 : [EN] - Achievement: Roaming
- 210129 : [EN] - Achievement: Fated Encounter
- 210130 : [EN] - Sumeru: Shimmering Woods
- 210131 : [EN] - Sumeru: Observance
- 210132 : [EN] - Sumeru: Unsullied
- 210133 : [EN] - Travel Notes: Returning Winds
- 210134 : [EN] - ？？？
- 210135 : [EN] - ？？？
- 210136 : [EN] - ？？？
- 210137 : [EN] - Achievement: Seven Lights
- 210138 : [EN] - Sumeru: Sandtreader
- 210139 : [EN] - Achievement: Mirrored Dreams
+ 210124 : Tighnari - Mộc Lộ
+ 210125 : Collei - Quân Tử
+ 210126 : Dori - Đèn Thần
+ 210127 : Nhật Ký Hành Trình - Rừng Sâu
+ 210128 : Thành tựu - Dạo Bước
+ 210129 : Thành tựu - Hữu Duyên
+ 210130 : Sumeru - Tiên Cảnh
+ 210131 : Sumeru - Chiếu Rọi
+ 210132 : Sumeru - Quang Minh
+ 210133 : Nhật Ký Hành Trình Gió Về
+ 210134 : Cyno - Yên Lặng
+ 210135 : Candace - Vạc Trời
+ 210136 : Nilou - Vũ Điệu Hoa Sen
+ 210137 : Thành Tựu - Bảy Tia Sáng
+ 210138 : Sumeru - Giẫm Chân Lên Cát
+ 210139 : Thành Tựu - Giấc Mơ Phản Chiếu
  220001 : Đá Cộng Hưởng Phong Thần Đồng
  220002 : Đá Cộng Hưởng Nham Thần Đồng
  220003 : La Bàn Tìm Báu Vật - Nham
@@ -7186,25 +7200,25 @@ setFetterLevel : Sets your fetter level for your current active character
  220050 : [CHS] - (test)CD测试道具
  220051 : Trống Arataki Đệ Nhất
  220052 : Máy Thu Thập Nguyên Liệu
- 220053 : [EN] - "Kusava"
+ 220053 : "Kusava"
  220054 : [CHS] - （test）仇恨测试道具
- 220055 : [EN] - Aranyaka
- 220057 : [EN] - Dendroculus Resonance Stone
- 220058 : [EN] - Dendro Treasure Compass
- 220059 : [EN] - "The Boon of the Elder Tree"
- 220060 : [EN] - Ultra-Hot Burner Lamp Test Model
- 220061 : [EN] - Treasure-Seeking Seelie
- 220062 : [EN] - Mini Seelie: Moss
- 220063 : [EN] - Exquisite Kamera
- 220064 : [EN] - Banu's Wisdom
- 220065 : [EN] - Fishing Line Stabilizer
- 220066 : [EN] - Vintage Lyre
- 220067 : [EN] - ？？？
+ 220055 : Aranyaka
+ 220057 : Đá Cộng Hưởng Thảo Thần Đồng
+ 220058 : La Bàn Tìm Báu Vật - Thảo
+ 220059 : "Phù Hộ Của Cây Vua"
+ 220060 : Đèn Đốt Dạng Thí Nghiệm
+ 220061 : Tiên Linh Tầm Bảo
+ 220062 : Tiên Linh Nhỏ Bé - Xanh Rêu
+ 220063 : Máy Ảnh Tinh Tế
+ 220064 : Trí Tuệ Của Banu
+ 220065 : Máy Ổn Định Dây Câu
+ 220066 : Đàn Cổ
+ 220067 : Pháo Kéo Nảy Nảy
  220068 : [CHS] - (test)赤沙石板
- 220069 : [EN] - Scarlet Sand Slate
- 220070 : [EN] - "Bubbly Kamera"
- 220071 : [EN] - "Kusava"
- 220074 : [EN] - ？？？
+ 220069 : Phiến Đá Cát Đỏ
+ 220070 : "Máy Ảnh Bọt Nước Trong Vắt"
+ 220071 : "Kusava"
+ 220074 : Cơ Quan Giấy Lụa - Lưu Vân
  221001 : Giải Thích: Đá Cộng Hưởng Phong Thần Đồng
  221002 : Giải Thích: Đá Cộng Hưởng Nham Thần Đồng
  221003 : Bản Vẽ: La Bàn Tìm Báu Vật Nham
@@ -7223,20 +7237,20 @@ setFetterLevel : Sets your fetter level for your current active character
  221016 : Bản Vẽ: Cung Trừ Ma
  221017 : Bản vẽ: Bình Phát Nhiệt
  221018 : Mặt Nạ Đầy Ký Ức
- 221019 : [EN] - Tale of the Forest King
- 221020 : [EN] - Tale of the Desert
- 221021 : [EN] - Tale of the King's Squire
- 221022 : [EN] - Tale of the Moonlight
- 221023 : [EN] - Tale of the Portent
+ 221019 : Câu Chuyện Về Vua Rừng Sâu
+ 221020 : Câu Chuyện Về Sa Mạc
+ 221021 : Câu Chuyện Về Cận Vệ Của Vua
+ 221022 : Câu Chuyện Về Mặt Trăng
+ 221023 : Câu Chuyện Về Điềm Báo
  221032 : Giải Thích: Đá Cộng Hưởng Lôi Thần Đồng
  221034 : Bản Vẽ: La Bàn Tìm Báu Vật - Lôi
  221035 : Công Thức: Mồi Lên Men
  221036 : Công Thức: Mồi Thịt Đỏ
  221037 : Công Thức: Mồi Giun Giả
  221038 : Công Thức: Mồi Ruồi Giả
- 221039 : [EN] - Formula: Sugardew Bait
- 221057 : [EN] - Instructions: Dendroculus Resonance Stone
- 221058 : [EN] - Diagram: Dendro Treasure Compass
+ 221039 : Công Thức: Mồi Cam Lộ
+ 221057 : Giải Thích: Đá Cộng Hưởng Thảo Thần Đồng
+ 221058 : Bản Vẽ: La Bàn Tìm Báu Vật - Thảo
  222001 : "Dấu Ấn Sắc Màu"
  223001 : Mây Trôi Nghìn Trùng Đón Tiếng Mưa
  223002 : Ánh Sao Tô Điểm Khắp Đêm Bạc
@@ -7352,12 +7366,17 @@ setFetterLevel : Sets your fetter level for your current active character
  360416 : Đèn Cầu Vồng - Nguyên Thần Cát Khánh
  360417 : Vạn Gia Hoa Đăng Chiếu Lãng Nguyệt
  360418 : Đèn Nham Xưởng - Nến Vực Sâu
+ 360419 : Ánh Sáng Giấc Ngủ
+ 360420 : Ánh Sáng Xanh Rờn
+ 360421 : Ánh Sáng Rừng Sâu
  361101 : Quầy Hàng Chữ L Gỗ Hoa Cực Bắc
  361102 : Kệ Hàng Gỗ Sam Đơn Giản
  361103 : Tủ Gỗ Sam Dạng Kết Hợp
  361104 : Tủ Gỗ Sam Cổ Điển
  361105 : Tủ Áo Gỗ Hoa To
  361106 : Tủ Áo Vân Vàng Gỗ Khước Sa
+ 361107 : Kệ Gỗ Sáng
+ 361108 : Bàn Tủ Sa Mạc - Hoan Nghênh
  361201 : Kệ Sách Hai Tầng Thư Viện
  361202 : Kệ Sách Gỗ Tụy Hoa Tinh Xảo
  361203 : Kệ Sách Gỗ Tụy Hoa Kinh Tế
@@ -7368,6 +7387,7 @@ setFetterLevel : Sets your fetter level for your current active character
  361208 : Tủ Đứng Gỗ Thùy Hương
  361209 : Tủ Sách Gỗ Phong - Tim Mực
  361210 : Tủ Sách Gỗ Phong - Kho Tàng Tri Thức
+ 361212 : Tủ Đứng Sa Mạc - Đồ Linh Tinh
  361301 : Bàn Thư Viện Dài
  361302 : Bàn Làm Việc Đội Kỵ Sĩ
  361303 : Bàn Họp Đội Kỵ Sĩ
@@ -7383,11 +7403,16 @@ setFetterLevel : Sets your fetter level for your current active character
  361314 : Kotatsu "Lạnh Lẽo Và Ấm Áp" Gỗ Mơ Mộng
  361315 : Bàn Trà "Sekijou" Gỗ Khổng Tước
  361316 : Bàn Dài Phòng Trà - Không Khoảng Cách
+ 361317 : Bàn Xoay Làm Gốm
+ 361318 : Bàn Dài Gỗ Sanh
  361401 : Giường Bảo Vệ Êm Ái
  361402 : Giường Giấc Mơ Bềnh Bồng
  361403 : Giường "Giấc Ngủ Anh Đào" Gỗ Mơ Mộng
  361501 : Quầy Lễ Tân Phòng Trọ Gỗ Thông
  361502 : Quầy Phòng Trà - "Toshimaru"
+ 361503 : Bệ Đá Sa Mạc - Kiên Cố
+ 361504 : Bếp Đá Sa Mạc - Ấm Áp
+ 361505 : Bàn Sa Mạc - Tận Tâm
  362101 : Sofa Êm Ái
  362102 : Chiều Tà Xanh Biếc
  362103 : "Ý Chí Kiên Định"
@@ -7414,16 +7439,33 @@ setFetterLevel : Sets your fetter level for your current active character
  362217 : "Âm Vang Vạn Dặm - Mậu Nhiễu"
  362218 : Hương Thơm Lễ Hội - "Đoàn Thuyền Ra Khơi"
  362219 : Hương Thơm Lễ Hội - "Kim Tương Ngọc Chất"
+ 362220 : Tiệc Hè Của Đầu Bếp Đặc Biệt
+ 362221 : Bình Sắc Màu - Tùng Lam
+ 362222 : Bình Sắc Màu - Xanh Lục
+ 362223 : Bình Sắc Màu - Lúa Chín
+ 362224 : Bình Thuần Khiết - Đồng
+ 362225 : Bình Thuần Khiết - Yên Hạt
+ 362226 : Bình Thuần Khiết - Giả Hoàng
+ 362227 : Bình Thuần Khiết - Đào Tông
+ 362228 : Bình Sắc Màu - Vỏ Sò
+ 362229 : Bình Sắc Màu - Đá Đen
+ 362231 : "Trong Làn Khói Mờ Ảo"
  362301 : Thảm Mondstadt - Ngọn Lửa Nhiệt Tình
  362302 : Thảm Mondstadt - Tìm Tòi Không Mệt Mỏi
  362303 : Thảm Nhà Trọ - Tiếp Đón Chu Đáo
  362304 : Thảm Đón Khách - Chăm Sóc Hài Lòng
+ 362305 : Hoa Văn Huy Hoàng
+ 362306 : Hoa Văn Bắt Mắt
+ 362307 : Hoa Văn Trầm Ấm
+ 362308 : "Hoa Văn Trang Trọng"
+ 362309 : "Hoa Văn Ô Liu"
  363101 : Đèn Treo Ánh Sáng Bất Tận
  363102 : Đèn Cao Gỗ Khước Sa Lưu Ly Đình
  363103 : Đèn Lồng Thiên Viên - Tỏa Sáng Rực Rỡ
  363104 : Đèn Bàn Với Chụp Đèn Vỏ Sò
  363105 : "Tia Sáng Vinh Quang"
  363106 : Ánh Sao Trong Vắt
+ 363107 : Đèn Sa Mạc - Ánh Sáng
  363201 : Bình Hoa - Ung Dung Nhạt Nhòa
  363202 : Chậu Cây Xanh - Gió Lộng
  363203 : Bình Hoa - Nở Rộ Đỏ Rực
@@ -7454,6 +7496,16 @@ setFetterLevel : Sets your fetter level for your current active character
  363320 : Bình Lắc - Dao Động Mạnh Mẽ
  363321 : Mặt Nạ
  363322 : Thiên Tượng Hồi Chuyển
+ 363323 : Nồi Thuốc Thơm Ngát
+ 363324 : Viparyas
+ 363325 : Cảnh Sắc Um Tùm
+ 363326 : Hình Thái Vui Vẻ
+ 363327 : "Bài Ca Trong Đá"
+ 363328 : Nhà Hát Zubayr Thu Nhỏ
+ 363329 : "Tổng Quản Mahamatra Đang Làm Việc"
+ 363330 : "Trong Chiếc Ấm Êm Dịu"
+ 363331 : "Trong Vị Ngọt Giòn Tan"
+ 363332 : "Trong Sương Mù Quanh Quẩn"
  364101 : Tranh Phong Cảnh - Quê Hương
  364102 : Tranh Phong Cảnh - Mây Trời
  364103 : Tranh Phong Cảnh - Vách Núi
@@ -7476,6 +7528,9 @@ setFetterLevel : Sets your fetter level for your current active character
  364210 : Biển Quảng Cáo Treo Tường
  364211 : Rèm Gấm
  364212 : "Cảnh Tượng Tạo Rồng Điểm Mắt"
+ 364213 : Khiên Gỗ Sanh Tròn
+ 364214 : Trang Trí Tường Sa Mạc - Hoàng Hôn
+ 364215 : Trang Trí Tường Sa Mạc - Hỏa Vũ
  364301 : Cửa Gỗ Thùy Hương
  364302 : Cửa Gỗ Sam Đội Kỵ Sĩ
  364303 : Cửa Nhà Gỗ Phong
@@ -7557,6 +7612,12 @@ setFetterLevel : Sets your fetter level for your current active character
  368149 : Yelan
  368150 : Kuki Shinobu
  368151 : Shikanoin Heizou
+ 368152 : Tighnari
+ 368153 : Collei
+ 368154 : Dori
+ 368155 : Nilou
+ 368156 : Cyno
+ 368157 : Candace
  369101 : Mèo Mắt Biếc
  369102 : Chó Bắc Địa
  369103 : Heo Rừng Hoang Dã
@@ -7614,6 +7675,17 @@ setFetterLevel : Sets your fetter level for your current active character
  369155 : Bướm San Hô
  369156 : Bọ Cát Quang
  369157 : Chồn Sóc Sét Xanh
+ 369158 : Thảo Tinh Điệp
+ 369159 : Ếch Nhiệt Đới
+ 369160 : Rồng Đất Đuôi Đỏ
+ 369161 : Heo Nấm Nhỏ
+ 369162 : Heo Nấm
+ 369163 : Chim Hoàng Hôn
+ 369164 : Cò Thánh
+ 369165 : Chồn Sóc Mặt Nạ
+ 369166 : Bọ Thánh Kim
+ 369167 : Unagi Sa Mạc
+ 369168 : Cáo Sa Mạc
  370101 : Nhà Tranh
  370102 : Kho Rơm
  370103 : Nhà Liyue - Sống Ẩn Dật
@@ -7648,6 +7720,17 @@ setFetterLevel : Sets your fetter level for your current active character
  370308 : Nồi Bách Vị
  370309 : Sạp Rau Quả - Cánh Đồng Thu Nhỏ
  370310 : Quầy hàng Ramen Gỗ Otogi
+ 370311 : Chiều Sâu Đan Dệt
+ 370312 : Kích Thước Đan Dệt
+ 370313 : Bảo Ngọc Đan Dệt
+ 370314 : Ngọt Ngào Giữa Dòng Chảy
+ 370315 : Ngọt Ngào Dưới Bóng Râm
+ 370316 : Lọ Gốm Ngọt Ngào
+ 370317 : Phố Chợ Đánh Bắt
+ 370318 : Quy Định Đánh Bắt
+ 370319 : Tận Dụng Đánh Bắt
+ 370320 : Quầy Hàng Mái Vải
+ 370321 : Quầy Đồ Nướng Di Động
  370401 : Trạm Gác Hilichurl
  370402 : Doanh Trại Thủ Lĩnh Hilichurl
  370501 : Vân Du Bích Thủy Đông
@@ -7696,6 +7779,17 @@ setFetterLevel : Sets your fetter level for your current active character
  370628 : Nhà Dân Inazuma - Ký Ức Watatsumi
  370629 : Nhà Dân Inazuma - Ngôi Nhà San Hô
  370630 : Nhà Dân Inazuma - Ngôi Nhà Sóng Gió
+ 370700 : Quầy Trưng Bày Rừng Sâu
+ 370701 : Châm Chước Của Cư Dân Rừng Sâu
+ 370702 : Ước Tính Của Cư Dân Rừng Sâu
+ 370703 : Hoài Bão Của Cư Dân Rừng Sâu
+ 370704 : Kiên Trì Của Cư Dân Rừng Sâu
+ 370705 : Ngôi Nhà Sa Mạc - Bình Dị
+ 370706 : Ngôi Nhà Sa Mạc - Hương Thơm
+ 370707 : Ngôi Nhà Sa Mạc - Hiệu Lệnh
+ 370708 : Ngôi Nhà Sa Mạc - Giấc Ngủ Ngắn
+ 370709 : Ngôi Nhà Sa Mạc - Ánh Sáng Tiềm Ẩn
+ 370710 : Ngôi Nhà Sa Mạc - Lưu Trữ
  371101 : Đài Phun Nước Hoa Và Chim
  371102 : Tháp Canh Hilichurl
  371103 : Lều Cỏ Hilichurl
@@ -7712,6 +7806,10 @@ setFetterLevel : Sets your fetter level for your current active character
  371118 : Kỳ Thạch - Phi Thăng Đằng Thực
  371119 : Cần Trục Nham Xưởng - Dời Núi
  371120 : Cần Trục Nham Xưởng - San Bằng
+ 371122 : Túp Lều Sa Mạc - Vụn Vặt
+ 371123 : Túp Lều Sa Mạc - Hỏi Chuyện
+ 371124 : Túp Lều Sa Mạc - Khô Héo
+ 371125 : Túp Lều Sa Mạc - Nghỉ Ngơi
  371201 : Tam Nhãn Thủ Tiên Bài
  371202 : Cổng Chính Trang Viên
  371203 : Chân Tường Đình Viện Khắc Hoa
@@ -7745,6 +7843,12 @@ setFetterLevel : Sets your fetter level for your current active character
  371231 : Khu Vườn Xanh Ngát - Biên Giới Của Giấc Mơ
  371232 : Khu Vườn Xanh Ngát - Hàng Rào Hoa Sao
  371233 : Khu Vườn Xanh Ngát - Mê Cung Sương Khói
+ 371234 : Cánh Cổng Ảo Mộng
+ 371235 : Đường Ranh Đánh Bắt
+ 371236 : Giới Hạn Đánh Bắt
+ 371237 : Bậc Đá Sa Mạc - Leo Núi
+ 371238 : Bức Tường Sa Mạc - Tấn Công Bất Ngờ
+ 371239 : Bức Tường Sa Mạc - Phòng Thủ Nghiêm Ngặt
  372101 : Bàn Thạch - Khước Lạp
  372102 : Bàn Thạch - Quy Âm
  372103 : Bàn Thạch - Bích Tiếu
@@ -7752,6 +7856,8 @@ setFetterLevel : Sets your fetter level for your current active character
  372105 : Bàn Thạch - Thiên Giai
  372106 : Bàn Thạch - Linh Lung
  372107 : Nền Đá - "Thời Đại May Mắn"
+ 372108 : Bàn Thạch - Khoáng Mạc
+ 372109 : Bàn Thạch - Sỏi Đá
  372201 : Phục Thanh Thạch
  372202 : Tề Thân Thạch
  372203 : Đế Đài Thạch
@@ -7779,6 +7885,8 @@ setFetterLevel : Sets your fetter level for your current active character
  372225 : Đá Tịnh Tâm
  372226 : Đá Cưỡi Sóng
  372227 : Đá Trắng Suối Nước Nóng - Nguồn Nhiệt
+ 372228 : Đá Gốm Hình Đĩa
+ 372229 : Đá Gốm Vòng Cung
  372301 : Màu Xanh Của Gió
  372302 : Dừa Trắng Ngân Câu
  372303 : Dừa Trắng Minh Sa
@@ -7860,6 +7968,26 @@ setFetterLevel : Sets your fetter level for your current active character
  372446 : Cây Phát Sáng
  372447 : Nấm Cẩm Quỳ Đản Bút
  372448 : Nấm Cẩm Quỳ Trúc Phong
+ 372449 : Nấm Đung Đưa Đỏ Rực
+ 372450 : Nấm Thẳng Đứng Sắc Nâu
+ 372451 : Nấm Vàng Ngân Hạnh
+ 372452 : Nấm Nhô Màu Cát Vàng
+ 372453 : Chiếc Lá Hình Ô
+ 372454 : Kết Cấu Dẻo Dai
+ 372455 : Như Điềm Báo Của Bình Minh
+ 372456 : Như Những Ngôi Sao Trắng Lơ Lửng
+ 372457 : Như Mảnh Vỡ Của Ánh Trăng
+ 372458 : Như Hoàng Hôn Bao Quanh
+ 372459 : Mật Ngọt Tiềm Ẩn
+ 372460 : Quả Mặn Tiềm Ẩn
+ 372461 : Sự Mát Mẻ Của Cát Nóng
+ 372462 : Cành Cây Say Ngủ
+ 372463 : Gân Lá Dẻo Dai
+ 372464 : Như Những Ngôi Sao Lấp Lánh Xa Xăm
+ 372465 : Tranh Trong Nước
+ 372466 : Lá Thư Trong Cát
+ 372467 : Như Mặt Trời Thiêu Đốt
+ 372468 : Khu Vực Cấm Chạy Nhảy
  372501 : Thửa Ruộng Phỉ Thúy
  372502 : Thửa Ruộng Phì Nhiêu
  372503 : Thửa Ruộng Trật Tự
@@ -7910,6 +8038,11 @@ setFetterLevel : Sets your fetter level for your current active character
  373139 : Trống Đoàn Kịch - Nhất Xướng Tam Thán
  373140 : Nhạc Cụ Đoàn Kịch - Trống Chiêng Tưng Bừng
  373141 : Hoa Tốc Âm - Giai Điệu Đặc Biệt
+ 373142 : Reo Hò Bội Thu
+ 373143 : Bữa Cơm Thường Ngày Của Ngư Dân
+ 373144 : Kế Hoạch Buôn Bán Của Cư Dân
+ 373145 : Nỗ Lực Của Ngư Dân
+ 373146 : Sự Nhạy Bén Của Ngư Dân
  373201 : Chậu Cây Xanh - Xanh Ngắt Mát Mẻ
  373202 : Bồn Hoa Giữ Nước
  373203 : Thùng Gỗ Chuyển Bùn Đất
@@ -7972,6 +8105,12 @@ setFetterLevel : Sets your fetter level for your current active character
  373352 : Giấc Ngủ Trên Bãi Biển Của Dodoco
  373353 : Tủ Sưu Tầm Của Dodoco
  373354 : Chiếc Ô Mát Mẻ Của Dodoco
+ 373355 : Tay Nghề Khéo Léo Của Ngư Dân
+ 373356 : Vật Không Thể Thiếu
+ 373357 : Ngọn Lửa Uy Nghi Của Lữ Đoàn
+ 373358 : Hiện Thân Của Công Kích
+ 373359 : Trụ Sắt Chặn Đường
+ 373360 : Cuộc Chinh Phục Của Lữ Đoàn
  373401 : Đèn Đường Khắc Hoa
  373402 : Đèn Đường Ngoại Ô
  373403 : Đèn Đuổi Tà - Soi Sáng Xung Quanh
@@ -7990,6 +8129,7 @@ setFetterLevel : Sets your fetter level for your current active character
  373416 : Đèn Đường "Renzou" Gỗ Khổng Tước
  373501 : Điểm Dịch Chuyển Bên Ngoài
  373601 : Hồ Linh Vân
+ 373602 : "Sóng Nước Du Ảnh"
  373701 : Kệ Cổ Điển
  373702 : Kệ Mộng Mơ
  373703 : Kệ Tao Nhã
@@ -8071,6 +8211,42 @@ setFetterLevel : Sets your fetter level for your current active character
  374026 : Mũi Người Tuyết - Cà Rốt
  374027 : Mũi Người Tuyết - Tiếp Xúc
  374028 : Mũi Người Tuyết - Bom Táo
+ 374031 : Thân Màu Gỗ - Ngả Nghiêng
+ 374032 : Thân Màu Gỗ - Ngoan Ngoãn Nghỉ Ngơi
+ 374033 : Thân Màu Gỗ - Grừ Grừ
+ 374034 : Thân Màu Gỗ - Lão Thông Thái
+ 374035 : Thân Màu Hoa - Ngả Nghiêng
+ 374036 : Thân Màu Hoa - Ngoan Ngoãn Nghỉ Ngơi
+ 374037 : Thân Màu Hoa - Grừ Grừ
+ 374038 : Thân Màu Hoa - Lão Thông Thái
+ 374039 : Thân Màu Nước - Ngả Nghiêng
+ 374040 : Thân Màu Nước - Ngoan Ngoãn Nghỉ Ngơi
+ 374041 : Thân Màu Nước - Grừ Grừ
+ 374042 : Thân Màu Nước - Lão Thông Thái
+ 374051 : Đầu Màu Gỗ - Hơ Hơ
+ 374052 : Đầu Màu Gỗ - Hi Hi
+ 374053 : Đầu Màu Gỗ - Hừ Hừ
+ 374054 : Đầu Màu Gỗ - Hu Hu
+ 374055 : Đầu Màu Hoa - Hơ Hơ
+ 374056 : Đầu Màu Hoa - Hi Hi
+ 374057 : Đầu Màu Hoa - Hừ Hừ
+ 374058 : Đầu Màu Hoa - Hu Hu
+ 374059 : Đầu Màu Nước - Hơ Hơ
+ 374060 : Đầu Màu Nước - Hi Hi
+ 374061 : Đầu Màu Nước - Hừ Hừ
+ 374062 : Đầu Màu Nước - Hu Hu
+ 374071 : Mắt Tượng Gỗ - Nghe Nè
+ 374072 : Mắt Tượng Gỗ - Xin Chào
+ 374073 : Mắt Tượng Gỗ - Bạn Nói Gì
+ 374074 : Mắt Tượng Gỗ - Không Phải Chứ
+ 374081 : Nón Tượng Gỗ - Thương Nhân
+ 374082 : Nón Tượng Gỗ - Cư Dân Rừng Rậm
+ 374083 : Nón Tượng Gỗ - Thầy Bói
+ 374084 : Nón Tượng Gỗ - Lười Biếng
+ 374085 : Nón Tượng Gỗ - Đưa Tiễn
+ 374091 : Áo Choàng Tượng Gỗ - Kiểm Lâm
+ 374092 : Áo Choàng Tượng Gỗ - Bác Học
+ 374093 : Áo Choàng Tượng Gỗ - Ca Sĩ
  374101 : Hàng Rào Trúc Sờn Cũ
  374102 : Hàng Rào Gỗ Thông
  374103 : Hàng Rào Gỗ Hilichurl
@@ -8114,6 +8290,22 @@ setFetterLevel : Sets your fetter level for your current active character
  374503 : Nền Đá - "Thần Tốc"
  374504 : Khu Vườn Xanh Ngát - Con Đường Bánh Quy
  374505 : Nền Đá - "Rộng Lớn"
+ 374700 : Quầy Hàng Từ Thiện Gió Tây Vù Vù
+ 374701 : Khung Sạp - Mâm Xôi Đỏ
+ 374702 : Khung Sạp - Bồ Công Anh Lục
+ 374703 : Khung Sạp - Hồ Rượu Trái Cây Xanh
+ 374704 : Phụ Kiện Phong Cảnh - Thêm Ngọt Vừa Phải
+ 374705 : Phụ Kiện Phong Cảnh - Quà Tặng Bất Ngờ
+ 374706 : Phụ Kiện Phong Cảnh - Hương Thơm Thanh Khiết
+ 374707 : Đồ Trang Trí Sạp - Phong Cách Trực Quan
+ 374708 : Đồ Trang Trí Sạp - Xếp Hàng Có Thứ Tự
+ 374709 : Đồ Trang Trí Sạp - Người Hầu Của Chim
+ 374710 : Đồ Trang Trí Sạp - Một Miếng Là Được
+ 374711 : Đồ Trang Trí Sạp - Một Giỏ Mùi Hương
+ 374712 : Đồ Trang Trí Sạp - Chào Mừng Quý Khách
+ 374713 : Đồ Trang Trí Trước Sạp - Mời Thưởng Thức Bữa Ăn
+ 374714 : Đồ Trang Trí Trước Sạp - Ưu Đãi Đặc Biệt
+ 374715 : Đồ Trang Trí Trước Sạp - Hương Thơm Mạnh Mẽ
  375101 : Nhà Mondstadt - Trang Viên Hướng Gió
  375103 : Biệt Phủ Inazuma - Dinh Tao Nhã
  376101 : Cơ Quan Giải Trí - Nhịp Xung Kích
@@ -8181,6 +8373,12 @@ setFetterLevel : Sets your fetter level for your current active character
  379021 : Cá Pháo Cay Đắng
  379022 : Cá Đuối Divda
  379023 : Cá Đuối Formalo
+ 379024 : Cá Nóc Trái Cây
+ 379025 : Cá Nóc Trái Đào
+ 379026 : Cá Nóc Bão Cát
+ 379027 : Cá Nóc Mây Mù
+ 379028 : Cá Rìu Lam Ngọc
+ 379029 : Cá Rìu Bích Ngọc
  380101 : Tường Cao Mặt Ngọc
  380102 : Tường Vòm Gỗ Sẫm Màu
  380103 : Tường Vòm Gỗ Phong
@@ -8207,17 +8405,17 @@ setFetterLevel : Sets your fetter level for your current active character
  380415 : Ngọn Nến Bung Tỏa - "Trong Trẻo Như Sen"
  380416 : Đèn Cầu Vồng - Nguyên Thần Cát Khánh
  380418 : Đèn Nham Xưởng - Nến Vực Sâu
- 380419 : [EN] - Slumbering Dewlight
- 380420 : [EN] - Dripping Verdant Light
- 380421 : [EN] - Deepwood Illumination
+ 380419 : Ánh Sáng Giấc Ngủ
+ 380420 : Ánh Sáng Xanh Rờn
+ 380421 : Ánh Sáng Rừng Sâu
  381101 : Quầy Hàng Chữ L Gỗ Hoa Cực Bắc
  381102 : Kệ Hàng Gỗ Sam Đơn Giản
  381103 : Tủ Gỗ Sam Dạng Kết Hợp
  381104 : Tủ Gỗ Sam Cổ Điển
  381105 : Tủ Áo Gỗ Hoa To
  381106 : Tủ Áo Vân Vàng Gỗ Khước Sa
- 381107 : [EN] - Plain Brightwood Shelf
- 381108 : [CHS] - test阿如村室内柜子1
+ 381107 : Kệ Gỗ Sáng
+ 381108 : Bàn Tủ Sa Mạc - Hoan Nghênh
  381201 : Kệ Sách Hai Tầng Thư Viện
  381202 : Kệ Sách Gỗ Tụy Hoa Tinh Xảo
  381203 : Kệ Sách Gỗ Tụy Hoa Kinh Tế
@@ -8228,7 +8426,7 @@ setFetterLevel : Sets your fetter level for your current active character
  381208 : Tủ Đứng Gỗ Thùy Hương
  381209 : Tủ Sách Gỗ Phong - Tim Mực
  381210 : Tủ Sách Gỗ Phong - Kho Tàng Tri Thức
- 381212 : [CHS] - test阿如村室内书柜1
+ 381212 : Tủ Đứng Sa Mạc - Đồ Linh Tinh
  381301 : Bàn Thư Viện Dài
  381302 : Bàn Làm Việc Đội Kỵ Sĩ
  381303 : Bàn Họp Đội Kỵ Sĩ
@@ -8244,16 +8442,16 @@ setFetterLevel : Sets your fetter level for your current active character
  381314 : Kotatsu "Lạnh Lẽo Và Ấm Áp" Gỗ Mơ Mộng
  381315 : Bàn Trà "Sekijou" Gỗ Khổng Tước
  381316 : Bàn Dài Phòng Trà - Không Khoảng Cách
- 381317 : [EN] - Brightwood Pottery Worktable
- 381318 : [CHS] - test阿如村室内桌子1
+ 381317 : Bàn Xoay Làm Gốm
+ 381318 : Bàn Dài Gỗ Sanh
  381401 : Giường Bảo Vệ Êm Ái
  381402 : Giường Giấc Mơ Bềnh Bồng
  381403 : Giường "Giấc Ngủ Anh Đào" Gỗ Mơ Mộng
  381501 : Quầy Lễ Tân Phòng Trọ Gỗ Thông
  381502 : Quầy Phòng Trà - "Toshimaru"
- 381503 : [CHS] - test阿如村室内厨台
- 381504 : [CHS] - test阿如村室内火炉1
- 381505 : [CHS] - test阿如村室内木阶梯1
+ 381503 : Bệ Đá Sa Mạc - Kiên Cố
+ 381504 : Bếp Đá Sa Mạc - Ấm Áp
+ 381505 : Bàn Sa Mạc - Tận Tâm
  382101 : Sofa Êm Ái
  382102 : Chiều Tà Xanh Biếc
  382103 : "Ý Chí Kiên Định"
@@ -8279,31 +8477,31 @@ setFetterLevel : Sets your fetter level for your current active character
  382216 : Bình Phong "Jukaku" Gỗ Mơ Mộng
  382218 : Hương Thơm Lễ Hội - "Đoàn Thuyền Ra Khơi"
  382219 : Hương Thơm Lễ Hội - "Kim Tương Ngọc Chất"
- 382221 : [EN] - Hued Vase: Cerulean
- 382222 : [EN] - Hued Vase: Malachite
- 382223 : [EN] - Hued Vase: Amber
- 382224 : [EN] - Plain Vase: Bronze
- 382225 : [EN] - Plain Vase: Tawny
- 382226 : [EN] - Plain Vase: Ocher
- 382227 : [EN] - Plain Vase: Sepia
- 382228 : [CHS] - test阿如村室内陶罐1
- 382229 : [CHS] - test阿如村室内陶罐2
- 382231 : [CHS] - test须弥室内香炉bp用
+ 382221 : Bình Sắc Màu - Tùng Lam
+ 382222 : Bình Sắc Màu - Xanh Lục
+ 382223 : Bình Sắc Màu - Lúa Chín
+ 382224 : Bình Thuần Khiết - Đồng
+ 382225 : Bình Thuần Khiết - Yên Hạt
+ 382226 : Bình Thuần Khiết - Giả Hoàng
+ 382227 : Bình Thuần Khiết - Đào Tông
+ 382228 : Bình Sắc Màu - Vỏ Sò
+ 382229 : Bình Sắc Màu - Đá Đen
+ 382231 : "Trong Làn Khói Mờ Ảo"
  382301 : Thảm Mondstadt - Ngọn Lửa Nhiệt Tình
  382302 : Thảm Mondstadt - Tìm Tòi Không Mệt Mỏi
  382303 : Thảm Nhà Trọ - Tiếp Đón Chu Đáo
  382304 : Thảm Đón Khách - Chăm Sóc Hài Lòng
- 382305 : [EN] - Glorious Emerald Tapestry
- 382306 : [EN] - Dazzling Golden Tapestry
- 382307 : [EN] - Musing Tawny Tapestry
- 382308 : [CHS] - test阿如村室内地毯1
- 382309 : [CHS] - test通用室内地毯4
+ 382305 : Hoa Văn Huy Hoàng
+ 382306 : Hoa Văn Bắt Mắt
+ 382307 : Hoa Văn Trầm Ấm
+ 382308 : "Hoa Văn Trang Trọng"
+ 382309 : "Hoa Văn Ô Liu"
  383101 : Đèn Treo Ánh Sáng Bất Tận
  383102 : Đèn Cao Gỗ Khước Sa Lưu Ly Đình
  383103 : Đèn Lồng Thiên Viên - Tỏa Sáng Rực Rỡ
  383104 : Đèn Bàn Với Chụp Đèn Vỏ Sò
  383106 : Ánh Sao Trong Vắt
- 383107 : [CHS] - test阿如村室内地灯1
+ 383107 : Đèn Sa Mạc - Ánh Sáng
  383201 : Bình Hoa - Ung Dung Nhạt Nhòa
  383202 : Chậu Cây Xanh - Gió Lộng
  383203 : Bình Hoa - Nở Rộ Đỏ Rực
@@ -8330,11 +8528,11 @@ setFetterLevel : Sets your fetter level for your current active character
  383317 : Kitsu-Kitsu Daruma "Khứu Giác Của Thần"
  383318 : Nuki-Nuki Daruma "Vua Đầu Bếp"
  383322 : Thiên Tượng Hồi Chuyển
- 383325 : [EN] - A Lush Glimpse
- 383326 : [EN] - Jubilant Posture
- 383330 : [CHS] - test阿如村室内茶具套装
- 383331 : [CHS] - test阿如村室内桌面摆件
- 383332 : [CHS] - test阿如村室内桌面香炉
+ 383325 : Cảnh Sắc Um Tùm
+ 383326 : Hình Thái Vui Vẻ
+ 383330 : "Trong Chiếc Ấm Êm Dịu"
+ 383331 : "Trong Vị Ngọt Giòn Tan"
+ 383332 : "Trong Sương Mù Quanh Quẩn"
  384101 : Tranh Phong Cảnh - Quê Hương
  384102 : Tranh Phong Cảnh - Mây Trời
  384103 : Tranh Phong Cảnh - Vách Núi
@@ -8356,9 +8554,9 @@ setFetterLevel : Sets your fetter level for your current active character
  384209 : Bảng Ghi Chép Treo Tường
  384210 : Biển Quảng Cáo Treo Tường
  384211 : Rèm Gấm
- 384213 : [CHS] - test须弥盾牌墙面挂饰
- 384214 : [CHS] - test阿如村室内墙面布帘1
- 384215 : [CHS] - test阿如村室内墙面装饰1
+ 384213 : Khiên Gỗ Sanh Tròn
+ 384214 : Trang Trí Tường Sa Mạc - Hoàng Hôn
+ 384215 : Trang Trí Tường Sa Mạc - Hỏa Vũ
  384501 : Thời Khắc Nhớ Nhung
  390101 : Nhà Tranh
  390102 : Kho Rơm
@@ -8394,17 +8592,17 @@ setFetterLevel : Sets your fetter level for your current active character
  390308 : Nồi Bách Vị
  390309 : Sạp Rau Quả - Cánh Đồng Thu Nhỏ
  390310 : Quầy Hàng Ramen Gỗ Otogi
- 390311 : [EN] - Woven Depth
- 390312 : [EN] - Woven Length
- 390313 : [EN] - Woven Fruition
- 390314 : [EN] - Sweetness in Exchange
- 390315 : [EN] - Sweetness in the Shade
- 390316 : [EN] - Sweetness in Storage
- 390317 : [EN] - Fisherman's Dealings
- 390318 : [EN] - Fisherman's Preservation Trick
- 390319 : [EN] - Fisherman's Maintenance
- 390320 : [EN] - Brightwood Grocery Stall
- 390321 : [EN] - Brightwood Kebab Cart
+ 390311 : Chiều Sâu Đan Dệt
+ 390312 : Kích Thước Đan Dệt
+ 390313 : Bảo Ngọc Đan Dệt
+ 390314 : Ngọt Ngào Giữa Dòng Chảy
+ 390315 : Ngọt Ngào Dưới Bóng Râm
+ 390316 : Lọ Gốm Ngọt Ngào
+ 390317 : Phố Chợ Đánh Bắt
+ 390318 : Quy Định Đánh Bắt
+ 390319 : Tận Dụng Đánh Bắt
+ 390320 : Quầy Hàng Mái Vải
+ 390321 : Quầy Đồ Nướng Di Động
  390401 : Trạm Gác Hilichurl
  390402 : Doanh Trại Thủ Lĩnh Hilichurl
  390501 : Vân Du Bích Thủy Đông
@@ -8453,16 +8651,16 @@ setFetterLevel : Sets your fetter level for your current active character
  390628 : Nhà Dân Inazuma - Ký Ức Watatsumi
  390629 : Nhà Dân Inazuma - Ngôi Nhà San Hô
  390630 : Nhà Dân Inazuma - Ngôi Nhà Sóng Gió
- 390701 : [EN] - Deepwood Dweller's Deliberation
- 390702 : [EN] - Deepwood Dweller's Estimation
- 390703 : [EN] - Deepwood Dweller's Lonesome
- 390704 : [EN] - Deepwood Dweller's Perseverance
- 390705 : [CHS] - test阿如村建筑1
- 390706 : [CHS] - test阿如村建筑2
- 390707 : [CHS] - test阿如村建筑3
- 390708 : [CHS] - test阿如村建筑4
- 390709 : [CHS] - test阿如村建筑5
- 390710 : [CHS] - test阿如村建筑6
+ 390701 : Châm Chước Của Cư Dân Rừng Sâu
+ 390702 : Ước Tính Của Cư Dân Rừng Sâu
+ 390703 : Hoài Bão Của Cư Dân Rừng Sâu
+ 390704 : Kiên Trì Của Cư Dân Rừng Sâu
+ 390705 : Ngôi Nhà Sa Mạc - Bình Dị
+ 390706 : Ngôi Nhà Sa Mạc - Hương Thơm
+ 390707 : Ngôi Nhà Sa Mạc - Hiệu Lệnh
+ 390708 : Ngôi Nhà Sa Mạc - Giấc Ngủ Ngắn
+ 390709 : Ngôi Nhà Sa Mạc - Ánh Sáng Tiềm Ẩn
+ 390710 : Ngôi Nhà Sa Mạc - Lưu Trữ
  391101 : Đài Phun Nước Hoa Và Chim
  391102 : Tháp Canh Hilichurl
  391103 : Lều Cỏ Hilichurl
@@ -8479,10 +8677,10 @@ setFetterLevel : Sets your fetter level for your current active character
  391118 : Kỳ Thạch - Phi Thăng Đằng Thực
  391119 : Cần Trục Nham Xưởng - Dời Núi
  391120 : Cần Trục Nham Xưởng - San Bằng
- 391122 : [CHS] - test阿如村棚子1
- 391123 : [CHS] - test阿如村棚子2
- 391124 : [CHS] - test阿如村棚子3
- 391125 : [CHS] - test阿如村棚子4
+ 391122 : Túp Lều Sa Mạc - Vụn Vặt
+ 391123 : Túp Lều Sa Mạc - Hỏi Chuyện
+ 391124 : Túp Lều Sa Mạc - Khô Héo
+ 391125 : Túp Lều Sa Mạc - Nghỉ Ngơi
  391201 : Tam Nhãn Thủ Tiên Bài
  391202 : Cổng Chính Trang Viên
  391203 : Chân Tường Đình Viện Khắc Hoa
@@ -8513,11 +8711,11 @@ setFetterLevel : Sets your fetter level for your current active character
  391228 : Tường Rào Suối Nước Nóng - Khó Vượt
  391229 : Vách Tường Suối Nước Nóng - Vững Chắc
  391230 : Cổng Suối Nước Nóng - Trốn Lạnh
- 391235 : [EN] - Fisherman's Fence
- 391236 : [EN] - "No Fishing Ahead"
- 391237 : [CHS] - test阿如村楼梯
- 391238 : [CHS] - test阿如村围墙墙体长
- 391239 : [CHS] - test阿如村围墙墙体短
+ 391235 : Đường Ranh Đánh Bắt
+ 391236 : Giới Hạn Đánh Bắt
+ 391237 : Bậc Đá Sa Mạc - Leo Núi
+ 391238 : Bức Tường Sa Mạc - Tấn Công Bất Ngờ
+ 391239 : Bức Tường Sa Mạc - Phòng Thủ Nghiêm Ngặt
  392107 : Nền Đá - "Thời Đại May Mắn"
  393101 : Rương Hàng Gỗ Sam Chất Chồng
  393102 : Thùng Rượu Gỗ Sam Xếp Ngay Ngắn
@@ -8556,11 +8754,11 @@ setFetterLevel : Sets your fetter level for your current active character
  393137 : Bếp Nhà Hàng Hạng Nặng
  393138 : Ngọn Lửa Yên Bình
  393141 : Hoa Tốc Âm - Giai Điệu Đặc Biệt
- 393142 : [EN] - Fisherman's Catch
- 393143 : [EN] - Fisherman's Delicacy
- 393144 : [EN] - Fisherman's Storage Solution
- 393145 : [EN] - Fisherman's Efforts
- 393146 : [EN] - Fisherman's Clemency
+ 393142 : Reo Hò Bội Thu
+ 393143 : Bữa Cơm Thường Ngày Của Ngư Dân
+ 393144 : Kế Hoạch Buôn Bán Của Cư Dân
+ 393145 : Nỗ Lực Của Ngư Dân
+ 393146 : Sự Nhạy Bén Của Ngư Dân
  393201 : Chậu Cây Xanh - Xanh Ngắt Mát Mẻ
  393202 : Bồn Hoa Giữ Nước
  393203 : Thùng Gỗ Chuyển Bùn Đất
@@ -8609,12 +8807,12 @@ setFetterLevel : Sets your fetter level for your current active character
  393352 : Giấc Ngủ Trên Bãi Biển Của Dodoco
  393353 : Tủ Sưu Tầm Của Dodoco
  393354 : Chiếc Ô Mát Mẻ Của Dodoco
- 393355 : [EN] - Fisherman's Craftsmanship
- 393356 : [EN] - The Essentials
- 393357 : [EN] - The Eremites' Flame of Vigor
- 393358 : [EN] - Embodiment of Warfare
- 393359 : [EN] - Steel Stopper
- 393360 : [EN] - The Eremites' Odyssey
+ 393355 : Tay Nghề Khéo Léo Của Ngư Dân
+ 393356 : Vật Không Thể Thiếu
+ 393357 : Ngọn Lửa Uy Nghi Của Lữ Đoàn
+ 393358 : Hiện Thân Của Công Kích
+ 393359 : Trụ Sắt Chặn Đường
+ 393360 : Cuộc Chinh Phục Của Lữ Đoàn
  393401 : Đèn Đường Khắc Hoa
  393402 : Đèn Đường Ngoại Ô
  393403 : Đèn Đuổi Tà - Soi Sáng Xung Quanh
@@ -8632,7 +8830,7 @@ setFetterLevel : Sets your fetter level for your current active character
  393415 : Đèn Đường Otogi - Đơn Giản
  393416 : Đèn Đường "Renzou" Gỗ Khổng Tước
  393601 : Hồ Linh Vân
- 393602 : [EN] - Shaded Clarity
+ 393602 : "Sóng Nước Du Ảnh"
  394101 : Hàng Rào Trúc Sờn Cũ
  394102 : Hàng Rào Gỗ Thông
  394103 : Hàng Rào Gỗ Hilichurl
@@ -8783,7 +8981,7 @@ setFetterLevel : Sets your fetter level for your current active character
 21011302 : Hilichurl Đạn Băng - Cường Hóa Tấn Công
 21011401 : Hilichurl Khiên Băng
 21011402 : Hilichurl Khiên Băng (Tháp Phòng)
-21011403 : [JP] - ヒルチャール·氷盾-雪山イベント
+21011403 : [EN] - Ice Shield Hilichurl Guard: Dragonspine Event
 21011501 : Hilichurl Tay Không Kỳ Lạ
 21011601 : Hilichurl Đạn Lôi
 21011602 : Hilichurl Đạn Lôi - Cường Hóa Tấn Công
@@ -8967,9 +9165,9 @@ setFetterLevel : Sets your fetter level for your current active character
 25090102 : Tướng Quân Marionette - Phân Thân Phong
 25090103 : Tướng Quân Marionette - Phân Thân Băng
 25090104 : Tướng Quân Marionette - Phân Thân Mặt Nạ
-25090201 : [JP] - 傀儡将軍-風分身（アイコン有り）
-25090301 : [JP] - 傀儡将軍-氷分身（アイコン有り）
-25090401 : [JP] - 傀儡将軍-仮面分身（アイコン有り）
+25090201 : [EN] - Marionette General: Wind Bunshin (With Icon)
+25090301 : [EN] - Marionette General: Ice Bunshin (With Icon)
+25090401 : [EN] - Marionette General: Masked Bunshin (With Icon)
 25100101 : Kairagi - Lôi
 25100102 : [N/A] 280790529
 25100201 : Kairagi - Hỏa
@@ -9023,7 +9221,7 @@ setFetterLevel : Sets your fetter level for your current active character
 25410201 : [N/A] 1223193297
 26010101 : Hoa Lừa Dối - Băng
 26010102 : Hoa Lừa Dối Băng (Sự kiện núi tuyết)
-26010103 : [JP] - 巨大トリックフラワー·氷（2.3雪山イベント）
+26010103 : [EN] - Giant Cryo Whopperflower (2.3 Dragonspine Event)
 26010104 : [N/A] 2622496017
 26010201 : Hoa Lừa Dối - Hỏa
 26010301 : Hoa Lừa Dối - Lôi
@@ -9121,7 +9319,7 @@ setFetterLevel : Sets your fetter level for your current active character
 28020403 : Shiba
 28020404 : Chó Săn Lưng Đen
 28020405 : Shiba
-28020406 : [JP] - ハスキー（犬イベント専用、カメラ距離拡大）
+28020406 : [EN] - Northland Hound (Dog Event Special, Extended LoS Range)
 28020407 : [N/A] 4246448217
 28020408 : [N/A] 279322729
 28020409 : [N/A] 3045582529
@@ -9134,7 +9332,7 @@ setFetterLevel : Sets your fetter level for your current active character
 28020506 : Mèo Cảnh Sát
 28020507 : Mèo Mun
 28020508 : Lam Bảo Thạch
-28020509 : [JP] - グレースノウ（犬イベント専用、カメラ距離拡大）
+28020509 : [EN] - Gray Snow Cat (Dog Event Special, Extended LoS Range)
 28020510 : [N/A] 4118163561
 28020511 : [N/A] 370467545
 28020512 : [N/A] 1412852081
@@ -9145,12 +9343,12 @@ setFetterLevel : Sets your fetter level for your current active character
 28020604 : Chồn Sóc Mặt Nạ
 28020605 : [N/A] 4171435641
 28020701 : Hồ Ly
-28020702 : [JP] - 狐（犬イベント専用、カメラ距離拡大）
+28020702 : [EN] - Kitsune (Dog Event Special, Extended LoS Range)
 28020801 : Bake-Danuki
 28020802 : [N/A] 2189860961
 28020803 : [N/A] 652433657
-28020901 : [JP] - 武士犬（パトロール）
-28020902 : [JP] - 武士犬（戦闘）
+28020901 : [EN] - Samurai Dog (Patrol)
+28020902 : [EN] - Samurai Dog (Combat)
 28020903 : [N/A] 467002241
 28030101 : Cò Lông Xanh
 28030102 : Ibis Tím
@@ -9286,66 +9484,66 @@ setFetterLevel : Sets your fetter level for your current active character
 28061301 : [N/A] 3469996769
 28061401 : [N/A] 2330015681
 28061402 : [N/A] 3443985385
-28210101 : [JP] - 洞天黄金ガニ
-28210102 : [JP] - 洞天太陽ガニ
-28210103 : [JP] - 洞天紺青ガニ
-28210104 : [JP] - 洞天将軍ガニ
-28210105 : [JP] - 洞天薄紅ガニ
-28210201 : [JP] - 洞天青トカゲ
-28210202 : [JP] - 洞天赤トカゲ
-28210203 : [JP] - 洞天緑トカゲ
-28210204 : [JP] - 洞天落日サンショウウオ
-28210205 : [JP] - 洞天金サンショウウオ
-28210206 : [JP] - 洞天晴天サンショウウオ
-28210207 : [JP] - 洞天髄喰いトカゲ
+28210101 : [EN] - Domestic Golden Crab
+28210102 : [EN] - Domestic Sun Crab
+28210103 : [EN] - Domestic Ocean Crab
+28210104 : [EN] - Domestic General Crab
+28210105 : [EN] - Domestic Pale Red Crab
+28210201 : [EN] - Domestic Blue Horned Lizard
+28210202 : [EN] - Domestic Red Horned Lizard
+28210203 : [EN] - Domestic Green Horned Lizard
+28210204 : [EN] - Domestic Sunset Loach
+28210205 : [EN] - Domestic Golden Loach
+28210206 : [EN] - Domestic Sunny Loach
+28210207 : [EN] - Domestic Marrow Lizard
 28210208 : [N/A] 4168682209
-28210301 : [JP] - 洞天カエル
-28210302 : [JP] - 洞天泥カエル
-28210303 : [JP] - 洞天青カエル
+28210301 : [EN] - Domestic Frog
+28210302 : [EN] - Domestic Mud Frog
+28210303 : [EN] - Domestic Blue Frog
 28210304 : [N/A] 1743923249
-28210401 : [JP] - 洞天藤紋陸ウナギ
+28210401 : [EN] - Domestic Adorned Unagi
 28210402 : [N/A] 1700882065
-28210403 : [JP] - 洞天赤鰭陸ウナギ
+28210403 : [EN] - Domestic Red-Finned Unagi
 28210404 : [N/A] 1020919801
-28220101 : [JP] - 洞天雪狐
-28220102 : [JP] - 洞天赤狐
+28220101 : [EN] - Domestic Snow Fox
+28220102 : [EN] - Domestic Crimson Fox
 28220108 : [N/A] 3596224209
-28220201 : [JP] - 洞天リス
+28220201 : [EN] - Domestic Squirrel
 28220301 : Heo Rừng Gia Viên
-28220303 : [JP] - 洞天雪のイノシシ
+28220303 : [EN] - Domestic Snowboar
 28220313 : [N/A] 2460569713
 28220314 : [N/A] 3974077529
 28220401 : Chó Bắc Địa Gia Viên
 28220402 : Chó Kiểm Lâm Gia Viên
 28220403 : Shiba Gia Viên
 28220404 : Chó Săn Lưng Đen Gia Viên
-28220501 : [CHT] - 家園藍寶石
+28220501 : [EN] - Domestic Sapphire
 28220502 : Mèo Mắt Biếc Gia Viên
-28220503 : [JP] - 洞天グレースノウ
+28220503 : [EN] - Domestic Gray Snow Cat
 28220504 : Mèo Phương Bắc Gia Viên
 28220505 : Mèo Vằn Hổ Gia Viên
 28220506 : Mèo Cảnh Sát Gia Viên
-28220601 : [JP] - 洞天雪隠れのイタチ
-28220602 : [JP] - 洞天赤尾イタチ
-28220603 : [JP] - 洞天ブーツイタチ
+28220601 : [EN] - Domestic Snow Weasel
+28220602 : [EN] - Domestic Red-Tailed Weasel
+28220603 : [EN] - Domestic Boot Weasel
 28220604 : [N/A] 3102074185
 28220605 : [N/A] 1207799537
-28220701 : [JP] - 洞天狐
-28220901 : [JP] - 洞天武士犬
+28220701 : [EN] - Domestic Kitsune
+28220901 : [EN] - Domestic Samurai Dog
 28230101 : Cò Lông Xanh Gia Viên
-28230102 : [JP] - 洞天スミレトキ
+28230102 : [EN] - Domestic Violet Ibis
 28230104 : [N/A] 811422561
-28230301 : [JP] - 洞天白鳩
-28230302 : [JP] - 洞天璃冠鳩
-28230303 : [JP] - 洞天灰羽鳩
-28230304 : [JP] - 洞天赤脇鳩
-28230305 : [JP] - 洞天黒王鳩
-28230306 : [JP] - 洞天カラス
+28230301 : [EN] - Domestic White Pigeon
+28230302 : [EN] - Domestic Brightcrown Pigeon
+28230303 : [EN] - Domestic Graywing Pigeon
+28230304 : [EN] - Domestic Crimsonflank Pigeon
+28230305 : [EN] - Domestic Black King Pigeon
+28230306 : [EN] - Domestic Crow
 28230313 : [N/A] 3724967537
-28230401 : [JP] - 洞天赤ヤマガラ
-28230402 : [JP] - 洞天金ヤマガラ
-28230403 : [JP] - 洞天雪ヤマガラ
-28230404 : [JP] - 洞天碧ヤマガラ
+28230401 : [EN] - Domestic Crimson Finch
+28230402 : [EN] - Domestic Golden Finch
+28230403 : [EN] - Domestic Snow Finch
+28230404 : [EN] - Domestic Emerald Finch
 28240201 : Cá Khổng Tước Gia Viên
 28240202 : Cá Khổng Tước Lưu Ly Gia Viên
 28240203 : Cá Khổng Tước Ngọt Gia Viên
@@ -9375,10 +9573,10 @@ setFetterLevel : Sets your fetter level for your current active character
 28240804 : [N/A] 2847515857
 28240901 : [N/A] 4288334729
 28240902 : [N/A] 2843011617
-28250101 : [JP] - 洞天風晶蝶
-28250102 : [JP] - 洞天岩晶蝶
-28250103 : [JP] - 洞天氷晶蝶
-28250104 : [JP] - 洞天雷晶蝶
+28250101 : [EN] - Domestic Anemo Crystalfly
+28250102 : [EN] - Domestic Geo Crystalfly
+28250103 : [EN] - Domestic Cryo Crystalfly
+28250104 : [EN] - Domestic Electro Crystalfly
 28250105 : [N/A] 2439255201
 28250106 : [N/A] 3343647737
 28250301 : [N/A] 2411901113
@@ -14192,7 +14390,7 @@ setFetterLevel : Sets your fetter level for your current active character
 1914102 : Cách Thức Xử Lý - Nói chuyện với Kuki Shinobu
 1914201 : Chuyến Đi Đến Đền Thần - Đến Đền Narukami xin lỗi Yae Miko
 1914301 : Luật Bang - Tìm kiếm tung tích của nhóm Mamoru
-1914302 : Luật Bang - Đến "Phòng Tắm Hơi Asia" để điều tra
+1914302 : Luật Bang - Đến "Phòng Tắm Hơi Aisa" để điều tra
 1914303 : Luật Bang - [CHS] - （test）抓捕一保底$HIDDEN
 1914304 : Luật Bang - Tìm kiếm tung tích của nhóm Genta
 1914305 : Luật Bang - Đến dưới cầu để điều tra
@@ -18783,7 +18981,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7103314 : Thơ Và Tranh Tết Hải Đăng II - Nói chuyện với Qingzhou
 7103315 : Thơ Và Tranh Tết Hải Đăng II - Treo câu đố đèn lên
 7103401 : [CHS] - (test)海灯节的诗与画之二结束隐藏逻辑$HIDDEN - [CHS] - (test)结尾隐藏逻辑$HIDDEN
-7103501 : Chuyện Sau Này - Di Tích Đồng Tước - [CHS] - 前往万民堂$HIDDEN
+7103501 : Chuyện Sau Này - Di Tích Đồng Tước - [EN] - Go to Wanmin Restaurant
 7103502 : Chuyện Sau Này - Di Tích Đồng Tước - Nói chuyện với Thầy Mao
 7103503 : Chuyện Sau Này - Di Tích Đồng Tước - Đến bái tế Đồng Tước
 7103504 : Chuyện Sau Này - Di Tích Đồng Tước - Nói chuyện với Xiao
@@ -19643,7 +19841,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7182204 : Học giả và truyền thuyết - Đi theo đường núi
 7182205 : Học giả và truyền thuyết - Đánh bại Hilichurl
 7182206 : Học giả và truyền thuyết - Nói chuyện với Soraya
-7182207 : Học giả và truyền thuyết - [EN] - Defeat the hilichurls (hidden) $HIDDEN
+7182207 : Học giả và truyền thuyết - [CHS] - 打倒丘丘人（隐藏）$HIDDEN
 7182208 : Học giả và truyền thuyết - [N/A] 201980468
 7182301 : Người ở lại cố hương - Đến bên ngoài Khinh Sách Trang quan sát
 7182302 : Người ở lại cố hương - Nói chuyện với Zhi
@@ -21361,8 +21559,8 @@ setFetterLevel : Sets your fetter level for your current active character
 7224218 : Lối Vào Tokoyo - Điều tra manh mối xung quanh
 7224219 : Lối Vào Tokoyo - [N/A] 387883828
 7224220 : Lối Vào Tokoyo - Điều tra cơ quan để mở cửa
-7224301 : [CHS] - 食莲者后续玛乔丽$HIDDEN - [CHS] - (test)找玛乔丽对话$HIDDEN
-7224302 : [CHS] - 食莲者后续玛乔丽$HIDDEN - [CHS] - (test)找玛乔丽买卖
+7224301 : [EN] - Lotus Eater Epilogue: Marjorie - [CHS] - (test)找玛乔丽对话$HIDDEN
+7224302 : [EN] - Lotus Eater Epilogue: Marjorie - [CHS] - (test)找玛乔丽买卖
 7224401 : Vũ Điệu Phaethon - [CHS] - (test)和NPC对话$HIDDEN
 7224402 : Vũ Điệu Phaethon - Dâng hiến Trân Châu San Hô cho 7 Bia Mộ Ngự Lăng
 7224403 : Vũ Điệu Phaethon - Dâng hiến Trân Châu San Hô cho 7 Bia Mộ Ngự Lăng
@@ -23773,7 +23971,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7902202 : [N/A] 0 - Tìm bức ảnh Thiếu Nữ Kính đánh mất
 7902205 : [N/A] 0 - Đưa chiếc đồng hồ có tấm ảnh bên trong cho Thiếu Nữ Kính
 7902206 : [N/A] 0 - Đi theo hướng Thiếu Nữ Kính rời khỏi để xem thử
-7902207 : [N/A] 0 - Mở cửa hang bị phong tỏa
+7902207 : [N/A] 0 - Gỡ bụi gai chặn cửa động
 7902208 : [N/A] 0 - Vào hang động nói chuyện với Agafya
 7902210 : [N/A] 0 - [N/A] 2260687964
 7902211 : [N/A] 0 - Tìm manh mối thành viên đội khác
@@ -23806,9 +24004,9 @@ setFetterLevel : Sets your fetter level for your current active character
 7902412 : [N/A] 0 - [N/A] 3657536628
 7902413 : [N/A] 0 - [N/A] 846813500
 7902414 : [N/A] 0 - [N/A] 1965281364
-7902415 : [N/A] 0 - Tiến hành điều tra trong doanh trại
-7902416 : [N/A] 0 - Tiến hành điều tra trong doanh trại
-7902417 : [N/A] 0 - Tiến hành điều tra trong doanh trại
+7902415 : [N/A] 0 - Điều tra doanh trại
+7902416 : [N/A] 0 - Điều tra doanh trại
+7902417 : [N/A] 0 - Điều tra doanh trại
 7902501 : [N/A] 0 - [CHS] - 查看狸猫的情况$HIDDEN
 7902502 : [N/A] 0 - [CHS] - 查看狸猫的情况$HIDDEN
 7902503 : [N/A] 0 - Mở "Góc Nhìn Nguyên Tố" để thu thập manh mối

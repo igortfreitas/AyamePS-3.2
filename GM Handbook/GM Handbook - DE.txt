@@ -1,5 +1,5 @@
 // Grasscutter 3.0.0 GM Handbook
-// Created 2022/09/11 14:24:49
+// Created 2022/09/27 15:23:25
 
 // Commands
        account : Modify user accounts
@@ -99,12 +99,12 @@ setFetterLevel : Sets your fetter level for your current active character
 10000064 : Yun Jin
 10000065 : Kuki Shinobu
 10000066 : Kamisato Ayato
-10000067 : [EN] - Collei
-10000068 : [EN] - Dori
-10000069 : [EN] - Tighnari
-10000070 : [EN] - Nilou
-10000071 : [EN] - Cyno
-10000072 : [EN] - Candace
+10000067 : Collei
+10000068 : Dori
+10000069 : Tighnari
+10000070 : Nilou
+10000071 : Cyno
+10000072 : Candace
 11000008 : Truppentest 4
 11000009 : Handlungsorttest
 11000010 : Nacktmodell 1
@@ -178,13 +178,13 @@ setFetterLevel : Sets your fetter level for your current active character
     140 : Mondscheinstein
     141 : Schillerndes Treibgut
     142 : Kampfstrategiesplitter
-    143 : [EN] - Creative Note
-    144 : [EN] - Whimsical Draft
-    145 : [EN] - Ancient Iron Coin
-    147 : [EN] - Festive Fever
-    148 : [EN] - Business Earnings
-    149 : [EN] - Usable Funds
-    150 : [EN] - Strategic Inspiration
+    143 : Geistreiche Notiz
+    144 : Schneller Entwurf
+    145 : Antike Eisenmünze
+    147 : Festlichkeit
+    148 : Betriebseinnahmen
+    149 : Verfügbare Finanzmittel
+    150 : Strategische Inspiration
     201 : Urgestein
     202 : Mora
     203 : Schöpfungskristall
@@ -204,7 +204,7 @@ setFetterLevel : Sets your fetter level for your current active character
     307 : Geo-Siegel
     314 : Ansehenserfahrung für Inazuma
     315 : Ansehenserfahrung für Mondstadt
-    316 : [EN] - Sumeru Reputation EXP
+    316 : Ansehens-EP für Sumeru
     317 : Ansehenserfahrung für Liyue
     911 : Erinnerung der ewigen Flammen
     912 : Erinnerung des reißenden Stroms
@@ -265,12 +265,12 @@ setFetterLevel : Sets your fetter level for your current active character
    1064 : Yun Jin
    1065 : Kuki Shinobu
    1066 : Kamisato Ayato
-   1067 : [EN] - Collei
-   1068 : [EN] - Dori
-   1069 : [EN] - Tighnari
-   1070 : [EN] - Nilou
-   1071 : [EN] - Cyno
-   1072 : [EN] - Candace
+   1067 : Collei
+   1068 : Dori
+   1069 : Tighnari
+   1070 : Nilou
+   1071 : Cyno
+   1072 : Candace
    1102 : Stella Fortuna von Kamisato Ayaka
    1103 : Stella Fortuna von Jean
    1105 : Stella Fortuna des Reisenden
@@ -323,12 +323,12 @@ setFetterLevel : Sets your fetter level for your current active character
    1164 : Stella Fortuna von Yun Jin
    1165 : Stella Fortuna von Kuki Shinobu
    1166 : Stella Fortuna von Kamisato Ayato
-   1167 : [EN] - Collei's Stella Fortuna
-   1168 : [EN] - Dori's Stella Fortuna
-   1169 : [EN] - Tighnari's Stella Fortuna
-   1170 : [EN] - Nilou's Stella Fortuna
-   1171 : [EN] - Cyno's Stella Fortuna
-   1172 : [EN] - Candace's Stella Fortuna
+   1167 : Stella Fortuna von Collei
+   1168 : Stella Fortuna von Dori
+   1169 : Stella Fortuna von Tighnari
+   1170 : Stella Fortuna von Nilou
+   1171 : Stella Fortuna von Cyno
+   1172 : Stella Fortuna von Candace
    1201 : Gnostiker-Erlebnispass – Erste Aufzeichnungen
    1202 : Mondsegen – Neumond
    2001 : Elementarenergiekugel (Pyro)
@@ -405,8 +405,8 @@ setFetterLevel : Sets your fetter level for your current active character
   11414 : Amenoma Kageuchi
   11415 : Zinnoberspindel
   11416 : Kagotsurube Isshin
-  11417 : [EN] - Sapwood Blade
-  11418 : [EN] - Xiphos' Moonlight
+  11417 : Stammklinge
+  11418 : Mondlicht von Xiphos
   11419 : Berühmtes Schwert der „Isshin-Schule“
   11420 : Berühmtes Schwert der „Isshin-Schule“
   11421 : Berühmtes Schwert der „Isshin-Schule“
@@ -420,7 +420,7 @@ setFetterLevel : Sets your fetter level for your current active character
   11508 : [N/A] 1664039091
   11509 : Widerschein des Nebelsplitters
   11510 : Haran Geppaku Futsu
-  11511 : [EN] - Key of Hierophany
+  11511 : Khaj-Nisut-Schlüssel
   12101 : Übungsgroßschwert
   12201 : Söldnerzweihänder
   12301 : Eiserner Schatten
@@ -442,9 +442,9 @@ setFetterLevel : Sets your fetter level for your current active character
   12411 : Unter Schnee begrabenes Sternsilber
   12412 : Luxuriöser Seekönig
   12414 : Katsuragikiri Nagamasa
-  12415 : [EN] - Mahara Aquamarine
+  12415 : Makhaira-Aquamarin
   12416 : Akuoumaru
-  12417 : [EN] - Forest Regalia
+  12417 : Waldkönigsschwert
   12501 : Stolz des Himmels
   12502 : Wolfsgrab
   12503 : Kiefernklang
@@ -472,8 +472,8 @@ setFetterLevel : Sets your fetter level for your current active character
   13414 : Kitain-Kreuzlanze
   13415 : „Der Fang“
   13416 : Wellenbrecherflosse
-  13417 : [EN] - Moonpiercer
-  13419 : [EN] - Shifting Windblade
+  13417 : Monddurchbohrer
+  13419 : Spitze der klingenden Winde
   13501 : Homa-Stab
   13502 : Himmelsgrat
   13503 : [N/A] 469555475
@@ -482,7 +482,7 @@ setFetterLevel : Sets your fetter level for your current active character
   13506 : Göttermörder
   13507 : Ende des Unheils
   13509 : Grasschnittstrahl
-  13511 : [EN] - Staff of the Scarlet Sands
+  13511 : Stab der roten Sande
   14101 : Aufzeichnungen eines Lehrlings
   14201 : Taschenzauberbuch
   14301 : Magieführer
@@ -506,8 +506,8 @@ setFetterLevel : Sets your fetter level for your current active character
   14413 : Dodoco-Geschichten
   14414 : Hakushin-Ring
   14415 : Auge des Gelöbnisses
-  14416 : [EN] - Wandering Evenstar
-  14417 : [EN] - Fruit of Fulfillment
+  14416 : Wandernder Abendstern
+  14417 : Vollmondfrucht
   14501 : Himmelsatlas
   14502 : Gebete der Vier Winde
   14503 : Ballade des Verlusts
@@ -540,8 +540,8 @@ setFetterLevel : Sets your fetter level for your current active character
   15414 : Hamayumi
   15415 : Raubtier
   15416 : Mouun-Mond
-  15417 : [EN] - King's Squire
-  15418 : [EN] - End of the Line
+  15417 : Gefolgsfrau des Königs
+  15418 : Schwertfischer
   15501 : Himmelsflügel
   15502 : Amos’ Bogen
   15503 : Letzter Seufzer
@@ -551,50 +551,50 @@ setFetterLevel : Sets your fetter level for your current active character
   15507 : Polarstern
   15508 : Aqua Simulacra
   15509 : Donnerpuls
-  15511 : [EN] - Hunter's Path
+  15511 : Pfad des Jägers
   20001 : [CHS] - (test)竿测试
   20002 : Novizenfeder
   20004 : Novizenblume
-  20412 : [EN] - Lamp of the Lost
-  20413 : [EN] - Lamp of the Lost
-  20422 : [EN] - Scholar of Vines
-  20423 : [EN] - Scholar of Vines
-  20432 : [EN] - Laurel Coronet
-  20433 : [EN] - Laurel Coronet
-  20442 : [EN] - Labyrinth Wayfarer
-  20443 : [EN] - Labyrinth Wayfarer
-  20452 : [EN] - A Time of Insight
-  20453 : [EN] - A Time of Insight
-  20513 : [EN] - Lamp of the Lost
-  20514 : [EN] - Lamp of the Lost
-  20523 : [EN] - Scholar of Vines
-  20524 : [EN] - Scholar of Vines
-  20533 : [EN] - Laurel Coronet
-  20534 : [EN] - Laurel Coronet
-  20543 : [EN] - Labyrinth Wayfarer
-  20544 : [EN] - Labyrinth Wayfarer
-  20553 : [EN] - A Time of Insight
-  20554 : [EN] - A Time of Insight
-  21412 : [EN] - Honeyed Final Feast
-  21413 : [EN] - Honeyed Final Feast
-  21422 : [EN] - Feather of Judgment
-  21423 : [EN] - Feather of Judgment
-  21432 : [EN] - Shadow of the Sand King
-  21433 : [EN] - Shadow of the Sand King
-  21442 : [EN] - Dreaming Steelbloom
-  21443 : [EN] - Dreaming Steelbloom
-  21452 : [EN] - The Sunken Years
-  21453 : [EN] - The Sunken Years
-  21513 : [EN] - Honeyed Final Feast
-  21514 : [EN] - Honeyed Final Feast
-  21523 : [EN] - Feather of Judgment
-  21524 : [EN] - Feather of Judgment
-  21533 : [EN] - Shadow of the Sand King
-  21534 : [EN] - Shadow of the Sand King
-  21543 : [EN] - Dreaming Steelbloom
-  21544 : [EN] - Dreaming Steelbloom
-  21553 : [EN] - The Sunken Years
-  21554 : [EN] - The Sunken Years
+  20412 : Lampe des Verirrten
+  20413 : Lampe des Verirrten
+  20422 : Weiser des Dickichts
+  20423 : Weiser des Dickichts
+  20432 : Unschätzbarer Lorbeerkranz
+  20433 : Unschätzbarer Lorbeerkranz
+  20442 : Besucher des Labyrinths
+  20443 : Besucher des Labyrinths
+  20452 : Zeitmesser der Weisheit
+  20453 : Zeitmesser der Weisheit
+  20513 : Lampe des Verirrten
+  20514 : Lampe des Verirrten
+  20523 : Weiser des Dickichts
+  20524 : Weiser des Dickichts
+  20533 : Unschätzbarer Lorbeerkranz
+  20534 : Unschätzbarer Lorbeerkranz
+  20543 : Besucher des Labyrinths
+  20544 : Besucher des Labyrinths
+  20553 : Zeitmesser der Weisheit
+  20554 : Zeitmesser der Weisheit
+  21412 : Honigsüßes Abschlussfest
+  21413 : Honigsüßes Abschlussfest
+  21422 : Feder des Urteils
+  21423 : Feder des Urteils
+  21432 : Schatten des Sandkönigs
+  21433 : Schatten des Sandkönigs
+  21442 : Metallblüte im Traum
+  21443 : Metallblüte im Traum
+  21452 : Goldene Jahre
+  21453 : Goldene Jahre
+  21513 : Honigsüßes Abschlussfest
+  21514 : Honigsüßes Abschlussfest
+  21523 : Feder des Urteils
+  21524 : Feder des Urteils
+  21533 : Schatten des Sandkönigs
+  21534 : Schatten des Sandkönigs
+  21543 : Metallblüte im Traum
+  21544 : Metallblüte im Traum
+  21553 : Goldene Jahre
+  21554 : Goldene Jahre
   23300 : [CHS] - 移动速度百分比
   23301 : [CHS] - 火元素伤害加成
   23302 : [CHS] - 电元素伤害加成
@@ -903,26 +903,26 @@ setFetterLevel : Sets your fetter level for your current active character
   23618 : Ring der Strömung
   23619 : Blüte des Seelendufts
   23620 : Zeichen des Rituals
-  23621 : [EN] - Lamp of the Lost
-  23622 : [EN] - Scholar of Vines
-  23623 : [EN] - Laurel Coronet
-  23624 : [EN] - Labyrinth Wayfarer
-  23625 : [EN] - A Time of Insight
-  23626 : [EN] - Lamp of the Lost
-  23627 : [EN] - Scholar of Vines
-  23628 : [EN] - Laurel Coronet
-  23629 : [EN] - Labyrinth Wayfarer
-  23630 : [EN] - A Time of Insight
-  23631 : [EN] - Honeyed Final Feast
-  23632 : [EN] - Feather of Judgment
-  23633 : [EN] - Shadow of the Sand King
-  23634 : [EN] - Dreaming Steelbloom
-  23635 : [EN] - The Sunken Years
-  23636 : [EN] - Honeyed Final Feast
-  23637 : [EN] - Feather of Judgment
-  23638 : [EN] - Shadow of the Sand King
-  23639 : [EN] - Dreaming Steelbloom
-  23640 : [EN] - The Sunken Years
+  23621 : Lampe des Verirrten
+  23622 : Weiser des Dickichts
+  23623 : Unschätzbarer Lorbeerkranz
+  23624 : Besucher des Labyrinths
+  23625 : Zeitmesser der Weisheit
+  23626 : Lampe des Verirrten
+  23627 : Weiser des Dickichts
+  23628 : Unschätzbarer Lorbeerkranz
+  23629 : Besucher des Labyrinths
+  23630 : Zeitmesser der Weisheit
+  23631 : Honigsüßes Abschlussfest
+  23632 : Feder des Urteils
+  23633 : Schatten des Sandkönigs
+  23634 : Metallblüte im Traum
+  23635 : Goldene Jahre
+  23636 : Honigsüßes Abschlussfest
+  23637 : Feder des Urteils
+  23638 : Schatten des Sandkönigs
+  23639 : Metallblüte im Traum
+  23640 : Goldene Jahre
   24101 : Rausch des Gladiators
   24102 : Zuflucht des Gladiators
   24103 : Verzierter Helm
@@ -4312,7 +4312,7 @@ setFetterLevel : Sets your fetter level for your current active character
  100093 : Garnelenfleisch
  100094 : „Kaltes Gourmetfleisch“
  100095 : Unagi-Fleisch
- 100096 : [EN] - Glabrous Beans
+ 100096 : Kahle Bohnen
  100101 : Jeans Unterlagen
  100102 : Eine weite Flucht
  100103 : Unvollständiges Notenheft (Teil 1)
@@ -4566,7 +4566,7 @@ setFetterLevel : Sets your fetter level for your current active character
  100423 : [CHS] - (test)畅畅的日记3
  100424 : [CHS] - (test)旅行家的日记3
  100425 : [CHS] - (test)海盗的传说3
- 100426 : Yakshas, die schützenden Adepten
+ 100426 : Yaksha, die schützenden Adepten
  100427 : Bezwingersiegel
  100428 : Spezialmandeltofu
  100429 : Verlorenes Paket
@@ -5099,7 +5099,7 @@ setFetterLevel : Sets your fetter level for your current active character
  100963 : Felssäulenschutzstein (Jakotsu-Mine)
  100964 : Felssäulenperle (Mumei-Festung)
  100965 : Felssäulenschutzstein (Mumei-Festung)
- 100966 : Samen vom Naku-Kraut
+ 100966 : Naku-Kraut-Samen
  100967 : Hochwertiges kaltes Gourmetfleisch
  100968 : Kochendheißer Fleischeintopf
  100969 : Familienbrief
@@ -5152,11 +5152,11 @@ setFetterLevel : Sets your fetter level for your current active character
  101108 : Zweihänder des Nordens
  101109 : Katalysator des Nordens
  101110 : Stangenwaffe des Nordens
- 101111 : [EN] - Midlander Sword Billet
- 101112 : [EN] - Midlander Bow Billet
- 101113 : [EN] - Midlander Claymore Billet
- 101114 : [EN] - Midlander Catalyst Billet
- 101115 : [EN] - Midlander Polearm Billet
+ 101111 : Unbearbeiteter Einhänder des Kernlands
+ 101112 : Unbearbeiteter Bogen des Kernlands
+ 101113 : Unbearbeiteter Zweihänder des Kernlands
+ 101114 : Unbearbeiteter Katalysator des Kernlands
+ 101115 : Unbearbeitete Stangenwaffe des Kernlands
  101201 : Onikabuto
  101202 : Sakura-Blüte
  101203 : Kristallmark
@@ -5169,19 +5169,19 @@ setFetterLevel : Sets your fetter level for your current active character
  101210 : Seegras
  101211 : Lavendelmelone
  101212 : Sternpilz
- 101213 : [EN] - Rukkhashava Mushrooms
- 101214 : [EN] - Padisarah
- 101215 : [EN] - Nilotpala Lotus
- 101216 : [EN] - Harra Fruit
- 101217 : [EN] - Kalpalata Lotus
- 101218 : [EN] - Zaytun Peach
- 101219 : [EN] - Sumeru Rose
- 101220 : [EN] - Redcrest
- 101221 : [EN] - Ajilenakh
- 101225 : [EN] - Scarab
- 101226 : [EN] - Activated Starshroom
- 101227 : [EN] - Scorched Starshroom
- 101228 : [EN] - Viparyas
+ 101213 : Rukkhashava-Pilz
+ 101214 : Padisarah
+ 101215 : Nilotpala-Lotos
+ 101216 : Harra-Frucht
+ 101217 : Kalpalata-Lotos
+ 101218 : Zaytun-Pfirsich
+ 101219 : Sumeru-Rose
+ 101220 : Rotdornfrucht
+ 101221 : Dattel
+ 101225 : Skarabäus
+ 101226 : Aktivierter Sternpilz
+ 101227 : Verbrannter Sternpilz
+ 101228 : Viparyas
  101301 : Birkenholz
  101302 : Exquisitholz
  101303 : Kiefernholz
@@ -5194,11 +5194,11 @@ setFetterLevel : Sets your fetter level for your current active character
  101310 : Ahornholz
  101311 : Aralia-Holz
  101312 : Otogi-Holz
- 101313 : [EN] - Brightwood
- 101314 : [EN] - Karmaphala Wood
- 101315 : [EN] - Adhigama Wood
- 101316 : [EN] - Mountain Date Wood
- 101317 : [EN] - Athel Wood
+ 101313 : Hellholz
+ 101314 : Karmaphala-Holz
+ 101315 : Adhigama-Holz
+ 101316 : Bergdattel-Holz
+ 101317 : Athel-Holz
  101401 : Stoff
  101402 : Rote Farbe
  101403 : Gelbe Farbe
@@ -5226,19 +5226,19 @@ setFetterLevel : Sets your fetter level for your current active character
  101521 : Frisches Goldfischkraut
  101522 : Frisches Vogelei
  101523 : Neue Chroniken der Sechs Füchse – Prolog
- 101524 : Neue Chroniken der Sechs Füchse – I
- 101525 : Neue Chroniken der Sechs Füchse – II
- 101526 : Neue Chroniken der Sechs Füchse – III
- 101527 : Neue Chroniken der Sechs Füchse – IV
+ 101524 : Neue Chroniken der Sechs Füchse I
+ 101525 : Neue Chroniken der Sechs Füchse II
+ 101526 : Neue Chroniken der Sechs Füchse III
+ 101527 : Neue Chroniken der Sechs Füchse IV
  101528 : Chroniken von Sangonomiya
  101529 : Hamavarans Kriege – Vorwort
- 101530 : Hamavarans Kriege – I
- 101531 : Hamavarans Kriege – II
- 101532 : Vom Schwert gefunden im Herbst – I
- 101533 : Vom Schwert gefunden im Herbst – II
- 101534 : Vom Schwert gefunden im Herbst – III
- 101535 : Vom Schwert gefunden im Herbst – IV
- 101536 : Vom Schwert gefunden im Herbst – V
+ 101530 : Hamavarans Kriege I
+ 101531 : Hamavarans Kriege II
+ 101532 : Vom Schwert gefunden im Herbst I
+ 101533 : Vom Schwert gefunden im Herbst II
+ 101534 : Vom Schwert gefunden im Herbst III
+ 101535 : Vom Schwert gefunden im Herbst IV
+ 101536 : Vom Schwert gefunden im Herbst V
  101537 : Anleitung zur Reinigung der heiligen Sakura
  101538 : Frischer Champignon
  101539 : Krebsköder
@@ -5282,7 +5282,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101585 : Ein vollständiger Schlüssel
  101586 : Sumidas Brief
  101587 : Neues Feuerwerksmodell
- 101588 : Neue Chroniken der Sechs Füchse – V
+ 101588 : Neue Chroniken der Sechs Füchse V
  101589 : Scheck der Bank des Nordens
  101590 : Total unleserliche Schatzkarte
  101591 : Kiminami Annas „belebende Katzenmahlzeit“
@@ -5455,7 +5455,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101763 : [CHS] - (test)方碑解谜笔记文本·其五
  101764 : Skript für „Rummelreise in der Fremde: Blonder Samurai im Angesicht des Todeswinds“
  101765 : Skript für „Mushounin“
- 101766 : Vom Schwert gefunden im Herbst – VI
+ 101766 : Vom Schwert gefunden im Herbst VI
  101767 : Wiedergeboren als Shougun Raiden mit unbegrenzter Macht
  101768 : Bitte an die Kitsune Guuji
  101769 : Los geht’s, Dodoco!
@@ -5463,12 +5463,12 @@ setFetterLevel : Sets your fetter level for your current active character
  101771 : Akos versteckter Schatz II
  101772 : Akos versteckter Schatz III
  101773 : Akos versteckter Schatz IV
- 101774 : [EN] - Yajna Grass
- 101775 : [EN] - Zohrah Mushroom
- 101776 : [EN] - Barsam Flower
+ 101774 : Yajna-Gras
+ 101775 : Zohrahpilz
+ 101776 : Barsam-Blume
  101777 : [CHS] - （test）封印钥匙其一
  101778 : [CHS] - （test）封印钥匙其二
- 101779 : [EN] - Arahaoma
+ 101779 : Arahaoma
  101780 : Skript für „Mushounin“
  101781 : Skript für „Mushounin“
  101782 : Jinwus Suppe
@@ -5485,7 +5485,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101793 : [CHS] - （test）神秘的信笺11
  101794 : [CHS] - （test）神秘的信笺12
  101795 : Schmucktasche
- 101796 : [EN] - Vasmrti
+ 101796 : Vasmrti
  101797 : Los geht’s, Dodoco!
  101798 : Logbuch
  101799 : Logbucheintrag I
@@ -5498,31 +5498,31 @@ setFetterLevel : Sets your fetter level for your current active character
  101806 : Sternbildsplitter
  101807 : Sternbildsplitter
  101808 : Sternbildsplitter
- 101809 : [EN] - Vasoma Fruit
+ 101809 : Vasoma
  101810 : [CHS] - (test)恒素果2
- 101811 : [EN] - Garland
- 101812 : [EN] - Garland
- 101813 : [EN] - Bija
- 101814 : [EN] - Arana's Flower
- 101815 : [EN] - Araja's Flower
- 101816 : [EN] - Nameless Flower
- 101817 : [EN] - Arapandu's Flower
- 101818 : [EN] - Arakunti's Flower
- 101819 : [EN] - Aranakula's Flower
- 101820 : [EN] - Arabalika's Flower
- 101821 : [EN] - Aranaga's Flower
- 101822 : [EN] - Aranakin's Flower
- 101823 : [EN] - Aragaru's Flower
- 101824 : [EN] - Ararycan's Flower
- 101825 : [EN] - Araesha's Flower
- 101826 : [EN] - Arakara's Flower
- 101827 : [EN] - The Siblings' Flowers
- 101828 : [EN] - The Song Gatherers' Flowers
- 101829 : [EN] - Aralila and Aranishat's Flowers
- 101830 : [EN] - Arakanta's Flower
+ 101811 : „Blütenkrone“
+ 101812 : „Blütenkrone“
+ 101813 : Bija
+ 101814 : Blume von Arana
+ 101815 : Blume von Araja
+ 101816 : Blume eines Namenlosen
+ 101817 : Blume von Arapandu
+ 101818 : Blume von Arakunti
+ 101819 : Blume von Aranakula
+ 101820 : Blume von Arabalika
+ 101821 : Blume von Aranaga
+ 101822 : Blume von Aranakin
+ 101823 : Blume von Aragaru
+ 101824 : Blume von Ararycan
+ 101825 : Blume von Araesha
+ 101826 : Blume von Arakara
+ 101827 : Blumen der Geschwister
+ 101828 : Blume der Liedersammler
+ 101829 : Blumen von Aralila und Aranishat
+ 101830 : Blume von Arakanta
  101831 : [CHS] - (test)兰那罗小花18
- 101832 : [EN] - Stories of You and the Aranara
- 101833 : [EN] - "Emergency Adjustment Plan"
+ 101832 : Geschichten von dir und den Aranara
+ 101833 : „Notfall-Anpassungsplan“
  101834 : Sternbildsplitter
  101835 : Schlüssel
  101836 : Mit Quellwasser gefüllte Flasche
@@ -5546,7 +5546,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101857 : Leuchtender Felsen – Rechts
  101858 : Harter Felsen – Links
  101859 : Harter Felsen – Rechts
- 101860 : [EN] - Living Spring
+ 101860 : Lebendiges Quellwasser
  101861 : Kiste mit Komponenten
  101862 : Notiz unbekannter Herkunft I
  101863 : Notiz unbekannter Herkunft II
@@ -5581,7 +5581,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101892 : Teil – Blätter
  101893 : Seite aus dem Forschungsprotokoll der Gerichtsmedizin
  101894 : Notiz unbekannter Herkunft
- 101895 : [EN] - ？？？
+ 101895 : [CHS] - (test）钥匙
  101896 : Kristallkern
  101897 : Kristallkern
  101898 : Kristallkern
@@ -5591,102 +5591,101 @@ setFetterLevel : Sets your fetter level for your current active character
  101902 : Tönender Schlüssel
  101903 : Gerade ausgelieferter Brief
  101904 : Geschätzter Traubensaft vom Weingut Morgenröte
- 101905 : [EN] - Slime Condensate-Soaked Soil
- 101906 : [EN] - Whopperflower Root Soil
- 101907 : [EN] - Moist Soil
+ 101905 : Mit Schleimabsonderung vollgesogener Lehm
+ 101906 : Lehm vom Wurzelsystem der Vaniloqua
+ 101907 : Feuchter Lehm
  101908 : Sternenlicht-Kondenskern
  101909 : Vorrat des Drachengrats – Schinken
  101910 : Nachtwachenvertrag
- 101911 : [EN] - Special "Concresoil" for Toys
+ 101911 : Spezieller „verdichteter Lehm“ für Spielzeuge
  101912 : [CHS] - (test)材料参照物
- 101913 : [EN] - Whopperflower Root Soil
- 101914 : [EN] - Fertile Soil (Reportedly)
- 101915 : [EN] - Discarded "Concresoil"
+ 101913 : Lehm vom Wurzelsystem der Vaniloqua
+ 101914 : Angeblich sehr fruchtbarer Lehm
+ 101915 : Verworfener „verdichteter Lehm“
  101916 : Vermisstenanzeige der Polizei
  101917 : Meersalzverkrusteter Schlüssel
  101918 : [CHS] - （test）危危岛遗迹钥匙2
- 101919 : [EN] - Special Bird Egg
- 101920 : [EN] - Special Mushroom
- 101921 : [EN] - Special Mint
- 101922 : [EN] - Special Harra Fruit
- 101923 : [EN] - Special Sweet Flower
+ 101919 : Besonderes Vogelei
+ 101920 : Besonderer Pilz
+ 101921 : Besondere Minze
+ 101922 : Besondere Harra-Frucht
+ 101923 : Besondere Zuckerblume
  101924 : [CHS] - (test)新鲜的材料2
- 101925 : [EN] - Box Lunch from Tighnari
- 101926 : [EN] - Letter to Haypasia
- 101927 : [EN] - Box Lunch from the Traveler
- 101928 : [EN] - Tighnari's Introduction Letter
- 101929 : [EN] - Bag of Transaction Funds
- 101930 : [EN] - Package of Canned Knowledge
- 101931 : [EN] - Canned Knowledge "Swordfighting Techniques VIII"
- 101932 : [EN] - Bag of Intel Transaction Funds
- 101933 : [EN] - Picture of the Transaction
- 101934 : [EN] - Informant Code Chart
+ 101925 : Tighnaris Essensbüchse
+ 101926 : Brief an Haypasia
+ 101927 : #{F#Von der Reisenden}{M#Vom Reisenden} zubereitetes Essen
+ 101928 : Tighnaris Vorstellungsschreiben
+ 101929 : Beutel mit Geldmitteln
+ 101930 : Paket voller Wissenskonserven
+ 101931 : Wissenskonserve „Kampffähigkeit mit Einhändern – Teil VIII“
+ 101932 : Beutel mit Geldmitteln zum Ankauf von Informationen
+ 101933 : Foto eines Handelsschlusses
+ 101934 : Tabelle der Deckwörter der Informanten
  101935 : Verlegte Schnecke 1
  101936 : Verlegte Schnecke 2
  101937 : Verlegte Schnecke 3
- 101938 : [EN] - Prescription Medication from Bimarstan for Gurgen
- 101939 : [EN] - Prescription Medication from Bimarstan for Azra
- 101940 : [EN] - Prescription Medication from Bimarstan for Aftab
- 101941 : [EN] - Fresh Harra Fruit
- 101942 : [EN] - Fresh Zaytun Peach
+ 101938 : Vom „Bimarstan“ verschriebene Medizin für Gurgen
+ 101939 : Vom „Bimarstan“ verschriebene Medizin für Azra
+ 101940 : Vom „Bimarstan“ verschriebene Medizin für Aftab
+ 101941 : Frische Harra-Frucht
+ 101942 : Frischer Zaytun-Pfirsich
  101943 : Rotgefärbter Stoff
- 101944 : [EN] - "The Best Water"
+ 101944 : „Köstlichstes Wasser“
  101945 : Versilberte Taschenuhr
  101946 : Altes Abzeichen
- 101947 : [EN] - Fresh Slime Condensate
- 101948 : [EN] - Sareh's Note
- 101949 : [EN] - Sareh's Note
- 101950 : [EN] - Sareh's Note
- 101951 : [EN] - Fresh Nilotpala Lotus
- 101952 : [EN] - Rose Sprout
- 101953 : [EN] - Eagle Feather of The Brave
- 101954 : [EN] - Florescent Talisman
- 101955 : [EN] - Freshly-Picked Mushroom
- 101956 : [EN] - Strange Sumeru Rose
- 101957 : [EN] - Riddle Note
- 101958 : [EN] - Riddle Note
- 101959 : [EN] - Riddle Note
- 101960 : [EN] - Riddle Note
- 101961 : [EN] - Rafiq's Shipbuilding Materials
- 101962 : [EN] - Little Dried Flower
- 101963 : [EN] - Activated·Canned Knowledge
+ 101947 : Frische Schleimabsonderung
+ 101948 : Sarehs Notiz
+ 101949 : Sarehs Notiz
+ 101950 : Sarehs Notiz
+ 101951 : Frischer Nilotpala-Lotos
+ 101952 : Zarte Rose
+ 101953 : Adlerfeder des Recken
+ 101954 : Blumentalisman
+ 101955 : Frisch gesammelter Pilz
+ 101956 : Ungewöhnliche Sumeru-Rose
+ 101957 : Mit Rätseln beschriebene Notiz
+ 101958 : Mit Rätseln beschriebene Notiz
+ 101959 : Mit Rätseln beschriebene Notiz
+ 101960 : Mit Rätseln beschriebene Notiz
+ 101961 : Rafiqs Material zum Bootsbau
+ 101962 : Getrocknete Blume
+ 101963 : Wissenskonserve – bereits aktiviert
  101964 : Persikovs Notiz
- 101965 : [EN] - Normal Wood
- 101966 : [EN] - Fatui Meal
- 101967 : [EN] - Treasure Map in a Box
- 101968 : [EN] - Glinting Component
- 101969 : [EN] - Sacred Seal: Valley
- 101970 : [EN] - Sacred Seal: Bird Head
- 101971 : [EN] - Sacred Seal: Raised Arm
- 101972 : [EN] - Sacred Seal: Sandstorm
- 101973 : [EN] - Sacred Seal: Auricle
- 101974 : [EN] - Sacred Seal: Forest
- 101975 : [EN] - Sacred Seal: Thunderstrike
- 101976 : [EN] - Sacred Seal: Danger
- 101977 : [EN] - Sacred Seal: Chisel Hammer
- 101978 : [EN] - Sacred Seal: Sunrise
- 101979 : [EN] - Sacred Seal: Right to Rule
- 101980 : [EN] - Sacred Seal: Sheep Head
- 101981 : [EN] - Sacred Seal: Crocodile Head
- 101982 : [EN] - Sacred Seal: Giant Serpent
- 101983 : [EN] - Sacred Seal: Ceremony
- 101984 : [EN] - Sacred Seal: Labor
- 101985 : [EN] - Sacred Seal: Dune
+ 101965 : Gewöhnliches Holzbrett
+ 101966 : Mahlzeit der Fatui
+ 101967 : Schatzkarte in einer Kiste
+ 101968 : Glitzernde Komponente
+ 101969 : Heiliger Siegelstein – Tal
+ 101970 : Heiliger Siegelstein – Vogelkopf
+ 101971 : Heiliger Siegelstein – Erhobener Arm
+ 101972 : Heiliger Siegelstein – Sandsturm
+ 101973 : Heiliger Siegelstein – Ohrmuschel
+ 101974 : Heiliger Siegelstein – Wald
+ 101975 : Heiliger Siegelstein – Donnerschlag
+ 101976 : Heiliger Siegelstein – Gefahr
+ 101977 : Heiliger Siegelstein – Hammer
+ 101978 : Heiliger Siegelstein – Sonnenaufgang
+ 101979 : Heiliger Siegelstein – Herrschaftsanspruch
+ 101980 : Heiliger Siegelstein – Schafkopf
+ 101981 : Heiliger Siegelstein – Krokodilkopf
+ 101982 : Heiliger Siegelstein – Riesenschlange
+ 101983 : Heiliger Siegelstein – Opfer
+ 101984 : Heiliger Siegelstein – Arbeit
+ 101985 : Heiliger Siegelstein – Düne
  101986 : [CHS] - (test)黑乎乎的怪东西
- 101987 : [EN] - Golden Rose Seeds
- 101988 : [EN] - Transparent Ruins Record (I)
- 101989 : [EN] - Record of Lamb-Eater Rock
- 101990 : [EN] - Record of the Tomb of Full Flagons
- 101991 : [EN] - Soheil's Old Notes
- 101992 : [EN] - Record of Aaru's Reflection
+ 101987 : Goldrosen-Samen
+ 101988 : Aufzeichnungen der durchsichtigen Ruinen I
+ 101989 : Aufzeichnung des Lammfresser-Felsens
+ 101990 : Aufzeichnung vom Mausoleum des Trunks
+ 101991 : Soheils archäologische Notizen
+ 101992 : Aufzeichnung von Aarus Spiegelbild
  101993 : Manuskript des Leiters der Theatergruppe Zwielicht
- 101994 : [EN] - Freshly-Picked Harra Fruit
- 101995 : [EN] - Unsigned Note
- 101996 : [EN] - Ragged Records
- 101997 : [EN] - Remelting Device
- 101998 : [EN] - Remelting Tablet
- 101999 : [EN] - Employer's Orders
- 102000 : [EN] - Unknown Object With an Earthy Glow
+ 101994 : Frisch gepflückte Harra-Früchte
+ 101995 : Unsignierte Notiz
+ 101996 : Zerrissene Aufzeichnung
+ 101997 : Umschmelzapparat
+ 101998 : Umschmelztablette
+ 101999 : Befehl des Arbeitgebers
  102001 : Pyro-Kristallsplitter
  102002 : Hydro-Kristallsplitter
  102003 : Dendro-Kristallsplitter
@@ -5770,15 +5769,15 @@ setFetterLevel : Sets your fetter level for your current active character
  104326 : Lehren des „Lichts“
  104327 : Anleitung zum „Licht“
  104328 : Philosophie des „Lichts“
- 104329 : [EN] - Teachings of Admonition
- 104330 : [EN] - Guide to Admonition
- 104331 : [EN] - Philosophies of Admonition
- 104332 : [EN] - Teachings of Ingenuity
- 104333 : [EN] - Guide to Ingenuity
- 104334 : [EN] - Philosophies of Ingenuity
- 104335 : [EN] - Teachings of Praxis
- 104336 : [EN] - Guide to Praxis
- 104337 : [EN] - Philosophies of Praxis
+ 104329 : Lehren der „Ermahnung“
+ 104330 : Anleitung zur „Ermahnung“
+ 104331 : Philosophie der „Ermahnung“
+ 104332 : Lehren der „Findigkeit“
+ 104333 : Anleitung zur „Findigkeit“
+ 104334 : Philosophie der „Findigkeit“
+ 104335 : Lehren der „Praxis“
+ 104336 : Anleitung zur „Praxis“
+ 104337 : Philosophie der „Praxis“
  105001 : Heiliger Tropfen
  105002 : Weihsalbe
  105003 : Weihessenz
@@ -5801,8 +5800,8 @@ setFetterLevel : Sets your fetter level for your current active character
  107014 : Verlorener Elektroculus
  107015 : Mondjagd-Amulett
  107016 : Lumenkristall
- 107017 : [EN] - Dendroculus
- 107018 : [EN] - Sumeru Shrine of Depths Key
+ 107017 : Verlorener Dendroculus
+ 107018 : Schlüssel zu den Schreinen der Tiefe in Sumeru
  108000 : Gerichte
  108001 : Merkwürdige Fischerschnitte
  108002 : Fischerschnitte
@@ -6194,85 +6193,85 @@ setFetterLevel : Sets your fetter level for your current active character
  108388 : Omelette-Reis-Walzer
  108389 : Morgentau-Garnelen
  108390 : Nichts als die Wahrheit
- 108391 : [EN] - Suspicious Butter Chicken
- 108392 : [EN] - Butter Chicken
- 108393 : [EN] - Delicious Butter Chicken
- 108394 : [EN] - Suspicious Shawarma Wrap
- 108395 : [EN] - Shawarma Wrap
- 108396 : [EN] - Delicious Shawarma Wrap
- 108397 : [EN] - Suspicious Selva Salad
- 108398 : [EN] - Selva Salad
- 108399 : [EN] - Delicious Selva Salad
- 108400 : [EN] - Suspicious Masala Cheese Balls
- 108401 : [EN] - Masala Cheese Balls
- 108402 : [EN] - Delicious Masala Cheese Balls
- 108403 : [EN] - Suspicious Mushroom Hodgepodge
- 108404 : [EN] - Mushroom Hodgepodge
- 108405 : [EN] - Delicious Mushroom Hodgepodge
- 108406 : [EN] - Suspicious Pita Pocket
- 108407 : [EN] - Pita Pocket
- 108408 : [EN] - Delicious Pita Pocket
- 108409 : [EN] - Suspicious Panipuri
- 108410 : [EN] - Panipuri
- 108411 : [EN] - Delicious Panipuri
- 108412 : [EN] - Suspicious Minty Bean Soup
- 108413 : [EN] - Minty Bean Soup
- 108414 : [EN] - Delicious Minty Bean Soup
- 108415 : [EN] - Suspicious Biryani
- 108416 : [EN] - Biryani
- 108417 : [EN] - Delicious Biryani
- 108418 : [EN] - Suspicious Tahchin
- 108419 : [EN] - Tahchin
- 108420 : [EN] - Delicious Tahchin
- 108421 : [EN] - Suspicious Lambad Fish Roll
- 108422 : [EN] - Lambad Fish Roll
- 108423 : [EN] - Delicious Lambad Fish Roll
- 108424 : [EN] - Suspicious Curry Shrimp
- 108425 : [EN] - Curry Shrimp
- 108426 : [EN] - Delicious Curry Shrimp
- 108427 : [EN] - Suspicious Tandoori Roast Chicken
- 108428 : [EN] - Tandoori Roast Chicken
- 108429 : [EN] - Delicious Tandoori Roast Chicken
- 108430 : [EN] - Suspicious Potato Boat
- 108431 : [EN] - Potato Boat
- 108432 : [EN] - Delicious Potato Boat
- 108433 : [EN] - Suspicious Fish With Cream Sauce
- 108434 : [EN] - Fish With Cream Sauce
- 108435 : [EN] - Delicious Fish With Cream Sauce
- 108436 : [EN] - Forest Watcher's Choice
- 108437 : [EN] - Yearning
- 108438 : [EN] - Show Me the Mora
- 108439 : [EN] - Suspicious Meat Lovers' Mushroom Pizza
- 108440 : [EN] - Meat Lovers' Mushroom Pizza
- 108441 : [EN] - Delicious Meat Lovers' Mushroom Pizza
- 108442 : [EN] - Suspicious Sunset Berry Tea
- 108443 : [EN] - Sunset Berry Tea
- 108444 : [EN] - Delicious Sunset Berry Tea
- 108445 : [EN] - Suspicious Milky Mushroom Crisp Tower
- 108446 : [EN] - Milky Mushroom Crisp Tower
- 108447 : [EN] - Delicious Milky Mushroom Crisp Tower
- 108448 : [EN] - Suspicious Coconut Charcoal Cakes
- 108449 : [EN] - Coconut Charcoal Cakes
- 108450 : [EN] - Delicious Coconut Charcoal Cakes
- 108451 : [EN] - Suspicious Baklava
- 108452 : [EN] - Baklava
- 108453 : [EN] - Delicious Baklava
- 108454 : [EN] - Suspicious Candied Ajilenakh Nut
- 108455 : [EN] - Candied Ajilenakh Nut
- 108456 : [EN] - Delicious Candied Ajilenakh Nut
- 108457 : [EN] - Suspicious Padisarah Pudding
- 108458 : [EN] - Padisarah Pudding
- 108459 : [EN] - Delicious Padisarah Pudding
- 108460 : [EN] - Suspicious Aaru Mixed Rice
- 108461 : [EN] - Aaru Mixed Rice
- 108462 : [EN] - Delicious Aaru Mixed Rice
- 108463 : [EN] - ？？？
- 108464 : [EN] - ？？？
- 108465 : [EN] - ？？？
- 108466 : [EN] - Swirling Steps
- 108467 : [EN] - Duel Soul
- 108468 : [EN] - Utmost Care
- 108469 : [EN] - ？？？
+ 108391 : Misslungenes Butterhühnchen
+ 108392 : Butterhühnchen
+ 108393 : Leckeres Butterhühnchen
+ 108394 : Misslungene Schawarma-Rolle
+ 108395 : Schawarma-Rolle
+ 108396 : Leckere Schawarma-Rolle
+ 108397 : Misslungener Selva-Salat
+ 108398 : Selva-Salat
+ 108399 : Leckerer Selva-Salat
+ 108400 : Misslungene Masala-Käsebällchen
+ 108401 : Masala-Käsebällchen
+ 108402 : Leckere Masala-Käsebällchen
+ 108403 : Misslungene gemischte Pilzplatte
+ 108404 : Gemischte Pilzplatte
+ 108405 : Leckere gemischte Pilzplatte
+ 108406 : Misslungener Taschenfladen
+ 108407 : Taschenfladen
+ 108408 : Leckerer Taschenfladen
+ 108409 : Misslungene Panipuri
+ 108410 : Panipuri
+ 108411 : Leckere Panipuri
+ 108412 : Misslungene Minzbohnensuppe
+ 108413 : Minzbohnensuppe
+ 108414 : Leckere Minzbohnensuppe
+ 108415 : Misslungenes Biryani
+ 108416 : Biryani
+ 108417 : Leckeres Biryani
+ 108418 : Misslungenes Tahchin
+ 108419 : Tahchin
+ 108420 : Leckeres Tahchin
+ 108421 : Misslungene Lambad-Fischröllchen
+ 108422 : Lambad-Fischröllchen
+ 108423 : Leckere Lambad-Fischröllchen
+ 108424 : Misslungene Currygarnelen
+ 108425 : Currygarnelen
+ 108426 : Leckere Currygarnelen
+ 108427 : Misslungenes Tandoori-Brathähnchen
+ 108428 : Tandoori-Brathähnchen
+ 108429 : Leckeres Tandoori-Brathähnchen
+ 108430 : Misslungenes Kartoffelboot
+ 108431 : Kartoffelboot
+ 108432 : Leckeres Kartoffelboot
+ 108433 : Misslungener Fisch in Milchsoße
+ 108434 : Fisch in Milchsoße
+ 108435 : Leckerer Fisch in Milchsoße
+ 108436 : Wahl des Waldhütermeisters
+ 108437 : Vision
+ 108438 : Mora kommt herbei
+ 108439 : Misslungene Pilz- und Fleischpizza
+ 108440 : Pilz- und Fleischpizza
+ 108441 : Leckere Pilz- und Fleischpizza
+ 108442 : Misslungener Dämmerfrucht-Beerentee
+ 108443 : Dämmerfrucht-Beerentee
+ 108444 : Leckerer Dämmerfrucht-Beerentee
+ 108445 : Misslungener kross gebratener Milchpilzturm
+ 108446 : Kross gebratener Milchpilzturm
+ 108447 : Leckerer kross gebratener Milchpilzturm
+ 108448 : Misslungener gebackener Dattelfladen
+ 108449 : Gebackener Dattelfladen
+ 108450 : Leckerer gebackener Dattelfladen
+ 108451 : Misslungenes Baklava
+ 108452 : Baklava
+ 108453 : Leckeres Baklava
+ 108454 : Misslungene Honigdatteln
+ 108455 : Honigdatteln
+ 108456 : Leckere Honigdatteln
+ 108457 : Misslungener Padisarah-Pudding
+ 108458 : Padisarah-Pudding
+ 108459 : Leckerer Padisarah-Pudding
+ 108460 : Misslungener gemischter Aaru-Reis
+ 108461 : Gemischter Aaru-Reis
+ 108462 : Leckerer gemischter Aaru-Reis
+ 108463 : Misslungener Festtagssaft
+ 108464 : Festtagssaft
+ 108465 : Leckerer Festtagssaft
+ 108466 : Wirbelnder Tanz
+ 108467 : Kämpferseele
+ 108468 : Mit größter Hingabe
+ 108469 : Sprudelnd-saurer Beerensaft
  109000 : Objekt für Rezepte
  109101 : Rezept: Spieß mit Pilzen und Hühnchen
  109102 : Rezept: Fischerschnitte
@@ -6383,30 +6382,30 @@ setFetterLevel : Sets your fetter level for your current active character
  109490 : Rezept: Udon-Nudeln
  109491 : Rezept: Schnitzelbrötchen
  109492 : Rezept: Lila Wolken
- 109493 : [EN] - Recipe: Butter Chicken
- 109494 : [EN] - Recipe: Shawarma Wrap
- 109495 : [EN] - Recipe: Selva Salad
- 109496 : [EN] - Recipe: Masala Cheese Balls
- 109497 : [EN] - Recipe: Mushroom Hodgepodge
- 109498 : [EN] - Recipe: Pita Pocket
- 109499 : [EN] - Recipe: Panipuri
- 109500 : [EN] - Recipe: Minty Bean Soup
- 109501 : [EN] - Recipe: Biryani
- 109502 : [EN] - Recipe: Tahchin
- 109503 : [EN] - Recipe: Lambad Fish Roll
- 109504 : [EN] - Recipe: Curry Shrimp
- 109505 : [EN] - Recipe: Tandoori Roast Chicken
- 109506 : [EN] - Recipe: Potato Boat
- 109507 : [EN] - Recipe: Fish With Cream Sauce
- 109508 : [EN] - Recipe: Meat Lovers' Mushroom Pizza
- 109509 : [EN] - Recipe: Sunset Berry Tea
- 109510 : [EN] - Recipe: Milky Mushroom Crisp Tower
- 109511 : [EN] - Recipe: Charcoal-Baked Ajilenakh Cake
- 109512 : [EN] - Recipe: Baklava
- 109513 : [EN] - Recipe: Candied Ajilenakh Nut
- 109514 : [EN] - Recipe: Padisarah Pudding
- 109515 : [EN] - Recipe: Aaru Mixed Rice
- 109516 : [EN] - ？？？
+ 109493 : Rezept: Butterhühnchen
+ 109494 : Rezept: Schawarma-Rolle
+ 109495 : Rezept: Selva-Salat
+ 109496 : Rezept: Masala-Käsebällchen
+ 109497 : Rezept: Gemischte Pilzplatte
+ 109498 : Rezept: Taschenfladen
+ 109499 : Rezept: Panipuri
+ 109500 : Rezept: Minzbohnensuppe
+ 109501 : Rezept: Biryani
+ 109502 : Rezept: Tahchin
+ 109503 : Rezept: Lambad-Fischröllchen
+ 109504 : Rezept: Currygarnelen
+ 109505 : Rezept: Tandoori-Brathähnchen
+ 109506 : Rezept: Kartoffelboot
+ 109507 : Rezept: Fisch in Milchsoße
+ 109508 : Rezept: Pilz- und Fleischpizza
+ 109509 : Rezept: Dämmerfrucht-Beerentee
+ 109510 : Rezept: Kross gebratener Milchpilzturm
+ 109511 : Rezept: Gebackener Dattelfladen
+ 109512 : Rezept: Baklava
+ 109513 : Rezept: Honigdatteln
+ 109514 : Rezept: Padisarah-Pudding
+ 109515 : Rezept: Gemischter Aaru-Reis
+ 109516 : Rezept: Festtagssaft
  110000 : Hergestelltes Produkt
  110001 : Mehl
  110002 : Sahne
@@ -6420,7 +6419,7 @@ setFetterLevel : Sets your fetter level for your current active character
  110011 : Wurst
  110012 : Räucherfisch
  110013 : Trockenfisch
- 110014 : [EN] - Spice
+ 110014 : Harra-Würze
  111006 : Hitzebeständigkeitstrank
  111007 : Trockenmitteltrank
  111008 : Winterhärtetrank
@@ -6443,7 +6442,7 @@ setFetterLevel : Sets your fetter level for your current active character
  111025 : Falscher Wurmköder
  111026 : Falscher Fliegenköder
  111027 : Leuchtender Grasköder
- 111028 : [EN] - Sugardew Bait
+ 111028 : Manna-Köder
  112001 : Ursubstanz
  112002 : Schleimabsonderung
  112003 : Schleimkondensat
@@ -6505,18 +6504,18 @@ setFetterLevel : Sets your fetter level for your current active character
  112059 : Sporen der Pilzbestie
  112060 : Leuchtendes Sporenpulver
  112061 : Kristalliner Zystenstaub
- 112062 : [EN] - Inactivated Fungal Nucleus
- 112063 : [EN] - Dormant Fungal Nucleus
- 112064 : [EN] - Robust Fungal Nucleus
- 112065 : [EN] - Faded Red Satin
- 112066 : [EN] - Trimmed Red Silk
- 112067 : [EN] - Rich Red Brocade
- 112068 : [EN] - Chaos Storage
- 112069 : [EN] - Chaos Module
- 112070 : [EN] - Chaos Bolt
- 112071 : [EN] - Damaged Prism
- 112072 : [EN] - Turbid Prism
- 112073 : [EN] - Radiant Prism
+ 112062 : Inaktives Sklerotium
+ 112063 : Schlafendes Sklerotium
+ 112064 : Robustes Sklerotium
+ 112065 : Verblasste rote Seide
+ 112066 : Geränderte rote Seide
+ 112067 : Goldverwobene rote Seide
+ 112068 : Chaos-Speicher
+ 112069 : Chaos-Modul
+ 112070 : Chaos-Anker
+ 112071 : Zerbrochenes Prisma
+ 112072 : Trübes Prisma
+ 112073 : Leuchtendes Prisma
  113001 : Orkansamen
  113002 : Blitzprisma
  113003 : Schwanzfeder des Ostwinds
@@ -6552,10 +6551,10 @@ setFetterLevel : Sets your fetter level for your current active character
  113033 : Tränen des unheilvollen Gottes
  113034 : Sinn der Äonen
  113035 : Runenzahn
- 113036 : [EN] - Majestic Hooked Beak
- 113037 : [EN] - Thunderclap Fruitcore
- 113038 : [EN] - Perpetual Caliber
- 113039 : [EN] - Light Guiding Tetrahedron
+ 113036 : Hakenschnabel des Pilzkönigs
+ 113037 : Donnerknall-Fruchtkern
+ 113038 : Ewiges Uhrwerk
+ 113039 : Lichtgesteuerter Tetraeder
  114001 : Decabarians zerbrochener Ziegel
  114002 : Decabarians zerbröckelter Wall
  114003 : Decabarians Palastfragment
@@ -6592,18 +6591,18 @@ setFetterLevel : Sets your fetter level for your current active character
  114034 : Die Maske des Tigerbisses
  114035 : Maske des Einhörnigen
  114036 : Maske der Kijin
- 114037 : [EN] - Copper Talisman of the Forest Dew
- 114038 : [EN] - Iron Talisman of the Forest Dew
- 114039 : [EN] - Silver Talisman of the Forest Dew
- 114040 : [EN] - Golden Talisman of the Forest Dew
- 114041 : [EN] - Oasis Garden's Reminiscence
- 114042 : [EN] - Oasis Garden's Kindness
- 114043 : [EN] - Oasis Garden's Mourning
- 114044 : [EN] - Oasis Garden's Truth
- 114045 : [EN] - Echo of Scorching Might
- 114046 : [EN] - Remnant Glow of Scorching Might
- 114047 : [EN] - Dream of Scorching Might
- 114048 : [EN] - Olden Days of Scorching Might
+ 114037 : Kupfertalisman des Waldtaus
+ 114038 : Eisentalisman des Waldtaus
+ 114039 : Silbertalisman des Waldtaus
+ 114040 : Goldtalisman des Waldtaus
+ 114041 : Reminiszenz der Oase der blühenden Blumen
+ 114042 : Gnade der Oase der blühenden Blumen
+ 114043 : Trauer der Oase der blühenden Blumen
+ 114044 : Wahrheit der Oase der blühenden Blumen
+ 114045 : Echo der sengenden Macht
+ 114046 : Nachglimmen der sengenden Macht
+ 114047 : Traum der sengenden Macht
+ 114048 : Vergangenheit der sengenden Macht
  115001 : [CHS] - (test)新手礼包
  115002 : [CHS] - (test)角色养成包一（全平台）
  115003 : [CHS] - (test)角色养成包二（IOS）
@@ -6641,7 +6640,7 @@ setFetterLevel : Sets your fetter level for your current active character
  115037 : Geschenk der Yashiro-Verwaltung
  115038 : Anspruchsvolle Dekoration
  115039 : Wundersame Dekoration
- 115040 : [EN] - Midlander Billet Trove
+ 115040 : Kiste der unbearbeiteten Waffen des Kernlands
  116001 : Erlebnispass-EP
  116002 : Erlebnispass-Tresor
  116003 : Erlebnispass-Testpaket „1 von 3“
@@ -6653,8 +6652,8 @@ setFetterLevel : Sets your fetter level for your current active character
  116009 : [CHS] - (test)BP付费高级礼包
  116010 : Weisungen des Reiches des Blitzes
  116011 : Philosophie des Reiches des Blitzes
- 116012 : [EN] - Guidance of the Land of Verdure
- 116013 : [EN] - Philosophies of the Land of Verdure
+ 116012 : Anleitung des Reiches der Pflanzen
+ 116013 : Philosophie des Reiches der Pflanzen
  117001 : Rätselhafte Artefaktkiste – Rang 3
  117002 : Rätselhafte Artefaktkiste – Rang 2
  117003 : Rätselhafte Artefaktkiste – Rang 1
@@ -6662,110 +6661,125 @@ setFetterLevel : Sets your fetter level for your current active character
  117005 : Güldenes Reliquiar – Wanderorchester und Verbeugung des Gladiators
  117006 : Rätselhafte Artefaktkiste – Rang 2
  117007 : Rätselhafte Artefaktkiste – Rang 1
- 117008 : [EN] - Domain Reliquary: Tier II
- 117009 : [EN] - Domain Reliquary: Tier I
+ 117008 : Rätselhafte Artefaktkiste – Rang 2
+ 117009 : Rätselhafte Artefaktkiste – Rang 1
  118001 : #Torte für {F#die Reisende}{M#den Reisenden}
  118002 : #Torte für {F#die Reisende}{M#den Reisenden}
  118003 : #Torte für {F#die Reisende}{M#den Reisenden}
  118004 : #Torte für {F#die Reisende}{M#den Reisenden}
- 118005 : [EN] - Cake for Traveler
- 118006 : [EN] - Cake for Traveler
- 120000 : [EN] - A Note Alrani Left for Niloofar
- 120001 : [EN] - A Research Paper by Pir Kavikavus
- 120002 : [EN] - Dried Flower
- 120003 : [EN] - Amiti Device Fragment (I)
- 120004 : [EN] - Amiti Device Fragment (II)
- 120005 : [EN] - Amiti Device Fragment (III)
- 120006 : [EN] - Jazari's Mora Purse
- 120007 : [EN] - "The Ultra Invincible" Adventure Handbook
- 120008 : [EN] - Lost Energy Block
- 120009 : [EN] - Strange Parchment
+ 118005 : #Torte für {F#die Reisende}{M#den Reisenden}
+ 118006 : #Torte für {F#die Reisende}{M#den Reisenden}
+ 120000 : Von Alrani für Niloofar hinterlassene Notiz
+ 120001 : Abhandlung von Pir Kavikavus
+ 120002 : Getrocknete Blume
+ 120003 : Fragment der Amiti-Vorrichtung I
+ 120004 : Fragment der Amiti-Vorrichtung II
+ 120005 : Fragment der Amiti-Vorrichtung III
+ 120006 : Jazaris Mora-Beutel
+ 120007 : „Das unvergleichliche ultimative“ Abenteuerhandbuch
+ 120008 : Zurückgelassener Energieblock
+ 120009 : Merkwürdiges Pergament
  120010 : [CHS] - (test)冒险地图
- 120011 : [EN] - Withered Kusava
- 120012 : [EN] - Gulabgir's Special Pet Snake Food
- 120013 : [EN] - Strange Bead
- 120014 : [EN] - Strange Tiny Hats
- 120015 : [EN] - Shabby Rack
- 120016 : [EN] - Javi's Dream
- 120017 : [EN] - Tattered Paper
- 120018 : [EN] - The Shepherd and the Magic Bottle
- 120019 : [EN] - The Tale of Shiruyeh and Shirin (I)
- 120020 : [EN] - The Tale of Shiruyeh and Shirin (II)
- 120021 : [EN] - The Lay of Al-Ahmar
- 120022 : [EN] - The Folio of Foliage (I)
- 120023 : [EN] - The Folio of Foliage (II)
- 120024 : [EN] - The Folio of Foliage (III)
- 120025 : [EN] - Scroll of Streaming Song (I)
- 120026 : [EN] - Scroll of Streaming Song (II)
- 120027 : [EN] - Scroll of Streaming Song (III)
- 120028 : [EN] - An Ode to Soul-Light
- 120029 : [EN] - Transparent Ruins Record (II)
- 120030 : [EN] - Transparent Ruins Record (III)
- 120031 : [EN] - A Key
- 120032 : [EN] - Unsealed Parchment
- 120033 : [EN] - Guiding Parchment
- 120034 : [EN] - Whispering Parchment
- 120035 : [EN] - Mysterious Parchment
- 120036 : [EN] - Ancient Work Log
- 120037 : [EN] - Akademiya Investigation Team's Interim Report
- 120038 : [EN] - Zandik's Note
- 120039 : [EN] - Sohreh's Note
- 120040 : [EN] - Sumeru Investigation Team's Note
- 120041 : [EN] - Dissection Records
- 120042 : [EN] - Ragged Attendance Record
- 120043 : [EN] - ？？？
- 120044 : [EN] - ？？？
- 120045 : [EN] - ？？？
- 120046 : [EN] - ？？？
- 120047 : [EN] - Medical Records
- 120048 : [EN] - Diagnostic Report
- 120049 : [EN] - Shevirme's Funds
- 120050 : [EN] - Quqing's Funds
- 120051 : [EN] - Guanchui's Funds
- 120052 : [EN] - Zakariya's Prescription for Maruf
- 120053 : [EN] - Zakariya's Prescription for Maruf
- 120054 : [EN] - Zakariya's Prescription for Maruf
+ 120011 : Verwelktes Kusava
+ 120012 : Gulabgirs Hausschlangen-Spezialfutter
+ 120013 : Seltsame Perle
+ 120014 : Seltsame kleine Mützen
+ 120015 : Schäbiges altes Gerüst
+ 120016 : Javis „Traum“
+ 120017 : Beschädigtes Papier
+ 120018 : Die Geschichte über den Hirtenjungen und die Zauberflasche
+ 120019 : Die Geschichte über Shiruyeh und Shirin – Band I
+ 120020 : Die Geschichte über Shiruyeh und Shirin – Band II
+ 120021 : Die Geschichte von Al-Ahmar
+ 120022 : Das Folio des Laubwerks – Band I
+ 120023 : Das Folio des Laubwerks – Band II
+ 120024 : Das Folio des Laubwerks – Band III
+ 120025 : Liederbuch zum Blumengarten – Band I
+ 120026 : Liederbuch zum Blumengarten – Band II
+ 120027 : Liederbuch zum Blumengarten – Band III
+ 120028 : Ode an das Seelenlicht
+ 120029 : Aufzeichnungen der durchsichtigen Ruinen II
+ 120030 : Aufzeichnungen der durchsichtigen Ruinen III
+ 120031 : Uralter Schlüssel
+ 120032 : Aufgerolltes Pergament
+ 120033 : Wegweisendes Pergament
+ 120034 : Flüsterndes Pergament
+ 120035 : Mysteriöses Pergament
+ 120036 : Antikes Arbeitsprotokoll
+ 120037 : Zwischenbericht der Akademie-Expeditionsgruppe
+ 120038 : Zandiks Notiz
+ 120039 : Sohrehs Notiz
+ 120040 : Notiz der Sumeru-Expeditionsgruppe
+ 120041 : Anatomie-Aufzeichnung
+ 120042 : Zerrissene Anwesenheitsliste
+ 120043 : Gekaufte Materialien
+ 120044 : Gekaufte Materialien
+ 120045 : Gekaufte Materialien
+ 120046 : Gekaufte Materialien
+ 120047 : Krankenakte
+ 120048 : Befund
+ 120049 : Shevirmes „Beschaffungsmittel“
+ 120050 : Quqings „Beschaffungsmittel“
+ 120051 : Guanchuis „Beschaffungsmittel“
+ 120052 : Zakariyas „Rezept“ für Maruf
+ 120053 : Zakariyas „Rezept“ für Maruf
+ 120054 : Zakariyas „Rezept“ für Maruf
  120055 : [CHS] - （test）马鲁夫的万能药包
- 120056 : [EN] - Zakariya's Medicine for Maruf
+ 120056 : Zakariyas Arznei für Maruf
  120057 : [CHS] - （test）蕈兽孢粉
  120058 : [CHS] - （test）新鲜的须弥蔷薇
- 120059 : [EN] - An Elegantly-Written Note
+ 120059 : Notizbuch mit anmutiger Handschrift
  120060 : [CHS] - （test）仙人掌凝胶
- 120061 : [EN] - Nermin's Minty Bean Soup
+ 120061 : Nermins spezielle „Minzbohnensuppe“
  120062 : [CHS] - （test）内尔敏做的香水
- 120063 : [EN] - Future Star
- 120065 : [EN] - Raef's Bag
- 120066 : [EN] - Nermin's Spices
- 120067 : [EN] - Keystone (I)
- 120068 : [EN] - Torn Page: A Thousand Nights (I)
- 120069 : [EN] - Torn Page: A Thousand Nights (II)
- 120070 : [EN] - Torn Page: A Thousand Nights (III)
- 120071 : [EN] - Torn Page: A Thousand Nights (IV)
- 120072 : [EN] - Torn Page: A Thousand Nights (V)
- 120073 : [EN] - Torn Page: A Thousand Nights (VI)
- 120074 : [EN] - A Thousand Nights (I)
- 120075 : [EN] - A Thousand Nights (II)
- 120076 : [EN] - A Thousand Nights (III)
- 120077 : [EN] - A Thousand Nights (IV)
- 120078 : [EN] - A Thousand Nights (V)
- 120079 : [EN] - A Thousand Nights (VI)
- 120080 : [EN] - Samer's Missive
- 120081 : [EN] - Samer's Missive
- 120082 : [EN] - Shevirme's Invoice
- 120083 : [EN] - Quqing's Invoice
- 120084 : [EN] - Guanchui's Invoice
- 120113 : [EN] - ？？？
- 120114 : [EN] - ？？？
- 120115 : [EN] - ？？？
- 120116 : [EN] - ？？？
- 120117 : [EN] - Keystone (II)
- 120118 : [EN] - Azalai's Payment
- 120119 : [EN] - Rama's Receipt
- 120120 : [EN] - Butrus' Receipt
- 120121 : [EN] - Jut's Receipt
- 120122 : [EN] - Jahangir's Receipt
- 120123 : [EN] - ？？？
+ 120063 : Stern der Zukunft
+ 120065 : Raefs Paket
+ 120066 : Nermins Gewürze
+ 120067 : Schlüsselstein I
+ 120068 : Zerrissene Buchseite „Erzählungen aus tausend Nächten I“
+ 120069 : Zerrissene Buchseite „Erzählungen aus tausend Nächten II“
+ 120070 : Zerrissene Buchseite „Erzählungen aus tausend Nächten III“
+ 120071 : Zerrissene Buchseite „Erzählungen aus tausend Nächten IV“
+ 120072 : Zerrissene Buchseite „Erzählungen aus tausend Nächten V“
+ 120073 : Zerrissene Buchseite „Erzählungen aus tausend Nächten VI“
+ 120074 : Erzählungen aus tausend Nächten I
+ 120075 : Erzählungen aus tausend Nächten II
+ 120076 : Erzählungen aus tausend Nächten III
+ 120077 : Erzählungen aus tausend Nächten IV
+ 120078 : Erzählungen aus tausend Nächten V
+ 120079 : Erzählungen aus tausend Nächten VI
+ 120080 : Samails Nachricht
+ 120081 : Samails Nachricht
+ 120082 : Shevirmes Bestellungsbeleg
+ 120083 : Quqings Bestellungsbeleg
+ 120084 : Guanchuis Bestellungsbeleg
+ 120113 : Cynos Vorstellungsschreiben
+ 120114 : Archaische Karte
+ 120115 : Auktionsmaterial
+ 120116 : Versiegelte Materialien „Hof der Trübsal“
+ 120117 : Schlüsselstein II
+ 120118 : Azalais Zahlung
+ 120119 : Ramas Empfangsberechtigung
+ 120120 : Butrus’ Empfangsberechtigung
+ 120121 : Juts Empfangsberechtigung
+ 120122 : Jahangirs Empfangsberechtigung
+ 120123 : „Limitiertes Spezial-Wüstenreisepaket“
  120125 : [CHS] - （test）赛芭的蔷薇
+ 120126 : Kurzer Brief
+ 120128 : Vage zu entziffernde Inschrift
+ 120129 : Vage zu entziffernde Inschrift
+ 120130 : Vage zu entziffernde Inschrift
+ 120131 : Vage zu entziffernde Inschrift
+ 120132 : Vage zu entziffernde Inschrift
+ 120133 : Vage zu entziffernde Inschrift
+ 120134 : Vage zu entziffernde Inschrift
+ 120135 : Vage zu entziffernde Inschrift
+ 120136 : Vage zu entziffernde Inschrift
+ 120137 : Vage zu entziffernde Inschrift
+ 120138 : Bericht des Untersuchungstrupps der Akademie
+ 120139 : Bericht des Untersuchungstrupps der Akademie
+ 120140 : Versiegelte Befehlschrift
+ 120141 : Antike Befehlschrift
  130001 : Seidenblumensamen
  130002 : Zuckerblumensamen
  130003 : Ceciliasamen
@@ -6780,7 +6794,7 @@ setFetterLevel : Sets your fetter level for your current active character
  130012 : Rettichsamen
  130013 : Minzsamen
  130014 : Champignonsporen
- 130015 : Samen vom Naku-Kraut
+ 130015 : Naku-Kraut-Samen
  130016 : Pferdeschwanzsamen
  130017 : Goldfischkrautsamen
  130018 : Lotosfruchtsamen
@@ -6790,9 +6804,9 @@ setFetterLevel : Sets your fetter level for your current active character
  130022 : Samen der „Traumblüte – Sternhibiskus“
  130023 : Samen der „Traumblüte – Birnenglocke“
  130024 : Samen der „Traumblüte – Seidenschote“
- 130025 : [EN] - Harra Fruit Seed
- 130026 : [EN] - Zaytun Peach Seed
- 130027 : [EN] - Sumeru Rose Seed
+ 130025 : Harra-Frucht-Samen
+ 130026 : Zaytun-Pfirsich-Samen
+ 130027 : Sumeru-Rosen-Samen
  131000 : Medaka
  131001 : Glasmedaka
  131002 : Zuckerblumen-Medaka
@@ -6815,12 +6829,12 @@ setFetterLevel : Sets your fetter level for your current active character
  131020 : Bitterer Kugelfisch
  131021 : Divda-Rochen
  131022 : Formalo-Rochen
- 131023 : [EN] - True Fruit Angler
- 131024 : [EN] - Peach of the Deep Waves
- 131025 : [EN] - Sandstorm Angler
- 131026 : [EN] - Sunset Cloud Angler
- 131027 : [EN] - Lazurite Axe Marlin
- 131028 : [EN] - Halcyon Jade Axe Marlin
+ 131023 : Echtfrucht-Hornkugelfisch
+ 131024 : Tiefwellen-Pfirsich
+ 131025 : Sandsturm-Hornkugelfisch
+ 131026 : Dämmerwolken-Hornkugelfisch
+ 131027 : Lasurit-Axt-Marlin
+ 131028 : Jade-Axt-Marlin
  140001 : Anfängerschwingen
  140002 : Flügel der Kameradschaft
  140003 : Flügel der Niederkunft
@@ -6830,7 +6844,7 @@ setFetterLevel : Sets your fetter level for your current active character
  140007 : Flügel der Festgelage
  140008 : Flügel des Blitzwolkenläufers
  140009 : Flügel des galaktischen Scheins
- 140010 : [EN] - Wings of the Forest
+ 140010 : Pflanzenschwingen des Überschwangs
  141001 : Strahlender Drehkristall I
  141002 : Strahlender Drehkristall II
  141003 : Strahlender Drehkristall III
@@ -6903,21 +6917,21 @@ setFetterLevel : Sets your fetter level for your current active character
  141070 : Strahlender Drehkristall LXX
  141071 : Strahlender Drehkristall LXXI
  141072 : Strahlender Drehkristall LXXII
- 141073 : [EN] - Radiant Spincrystal 73
- 141074 : [EN] - Radiant Spincrystal 74
- 141075 : [EN] - Radiant Spincrystal 75
- 141076 : [EN] - Radiant Spincrystal 76
- 141077 : [EN] - Radiant Spincrystal 77
- 141078 : [EN] - Radiant Spincrystal 78
- 141079 : [EN] - Radiant Spincrystal 79
- 141080 : [EN] - Radiant Spincrystal 80
- 141081 : [EN] - Radiant Spincrystal 81
- 141082 : [EN] - Radiant Spincrystal 82
- 141083 : [EN] - Radiant Spincrystal 83
- 141084 : [EN] - Radiant Spincrystal 84
- 141085 : [EN] - Radiant Spincrystal 85
- 141086 : [EN] - Radiant Spincrystal 86
- 141087 : [EN] - Radiant Spincrystal 87
+ 141073 : Strahlender Drehkristall LXXIII
+ 141074 : Strahlender Drehkristall LXXIV
+ 141075 : Strahlender Drehkristall LXXV
+ 141076 : Strahlender Drehkristall LXXVI
+ 141077 : Strahlender Drehkristall LXXVII
+ 141078 : Strahlender Drehkristall LXXVIII
+ 141079 : Strahlender Drehkristall LXXIX
+ 141080 : Strahlender Drehkristall LXXX
+ 141081 : Strahlender Drehkristall LXXXI
+ 141082 : Strahlender Drehkristall LXXXII
+ 141083 : Strahlender Drehkristall LXXXIII
+ 141084 : Strahlender Drehkristall LXXXIV
+ 141085 : Strahlender Drehkristall LXXXV
+ 141086 : Strahlender Drehkristall LXXXVI
+ 141087 : Strahlender Drehkristall LXXXVII
  200001 : Laternenpapierfasern
  200002 : Laternenfüllung
  200003 : Plaustritbröckchen
@@ -6932,8 +6946,8 @@ setFetterLevel : Sets your fetter level for your current active character
  200108 : Alkahest
  200109 : Salbe des Augenlichts
  200110 : Perle der Dämmerung
- 200111 : [EN] - Original Fish Ointment
- 200112 : [EN] - Plume of the Changing Winds
+ 200111 : Urfisch-Salbe
+ 200112 : Feder des wechselnden Windes
  200201 : Falkentanz
  200202 : Eisenflügel
  200203 : Windquell
@@ -7001,7 +7015,7 @@ setFetterLevel : Sets your fetter level for your current active character
  200902 : Wunscherfüller
  200903 : Narukawa Ukai
  200904 : Mondschnur
- 200905 : [EN] - Serendipity
+ 200905 : Anglerglück
  210001 : Genshin Impact – Eindrücke
  210002 : Erlebnispass – Windfänger
  210003 : Amber – Hoppel
@@ -7072,7 +7086,7 @@ setFetterLevel : Sets your fetter level for your current active character
  210072 : Errungenschaft – Teezeit
  210073 : Kaedehara Kazuha – Ahornschau im Herbst
  210074 : Erlebnispass – Hochsommer
- 210075 : Errungenschaften – Feriendomizil
+ 210075 : Errungenschaft – Feriendomizil
  210076 : Feierlichkeit – Unermesslichkeit
  210077 : Feierlichkeit – Bumm-Bumm-Ball
  210078 : Feierlichkeit – Kampflied
@@ -7121,22 +7135,22 @@ setFetterLevel : Sets your fetter level for your current active character
  210121 : Erlebnispass – Himmlischer Wille
  210122 : Shikanoin Heizou – Temari
  210123 : Erlebnispass – Meeresblau
- 210124 : [EN] - Tighnari: Dew-Kissed
- 210125 : [EN] - Collei: Good Virtue
- 210126 : [EN] - Dori: Jinni
- 210127 : [EN] - Travel Notes: Woodlands
- 210128 : [EN] - Achievement: Roaming
- 210129 : [EN] - Achievement: Fated Encounter
- 210130 : [EN] - Sumeru: Shimmering Woods
- 210131 : [EN] - Sumeru: Observance
- 210132 : [EN] - Sumeru: Unsullied
- 210133 : [EN] - Travel Notes: Returning Winds
- 210134 : [EN] - ？？？
- 210135 : [EN] - ？？？
- 210136 : [EN] - ？？？
- 210137 : [EN] - Achievement: Seven Lights
- 210138 : [EN] - Sumeru: Sandtreader
- 210139 : [EN] - Achievement: Mirrored Dreams
+ 210124 : Tighnari – Vom Tau geküsst
+ 210125 : Collei – Tugend
+ 210126 : Dori – Flaschengeist
+ 210127 : Erlebnispass – Waldland
+ 210128 : Errungenschaft – Umherwandern
+ 210129 : Errungenschaft – Schicksal
+ 210130 : Sumeru – Schimmernde Wälder
+ 210131 : Sumeru – Beobachtung
+ 210132 : Sumeru – Unbefleckt
+ 210133 : Erlebnispass – Heimkehr
+ 210134 : Cyno – Innere Ruhe
+ 210135 : Candace – Graureiher
+ 210136 : Nilou – Lotostanz
+ 210137 : Errungenschaft – Sieben Farben
+ 210138 : Sumeru – Sandmeerwanderung
+ 210139 : Errungenschaft – Gespiegelte Träume
  220001 : Anemoculus-Resonanzstein
  220002 : Geoculus-Resonanzstein
  220003 : Geo-Schatzkompass
@@ -7186,25 +7200,25 @@ setFetterLevel : Sets your fetter level for your current active character
  220050 : [CHS] - (test)CD测试道具
  220051 : Aratakis große und spektakuläre Trommel
  220052 : Materialsammelgerät
- 220053 : [EN] - "Kusava"
+ 220053 : „Kusava“
  220054 : [CHS] - （test）仇恨测试道具
- 220055 : [EN] - Aranyaka
- 220057 : [EN] - Dendroculus Resonance Stone
- 220058 : [EN] - Dendro Treasure Compass
- 220059 : [EN] - "The Boon of the Elder Tree"
- 220060 : [EN] - Ultra-Hot Burner Lamp Test Model
- 220061 : [EN] - Treasure-Seeking Seelie
- 220062 : [EN] - Mini Seelie: Moss
- 220063 : [EN] - Exquisite Kamera
- 220064 : [EN] - Banu's Wisdom
- 220065 : [EN] - Fishing Line Stabilizer
- 220066 : [EN] - Vintage Lyre
- 220067 : [EN] - ？？？
+ 220055 : „Aranyaka“
+ 220057 : Dendroculus-Resonanzstein
+ 220058 : Dendro-Schatzkompass
+ 220059 : „Segen des Ashvattha“
+ 220060 : Test-Ultrahitzelampe
+ 220061 : „Schatz suchende Seelie“
+ 220062 : Miniseelie – Moos
+ 220063 : Exquisiter Fotoapparat
+ 220064 : Banus Weisheit
+ 220065 : Angelschnur-Stabilisator
+ 220066 : Alte Leier
+ 220067 : Bimm-Bamm-Feiertagstischfeuerwerk
  220068 : [CHS] - (test)赤沙石板
- 220069 : [EN] - Scarlet Sand Slate
- 220070 : [EN] - "Bubbly Kamera"
- 220071 : [EN] - "Kusava"
- 220074 : [EN] - ？？？
+ 220069 : Steinplatte roter Sande
+ 220070 : „Blasenfotoapparat“
+ 220071 : „Kusava“
+ 220074 : Türkis verzierte Papiervorrichtung – Stehende Wolken
  221001 : Erläuterung: Anemoculus-Resonanzstein
  221002 : Erläuterung: Geoculus-Resonanzstein
  221003 : Bauplan: Geo-Schatzkompass
@@ -7223,20 +7237,20 @@ setFetterLevel : Sets your fetter level for your current active character
  221016 : Bauplan: Hamayumi
  221017 : Bauplan: Wärmflasche
  221018 : Maske der Erinnerungen
- 221019 : [EN] - Tale of the Forest King
- 221020 : [EN] - Tale of the Desert
- 221021 : [EN] - Tale of the King's Squire
- 221022 : [EN] - Tale of the Moonlight
- 221023 : [EN] - Tale of the Portent
+ 221019 : Geschichte des Waldkönigs
+ 221020 : Geschichte der Wüste
+ 221021 : Geschichte über die Gefolgsfrau des Königs
+ 221022 : Geschichte des Mondscheins
+ 221023 : Geschichte des Omens
  221032 : Erläuterung: Elektroculus-Resonanzstein
  221034 : Bauplan: Elektro-Schatzkompass
  221035 : Rezept: Fruchtpastenköder
  221036 : Rezept: Rotpastenköder
  221037 : Rezept: Falscher Wurmköder
  221038 : Rezept: Falscher Fliegenköder
- 221039 : [EN] - Formula: Sugardew Bait
- 221057 : [EN] - Instructions: Dendroculus Resonance Stone
- 221058 : [EN] - Diagram: Dendro Treasure Compass
+ 221039 : Rezept: Manna-Köder
+ 221057 : Erläuterung: Dendroculus-Resonanzstein
+ 221058 : Bauplan: Dendro-Schatzkompass
  222001 : Seidendruck
  223001 : Von Bergwolken fällt der goldene Regen
  223002 : Die silberne Nacht ist voll von Sternen
@@ -7352,12 +7366,17 @@ setFetterLevel : Sets your fetter level for your current active character
  360416 : Regenbogenlichter – „Bei Sonnenaufgang feiern wir“
  360417 : „Unzählige Häuser erhellen den Mond“
  360418 : Steinbruchlampe – „Glühende Kerze“
+ 360419 : „Schlummerndes Taulicht“
+ 360420 : „Tropfend grünes Licht“
+ 360421 : „Tiefwaldbeleuchtung“
  361101 : Klappbare Theke aus nordischer Birke
  361102 : Regal aus Tanne mit offener Oberseite
  361103 : Modulare Tannenholz-Theke
  361104 : Klassischer Schrank aus Tannenholz
  361105 : Großer Kleiderschrank aus Birkenholz
  361106 : Goldgefütterter Garderobenschrank aus Dürrsandholz
+ 361107 : „Einfaches Regal aus Hellholz“
+ 361108 : Wüstenschreibtisch – „Gastfreundschaft“
  361201 : Zweistöckiges Bibliotheksbücherregal
  361202 : Edles Bücherregal aus Exquisitholz
  361203 : Preiswertes Bücherregal aus Exquisitholz
@@ -7368,6 +7387,7 @@ setFetterLevel : Sets your fetter level for your current active character
  361208 : Ladenbesitzerregal aus Zedernholz
  361209 : Bücherregal aus Ahornholz – „Tinte im Buchherzen“
  361210 : Bücherregal aus Ahornholz – „Tausend Schriften“
+ 361212 : Wüstenschrank – „Habseligkeit“
  361301 : Stabiler Bibliothekstisch
  361302 : Ritterorden-Bürotisch
  361303 : Ritterorden-Konferenztisch
@@ -7383,11 +7403,16 @@ setFetterLevel : Sets your fetter level for your current active character
  361314 : „Kühlender und wärmender“ Kotatsu aus Yumemiru-Holz
  361315 : Teetisch „Sekijou“ aus Aralia-Holz
  361316 : Teestuben-Langtisch – „Lückenlos“
+ 361317 : „Töpferwerkbank aus Hellholz“
+ 361318 : Langer Tisch aus Athel-Holz
  361401 : Brisenbelüftetes Bett
  361402 : Bett der Wolkenträume
  361403 : Bett „Sakura-Traum“ aus Yumemiru-Holz
  361501 : Empfangsstheke aus Kiefernholz
  361502 : Teestuben-Tresen – „Toshimaru“
+ 361503 : Wüstensteinplattform – „Robust“
+ 361504 : Wüstenkamin – „Wohlig warm“
+ 361505 : Wüstenlesetisch – „Gewissenhaftigkeit“
  362101 : Weiches Foyersofa
  362102 : „Klarer blauer Nachmittag“
  362103 : „Unerschütterliche Entschlossenheit“
@@ -7414,16 +7439,33 @@ setFetterLevel : Sets your fetter level for your current active character
  362217 : „Höchste Euphonie – Verflochtene Klänge“
  362218 : Festliche Düfte – „Hoch aufgetürmte Waren“
  362219 : Festliche Düfte – „Von Gold und Jade“
+ 362220 : „Sommerbankett des Meisterkochs“
+ 362221 : Gefärbte Vase – „Indigoblau“
+ 362222 : Gefärbte Vase – „Malachit“
+ 362223 : Gefärbte Vase – „Weizen“
+ 362224 : Reine Vase – „Bronze“
+ 362225 : Reine Vase – „Sattelbraun“
+ 362226 : Reine Vase – „Ocker“
+ 362227 : Reine Vase – „Sepia“
+ 362228 : Gefärbte Vase – „Muschel“
+ 362229 : Gefärbte Vase – „Dunkler Fels“
+ 362231 : „Unter verziehendem Rauch“
  362301 : Teppich (Mondstadt) – „Rotglühende Begeisterung“
  362302 : Teppich (Mondstadt) – „Unermüdliche Suche“
  362303 : Gasthausteppich – „Zuhause auf Reisen“
  362304 : Eingangsteppich – „Ein herzliches Willkommen“
+ 362305 : „Glorreicher Smaragdteppich“
+ 362306 : „Golden schillernder Teppich“
+ 362307 : „Unergründlich brauner Teppich“
+ 362308 : „Sonnendurchfluteter feierlicher Teppich“
+ 362309 : „Olivenhain-Teppich“
  363101 : Zuverlässige tragbare Lampe
  363102 : Lampe vom Liuli-Pavillon aus Dürrsandholz
  363103 : Rundhimmellaterne – „Duftende Brillanz“
  363104 : Muschel-Tischlampe
  363105 : Augenblick des Blitzes
  363106 : „Klares Sternenlicht“
+ 363107 : Wüstenlampe – „Bleibendes Licht“
  363201 : Blumenarrangement – „Himmelblaue Ruhe“
  363202 : Topfpflanze – „Kristalline Brise“
  363203 : Blumenarrangement – „Ausbreitende Morgendämmerung“
@@ -7454,6 +7496,16 @@ setFetterLevel : Sets your fetter level for your current active character
  363320 : Tavernenmischbecher – „Vollmundige Mischung“
  363321 : „Maske“
  363322 : „Wirbelnder Kosmos“
+ 363323 : „Kräuterkessel“
+ 363324 : „Viparyas“
+ 363325 : „Ein üppiger Anblick“
+ 363326 : „Jubelpose“
+ 363327 : „Zwischen Steinen erblühende Melodie“
+ 363328 : Miniatur des „Theaters Zubayr“
+ 363329 : „Geschäftszeit des Mahamatra“
+ 363330 : „Im sanften Fluss“
+ 363331 : „In der knusprigen Süße“
+ 363332 : „Im wirbelnden Nebel“
  364101 : Landschaftsmalerei – „Landhaus“
  364102 : Landschaftsmalerei – „Ferne Wolken“
  364103 : Landschaftsmalerei – „Namenloser Steilhang“
@@ -7476,6 +7528,9 @@ setFetterLevel : Sets your fetter level for your current active character
  364210 : Aufgehängte Werbetafel
  364211 : Brokatvorhang
  364212 : „Der wundersame Blick eines Drachen“
+ 364213 : Athel-Holzschild mit Metallrahmen
+ 364214 : Wüstenwanddekoration – „Sonnenuntergang“
+ 364215 : Wüstenwanddekoration – „Feuerfedern“
  364301 : Zederntür mit Fenster
  364302 : Ritterorden-Tannenholztür
  364303 : Residenztür aus Ahornholz
@@ -7557,6 +7612,12 @@ setFetterLevel : Sets your fetter level for your current active character
  368149 : Yelan
  368150 : Kuki Shinobu
  368151 : Shikanoin Heizou
+ 368152 : Tighnari
+ 368153 : Collei
+ 368154 : Dori
+ 368155 : Nilou
+ 368156 : Cyno
+ 368157 : Candace
  369101 : Grünäugige Katze
  369102 : Nordischer Hund
  369103 : Waldschwein
@@ -7614,6 +7675,17 @@ setFetterLevel : Sets your fetter level for your current active character
  369155 : Korallenschmetterling
  369156 : Glückslicht-Wanze
  369157 : Blaudonner-Marder
+ 369158 : Dendro-Kristallschmetterling
+ 369159 : Dschungelfrosch
+ 369160 : Rotschwanzechse
+ 369161 : Kleines Trüffelschwein
+ 369162 : Trüffelschwein
+ 369163 : Dämmersegler
+ 369164 : Heiliger Ibis
+ 369165 : Maskenmarder
+ 369166 : Skarabäus
+ 369167 : Treibsandaal
+ 369168 : Wüstenfuchs
  370101 : Strohhütte
  370102 : Strohlager
  370103 : Wohnhaus (Liyue) – „Abgelegener Rückzugsort“
@@ -7641,13 +7713,24 @@ setFetterLevel : Sets your fetter level for your current active character
  370301 : Belebter Warenstand
  370302 : Profitabler Obststand
  370303 : Preiswerter Obststand
- 370304 : Offene Bäckerei
+ 370304 : Offene Werkstatt
  370305 : Obstkarren mit reicher Ernte
  370306 : „Fahrender Händler nördlich des Steintors“
  370307 : Obst- und Gemüsewagen mit Rolldach
  370308 : „Kessel mit vier Abteilen“
  370309 : Obst- und Gemüsestand – „Gedeckte Tafel“
  370310 : Ramen-Stand aus Otogi-Holz
+ 370311 : „Gewebte Tiefe“
+ 370312 : „Gewebte Länge“
+ 370313 : „Gewebte Früchte“
+ 370314 : „Sanft und süß im Fluss“
+ 370315 : „Sanft und süß im Schatten“
+ 370316 : „Sanft und süß im Keller“
+ 370317 : „Geschäfte des Fischers“
+ 370318 : „Konservierungstrick des Fischers“
+ 370319 : „Wartungsarbeiten des Fischers“
+ 370320 : „Allzweck-Laden aus Hellholz“
+ 370321 : „Mobiles Grillgeschäft“
  370401 : Hütte des Hilichurl-Vorpostens
  370402 : Halle des Hilichurl-Anführers
  370501 : „Östlich von Bishui“
@@ -7696,6 +7779,17 @@ setFetterLevel : Sets your fetter level for your current active character
  370628 : Wohnhaus (Inazuma) – „Memoiren aus Watatsumi“
  370629 : Wohnhaus (Inazuma) – „Haus der Korallen“
  370630 : Wohnhaus (Inazuma) – „Sturmhaus“
+ 370700 : Waldland-Stand
+ 370701 : „Überlegung des Waldbewohners“
+ 370702 : „Schätzung des Waldbewohners“
+ 370703 : „Einsamkeit des Waldbewohners“
+ 370704 : „Standhaftigkeit des Waldbewohners“
+ 370705 : Wüstenhaus – „Gewöhnliches Leben“
+ 370706 : Wüstenhaus – „Gewürze in Hülle und Fülle“
+ 370707 : Wüstenhaus – „Hornsignal“
+ 370708 : Wüstenhaus – „Kurzschlaf“
+ 370709 : Wüstenhaus – „Verborgenes Leuchten“
+ 370710 : Wüstenhaus – „Lager“
  371101 : Springbrunnen mit Blumen- und Vogelmuster
  371102 : Hilichurl-Spiralaussichtsturm
  371103 : Einfache Hilichurl-Strohhütte
@@ -7712,6 +7806,10 @@ setFetterLevel : Sets your fetter level for your current active character
  371118 : Monolith der Raumschaffung – „Segelflug“
  371119 : Steinbruchkran – „Bergeversetzer“
  371120 : Steinbruchkran – „Hügelbändiger“
+ 371122 : Wüstenüberdachung – „Minutiös“
+ 371123 : Wüstenüberdachung – „Fragen“
+ 371124 : Wüstenüberdachung – „Welken“
+ 371125 : Wüstenüberdachung – „Ruhe“
  371201 : Adeptentor
  371202 : Hoftor aus Birkenholz
  371203 : Hofmauerende mit Schnitzerei
@@ -7745,6 +7843,12 @@ setFetterLevel : Sets your fetter level for your current active character
  371231 : Grüne Felder – „Grenze der Träume“
  371232 : Grüne Felder – „Sternblumen-Zaun“
  371233 : Grüne Felder – „Rauchiges Labyrinth“
+ 371234 : „Tor der Fantasie“
+ 371235 : „Zaun des Fischers“
+ 371236 : „Grenzen des Fischers“
+ 371237 : Wüstenstufen – „Erklimmen“
+ 371238 : Wüstenwall – „Hinterhalt“
+ 371239 : Wüstenwall – „Standhafte Abwehr“
  372101 : Felsen der Raumschaffung – „Schroffe Klippe“
  372102 : Felsen der Raumschaffung – „Auftürmung“
  372103 : Felsen der Raumschaffung – „Steiler Berg“
@@ -7752,6 +7856,8 @@ setFetterLevel : Sets your fetter level for your current active character
  372105 : Felsen der Raumschaffung – „Himmelstreppe“
  372106 : Felsen der Raumschaffung – „Exquisite Jade“
  372107 : Steinbodenbelag – „Glückliche Zeiten“
+ 372108 : Felsen der Raumschaffung – „Weite Wüste“
+ 372109 : Felsen der Raumschaffung – „Schotter“
  372201 : Versteckter Grasstein
  372202 : Stein der Selbstvervollkommnung
  372203 : Königspalaststein
@@ -7779,6 +7885,8 @@ setFetterLevel : Sets your fetter level for your current active character
  372225 : Meditative Steine
  372226 : Wellenstein
  372227 : Weißer Stein der Quelle – „Geheimes Feuer“
+ 372228 : Terrakotta mit Scheibenmuster
+ 372229 : Terrakotta mit schrägen Mustern
  372301 : „Die Farbe des Windes“
  372302 : Mondsichel-Kokospalme
  372303 : Silbersand-Kokospalme
@@ -7860,6 +7968,26 @@ setFetterLevel : Sets your fetter level for your current active character
  372446 : „Kerzenstrauch der Ewigen Nacht“
  372447 : Malvenzitterpilz
  372448 : Malvenspitzenpilz
+ 372449 : Blassroter Schwingpilz
+ 372450 : Brauner Palmpilz
+ 372451 : Aprikosengelber Dorrlaubpilz
+ 372452 : Sandiger Kuppelpilz
+ 372453 : Verwurzeltes Schirmblatt
+ 372454 : „Verborgene Stärke“
+ 372455 : „Wie das Omen des Morgengrauens“
+ 372456 : „Wie die Sterne am Himmel“
+ 372457 : „Wie Bruchstücke des Mondes“
+ 372458 : „Wie das um sich greifende Abendrot“
+ 372459 : „Verborgene Süße“
+ 372460 : „Verstecktes Salz“
+ 372461 : „Kühle des brennenden Sandes“
+ 372462 : „Duftende Zweige im Schlaf“
+ 372463 : „Blattadern geschmeidig und subtil“
+ 372464 : „Wie in der Ferne brennende Sterne“
+ 372465 : „Im Wasser brodelnde Farben“
+ 372466 : „Halb im Sand vergrabene Briefe“
+ 372467 : „Wie der Schein der gleißenden Sonne“
+ 372468 : „Trampeln und Springen verboten!“
  372501 : Ein Pfad der Werte – Jadefeld
  372502 : Ein Pfad der Werte – Üppiger Acker
  372503 : Ein Pfad der Werte – Gepflegtes Feld
@@ -7908,8 +8036,13 @@ setFetterLevel : Sets your fetter level for your current active character
  373137 : Ofen für Hochleistungsrestaurants
  373138 : Gelassene Flammen
  373139 : Birnengarten-Schnarrtrommel – „Ein Trio“
- 373140 : Birnengarten-Schlagzeug  – „Gongs und Zimbeln“
+ 373140 : Birnengarten-Schlagzeug – „Gongs und Zimbeln“
  373141 : #„Allegro-Blume – Besondere{NON_BREAK_SPACE}Stimmung“
+ 373142 : „Fang des Fischers“
+ 373143 : „Hausmannskost des Fischers“
+ 373144 : „Aufbewahrungslösung des Fischers“
+ 373145 : „Bemühungen des Fischers“
+ 373146 : „Scharfsinn des Fischers“
  373201 : Topfpflanze – „Kleine Oase“
  373202 : Wasserspeicherndes Blumenbeet
  373203 : Holzfass zum Transport von Erde
@@ -7931,7 +8064,7 @@ setFetterLevel : Sets your fetter level for your current active character
  373311 : Ländlicher Teestand
  373312 : „Die Schätze der Abenteurer“
  373313 : „Chor der Hexen“
- 373314 : „Wiederhallende Melodie“
+ 373314 : „Widerhallende Melodie“
  373315 : Orakelstäbchenanhänger „Saikyo“ aus Yumemiru-Holz
  373316 : Narukami-Flagge
  373317 : Feldlager-Bogenständer – „Klirrende Federn“
@@ -7972,6 +8105,12 @@ setFetterLevel : Sets your fetter level for your current active character
  373352 : „Dodocos Strandnickerchen“
  373353 : „Dodocos Schatzvitrine“
  373354 : „Dodocos Strandschirm“
+ 373355 : „Handwerk des Fischers“
+ 373356 : „Unverzichtbare Dinge“
+ 373357 : „Flammen der Brigaden“
+ 373358 : „Verkörperung der Kriegsführung“
+ 373359 : „Stahlbarrikade“
+ 373360 : „Odyssee der Brigaden“
  373401 : Eiserne Straßenlaterne mit Gravur
  373402 : Kiefernholz-Straßenlaterne in der Wildnis
  373403 : Geister vertreibende Laterne – „Lichtspender“
@@ -7990,6 +8129,7 @@ setFetterLevel : Sets your fetter level for your current active character
  373416 : Straßenlaterne „Renzou“ aus Aralia-Holz
  373501 : Kannenreich-Teleportationspunkt
  373601 : Geistwolkenbecken
+ 373602 : „Kristallklares Aquarium“
  373701 : Blumenständer – Von einst
  373702 : Blumenständer – Flüchtiges Leben
  373703 : Blumenständer – Windgesang
@@ -8071,6 +8211,42 @@ setFetterLevel : Sets your fetter level for your current active character
  374026 : Schneemann-Nase – „Lügenmöhre“
  374027 : Schneemann-Nase – „Berühre mich!“
  374028 : Schneemann-Nase – „Apfelbombe“
+ 374031 : Naturbelassener Holzfigurenrumpf – „Lebhaft“
+ 374032 : Naturbelassener Holzfigurenrumpf – „Gemütlich ruhend“
+ 374033 : Naturbelassener Holzfigurenrumpf – „Tigergebrüll“
+ 374034 : Naturbelassener Holzfigurenrumpf – „Weiser Ältester“
+ 374035 : Blumiger Holzfigurenrumpf – „Lebhaft“
+ 374036 : Blumiger Holzfigurenrumpf – „Gemütlich ruhend“
+ 374037 : Blumiger Holzfigurenrumpf – „Tigergebrüll“
+ 374038 : Blumiger Holzfigurenrumpf – „Weiser Ältester“
+ 374039 : Aquamarinblauer Holzfigurenrumpf – „Lebhaft“
+ 374040 : Aquamarinblauer Holzfigurenrumpf – „Gemütlich ruhend“
+ 374041 : Aquamarinblauer Holzfigurenrumpf – „Tigergebrüll“
+ 374042 : Aquamarinblauer Holzfigurenrumpf – „Weiser Ältester“
+ 374051 : Naturbelassener Holzfigurenkopf – „Ho Ho“
+ 374052 : Naturbelassener Holzfigurenkopf – „He He“
+ 374053 : Naturbelassener Holzfigurenkopf – „Hmm Hmm“
+ 374054 : Naturbelassener Holzfigurenkopf – „Buu Huu“
+ 374055 : Blumiger Holzfigurenkopf – „Ho Ho“
+ 374056 : Blumiger Holzfigurenkopf – „He He“
+ 374057 : Blumiger Holzfigurenkopf – „Hmm Hmm“
+ 374058 : Blumiger Holzfigurenkopf – „Buu Huu“
+ 374059 : Aquamarinblauer Holzfigurenkopf – „Ho Ho“
+ 374060 : Aquamarinblauer Holzfigurenkopf – „He He“
+ 374061 : Aquamarinblauer Holzfigurenkopf – „Hmm Hmm“
+ 374062 : Aquamarinblauer Holzfigurenkopf – „Buu Huu“
+ 374071 : Holzfigurenaugen – „Ich höre zu“
+ 374072 : Holzfigurenaugen – „Sei gegrüßt!“
+ 374073 : Holzfigurenaugen – „Wie bitte?“
+ 374074 : Holzfigurenaugen – „Aber nicht doch!“
+ 374081 : Holzfigurenhut – „Fahrende Händlerin“
+ 374082 : Holzfigurenhut – „Bewohner des Waldes“
+ 374083 : Holzfigurenhut – „Wahrsagerin“
+ 374084 : Holzfigurenhut – „Faulenzerin“
+ 374085 : Holzfigurenhut – „Bestatterin“
+ 374091 : Holzfigurenumhang – „Waldschutzpatron“
+ 374092 : Holzfigurenumhang – „Gelehrter“
+ 374093 : Holzfigurenumhang – „Sängerin“
  374101 : Verwitterter Bambuszaun
  374102 : Stabiler Kiefernzaun
  374103 : Hilichurl-Holzzaun
@@ -8114,6 +8290,22 @@ setFetterLevel : Sets your fetter level for your current active character
  374503 : Steinbodenbelag – „Doppelte Geschwindigkeit und Sicherheit“
  374504 : Grüne Felder – „Keksstraße“
  374505 : Steinbodenbelag – „Großartiger Aufbau“
+ 374700 : „Favonius-Wohltätigkeitsladen“
+ 374701 : Ladenzelt – „Valbeerrot“
+ 374702 : Ladenzelt – „Löwenzahngrün“
+ 374703 : Ladenzelt – „Mostseeblau“
+ 374704 : Landschaftsdeko – „Angemessen gesüßt“
+ 374705 : Landschaftsdeko – „Überraschungsgeschenk“
+ 374706 : Landschaftsdeko – „Helles Aroma“
+ 374707 : Hängedeko – „Sichtbarer Geschmack“
+ 374708 : Hängedeko – „Ordentlich eingereiht“
+ 374709 : Hängedeko – „Kellnervögelchen“
+ 374710 : Hängedeko – „Nur einen Bissen“
+ 374711 : Hängedeko – „Ein Korb sanfter Düfte“
+ 374712 : Hängedeko – „Herzlich Willkommen!“
+ 374713 : Ausgestellte Waren – „Guten Appetit!“
+ 374714 : Ausgestellte Waren – „Unschlagbarer Preis“
+ 374715 : Ausgestellte Waren – „Duftig, deftig“
  375101 : Herrenhaus (Mondstadt) – „Herrenhaus des Windes“
  375103 : Eingemauertes Haus (Inazuma) – „Raffinierte Residenz“
  376101 : Freizeitvorrichtung – Rennender Rhythmus
@@ -8181,6 +8373,12 @@ setFetterLevel : Sets your fetter level for your current active character
  379021 : Bitterer Kugelfisch
  379022 : Divda-Rochen
  379023 : Formalo-Rochen
+ 379024 : Echtfrucht-Hornkugelfisch
+ 379025 : Tiefwellen-Pfirsich
+ 379026 : Sandsturm-Hornkugelfisch
+ 379027 : Dämmerwolken-Hornkugelfisch
+ 379028 : Lasurit-Axt-Marlin
+ 379029 : Jade-Axt-Marlin
  380101 : Holzwand mit Jadetraufe
  380102 : Dunkle Holzbogenwand
  380103 : Ahornholz-Bogenwand
@@ -8207,17 +8405,17 @@ setFetterLevel : Sets your fetter level for your current active character
  380415 : Blühende Kerze – „Rein wie Lotos“
  380416 : Regenbogenlichter – „Bei Sonnenaufgang feiern wir“
  380418 : Steinbruchlampe – „Glühende Kerze“
- 380419 : [EN] - Slumbering Dewlight
- 380420 : [EN] - Dripping Verdant Light
- 380421 : [EN] - Deepwood Illumination
+ 380419 : „Schlummerndes Taulicht“
+ 380420 : „Tropfend grünes Licht“
+ 380421 : „Tiefwaldbeleuchtung“
  381101 : Klappbare Theke aus nordischer Birke
  381102 : Regal aus Tanne mit offener Oberseite
  381103 : Modulare Tannenholz-Theke
  381104 : Klassischer Schrank aus Tannenholz
  381105 : Großer Kleiderschrank aus Birkenholz
  381106 : Goldgefütterter Garderobenschrank aus Dürrsandholz
- 381107 : [EN] - Plain Brightwood Shelf
- 381108 : [CHS] - test阿如村室内柜子1
+ 381107 : „Einfaches Regal aus Hellholz“
+ 381108 : Wüstenschreibtisch – „Gastfreundschaft“
  381201 : Zweistöckiges Bibliotheksbücherregal
  381202 : Edles Bücherregal aus Exquisitholz
  381203 : Preiswertes Bücherregal aus Exquisitholz
@@ -8228,7 +8426,7 @@ setFetterLevel : Sets your fetter level for your current active character
  381208 : Ladenbesitzerregal aus Zedernholz
  381209 : Bücherregal aus Ahornholz – „Tinte im Buchherzen“
  381210 : Bücherregal aus Ahornholz – „Tausend Schriften“
- 381212 : [CHS] - test阿如村室内书柜1
+ 381212 : Wüstenschrank – „Habseligkeit“
  381301 : Stabiler Bibliothekstisch
  381302 : Ritterorden-Bürotisch
  381303 : Ritterorden-Konferenztisch
@@ -8244,16 +8442,16 @@ setFetterLevel : Sets your fetter level for your current active character
  381314 : „Kühlender und wärmender“ Kotatsu aus Yumemiru-Holz
  381315 : Teetisch „Sekijou“ aus Aralia-Holz
  381316 : Teestuben-Langtisch – „Lückenlos“
- 381317 : [EN] - Brightwood Pottery Worktable
- 381318 : [CHS] - test阿如村室内桌子1
+ 381317 : „Töpferwerkbank aus Hellholz“
+ 381318 : Langer Tisch aus Athel-Holz
  381401 : Brisenbelüftetes Bett
  381402 : Bett der Wolkenträume
  381403 : Bett „Sakura-Traum“ aus Yumemiru-Holz
  381501 : Empfangsstheke aus Kiefernholz
  381502 : Teestuben-Tresen – „Toshimaru“
- 381503 : [CHS] - test阿如村室内厨台
- 381504 : [CHS] - test阿如村室内火炉1
- 381505 : [CHS] - test阿如村室内木阶梯1
+ 381503 : Wüstensteinplattform – „Robust“
+ 381504 : Wüstenkamin – „Wohlig warm“
+ 381505 : Wüstenlesetisch – „Gewissenhaftigkeit“
  382101 : Weiches Foyersofa
  382102 : „Klarer blauer Nachmittag“
  382103 : „Unerschütterliche Entschlossenheit“
@@ -8279,31 +8477,31 @@ setFetterLevel : Sets your fetter level for your current active character
  382216 : Faltschirm „Jukaku“ aus Yumemiru-Holz
  382218 : Festliche Düfte – „Hoch aufgetürmte Waren“
  382219 : Festliche Düfte – „Von Gold und Jade“
- 382221 : [EN] - Hued Vase: Cerulean
- 382222 : [EN] - Hued Vase: Malachite
- 382223 : [EN] - Hued Vase: Amber
- 382224 : [EN] - Plain Vase: Bronze
- 382225 : [EN] - Plain Vase: Tawny
- 382226 : [EN] - Plain Vase: Ocher
- 382227 : [EN] - Plain Vase: Sepia
- 382228 : [CHS] - test阿如村室内陶罐1
- 382229 : [CHS] - test阿如村室内陶罐2
- 382231 : [CHS] - test须弥室内香炉bp用
+ 382221 : Gefärbte Vase – „Indigoblau“
+ 382222 : Gefärbte Vase – „Malachit“
+ 382223 : Gefärbte Vase – „Weizen“
+ 382224 : Reine Vase – „Bronze“
+ 382225 : Reine Vase – „Sattelbraun“
+ 382226 : Reine Vase – „Ocker“
+ 382227 : Reine Vase – „Sepia“
+ 382228 : Gefärbte Vase – „Muschel“
+ 382229 : Gefärbte Vase – „Dunkler Fels“
+ 382231 : „Unter verziehendem Rauch“
  382301 : Teppich (Mondstadt) – „Rotglühende Begeisterung“
  382302 : Teppich (Mondstadt) – „Unermüdliche Suche“
  382303 : Gasthausteppich – „Zuhause auf Reisen“
  382304 : Eingangsteppich – „Ein herzliches Willkommen“
- 382305 : [EN] - Glorious Emerald Tapestry
- 382306 : [EN] - Dazzling Golden Tapestry
- 382307 : [EN] - Musing Tawny Tapestry
- 382308 : [CHS] - test阿如村室内地毯1
- 382309 : [CHS] - test通用室内地毯4
+ 382305 : „Glorreicher Smaragdteppich“
+ 382306 : „Golden schillernder Teppich“
+ 382307 : „Unergründlich brauner Teppich“
+ 382308 : „Sonnendurchfluteter feierlicher Teppich“
+ 382309 : „Olivenhain-Teppich“
  383101 : Zuverlässige tragbare Lampe
  383102 : Lampe vom Liuli-Pavillon aus Dürrsandholz
  383103 : Rundhimmellaterne – „Duftende Brillanz“
  383104 : Muschel-Tischlampe
  383106 : „Klares Sternenlicht“
- 383107 : [CHS] - test阿如村室内地灯1
+ 383107 : Wüstenlampe – „Bleibendes Licht“
  383201 : Blumenarrangement – „Himmelblaue Ruhe“
  383202 : Topfpflanze – „Kristalline Brise“
  383203 : Blumenarrangement – „Ausbreitende Morgendämmerung“
@@ -8330,11 +8528,11 @@ setFetterLevel : Sets your fetter level for your current active character
  383317 : Fuchsspielzeug – „Göttlicher Geruchssinn“
  383318 : Tanuki-Spielzeug – „Echte Kochkunst“
  383322 : „Wirbelnder Kosmos“
- 383325 : [EN] - A Lush Glimpse
- 383326 : [EN] - Jubilant Posture
- 383330 : [CHS] - test阿如村室内茶具套装
- 383331 : [CHS] - test阿如村室内桌面摆件
- 383332 : [CHS] - test阿如村室内桌面香炉
+ 383325 : „Ein üppiger Anblick“
+ 383326 : „Jubelpose“
+ 383330 : „Im sanften Fluss“
+ 383331 : „In der knusprigen Süße“
+ 383332 : „Im wirbelnden Nebel“
  384101 : Landschaftsmalerei – „Landhaus“
  384102 : Landschaftsmalerei – „Ferne Wolken“
  384103 : Landschaftsmalerei – „Namenloser Steilhang“
@@ -8356,9 +8554,9 @@ setFetterLevel : Sets your fetter level for your current active character
  384209 : Aufgehängte Notiztafel
  384210 : Aufgehängte Werbetafel
  384211 : Brokatvorhang
- 384213 : [CHS] - test须弥盾牌墙面挂饰
- 384214 : [CHS] - test阿如村室内墙面布帘1
- 384215 : [CHS] - test阿如村室内墙面装饰1
+ 384213 : Athel-Holzschild mit Metallrahmen
+ 384214 : Wüstenwanddekoration – „Sonnenuntergang“
+ 384215 : Wüstenwanddekoration – „Feuerfedern“
  384501 : „Moment des Nachklangs“
  390101 : Strohhütte
  390102 : Strohlager
@@ -8387,24 +8585,24 @@ setFetterLevel : Sets your fetter level for your current active character
  390301 : Belebter Warenstand
  390302 : Profitabler Obststand
  390303 : Preiswerter Obststand
- 390304 : Offene Bäckerei
+ 390304 : Offene Werkstatt
  390305 : Obstkarren mit reicher Ernte
  390306 : „Fahrender Händler nördlich des Steintors“
  390307 : Obst- und Gemüsewagen mit Rolldach
  390308 : „Kessel mit vier Abteilen“
  390309 : Obst- und Gemüsestand – „Gedeckte Tafel“
  390310 : Ramen-Stand aus Otogi-Holz
- 390311 : [EN] - Woven Depth
- 390312 : [EN] - Woven Length
- 390313 : [EN] - Woven Fruition
- 390314 : [EN] - Sweetness in Exchange
- 390315 : [EN] - Sweetness in the Shade
- 390316 : [EN] - Sweetness in Storage
- 390317 : [EN] - Fisherman's Dealings
- 390318 : [EN] - Fisherman's Preservation Trick
- 390319 : [EN] - Fisherman's Maintenance
- 390320 : [EN] - Brightwood Grocery Stall
- 390321 : [EN] - Brightwood Kebab Cart
+ 390311 : „Gewebte Tiefe“
+ 390312 : „Gewebte Länge“
+ 390313 : „Gewebte Früchte“
+ 390314 : „Sanft und süß im Fluss“
+ 390315 : „Sanft und süß im Schatten“
+ 390316 : „Sanft und süß im Keller“
+ 390317 : „Geschäfte des Fischers“
+ 390318 : „Konservierungstrick des Fischers“
+ 390319 : „Wartungsarbeiten des Fischers“
+ 390320 : „Allzweck-Laden aus Hellholz“
+ 390321 : „Mobiles Grillgeschäft“
  390401 : Hütte des Hilichurl-Vorpostens
  390402 : Halle des Hilichurl-Anführers
  390501 : „Östlich von Bishui“
@@ -8453,16 +8651,16 @@ setFetterLevel : Sets your fetter level for your current active character
  390628 : Wohnhaus (Inazuma) – „Memoiren aus Watatsumi“
  390629 : Wohnhaus (Inazuma) – „Haus der Korallen“
  390630 : Wohnhaus (Inazuma) – „Sturmhaus“
- 390701 : [EN] - Deepwood Dweller's Deliberation
- 390702 : [EN] - Deepwood Dweller's Estimation
- 390703 : [EN] - Deepwood Dweller's Lonesome
- 390704 : [EN] - Deepwood Dweller's Perseverance
- 390705 : [CHS] - test阿如村建筑1
- 390706 : [CHS] - test阿如村建筑2
- 390707 : [CHS] - test阿如村建筑3
- 390708 : [CHS] - test阿如村建筑4
- 390709 : [CHS] - test阿如村建筑5
- 390710 : [CHS] - test阿如村建筑6
+ 390701 : „Überlegung des Waldbewohners“
+ 390702 : „Schätzung des Waldbewohners“
+ 390703 : „Einsamkeit des Waldbewohners“
+ 390704 : „Standhaftigkeit des Waldbewohners“
+ 390705 : Wüstenhaus – „Gewöhnliches Leben“
+ 390706 : Wüstenhaus – „Gewürze in Hülle und Fülle“
+ 390707 : Wüstenhaus – „Hornsignal“
+ 390708 : Wüstenhaus – „Kurzschlaf“
+ 390709 : Wüstenhaus – „Verborgenes Leuchten“
+ 390710 : Wüstenhaus – „Lager“
  391101 : Springbrunnen mit Blumen- und Vogelmuster
  391102 : Hilichurl-Spiralaussichtsturm
  391103 : Einfache Hilichurl-Strohhütte
@@ -8479,10 +8677,10 @@ setFetterLevel : Sets your fetter level for your current active character
  391118 : Monolith der Raumschaffung – „Segelflug“
  391119 : Steinbruchkran – „Bergeversetzer“
  391120 : Steinbruchkran – „Hügelbändiger“
- 391122 : [CHS] - test阿如村棚子1
- 391123 : [CHS] - test阿如村棚子2
- 391124 : [CHS] - test阿如村棚子3
- 391125 : [CHS] - test阿如村棚子4
+ 391122 : Wüstenüberdachung – „Minutiös“
+ 391123 : Wüstenüberdachung – „Fragen“
+ 391124 : Wüstenüberdachung – „Welken“
+ 391125 : Wüstenüberdachung – „Ruhe“
  391201 : Adeptentor
  391202 : Hoftor aus Birkenholz
  391203 : Hofmauerende mit Schnitzerei
@@ -8513,11 +8711,11 @@ setFetterLevel : Sets your fetter level for your current active character
  391228 : Äußere Quellenmauer – „Kletterfest“
  391229 : Quellen-Mauerplatte – „Fester Halt“
  391230 : Quellen-Foyer – „Schutz vor der Kälte“
- 391235 : [EN] - Fisherman's Fence
- 391236 : [EN] - "No Fishing Ahead"
- 391237 : [CHS] - test阿如村楼梯
- 391238 : [CHS] - test阿如村围墙墙体长
- 391239 : [CHS] - test阿如村围墙墙体短
+ 391235 : „Zaun des Fischers“
+ 391236 : „Grenzen des Fischers“
+ 391237 : Wüstenstufen – „Erklimmen“
+ 391238 : Wüstenwall – „Hinterhalt“
+ 391239 : Wüstenwall – „Standhafte Abwehr“
  392107 : Steinbodenbelag – „Glückliche Zeiten“
  393101 : Durcheinander gestapelte Tannen-Frachtkisten
  393102 : Ordentlich gestapelte Tannenweinfässer
@@ -8556,11 +8754,11 @@ setFetterLevel : Sets your fetter level for your current active character
  393137 : Ofen für Hochleistungsrestaurants
  393138 : Gelassene Flammen
  393141 : #„Allegro-Blume – Besondere{NON_BREAK_SPACE}Stimmung“
- 393142 : [EN] - Fisherman's Catch
- 393143 : [EN] - Fisherman's Delicacy
- 393144 : [EN] - Fisherman's Storage Solution
- 393145 : [EN] - Fisherman's Efforts
- 393146 : [EN] - Fisherman's Clemency
+ 393142 : „Fang des Fischers“
+ 393143 : „Hausmannskost des Fischers“
+ 393144 : „Aufbewahrungslösung des Fischers“
+ 393145 : „Bemühungen des Fischers“
+ 393146 : „Scharfsinn des Fischers“
  393201 : Topfpflanze – „Kleine Oase“
  393202 : Wasserspeicherndes Blumenbeet
  393203 : Holzfass zum Transport von Erde
@@ -8609,12 +8807,12 @@ setFetterLevel : Sets your fetter level for your current active character
  393352 : „Dodocos Strandnickerchen“
  393353 : „Dodocos Schatzvitrine“
  393354 : „Dodocos Strandschirm“
- 393355 : [EN] - Fisherman's Craftsmanship
- 393356 : [EN] - The Essentials
- 393357 : [EN] - The Eremites' Flame of Vigor
- 393358 : [EN] - Embodiment of Warfare
- 393359 : [EN] - Steel Stopper
- 393360 : [EN] - The Eremites' Odyssey
+ 393355 : „Handwerk des Fischers“
+ 393356 : „Unverzichtbare Dinge“
+ 393357 : „Flammen der Brigaden“
+ 393358 : „Verkörperung der Kriegsführung“
+ 393359 : „Stahlbarrikade“
+ 393360 : „Odyssee der Brigaden“
  393401 : Eiserne Straßenlaterne mit Gravur
  393402 : Kiefernholz-Straßenlaterne in der Wildnis
  393403 : Geister vertreibende Laterne – „Lichtspender“
@@ -8632,7 +8830,7 @@ setFetterLevel : Sets your fetter level for your current active character
  393415 : Einfache Straßenbeleuchtung aus Otogi-Holz
  393416 : Straßenlaterne „Renzou“ aus Aralia-Holz
  393601 : Geistwolkenbecken
- 393602 : [EN] - Shaded Clarity
+ 393602 : „Kristallklares Aquarium“
  394101 : Verwitterter Bambuszaun
  394102 : Stabiler Kiefernzaun
  394103 : Hilichurl-Holzzaun
@@ -8783,7 +8981,7 @@ setFetterLevel : Sets your fetter level for your current active character
 21011302 : Kryo-Hilichurl-Grenadier – Verstärkter Angriff
 21011401 : Hilichurl mit Eisschild
 21011402 : Hilichurl mit Eisschild (Theater der Vorrichtungen)
-21011403 : [JP] - ヒルチャール·氷盾-雪山イベント
+21011403 : [EN] - Ice Shield Hilichurl Guard: Dragonspine Event
 21011501 : Merkwürdiger unbewaffneter Hilichurl
 21011601 : Elektro-Hilichurl-Grenadier
 21011602 : Elektro-Hilichurl-Grenadier–VerstärkterAngriff
@@ -8854,7 +9052,7 @@ setFetterLevel : Sets your fetter level for your current active character
 22040201 : Donnerfressender Garmwelpe
 22050101 : Felsenfressender Garm
 22050201 : Donnerfressender Garm
-22060101 : [JP] - 黄金王獣
+22060101 : [EN] - Golden Wolflord
 22070101 : [N/A] 4247441641
 22070102 : [N/A] 1947288681
 22070201 : [N/A] 1402090241
@@ -8967,9 +9165,9 @@ setFetterLevel : Sets your fetter level for your current active character
 25090102 : Marionetten-Shougun – Wind-Bunshin
 25090103 : Marionetten-Shougun – Eis-Bunshin
 25090104 : Marionetten-Shougun – Masken-Bunshin
-25090201 : [JP] - 傀儡将軍-風分身（アイコン有り）
-25090301 : [JP] - 傀儡将軍-氷分身（アイコン有り）
-25090401 : [JP] - 傀儡将軍-仮面分身（アイコン有り）
+25090201 : [EN] - Marionette General: Wind Bunshin (With Icon)
+25090301 : [EN] - Marionette General: Ice Bunshin (With Icon)
+25090401 : [EN] - Marionette General: Masked Bunshin (With Icon)
 25100101 : Elektro-Kairagi
 25100102 : [N/A] 280790529
 25100201 : Pyro-Kairagi
@@ -9023,7 +9221,7 @@ setFetterLevel : Sets your fetter level for your current active character
 25410201 : [N/A] 1223193297
 26010101 : Kryo-Vaniloqua
 26010102 : Kryo-Vaniloqua (Aktion auf dem Drachengrat)
-26010103 : [JP] - 巨大トリックフラワー·氷（2.3雪山イベント）
+26010103 : [EN] - Giant Cryo Whopperflower (2.3 Dragonspine Event)
 26010104 : [N/A] 2622496017
 26010201 : Pyro-Vaniloqua
 26010301 : Elektro-Vaniloqua
@@ -9121,7 +9319,7 @@ setFetterLevel : Sets your fetter level for your current active character
 28020403 : Shiba
 28020404 : Schwarzrücken-Jagdhund
 28020405 : Shiba
-28020406 : [JP] - ハスキー（犬イベント専用、カメラ距離拡大）
+28020406 : [EN] - Northland Hound (Dog Event Special, Extended LoS Range)
 28020407 : [N/A] 4246448217
 28020408 : [N/A] 279322729
 28020409 : [N/A] 3045582529
@@ -9134,7 +9332,7 @@ setFetterLevel : Sets your fetter level for your current active character
 28020506 : Kammerjägerkatze
 28020507 : Schwarze Katze
 28020508 : Saphir
-28020509 : [JP] - グレースノウ（犬イベント専用、カメラ距離拡大）
+28020509 : [EN] - Gray Snow Cat (Dog Event Special, Extended LoS Range)
 28020510 : [N/A] 4118163561
 28020511 : [N/A] 370467545
 28020512 : [N/A] 1412852081
@@ -9145,12 +9343,12 @@ setFetterLevel : Sets your fetter level for your current active character
 28020604 : Maskenmarder
 28020605 : [N/A] 4171435641
 28020701 : Kitsune
-28020702 : [JP] - 狐（犬イベント専用、カメラ距離拡大）
+28020702 : [EN] - Kitsune (Dog Event Special, Extended LoS Range)
 28020801 : Bakedanuki
 28020802 : [N/A] 2189860961
 28020803 : [N/A] 652433657
-28020901 : [JP] - 武士犬（パトロール）
-28020902 : [JP] - 武士犬（戦闘）
+28020901 : [EN] - Samurai Dog (Patrol)
+28020902 : [EN] - Samurai Dog (Combat)
 28020903 : [N/A] 467002241
 28030101 : Blauer Kranich
 28030102 : Lila Ibis
@@ -9286,33 +9484,33 @@ setFetterLevel : Sets your fetter level for your current active character
 28061301 : [N/A] 3469996769
 28061401 : [N/A] 2330015681
 28061402 : [N/A] 3443985385
-28210101 : [JP] - 洞天黄金ガニ
-28210102 : [JP] - 洞天太陽ガニ
-28210103 : [JP] - 洞天紺青ガニ
-28210104 : [JP] - 洞天将軍ガニ
-28210105 : [JP] - 洞天薄紅ガニ
-28210201 : [JP] - 洞天青トカゲ
-28210202 : [JP] - 洞天赤トカゲ
-28210203 : [JP] - 洞天緑トカゲ
-28210204 : [JP] - 洞天落日サンショウウオ
-28210205 : [JP] - 洞天金サンショウウオ
-28210206 : [JP] - 洞天晴天サンショウウオ
-28210207 : [JP] - 洞天髄喰いトカゲ
+28210101 : [EN] - Domestic Golden Crab
+28210102 : [EN] - Domestic Sun Crab
+28210103 : [EN] - Domestic Ocean Crab
+28210104 : [EN] - Domestic General Crab
+28210105 : [EN] - Domestic Pale Red Crab
+28210201 : [EN] - Domestic Blue Horned Lizard
+28210202 : [EN] - Domestic Red Horned Lizard
+28210203 : [EN] - Domestic Green Horned Lizard
+28210204 : [EN] - Domestic Sunset Loach
+28210205 : [EN] - Domestic Golden Loach
+28210206 : [EN] - Domestic Sunny Loach
+28210207 : [EN] - Domestic Marrow Lizard
 28210208 : [N/A] 4168682209
-28210301 : [JP] - 洞天カエル
-28210302 : [JP] - 洞天泥カエル
-28210303 : [JP] - 洞天青カエル
+28210301 : [EN] - Domestic Frog
+28210302 : [EN] - Domestic Mud Frog
+28210303 : [EN] - Domestic Blue Frog
 28210304 : [N/A] 1743923249
-28210401 : [JP] - 洞天藤紋陸ウナギ
+28210401 : [EN] - Domestic Adorned Unagi
 28210402 : [N/A] 1700882065
-28210403 : [JP] - 洞天赤鰭陸ウナギ
+28210403 : [EN] - Domestic Red-Finned Unagi
 28210404 : [N/A] 1020919801
-28220101 : [JP] - 洞天雪狐
-28220102 : [JP] - 洞天赤狐
+28220101 : [EN] - Domestic Snow Fox
+28220102 : [EN] - Domestic Crimson Fox
 28220108 : [N/A] 3596224209
-28220201 : [JP] - 洞天リス
+28220201 : [EN] - Domestic Squirrel
 28220301 : Waldschwein (Haustier)
-28220303 : [JP] - 洞天雪のイノシシ
+28220303 : [EN] - Domestic Snowboar
 28220313 : [N/A] 2460569713
 28220314 : [N/A] 3974077529
 28220401 : Nordischer Hund (Haustier)
@@ -9321,31 +9519,31 @@ setFetterLevel : Sets your fetter level for your current active character
 28220404 : Schwarzrücken-Jagdhund (Haustier)
 28220501 : Saphir (heimisch)
 28220502 : Grünäugige Katze (Haustier)
-28220503 : [JP] - 洞天グレースノウ
+28220503 : [EN] - Domestic Gray Snow Cat
 28220504 : Nordische Katze (Haustier)
 28220505 : Tigerstreifenkatze (Haustier)
 28220506 : Kammerjägerkatze (Haustier)
-28220601 : [JP] - 洞天雪隠れのイタチ
-28220602 : [JP] - 洞天赤尾イタチ
-28220603 : [JP] - 洞天ブーツイタチ
+28220601 : [EN] - Domestic Snow Weasel
+28220602 : [EN] - Domestic Red-Tailed Weasel
+28220603 : [EN] - Domestic Boot Weasel
 28220604 : [N/A] 3102074185
 28220605 : [N/A] 1207799537
-28220701 : [JP] - 洞天狐
-28220901 : [JP] - 洞天武士犬
+28220701 : [EN] - Domestic Kitsune
+28220901 : [EN] - Domestic Samurai Dog
 28230101 : Blauer Kranich (Haustier)
-28230102 : [JP] - 洞天スミレトキ
+28230102 : [EN] - Domestic Violet Ibis
 28230104 : [N/A] 811422561
-28230301 : [JP] - 洞天白鳩
-28230302 : [JP] - 洞天璃冠鳩
-28230303 : [JP] - 洞天灰羽鳩
-28230304 : [JP] - 洞天赤脇鳩
-28230305 : [JP] - 洞天黒王鳩
-28230306 : [JP] - 洞天カラス
+28230301 : [EN] - Domestic White Pigeon
+28230302 : [EN] - Domestic Brightcrown Pigeon
+28230303 : [EN] - Domestic Graywing Pigeon
+28230304 : [EN] - Domestic Crimsonflank Pigeon
+28230305 : [EN] - Domestic Black King Pigeon
+28230306 : [EN] - Domestic Crow
 28230313 : [N/A] 3724967537
-28230401 : [JP] - 洞天赤ヤマガラ
-28230402 : [JP] - 洞天金ヤマガラ
-28230403 : [JP] - 洞天雪ヤマガラ
-28230404 : [JP] - 洞天碧ヤマガラ
+28230401 : [EN] - Domestic Crimson Finch
+28230402 : [EN] - Domestic Golden Finch
+28230403 : [EN] - Domestic Snow Finch
+28230404 : [EN] - Domestic Emerald Finch
 28240201 : Medaka (Haustier)
 28240202 : Glasmedaka (Haustier)
 28240203 : Zuckerblumen-Medaka (Haustier)
@@ -9375,10 +9573,10 @@ setFetterLevel : Sets your fetter level for your current active character
 28240804 : [N/A] 2847515857
 28240901 : [N/A] 4288334729
 28240902 : [N/A] 2843011617
-28250101 : [JP] - 洞天風晶蝶
-28250102 : [JP] - 洞天岩晶蝶
-28250103 : [JP] - 洞天氷晶蝶
-28250104 : [JP] - 洞天雷晶蝶
+28250101 : [EN] - Domestic Anemo Crystalfly
+28250102 : [EN] - Domestic Geo Crystalfly
+28250103 : [EN] - Domestic Cryo Crystalfly
+28250104 : [EN] - Domestic Electro Crystalfly
 28250105 : [N/A] 2439255201
 28250106 : [N/A] 3343647737
 28250301 : [N/A] 2411901113
@@ -11768,7 +11966,7 @@ setFetterLevel : Sets your fetter level for your current active character
  200704 : Eine Blume blüht in einem Gefängnis - Sprich mit Yoimiya.
  200705 : Eine Blume blüht in einem Gefängnis - Rette Meister Masakatsu.
  200706 : Eine Blume blüht in einem Gefängnis - Finde Meister Masakatsu.
- 200707 : Eine Blume blüht in einem Gefängnis - [CHS] - 回到木漏茶室$HIDDEN
+ 200707 : Eine Blume blüht in einem Gefängnis - [EN] - Return to Komore Teahouse
  200708 : Eine Blume blüht in einem Gefängnis - Verlasse die Teestube Komore.
  200709 : Eine Blume blüht in einem Gefängnis - Verlasse die Polizei.
  200710 : Eine Blume blüht in einem Gefängnis - Geh zur Teestube Komore.
@@ -12428,7 +12626,7 @@ setFetterLevel : Sets your fetter level for your current active character
 1101336 : Bewunderer der Meeresdämmerung - Geh zur Baustelle des Jadegemachs und finde Shenhe.
 1101337 : Bewunderer der Meeresdämmerung - [CHS] - (test)对话2开始调时间$HIDDEN
 1101401 : Wenn der Staub der Vergangenheit erzählen könnte - Geh zur Baustelle und frage herum.
-1101402 : Wenn der Staub der Vergangenheit erzählen könnte - Frag Herrn Zhang nach der Informationen über Wunderkerne.
+1101402 : Wenn der Staub der Vergangenheit erzählen könnte - Frag Herrn Zhang nach Informationen über Wunderkerne.
 1101403 : Wenn der Staub der Vergangenheit erzählen könnte - Such mithilfe des <color=#00E1FFFF>Göttlichen Auges</color> nach dem Sternsplittererz.
 1101404 : Wenn der Staub der Vergangenheit erzählen könnte - Frage die Senioren im Dorf nach dem Geheimessenzerz.
 1101405 : Wenn der Staub der Vergangenheit erzählen könnte - [CHS] - (test)寻找矿石文献$HIDDEN
@@ -12436,7 +12634,7 @@ setFetterLevel : Sets your fetter level for your current active character
 1101407 : Wenn der Staub der Vergangenheit erzählen könnte - Such nach Geheimessenzerz.
 1101408 : Wenn der Staub der Vergangenheit erzählen könnte - [CHS] - (test)【废弃】与申鹤对话
 1101409 : Wenn der Staub der Vergangenheit erzählen könnte - [CHS] - (test)【废弃】返回将草药交给小孩子
-1101410 : Wenn der Staub der Vergangenheit erzählen könnte - Gib dem Herrn Zhang die zwei gefundenen Erze.
+1101410 : Wenn der Staub der Vergangenheit erzählen könnte - Gib Herrn Zhang die zwei gefundenen Erze.
 1101411 : Wenn der Staub der Vergangenheit erzählen könnte - [CHS] - (test)与云堇对话$HIDDEN
 1101412 : Wenn der Staub der Vergangenheit erzählen könnte - [CHS] - (test)寻找矿石文献$HIDDEN
 1101413 : Wenn der Staub der Vergangenheit erzählen könnte - [CHS] - (test)与云堇对话$HIDDEN
@@ -12684,8 +12882,8 @@ setFetterLevel : Sets your fetter level for your current active character
 1110010 : Die Täuschung des Himmelsfürsten - Sprich mit dem Mann mit der Maske.
 1110011 : Die Täuschung des Himmelsfürsten - [CHS] - (test)完成细节探听$HIDDEN
 1110101 : Schimmer des schützenden Yaksha - Geh zur Buchhandlung Wanwen.
-1110102 : Schimmer des schützenden Yaksha - Sprich mit Jifang und frage nach „Yakshas, die schützenden Adepten“.
-1110103 : Schimmer des schützenden Yaksha - Suche nach „Yakshas, die schützenden Adepten“.
+1110102 : Schimmer des schützenden Yaksha - Sprich mit Jifang und frage nach „Yaksha, die schützenden Adepten“.
+1110103 : Schimmer des schützenden Yaksha - Suche nach „Yaksha, die schützenden Adepten“.
 1110104 : Schimmer des schützenden Yaksha - [CHS] - (test)与派蒙对话$HIDDEN
 1110105 : Schimmer des schützenden Yaksha - Kehre zum Gasthaus Wangshu zurück und suche nach dem nach den Sternen greifenden Himmelsfürsten.
 1110106 : Schimmer des schützenden Yaksha - Besiege die Hilichurle mit der bösen Aura.
@@ -13056,9 +13254,9 @@ setFetterLevel : Sets your fetter level for your current active character
 1202107 : Gerüchte im Umlauf - Untersuche den vorübergehenden Lager der Fatui.
 1202108 : Gerüchte im Umlauf - Erstatte Kokomi Bericht.
 1202109 : Gerüchte im Umlauf - Gib dem Händler die Waren zurück.
-1202110 : Gerüchte im Umlauf - [CHS] - 和派蒙对话（废弃）
-1202111 : Gerüchte im Umlauf - [CHS] - 和派蒙对话（废弃）
-1202112 : Gerüchte im Umlauf - [CHS] - 和派蒙对话（废弃）
+1202110 : Gerüchte im Umlauf - [EN] - Talk to Paimon (Discarded)
+1202111 : Gerüchte im Umlauf - [EN] - Talk to Paimon (Discarded)
+1202112 : Gerüchte im Umlauf - [EN] - Talk to Paimon (Discarded)
 1202113 : Gerüchte im Umlauf - Geh mit Kokomi spazieren.
 1202114 : Gerüchte im Umlauf - Sprich mit Kokomi.
 1202115 : Gerüchte im Umlauf - [CHS] - （隐藏）完成心海策略-先杀BOSS$HIDDEN
@@ -13529,7 +13727,7 @@ setFetterLevel : Sets your fetter level for your current active character
 1902606 : Geheime Identität - Sprich mit Gorou.
 1902607 : Geheime Identität - [CHS] - (隐藏）刷出立牌$HIDDEN
 1902701 : Der Weg zur Freundschaft - Obsolet
-1902702 : Der Weg zur Freundschaft - Bring die Antwortbriefe zurük zum Verlagshaus Yae.
+1902702 : Der Weg zur Freundschaft - Bring die Antwortbriefe zurück zum Verlagshaus Yae.
 1902703 : Der Weg zur Freundschaft - Sprich mit Gorou.
 1902704 : Der Weg zur Freundschaft - Unterhalte dich mit den Watatsumi-Soldaten.
 1902705 : Der Weg zur Freundschaft - Unterhalte dich mit den Watatsumi-Soldaten.
@@ -15399,12 +15597,12 @@ setFetterLevel : Sets your fetter level for your current active character
 2102408 : Großes Geschäft - Sprich mit Bao’er.
 2102409 : Großes Geschäft - Sprich mit Landa.
 2102410 : Großes Geschäft - [CHS] - 与宝儿对话$HIDDEN
-2102501 : Wunsch eines Yakshas - [CHS] - 与石碑对话$HIDDEN
-2102502 : Wunsch eines Yakshas - Such nach Hinweisen, um die Steintafel zu öffnen.
-2102503 : Wunsch eines Yakshas - [CHS] - 寻找开启石碑的线索$HIDDEN
-2102504 : Wunsch eines Yakshas - [CHS] - 寻找开启石碑的线索$HIDDEN
-2102505 : Wunsch eines Yakshas - [CHS] - 寻找开启石碑的线索$HIDDEN
-2102506 : Wunsch eines Yakshas - [CHS] - 回滚隔离$HIDDEN
+2102501 : Wunsch eines Yaksha - [CHS] - 与石碑对话$HIDDEN
+2102502 : Wunsch eines Yaksha - Such nach Hinweisen, um die Steintafel zu öffnen.
+2102503 : Wunsch eines Yaksha - [CHS] - 寻找开启石碑的线索$HIDDEN
+2102504 : Wunsch eines Yaksha - [CHS] - 寻找开启石碑的线索$HIDDEN
+2102505 : Wunsch eines Yaksha - [CHS] - 寻找开启石碑的线索$HIDDEN
+2102506 : Wunsch eines Yaksha - [CHS] - 回滚隔离$HIDDEN
 2102601 : Die angeschwemmte Sorge - Sprich mit Yue Chuan.
 2102602 : Die angeschwemmte Sorge - Verschick die Flaschenpost.
 2102603 : Die angeschwemmte Sorge - Sprich mit Yue Chuan.
@@ -16508,7 +16706,7 @@ setFetterLevel : Sets your fetter level for your current active character
 4003914 : Die fallenden Blütenblätter, das Schiff und der Mond - Sprich mit Beidou.
 4003915 : Die fallenden Blütenblätter, das Schiff und der Mond - Sprich mit Beidou.
 4003916 : Die fallenden Blütenblätter, das Schiff und der Mond - Hole die geborgenen Gegenstände an Bord.
-4003917 : Die fallenden Blütenblätter, das Schiff und der Mond - Birg auf dem Gewässer in der Nähe der Guyu-Türme die ins Wasser gefallenen Gegenstände.
+4003917 : Die fallenden Blütenblätter, das Schiff und der Mond - Birg auf dem Gewässer in der Nähe der Guyun-Türme die ins Wasser gefallenen Gegenstände.
 4003918 : Die fallenden Blütenblätter, das Schiff und der Mond - Steig auf den Wellenreiter und birg weiter die ins Wasser gefallenen Gegenstände.
 4003919 : Die fallenden Blütenblätter, das Schiff und der Mond - Birg weiter die Gegenstände.
 4003920 : Die fallenden Blütenblätter, das Schiff und der Mond - Birg weiter die Gegenstände.
@@ -16560,9 +16758,9 @@ setFetterLevel : Sets your fetter level for your current active character
 4004807 : Straßenopferritual der drei Welten – Teil I - Geh mithilfe der Geisterfische zu dem Dunkelturm der Schattenwelt.
 4004808 : Straßenopferritual der drei Welten – Teil I - Untersuche das Gebiet vor dir.
 4004809 : Straßenopferritual der drei Welten – Teil I - Geh zu dem Dunkelturm der Schattenwelt.
-4004810 : Straßenopferritual der drei Welten – Teil I - Aktiviere das Kontrollgerät des Dunkelturms der Schattenwelt.
-4004811 : Straßenopferritual der drei Welten – Teil I - Aktiviere das Kontrollgerät des Dunkelturms der Schattenwelt.
-4004812 : Straßenopferritual der drei Welten – Teil I - Aktiviere das Kontrollgerät des Dunkelturms der Schattenwelt.
+4004810 : Straßenopferritual der drei Welten – Teil I - Aktiviere das Kontrollgerät des Turms der Schattenwelt.
+4004811 : Straßenopferritual der drei Welten – Teil I - Aktiviere das Kontrollgerät des Turms der Schattenwelt.
+4004812 : Straßenopferritual der drei Welten – Teil I - Aktiviere das Kontrollgerät des Turms der Schattenwelt.
 4004813 : Straßenopferritual der drei Welten – Teil I - Geh zu dem Dunkelturm der Schattenwelt, der im Nordwesten liegt.
 4004814 : Straßenopferritual der drei Welten – Teil I - [N/A] 2878459700
 4004901 : Straßenopferritual der drei Welten – Teil II - [N/A] 4181105364
@@ -16574,9 +16772,9 @@ setFetterLevel : Sets your fetter level for your current active character
 4004907 : Straßenopferritual der drei Welten – Teil II - Geh mithilfe der Geisterfische zu dem Dunkelturm der Schattenwelt.
 4004908 : Straßenopferritual der drei Welten – Teil II - Untersuche das Gebiet vor dir.
 4004909 : Straßenopferritual der drei Welten – Teil II - Geh zu dem Dunkelturm der Schattenwelt.
-4004910 : Straßenopferritual der drei Welten – Teil II - Aktiviere das Kontrollgerät des Dunkelturms der Schattenwelt.
-4004911 : Straßenopferritual der drei Welten – Teil II - Aktiviere das Kontrollgerät des Dunkelturms der Schattenwelt.
-4004912 : Straßenopferritual der drei Welten – Teil II - Aktiviere das Kontrollgerät des Dunkelturms der Schattenwelt.
+4004910 : Straßenopferritual der drei Welten – Teil II - Aktiviere das Kontrollgerät des Turms der Schattenwelt.
+4004911 : Straßenopferritual der drei Welten – Teil II - Aktiviere das Kontrollgerät des Turms der Schattenwelt.
+4004912 : Straßenopferritual der drei Welten – Teil II - Aktiviere das Kontrollgerät des Turms der Schattenwelt.
 4004913 : Straßenopferritual der drei Welten – Teil II - Geh zu dem Dunkelturm der Schattenwelt, der im Nordosten liegt.
 4004914 : Straßenopferritual der drei Welten – Teil II - [N/A] 2705262972
 4005001 : Straßenopferritual der drei Welten – Teil III - [N/A] 1874996260
@@ -16588,9 +16786,9 @@ setFetterLevel : Sets your fetter level for your current active character
 4005007 : Straßenopferritual der drei Welten – Teil III - Geh mithilfe der Geisterfische zu dem Dunkelturm der Schattenwelt.
 4005008 : Straßenopferritual der drei Welten – Teil III - Untersuche das Gebiet vor dir.
 4005009 : Straßenopferritual der drei Welten – Teil III - Geh zu dem Dunkelturm der Schattenwelt.
-4005010 : Straßenopferritual der drei Welten – Teil III - Aktiviere das Kontrollgerät des Dunkelturms der Schattenwelt.
-4005011 : Straßenopferritual der drei Welten – Teil III - Aktiviere das Kontrollgerät des Dunkelturms der Schattenwelt.
-4005012 : Straßenopferritual der drei Welten – Teil III - Aktiviere das Kontrollgerät des Dunkelturms der Schattenwelt.
+4005010 : Straßenopferritual der drei Welten – Teil III - Aktiviere das Kontrollgerät des Turms der Schattenwelt.
+4005011 : Straßenopferritual der drei Welten – Teil III - Aktiviere das Kontrollgerät des Turms der Schattenwelt.
+4005012 : Straßenopferritual der drei Welten – Teil III - Aktiviere das Kontrollgerät des Turms der Schattenwelt.
 4005013 : Straßenopferritual der drei Welten – Teil III - Geh zu dem Dunkelturm der Schattenwelt, der im Süden liegt.
 4005014 : Straßenopferritual der drei Welten – Teil III - [N/A] 2491744740
 4005101 : Straßenopferritual der drei Welten – Nachspiel - Geh zum Dainichi Mikoshi zurück und finde Tsumi.
@@ -16929,9 +17127,9 @@ setFetterLevel : Sets your fetter level for your current active character
 4007410 : [N/A] 0 - Bestehe die Herausforderung des Sternenhimmels.
 4007411 : [N/A] 0 - Triff dich mit den anderen.
 4007412 : [N/A] 0 - Sprich mit den anderen.
-4007413 : [N/A] 0 - [CHS] - 进入水池$HIDDEN
+4007413 : [N/A] 0 - [EN] - Enter the pool
 4007414 : [N/A] 0 - Durchschreite das Illusionstor.
-4007415 : [N/A] 0 - [CHS] - 跟随星星指引找到终点$HIDDEN
+4007415 : [N/A] 0 - [EN] - Follow the star to the destination
 4007416 : [N/A] 0 - [CHS] - (test)(hide)发送水池通知$HIDDEN
 4007417 : [N/A] 0 - Folge dem ungewöhnlichen Stern.
 4007501 : [N/A] 0 - Erkunde die Umgebung anhand des Hinweises.
@@ -18094,12 +18292,12 @@ setFetterLevel : Sets your fetter level for your current active character
 7014203 : [CHS] - 玩家爬上天空岛大柱子顶端彩蛋任务$HIDDEN - [CHS] - 玩家爬上天空岛大柱子顶端彩蛋任务$HIDDEN
 7014301 : Eiskalte Spuren - Sprich mit Iris.
 7014302 : Eiskalte Spuren - Sprich mit Katheryne.
-7014401 : [CHS] - (test)刺骨幽寒$HIDDEN - Besieg die Kryo-Hypostase.
-7014402 : [CHS] - (test)刺骨幽寒$HIDDEN - Erstatte Iris Bericht.
-7014403 : [CHS] - (test)刺骨幽寒$HIDDEN - Sprich mit Iris.
-7014404 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)记录是否击杀无相冰-隐藏$HIDDEN
-7014405 : [CHS] - (test)刺骨幽寒$HIDDEN - Untersuche die seltsame kalte Strömung.
-7014406 : [CHS] - (test)刺骨幽寒$HIDDEN - Sprich mit Iris.
+7014401 : [EN] - Chilled to the Bone - Besieg die Kryo-Hypostase.
+7014402 : [EN] - Chilled to the Bone - Erstatte Iris Bericht.
+7014403 : [EN] - Chilled to the Bone - Sprich mit Iris.
+7014404 : [EN] - Chilled to the Bone - [CHS] - (test)记录是否击杀无相冰-隐藏$HIDDEN
+7014405 : [EN] - Chilled to the Bone - Untersuche die seltsame kalte Strömung.
+7014406 : [EN] - Chilled to the Bone - Sprich mit Iris.
 7014501 : [CHS] - (test)低温调查】与【山中之物$HIDDEN - [N/A] 3842997996
 7050001 : Kochkurs mit Küchenmaschine – Teil III - Sprich mit der Fürstin der stehenden Wolken und des stillen Windes.
 7050002 : Kochkurs mit Küchenmaschine – Teil III - Folge den Spuren und finde die Zutaten.
@@ -19643,7 +19841,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7182204 : Wenn Gelehrte und Legenden aufeinandertreffen - Folge dem Bergpfad.
 7182205 : Wenn Gelehrte und Legenden aufeinandertreffen - Besiege die Hilichurle.
 7182206 : Wenn Gelehrte und Legenden aufeinandertreffen - Sprich mit Soraya.
-7182207 : Wenn Gelehrte und Legenden aufeinandertreffen - [EN] - Defeat the hilichurls (hidden) $HIDDEN
+7182207 : Wenn Gelehrte und Legenden aufeinandertreffen - [CHS] - 打倒丘丘人（隐藏）$HIDDEN
 7182208 : Wenn Gelehrte und Legenden aufeinandertreffen - [N/A] 201980468
 7182301 : Wächter der Lande - Geh und sieh dich in der Wildnis in der Nähe des Qingce-Dorfs um.
 7182302 : Wächter der Lande - Sprich mit Zhi.
@@ -20084,8 +20282,8 @@ setFetterLevel : Sets your fetter level for your current active character
 7211420 : Tatara-Geschichten - Nimm ein Bild von den Speichergeräten auf.
 7211421 : Tatara-Geschichten - Erstatte Xavier Bericht.
 7211422 : Tatara-Geschichten - Erstatte Xavier Bericht.
-7211423 : Tatara-Geschichten - Frage den beiden nach der Situation.
-7211424 : Tatara-Geschichten - Frage den beiden nach der Situation.
+7211423 : Tatara-Geschichten - Frage die beiden nach der Situation.
+7211424 : Tatara-Geschichten - Frage die beiden nach der Situation.
 7211425 : Tatara-Geschichten - [N/A] 3553579436
 7211426 : Tatara-Geschichten - [N/A] 2907258412
 7211427 : Tatara-Geschichten - [CHS] - 向两人询问情况$HIDDEN
@@ -20256,13 +20454,13 @@ setFetterLevel : Sets your fetter level for your current active character
 7213009 : Orobashi-Vermächtnis – Teil II - [CHS] - 播放reminder$HIDDEN
 7213104 : Orobashi-Vermächtnis – Teil III - [CHS] - 检测是否见过踏鞴砂调查员$HIDDEN
 7213105 : Orobashi-Vermächtnis – Teil III - Finde das Omamori von der Jakotsu-Mine.
-7213106 : Orobashi-Vermächtnis – Teil III - Repariere das Omamori
+7213106 : Orobashi-Vermächtnis – Teil III - Repariere das Omamori.
 7213107 : Orobashi-Vermächtnis – Teil III - [CHS] - 收集雷光点球$HIDDEN
 7213108 : Orobashi-Vermächtnis – Teil III - [CHS] - 收集雷光电石$HIDDEN
 7213109 : Orobashi-Vermächtnis – Teil III - [CHS] - 播放reminder$HIDDEN
 7213201 : Orobashi-Vermächtnis – Teil V - Geh zur Mumei-Festung.
 7213202 : Orobashi-Vermächtnis – Teil V - Untersuche das Innere der Runine.
-7213204 : Orobashi-Vermächtnis – Teil V - Repariere das Omamori
+7213204 : Orobashi-Vermächtnis – Teil V - Repariere das Omamori.
 7213205 : Orobashi-Vermächtnis – Teil V - Berichte Kaji über die Situation.
 7213206 : Orobashi-Vermächtnis – Teil V - [CHS] - 播放reminder$HIDDEN
 7213301 : Orobashi-Vermächtnis – Prolog - [CHS] - 与梶对话。$HIDDEN
@@ -21582,7 +21780,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7227616 : Bunkoku-Rätsel - [CHS] - (test)(hide)回滚隔离环$HIDDEN
 7227617 : Bunkoku-Rätsel - Untersuche das Gebiet und finde Hinweise.
 7227618 : Bunkoku-Rätsel - Sprich mit Paimon.
-7227619 : Bunkoku-Rätsel - Geh zu der Quelle der Stimme und finde Hinweise.
+7227619 : Bunkoku-Rätsel - Geh zu der Quelle des Geräuschs und finde Hinweise.
 7227620 : Bunkoku-Rätsel - Sprich mit Yabe.
 7227621 : Bunkoku-Rätsel - Bring die Steinplatten zu den richtigen Stellen zurück.
 7227622 : Bunkoku-Rätsel - Aktiviere den Apparat.
@@ -21658,7 +21856,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7228012 : Anleitung zum Kauf der Statue Ihrer Exzellenz der Allmächtigen Narukami Ogosho, der Göttin der Blitze - Täusch vor, als ob du etwas kaufen würdest, um Zeit zu verschaffen.
 7228013 : Anleitung zum Kauf der Statue Ihrer Exzellenz der Allmächtigen Narukami Ogosho, der Göttin der Blitze - Informiere Kaede über die Situation.
 7228014 : Anleitung zum Kauf der Statue Ihrer Exzellenz der Allmächtigen Narukami Ogosho, der Göttin der Blitze - [N/A] 3566593844
-7228015 : Anleitung zum Kauf der Statue Ihrer Exzellenz der Allmächtigen Narukami Ogosho, der Göttin der Blitze - Geh zur Verwaltung und spricht mit Sara.
+7228015 : Anleitung zum Kauf der Statue Ihrer Exzellenz der Allmächtigen Narukami Ogosho, der Göttin der Blitze - Geh zur Verwaltung und sprich mit Sara.
 7228016 : Anleitung zum Kauf der Statue Ihrer Exzellenz der Allmächtigen Narukami Ogosho, der Göttin der Blitze - [N/A] 2422528708
 7228017 : Anleitung zum Kauf der Statue Ihrer Exzellenz der Allmächtigen Narukami Ogosho, der Göttin der Blitze - Sprich mit Sayu.
 7228018 : Anleitung zum Kauf der Statue Ihrer Exzellenz der Allmächtigen Narukami Ogosho, der Göttin der Blitze - [N/A] 2646940972
@@ -21798,9 +21996,9 @@ setFetterLevel : Sets your fetter level for your current active character
 7266703 : Nachschub vom Köder - [CHS] - 回滚任务$HIDDEN
 7266801 : [CHS] - 和派蒙隐藏对话$HIDDEN - [N/A] 2751061716
 7266802 : [CHS] - 和派蒙隐藏对话$HIDDEN - [N/A] 3871313788
-7266901 : [CHS] - 隐藏发鱼饵$HIDDEN - [CHS] - 废弃$HIDDEN
-7266902 : [CHS] - 隐藏发鱼饵$HIDDEN - Obsolet
-7266903 : [CHS] - 隐藏发鱼饵$HIDDEN - Obsolet
+7266901 : [EN] - Bait Resupply Plan - [CHS] - 废弃$HIDDEN
+7266902 : [EN] - Bait Resupply Plan - Obsolet
+7266903 : [EN] - Bait Resupply Plan - Obsolet
 7267001 : Ich, der reisende Gelehrter - Sprich mit Hosseini.
 7267002 : Ich, der reisende Gelehrter - Beseitige die drei Lager westlich des Gasthauses Wangshu.
 7267003 : Ich, der reisende Gelehrter - Informiere Hosseini.
@@ -21851,7 +22049,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7267708 : Übungsreise an acht Schauplätzen – Glühende Poesie - Sprich mit Kichiboushi.
 7267709 : Übungsreise an acht Schauplätzen – Glühende Poesie - [CHS] - (test)衔接用隐藏任务$HIDDEN
 7267710 : Übungsreise an acht Schauplätzen – Glühende Poesie - [N/A] 1910338740
-7267801 : Übungsreise an acht Schauplätzen – Einschätzung des Wanderers - Geh zu den Dvalins Ruinen.
+7267801 : Übungsreise an acht Schauplätzen – Einschätzung des Wanderers - Geh zu Dvalins Ruinen.
 7267802 : Übungsreise an acht Schauplätzen – Einschätzung des Wanderers - Fotografiere Kichiboushi.
 7267803 : Übungsreise an acht Schauplätzen – Einschätzung des Wanderers - Sprich mit Kichiboushi.
 7267804 : Übungsreise an acht Schauplätzen – Einschätzung des Wanderers - Geh zum Turm bei Dvalins Ruinen.

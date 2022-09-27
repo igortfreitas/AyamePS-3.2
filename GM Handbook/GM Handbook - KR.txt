@@ -1,5 +1,5 @@
 // Grasscutter 3.0.0 GM Handbook
-// Created 2022/09/11 14:24:49
+// Created 2022/09/27 15:23:25
 
 // Commands
        account : 사용자 계정을 수정합니다
@@ -94,17 +94,17 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 10000064 : 운근
 10000065 : 쿠키 시노부
 10000066 : 카미사토 아야토
-10000067 : [EN] - Collei
-10000068 : [EN] - Dori
-10000069 : [EN] - Tighnari
-10000070 : [EN] - Nilou
-10000071 : [EN] - Cyno
-10000072 : [EN] - Candace
+10000067 : 콜레이
+10000068 : 도리
+10000069 : 타이나리
+10000070 : 닐루
+10000071 : 사이노
+10000072 : 캔디스
 11000008 : 파티 테스트 4호
 11000009 : 배경 테스트
 11000010 : 모델 1호
 11000011 : 발가벗은 남자
-11000013 : 멀티 테스트
+11000013 : 다인 모드 테스트
 11000017 : 성년 남성 체형 테스트
 11000018 : 성년 여성 체형 테스트
 11000019 : 소녀 체형 테스크
@@ -173,13 +173,13 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
     140 : 그윽한 숫돌
     141 : 화려한 표류물
     142 : 전략 조각
-    143 : [EN] - Creative Note
-    144 : [EN] - Whimsical Draft
-    145 : [EN] - Ancient Iron Coin
-    147 : [EN] - Festive Fever
-    148 : [EN] - Business Earnings
-    149 : [EN] - Usable Funds
-    150 : [EN] - Strategic Inspiration
+    143 : 아이디어 노트
+    144 : 초안 모음집
+    145 : 고철전
+    147 : 축제 열기
+    148 : 영업 매출
+    149 : 가용 자금
+    150 : 전략적 영감
     201 : 원석
     202 : 모라
     203 : 창세의 결정
@@ -199,7 +199,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
     307 : 바위의 인장
     314 : 평판 경험치·이나즈마
     315 : 평판 경험치·몬드
-    316 : [EN] - Sumeru Reputation EXP
+    316 : 평판 경험치·수메르
     317 : 평판 경험치·리월
     911 : 꺼지지 않는 불의 기억
     912 : 멈추지 않는 급류의 기억
@@ -260,12 +260,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
    1064 : 운근
    1065 : 쿠키 시노부
    1066 : 카미사토 아야토
-   1067 : [EN] - Collei
-   1068 : [EN] - Dori
-   1069 : [EN] - Tighnari
-   1070 : [EN] - Nilou
-   1071 : [EN] - Cyno
-   1072 : [EN] - Candace
+   1067 : 콜레이
+   1068 : 도리
+   1069 : 타이나리
+   1070 : 닐루
+   1071 : 사이노
+   1072 : 캔디스
    1102 : 카미사토 아야카의 운명의 별
    1103 : 진의 운명의 별
    1105 : 여행자(남)의 운명의 별
@@ -318,12 +318,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
    1164 : 운근의 운명의 별
    1165 : 쿠키 시노부의 운명의 별
    1166 : 카미사토 아야토의 운명의 별
-   1167 : [EN] - Collei's Stella Fortuna
-   1168 : [EN] - Dori's Stella Fortuna
-   1169 : [EN] - Tighnari's Stella Fortuna
-   1170 : [EN] - Nilou's Stella Fortuna
-   1171 : [EN] - Cyno's Stella Fortuna
-   1172 : [EN] - Candace's Stella Fortuna
+   1167 : 콜레이의 운명의 별
+   1168 : 도리의 운명의 별
+   1169 : 타이나리의 운명의 별
+   1170 : 닐루의 운명의 별
+   1171 : 사이노의 운명의 별
+   1172 : 캔디스의 운명의 별
    1201 : 진주기행·초안
    1202 : 공월 축복·초승달
    2001 : 원소 에너지 오브(불)
@@ -400,8 +400,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   11414 : 아메노마 카게우치가타나
   11415 : 진사의 방추
   11416 : 카고츠루베 잇신
-  11417 : [EN] - Sapwood Blade
-  11418 : [EN] - Xiphos' Moonlight
+  11417 : 원목 검
+  11418 : 크시포스의 달빛
   11419 : 「잇신의 기술」 명검
   11420 : 「잇신의 기술」 명검
   11421 : 「잇신의 기술」 명검
@@ -415,7 +415,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   11508 : [N/A] 1664039091
   11509 : 안개를 가르는 회광
   11510 : 하란 월백의 후츠
-  11511 : [EN] - Key of Hierophany
+  11511 : 성현의 열쇠
   12101 : 훈련용 대검
   12201 : 용병 중검
   12301 : 강철의 그림자
@@ -437,9 +437,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   12411 : 설장의 성은
   12412 : 진주를 문 해황
   12414 : 카츠라기를 벤 나가마사
-  12415 : [EN] - Mahara Aquamarine
+  12415 : 물빛 마카이라
   12416 : 아쿠오마루
-  12417 : [EN] - Forest Regalia
+  12417 : 숲의 리게일리어
   12501 : 천공의 긍지
   12502 : 늑대의 말로
   12503 : 송뢰가 울릴 무렵
@@ -467,8 +467,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   13414 : 키타인 십자창
   13415 : 「어획」
   13416 : 파도 베는 지느러미
-  13417 : [EN] - Moonpiercer
-  13419 : [EN] - Shifting Windblade
+  13417 : 달을 꿰뚫는 화살
+  13419 : 날카로운 바람의 서신
   13501 : 호마의 지팡이
   13502 : 천공의 마루
   13503 : [N/A] 469555475
@@ -477,7 +477,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   13506 : 주신 학살창
   13507 : 식재
   13509 : 예초의 번개
-  13511 : [EN] - Staff of the Scarlet Sands
+  13511 : 적색 사막의 지팡이
   14101 : 학도의 노트
   14201 : 포켓 주술서
   14301 : 마도 서론
@@ -501,8 +501,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   14413 : 도도코 이야기집
   14414 : 하쿠신의 고리
   14415 : 맹세의 눈동자
-  14416 : [EN] - Wandering Evenstar
-  14417 : [EN] - Fruit of Fulfillment
+  14416 : 방랑하는 저녁별
+  14417 : 충만의 열매
   14501 : 천공의 두루마리
   14502 : 사풍 원서
   14503 : 산실된 서사시
@@ -535,8 +535,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   15414 : 파마궁
   15415 : 포식자
   15416 : 모운의 달
-  15417 : [EN] - King's Squire
-  15418 : [EN] - End of the Line
+  15417 : 왕의 측근
+  15418 : 메마른 연못
   15501 : 천공의 날개
   15502 : 아모스의 활
   15503 : 종말 탄식의 노래
@@ -546,50 +546,50 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   15507 : 극지의 별
   15508 : 약수
   15509 : 비뢰의 고동
-  15511 : [EN] - Hunter's Path
+  15511 : 사냥꾼의 길
   20001 : [CHS] - (test)竿测试
   20002 : 초심자의 깃털
   20004 : 초심자의 꽃
-  20412 : [EN] - Lamp of the Lost
-  20413 : [EN] - Lamp of the Lost
-  20422 : [EN] - Scholar of Vines
-  20423 : [EN] - Scholar of Vines
-  20432 : [EN] - Laurel Coronet
-  20433 : [EN] - Laurel Coronet
-  20442 : [EN] - Labyrinth Wayfarer
-  20443 : [EN] - Labyrinth Wayfarer
-  20452 : [EN] - A Time of Insight
-  20453 : [EN] - A Time of Insight
-  20513 : [EN] - Lamp of the Lost
-  20514 : [EN] - Lamp of the Lost
-  20523 : [EN] - Scholar of Vines
-  20524 : [EN] - Scholar of Vines
-  20533 : [EN] - Laurel Coronet
-  20534 : [EN] - Laurel Coronet
-  20543 : [EN] - Labyrinth Wayfarer
-  20544 : [EN] - Labyrinth Wayfarer
-  20553 : [EN] - A Time of Insight
-  20554 : [EN] - A Time of Insight
-  21412 : [EN] - Honeyed Final Feast
-  21413 : [EN] - Honeyed Final Feast
-  21422 : [EN] - Feather of Judgment
-  21423 : [EN] - Feather of Judgment
-  21432 : [EN] - Shadow of the Sand King
-  21433 : [EN] - Shadow of the Sand King
-  21442 : [EN] - Dreaming Steelbloom
-  21443 : [EN] - Dreaming Steelbloom
-  21452 : [EN] - The Sunken Years
-  21453 : [EN] - The Sunken Years
-  21513 : [EN] - Honeyed Final Feast
-  21514 : [EN] - Honeyed Final Feast
-  21523 : [EN] - Feather of Judgment
-  21524 : [EN] - Feather of Judgment
-  21533 : [EN] - Shadow of the Sand King
-  21534 : [EN] - Shadow of the Sand King
-  21543 : [EN] - Dreaming Steelbloom
-  21544 : [EN] - Dreaming Steelbloom
-  21553 : [EN] - The Sunken Years
-  21554 : [EN] - The Sunken Years
+  20412 : 방황하는 자의 등잔
+  20413 : 방황하는 자의 등잔
+  20422 : 푸른 덩굴의 현자
+  20423 : 푸른 덩굴의 현자
+  20432 : 월계수 왕관
+  20433 : 월계수 왕관
+  20442 : 미궁의 유객
+  20443 : 미궁의 유객
+  20452 : 현명의 주기
+  20453 : 현명의 주기
+  20513 : 방황하는 자의 등잔
+  20514 : 방황하는 자의 등잔
+  20523 : 푸른 덩굴의 현자
+  20524 : 푸른 덩굴의 현자
+  20533 : 월계수 왕관
+  20534 : 월계수 왕관
+  20543 : 미궁의 유객
+  20544 : 미궁의 유객
+  20553 : 현명의 주기
+  20554 : 현명의 주기
+  21412 : 달콤한 마지막 연회
+  21413 : 달콤한 마지막 연회
+  21422 : 심판의 날개
+  21423 : 심판의 날개
+  21432 : 모래왕의 그림자
+  21433 : 모래왕의 그림자
+  21442 : 꿈속에 피어난 철의 꽃
+  21443 : 꿈속에 피어난 철의 꽃
+  21452 : 가라앉은 세월
+  21453 : 가라앉은 세월
+  21513 : 달콤한 마지막 연회
+  21514 : 달콤한 마지막 연회
+  21523 : 심판의 날개
+  21524 : 심판의 날개
+  21533 : 모래왕의 그림자
+  21534 : 모래왕의 그림자
+  21543 : 꿈속에 피어난 철의 꽃
+  21544 : 꿈속에 피어난 철의 꽃
+  21553 : 가라앉은 세월
+  21554 : 가라앉은 세월
   23300 : [CHS] - 移动速度百分比
   23301 : [CHS] - 火元素伤害加成
   23302 : [CHS] - 电元素伤害加成
@@ -898,26 +898,26 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
   23618 : 추억의 보옥
   23619 : 혼향의 꽃
   23620 : 축사의 증명
-  23621 : [EN] - Lamp of the Lost
-  23622 : [EN] - Scholar of Vines
-  23623 : [EN] - Laurel Coronet
-  23624 : [EN] - Labyrinth Wayfarer
-  23625 : [EN] - A Time of Insight
-  23626 : [EN] - Lamp of the Lost
-  23627 : [EN] - Scholar of Vines
-  23628 : [EN] - Laurel Coronet
-  23629 : [EN] - Labyrinth Wayfarer
-  23630 : [EN] - A Time of Insight
-  23631 : [EN] - Honeyed Final Feast
-  23632 : [EN] - Feather of Judgment
-  23633 : [EN] - Shadow of the Sand King
-  23634 : [EN] - Dreaming Steelbloom
-  23635 : [EN] - The Sunken Years
-  23636 : [EN] - Honeyed Final Feast
-  23637 : [EN] - Feather of Judgment
-  23638 : [EN] - Shadow of the Sand King
-  23639 : [EN] - Dreaming Steelbloom
-  23640 : [EN] - The Sunken Years
+  23621 : 방황하는 자의 등잔
+  23622 : 푸른 덩굴의 현자
+  23623 : 월계수 왕관
+  23624 : 미궁의 유객
+  23625 : 현명의 주기
+  23626 : 방황하는 자의 등잔
+  23627 : 푸른 덩굴의 현자
+  23628 : 월계수 왕관
+  23629 : 미궁의 유객
+  23630 : 현명의 주기
+  23631 : 달콤한 마지막 연회
+  23632 : 심판의 날개
+  23633 : 모래왕의 그림자
+  23634 : 꿈속에 피어난 철의 꽃
+  23635 : 가라앉은 세월
+  23636 : 달콤한 마지막 연회
+  23637 : 심판의 날개
+  23638 : 모래왕의 그림자
+  23639 : 꿈속에 피어난 철의 꽃
+  23640 : 가라앉은 세월
   24101 : 검투사의 취기
   24102 : 검투사의 귀결
   24103 : 화려한 투구
@@ -4307,7 +4307,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  100093 : 생새우살
  100094 : 「냉동 생고기」
  100095 : 뱀장어 살코기
- 100096 : [EN] - Glabrous Beans
+ 100096 : 반질반질콩
  100101 : 진의 서류가방
  100102 : 《극한의 탈출》
  100103 : 불완전한 악보(상)
@@ -4996,7 +4996,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  100862 : 성실한 고양이의 작은 거짓말
  100863 : 문학단
  100864 : 부식된 열쇠
- 100865 : [CHS] - 附有记忆的面具（废弃）
+ 100865 : [EN] - Mask of Memories
  100866 : 「자색 오니」의 검
  100867 : 「붉은 오니」의 검
  100868 : 「점괘」
@@ -5147,11 +5147,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101108 : 북대륙의 양손검
  101109 : 북대륙의 법구
  101110 : 북대륙의 장병기
- 101111 : [EN] - Midlander Sword Billet
- 101112 : [EN] - Midlander Bow Billet
- 101113 : [EN] - Midlander Claymore Billet
- 101114 : [EN] - Midlander Catalyst Billet
- 101115 : [EN] - Midlander Polearm Billet
+ 101111 : 중앙 대륙의 한손검 원형
+ 101112 : 중앙 대륙의 활 원형
+ 101113 : 중앙 대륙의 양손검 원형
+ 101114 : 중앙 대륙의 법구 원형
+ 101115 : 중앙 대륙의 장병기 원형
  101201 : 귀신풍뎅이
  101202 : 벚꽃 수구
  101203 : 수정 골수
@@ -5164,19 +5164,19 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101210 : 해초
  101211 : 제비꽃 열매
  101212 : 별 버섯
- 101213 : [EN] - Rukkhashava Mushrooms
- 101214 : [EN] - Padisarah
- 101215 : [EN] - Nilotpala Lotus
- 101216 : [EN] - Harra Fruit
- 101217 : [EN] - Kalpalata Lotus
- 101218 : [EN] - Zaytun Peach
- 101219 : [EN] - Sumeru Rose
- 101220 : [EN] - Redcrest
- 101221 : [EN] - Ajilenakh
- 101225 : [EN] - Scarab
- 101226 : [EN] - Activated Starshroom
- 101227 : [EN] - Scorched Starshroom
- 101228 : [EN] - Viparyas
+ 101213 : 룩카데바타 성체 버섯
+ 101214 : 파디사라
+ 101215 : 달 연꽃
+ 101216 : 향신과
+ 101217 : 겁의 연꽃
+ 101218 : 뚠뚠 복숭아
+ 101219 : 수메르 장미
+ 101220 : 적념과
+ 101221 : 대추야자
+ 101225 : 황금 스카라브
+ 101226 : 활력 넘치는 별 버섯
+ 101227 : 건조된 별 버섯
+ 101228 : 비파랴스
  101301 : 자작나무
  101302 : 췌화나무
  101303 : 소나무
@@ -5189,11 +5189,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101310 : 단풍나무
  101311 : 공작나무 원목
  101312 : 오토기나무 원목
- 101313 : [EN] - Brightwood
- 101314 : [EN] - Karmaphala Wood
- 101315 : [EN] - Adhigama Wood
- 101316 : [EN] - Mountain Date Wood
- 101317 : [EN] - Athel Wood
+ 101313 : 빛나는 나무 원목
+ 101314 : 카르마팔라 나무 원목
+ 101315 : 아디가마 나무 원목
+ 101316 : 산대추야자 원목
+ 101317 : 에셀나무 원목
  101401 : 직물
  101402 : 붉은색 염료
  101403 : 노란색 염료
@@ -5458,12 +5458,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101771 : 아코의 보물이 숨겨진 곳·두 번째
  101772 : 아코의 보물이 숨겨진 곳·세 번째
  101773 : 아코의 보물이 숨겨진 곳·네 번째
- 101774 : [EN] - Yajna Grass
- 101775 : [EN] - Zohrah Mushroom
- 101776 : [EN] - Barsam Flower
+ 101774 : 야즈나 풀
+ 101775 : 조흐라 버섯
+ 101776 : 발삼꽃
  101777 : [CHS] - （test）封印钥匙其一
  101778 : [CHS] - （test）封印钥匙其二
- 101779 : [EN] - Arahaoma
+ 101779 : 아란하오마
  101780 : 《무생인》 대본
  101781 : 《무생인》 대본
  101782 : 근우의 수프
@@ -5480,7 +5480,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101793 : [CHS] - （test）神秘的信笺11
  101794 : [CHS] - （test）神秘的信笺12
  101795 : 장신구 한 주머니
- 101796 : [EN] - Vasmrti
+ 101796 : 바스므리티
  101797 : 출발! 도도코
  101798 : 항로에 남겨진 기록
  101799 : 길 위에 남겨진 기록·첫 번째
@@ -5493,31 +5493,31 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101806 : 별자리 파편
  101807 : 별자리 파편
  101808 : 별자리 파편
- 101809 : [EN] - Vasoma Fruit
+ 101809 : 바소마 열매
  101810 : [CHS] - (test)恒素果2
- 101811 : [EN] - Garland
- 101812 : [EN] - Garland
- 101813 : [EN] - Bija
- 101814 : [EN] - Arana's Flower
- 101815 : [EN] - Araja's Flower
- 101816 : [EN] - Nameless Flower
- 101817 : [EN] - Arapandu's Flower
- 101818 : [EN] - Arakunti's Flower
- 101819 : [EN] - Aranakula's Flower
- 101820 : [EN] - Arabalika's Flower
- 101821 : [EN] - Aranaga's Flower
- 101822 : [EN] - Aranakin's Flower
- 101823 : [EN] - Aragaru's Flower
- 101824 : [EN] - Ararycan's Flower
- 101825 : [EN] - Araesha's Flower
- 101826 : [EN] - Arakara's Flower
- 101827 : [EN] - The Siblings' Flowers
- 101828 : [EN] - The Song Gatherers' Flowers
- 101829 : [EN] - Aralila and Aranishat's Flowers
- 101830 : [EN] - Arakanta's Flower
+ 101811 : 「화관」
+ 101812 : 「화관」
+ 101813 : 비야의 열매
+ 101814 : 아란나의 꽃
+ 101815 : 아란자의 꽃
+ 101816 : 이름 없는 꽃
+ 101817 : 아란판두의 꽃
+ 101818 : 아란쿤티의 꽃
+ 101819 : 아란나쿨라의 꽃
+ 101820 : 아란바리카의 꽃
+ 101821 : 아란나가의 꽃
+ 101822 : 아란나킨의 꽃
+ 101823 : 아란가루의 꽃
+ 101824 : 아란리캔의 꽃
+ 101825 : 아란에샤의 꽃
+ 101826 : 아란카라의 꽃
+ 101827 : 「남매들」의 꽃
+ 101828 : 채곡가의 꽃
+ 101829 : 아란릴라와 아란니샤트의 꽃
+ 101830 : 아란칸타의 꽃
  101831 : [CHS] - (test)兰那罗小花18
- 101832 : [EN] - Stories of You and the Aranara
- 101833 : [EN] - "Emergency Adjustment Plan"
+ 101832 : 당신과 아란나라에 대한 이야기
+ 101833 : 「긴급 조정 계획서」
  101834 : 별자리 파편
  101835 : 열쇠
  101836 : 샘물이 담긴 병
@@ -5541,7 +5541,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101857 : 빛나는 산석·우
  101858 : 굳건한 산석·좌
  101859 : 굳건한 산석·우
- 101860 : [EN] - Living Spring
+ 101860 : 활원수
  101861 : 부품 한 상자
  101862 : 출처를 알 수 없는 쪽지 첫 번째
  101863 : 출처를 알 수 없는 쪽지 두 번째
@@ -5576,7 +5576,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101892 : 부품·돋보이는 녹색
  101893 : 법의학실의 연구 일지 안쪽
  101894 : 출처를 알 수 없는 쪽지
- 101895 : [EN] - ？？？
+ 101895 : [CHS] - (test）钥匙
  101896 : 수정 코어
  101897 : 수정 코어
  101898 : 수정 코어
@@ -5586,102 +5586,101 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  101902 : 여음의 열쇠
  101903 : 방금 온 편지
  101904 : 다운 와이너리의 최상급 포도 주스
- 101905 : [EN] - Slime Condensate-Soaked Soil
- 101906 : [EN] - Whopperflower Root Soil
- 101907 : [EN] - Moist Soil
+ 101905 : 슬라임 응축액이 스며든 진흙
+ 101906 : 구라구라꽃 뿌리의 진흙
+ 101907 : 음습한 진흙
  101908 : 응축된 별빛
  101909 : 설산 보급·햄
  101910 : 검은 깃털의 야간 순찰 계약
- 101911 : [EN] - Special "Concresoil" for Toys
+ 101911 : 장난감 전용·「젤리 진흙」
  101912 : [CHS] - (test)材料参照物
- 101913 : [EN] - Whopperflower Root Soil
- 101914 : [EN] - Fertile Soil (Reportedly)
- 101915 : [EN] - Discarded "Concresoil"
+ 101913 : 구라구라꽃 뿌리의 진흙
+ 101914 : 비옥하다는 소문이 도는 진흙
+ 101915 : 폐기된 「젤리 진흙」
  101916 : 봉행소의 사람 찾기 의뢰
  101917 : 바닷소금이 묻은 열쇠
  101918 : [CHS] - （test）危危岛遗迹钥匙2
- 101919 : [EN] - Special Bird Egg
- 101920 : [EN] - Special Mushroom
- 101921 : [EN] - Special Mint
- 101922 : [EN] - Special Harra Fruit
- 101923 : [EN] - Special Sweet Flower
+ 101919 : 특별한 새알
+ 101920 : 특별한 버섯
+ 101921 : 특별한 허브
+ 101922 : 특별한 향신과
+ 101923 : 특별한 달콤달콤꽃
  101924 : [CHS] - (test)新鲜的材料2
- 101925 : [EN] - Box Lunch from Tighnari
- 101926 : [EN] - Letter to Haypasia
- 101927 : [EN] - Box Lunch from the Traveler
- 101928 : [EN] - Tighnari's Introduction Letter
- 101929 : [EN] - Bag of Transaction Funds
- 101930 : [EN] - Package of Canned Knowledge
- 101931 : [EN] - Canned Knowledge "Swordfighting Techniques VIII"
- 101932 : [EN] - Bag of Intel Transaction Funds
- 101933 : [EN] - Picture of the Transaction
- 101934 : [EN] - Informant Code Chart
+ 101925 : 타이나리의 도시락통
+ 101926 : 하이파시아에게 보내는 편지
+ 101927 : 여행자의 수제 도시락
+ 101928 : 타이나리의 소개장
+ 101929 : 거래 자금 주머니
+ 101930 : 항아리 지식 보따리
+ 101931 : 항아리 지식 「한손검 전투 기술·8」
+ 101932 : 정보 구매용 자금 주머니
+ 101933 : 거래 현장 사진
+ 101934 : 정보원의 암호표
  101935 : 잘못된 위치의 소라1
  101936 : 잘못된 위치의 소라2
  101937 : 잘못된 위치의 소라3
- 101938 : [EN] - Prescription Medication from Bimarstan for Gurgen
- 101939 : [EN] - Prescription Medication from Bimarstan for Azra
- 101940 : [EN] - Prescription Medication from Bimarstan for Aftab
- 101941 : [EN] - Fresh Harra Fruit
- 101942 : [EN] - Fresh Zaytun Peach
+ 101938 : 「비마르스탄」에서 구르겐에게 처방한 약
+ 101939 : 「비마르스탄」에서 아즈라에게 처방한 약
+ 101940 : 「비마르스탄」에서 아프탑에게 처방한 약
+ 101941 : 신선한 향신과
+ 101942 : 신선한 뚠뚠 복숭아
  101943 : 붉게 물든 원단
- 101944 : [EN] - "The Best Water"
+ 101944 : 「가장 맛있는 물」
  101945 : 은도금 회중시계
  101946 : 오래된 휘장
- 101947 : [EN] - Fresh Slime Condensate
- 101948 : [EN] - Sareh's Note
- 101949 : [EN] - Sareh's Note
- 101950 : [EN] - Sareh's Note
- 101951 : [EN] - Fresh Nilotpala Lotus
- 101952 : [EN] - Rose Sprout
- 101953 : [EN] - Eagle Feather of The Brave
- 101954 : [EN] - Florescent Talisman
- 101955 : [EN] - Freshly-Picked Mushroom
- 101956 : [EN] - Strange Sumeru Rose
- 101957 : [EN] - Riddle Note
- 101958 : [EN] - Riddle Note
- 101959 : [EN] - Riddle Note
- 101960 : [EN] - Riddle Note
- 101961 : [EN] - Rafiq's Shipbuilding Materials
- 101962 : [EN] - Little Dried Flower
- 101963 : [EN] - Activated·Canned Knowledge
+ 101947 : 신선한 슬라임 응축액
+ 101948 : 사레의 메모
+ 101949 : 사레의 메모
+ 101950 : 사레의 메모
+ 101951 : 신선한 달 연꽃
+ 101952 : 여린 장미
+ 101953 : 용사의 매 깃털
+ 101954 : 꽃으로 만든 호신 부적
+ 101955 : 원산지의 신선한 버섯
+ 101956 : 비정상적인 수메르 장미
+ 101957 : 수수께끼가 적힌 쪽지
+ 101958 : 수수께끼가 적힌 쪽지
+ 101959 : 수수께끼가 적힌 쪽지
+ 101960 : 수수께끼가 적힌 쪽지
+ 101961 : 라픽의 배 제작 재료
+ 101962 : 바람에 말린 작은 꽃
+ 101963 : 활성화 완료·항아리 지식
  101964 : 페르시코프의 원고
- 101965 : [EN] - Normal Wood
- 101966 : [EN] - Fatui Meal
- 101967 : [EN] - Treasure Map in a Box
- 101968 : [EN] - Glinting Component
- 101969 : [EN] - Sacred Seal: Valley
- 101970 : [EN] - Sacred Seal: Bird Head
- 101971 : [EN] - Sacred Seal: Raised Arm
- 101972 : [EN] - Sacred Seal: Sandstorm
- 101973 : [EN] - Sacred Seal: Auricle
- 101974 : [EN] - Sacred Seal: Forest
- 101975 : [EN] - Sacred Seal: Thunderstrike
- 101976 : [EN] - Sacred Seal: Danger
- 101977 : [EN] - Sacred Seal: Chisel Hammer
- 101978 : [EN] - Sacred Seal: Sunrise
- 101979 : [EN] - Sacred Seal: Right to Rule
- 101980 : [EN] - Sacred Seal: Sheep Head
- 101981 : [EN] - Sacred Seal: Crocodile Head
- 101982 : [EN] - Sacred Seal: Giant Serpent
- 101983 : [EN] - Sacred Seal: Ceremony
- 101984 : [EN] - Sacred Seal: Labor
- 101985 : [EN] - Sacred Seal: Dune
+ 101965 : 일반 목재
+ 101966 : 우인단의 식사
+ 101967 : 상자 바닥의 보물지도
+ 101968 : 반짝이는 부품
+ 101969 : 신성한 봉인석·골짜기
+ 101970 : 신성한 봉인석·새머리
+ 101971 : 신성한 봉인석·팔 올리기
+ 101972 : 신성한 봉인석·모래폭풍
+ 101973 : 신성한 봉인석·귓바퀴
+ 101974 : 신성한 봉인석·나무
+ 101975 : 신성한 봉인석·뇌정
+ 101976 : 신성한 봉인석·위험
+ 101977 : 신성한 봉인석·망치
+ 101978 : 신성한 봉인석·일출
+ 101979 : 신성한 봉인석·왕권
+ 101980 : 신성한 봉인석·양머리
+ 101981 : 신성한 봉인석·악어 머리
+ 101982 : 신성한 봉인석·거대한 뱀
+ 101983 : 신성한 봉인석·제사
+ 101984 : 신성한 봉인석·노동
+ 101985 : 신성한 봉인석·모래언덕
  101986 : [CHS] - (test)黑乎乎的怪东西
- 101987 : [EN] - Golden Rose Seeds
- 101988 : [EN] - Transparent Ruins Record (I)
- 101989 : [EN] - Record of Lamb-Eater Rock
- 101990 : [EN] - Record of the Tomb of Full Flagons
- 101991 : [EN] - Soheil's Old Notes
- 101992 : [EN] - Record of Aaru's Reflection
+ 101987 : 황금 장미 씨앗
+ 101988 : 투명 유적 기록·첫 번째
+ 101989 : 양을 삼킨 바위 기록
+ 101990 : 포식의 릉 기록
+ 101991 : 소헤일의 고고학 노트
+ 101992 : 아루의 그림자 기록
  101993 : 심야 극단 단장의 원고
- 101994 : [EN] - Freshly-Picked Harra Fruit
- 101995 : [EN] - Unsigned Note
- 101996 : [EN] - Ragged Records
- 101997 : [EN] - Remelting Device
- 101998 : [EN] - Remelting Tablet
- 101999 : [EN] - Employer's Orders
- 102000 : [EN] - Unknown Object With an Earthy Glow
+ 101994 : 방금 딴 향신과
+ 101995 : 서명이 없는 쪽지
+ 101996 : 파손된 기록
+ 101997 : 재용해 장치
+ 101998 : 재용해 약제
+ 101999 : 고용주의 명령
  102001 : 불 원소 결정 조각
  102002 : 물 원소 결정 조각
  102003 : 풀 원소 결정 조각
@@ -5765,24 +5764,24 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  104326 : 「천광」의 가르침
  104327 : 「천광」의 인도
  104328 : 「천광」의 철학
- 104329 : [EN] - Teachings of Admonition
- 104330 : [EN] - Guide to Admonition
- 104331 : [EN] - Philosophies of Admonition
- 104332 : [EN] - Teachings of Ingenuity
- 104333 : [EN] - Guide to Ingenuity
- 104334 : [EN] - Philosophies of Ingenuity
- 104335 : [EN] - Teachings of Praxis
- 104336 : [EN] - Guide to Praxis
- 104337 : [EN] - Philosophies of Praxis
+ 104329 : 「간언」의 가르침
+ 104330 : 「간언」의 인도
+ 104331 : 「간언」의 철학
+ 104332 : 「창의」의 가르침
+ 104333 : 「창의」의 인도
+ 104334 : 「창의」의 철학
+ 104335 : 「실천」의 가르침
+ 104336 : 「실천」의 인도
+ 104337 : 「실천」의 철학
  105001 : 축성의 물방울
  105002 : 축복의 연고
  105003 : 축복의 정수
  105004 : 축성의 정수
  106000 : 테스트용 스태미나 성장 아이템
  106001 : 테스트용 스태미나 임시 성장 아이템
- 107001 : 바람 신의 눈동자
+ 107001 : 잃어버린 바람 신의 눈동자
  107002 : 원소 결정 가루
- 107003 : 바위 신의 눈동자
+ 107003 : 잃어버린 바위 신의 눈동자
  107004 : 모험 보물 패키지
  107005 : 비천대어검 보물 상자
  107006 : 몬드 지령의 감실 열쇠
@@ -5796,8 +5795,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  107014 : 잃어버린 번개 신의 눈동자
  107015 : 축월 부적
  107016 : 유명 수정석
- 107017 : [EN] - Dendroculus
- 107018 : [EN] - Sumeru Shrine of Depths Key
+ 107017 : 잃어버린 풀의 신의 눈동자
+ 107018 : 수메르의 지령 감실 열쇠
  108000 : 요리
  108001 : 이상한 어부 토스트
  108002 : 어부 토스트
@@ -5947,8 +5946,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  108146 : 오구삼식 보양식
  108147 : 성수
  108148 : 대왕차
- 108149 : 고리고리 쥬스
- 108150 : 라즈베리 허브 쥬스
+ 108149 : 고리고리 주스
+ 108150 : 라즈베리 허브 주스
  108151 : 사과주
  108152 : 이상한 죽순 수프
  108153 : 죽순 수프
@@ -6189,85 +6188,85 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  108388 : 오므라이스 원무곡
  108389 : 소스를 묻힌 새우살
  108390 : 진실은 단 하나
- 108391 : [EN] - Suspicious Butter Chicken
- 108392 : [EN] - Butter Chicken
- 108393 : [EN] - Delicious Butter Chicken
- 108394 : [EN] - Suspicious Shawarma Wrap
- 108395 : [EN] - Shawarma Wrap
- 108396 : [EN] - Delicious Shawarma Wrap
- 108397 : [EN] - Suspicious Selva Salad
- 108398 : [EN] - Selva Salad
- 108399 : [EN] - Delicious Selva Salad
- 108400 : [EN] - Suspicious Masala Cheese Balls
- 108401 : [EN] - Masala Cheese Balls
- 108402 : [EN] - Delicious Masala Cheese Balls
- 108403 : [EN] - Suspicious Mushroom Hodgepodge
- 108404 : [EN] - Mushroom Hodgepodge
- 108405 : [EN] - Delicious Mushroom Hodgepodge
- 108406 : [EN] - Suspicious Pita Pocket
- 108407 : [EN] - Pita Pocket
- 108408 : [EN] - Delicious Pita Pocket
- 108409 : [EN] - Suspicious Panipuri
- 108410 : [EN] - Panipuri
- 108411 : [EN] - Delicious Panipuri
- 108412 : [EN] - Suspicious Minty Bean Soup
- 108413 : [EN] - Minty Bean Soup
- 108414 : [EN] - Delicious Minty Bean Soup
- 108415 : [EN] - Suspicious Biryani
- 108416 : [EN] - Biryani
- 108417 : [EN] - Delicious Biryani
- 108418 : [EN] - Suspicious Tahchin
- 108419 : [EN] - Tahchin
- 108420 : [EN] - Delicious Tahchin
- 108421 : [EN] - Suspicious Lambad Fish Roll
- 108422 : [EN] - Lambad Fish Roll
- 108423 : [EN] - Delicious Lambad Fish Roll
- 108424 : [EN] - Suspicious Curry Shrimp
- 108425 : [EN] - Curry Shrimp
- 108426 : [EN] - Delicious Curry Shrimp
- 108427 : [EN] - Suspicious Tandoori Roast Chicken
- 108428 : [EN] - Tandoori Roast Chicken
- 108429 : [EN] - Delicious Tandoori Roast Chicken
- 108430 : [EN] - Suspicious Potato Boat
- 108431 : [EN] - Potato Boat
- 108432 : [EN] - Delicious Potato Boat
- 108433 : [EN] - Suspicious Fish With Cream Sauce
- 108434 : [EN] - Fish With Cream Sauce
- 108435 : [EN] - Delicious Fish With Cream Sauce
- 108436 : [EN] - Forest Watcher's Choice
- 108437 : [EN] - Yearning
- 108438 : [EN] - Show Me the Mora
- 108439 : [EN] - Suspicious Meat Lovers' Mushroom Pizza
- 108440 : [EN] - Meat Lovers' Mushroom Pizza
- 108441 : [EN] - Delicious Meat Lovers' Mushroom Pizza
- 108442 : [EN] - Suspicious Sunset Berry Tea
- 108443 : [EN] - Sunset Berry Tea
- 108444 : [EN] - Delicious Sunset Berry Tea
- 108445 : [EN] - Suspicious Milky Mushroom Crisp Tower
- 108446 : [EN] - Milky Mushroom Crisp Tower
- 108447 : [EN] - Delicious Milky Mushroom Crisp Tower
- 108448 : [EN] - Suspicious Coconut Charcoal Cakes
- 108449 : [EN] - Coconut Charcoal Cakes
- 108450 : [EN] - Delicious Coconut Charcoal Cakes
- 108451 : [EN] - Suspicious Baklava
- 108452 : [EN] - Baklava
- 108453 : [EN] - Delicious Baklava
- 108454 : [EN] - Suspicious Candied Ajilenakh Nut
- 108455 : [EN] - Candied Ajilenakh Nut
- 108456 : [EN] - Delicious Candied Ajilenakh Nut
- 108457 : [EN] - Suspicious Padisarah Pudding
- 108458 : [EN] - Padisarah Pudding
- 108459 : [EN] - Delicious Padisarah Pudding
- 108460 : [EN] - Suspicious Aaru Mixed Rice
- 108461 : [EN] - Aaru Mixed Rice
- 108462 : [EN] - Delicious Aaru Mixed Rice
- 108463 : [EN] - ？？？
- 108464 : [EN] - ？？？
- 108465 : [EN] - ？？？
- 108466 : [EN] - Swirling Steps
- 108467 : [EN] - Duel Soul
- 108468 : [EN] - Utmost Care
- 108469 : [EN] - ？？？
+ 108391 : 이상한 버터 치킨
+ 108392 : 버터 치킨
+ 108393 : 맛있는 버터 치킨
+ 108394 : 이상한 샤와르마
+ 108395 : 샤와르마
+ 108396 : 맛있는 샤와르마
+ 108397 : 이상한 우림 샐러드
+ 108398 : 우림 샐러드
+ 108399 : 맛있는 우림 샐러드
+ 108400 : 이상한 마살라 치즈볼
+ 108401 : 마살라 치즈볼
+ 108402 : 맛있는 마살라 치즈볼
+ 108403 : 이상한 모둠 버섯
+ 108404 : 모둠 버섯
+ 108405 : 맛있는 모둠 버섯
+ 108406 : 이상한 포켓 피타
+ 108407 : 포켓 피타
+ 108408 : 맛있는 포켓 피타
+ 108409 : 이상한 파니푸리
+ 108410 : 파니푸리
+ 108411 : 맛있는 파니푸리
+ 108412 : 이상한 완두콩 민트 수프
+ 108413 : 완두콩 민트 수프
+ 108414 : 맛있는 완두콩 민트 수프
+ 108415 : 이상한 짐승고기 필라프
+ 108416 : 짐승고기 필라프
+ 108417 : 맛있는 짐승고기 필라프
+ 108418 : 이상한 타친
+ 108419 : 타친
+ 108420 : 맛있는 타친
+ 108421 : 이상한 람바드 생선 롤
+ 108422 : 람바드 생선 롤
+ 108423 : 맛있는 람바드 생선 롤
+ 108424 : 이상한 새우 카레
+ 108425 : 새우 카레
+ 108426 : 맛있는 새우 카레
+ 108427 : 이상한 탄두리 치킨
+ 108428 : 탄두리 치킨
+ 108429 : 맛있는 탄두리 치킨
+ 108430 : 이상한 감자 보트
+ 108431 : 감자 보트
+ 108432 : 맛있는 감자 보트
+ 108433 : 이상한 크림소스 생선
+ 108434 : 크림소스 생선
+ 108435 : 맛있는 크림소스 생선
+ 108436 : 숲의 순찰관 특선
+ 108437 : 동경
+ 108438 : 쇼미더모라
+ 108439 : 이상한 고기 버섯피자
+ 108440 : 고기 버섯피자
+ 108441 : 맛있는 고기 버섯피자
+ 108442 : 이상한 일몰베리 티
+ 108443 : 일몰베리 티
+ 108444 : 맛있는 일몰베리 티
+ 108445 : 이상한 바삭 크림 버섯 타워
+ 108446 : 바삭 크림 버섯 타워
+ 108447 : 맛있는 바삭 크림 버섯 타워
+ 108448 : 이상한 코코넛 숯탄 전병
+ 108449 : 코코넛 숯탄 전병
+ 108450 : 맛있는 코코넛 숯탄 전병
+ 108451 : 이상한 바클라바
+ 108452 : 바클라바
+ 108453 : 맛있는 바클라바
+ 108454 : 이상한 대추야자 사탕
+ 108455 : 대추야자 사탕
+ 108456 : 맛있는 대추야자 사탕
+ 108457 : 이상한 파디사라 푸딩
+ 108458 : 파디사라 푸딩
+ 108459 : 맛있는 파디사라 푸딩
+ 108460 : 이상한 아루 비빔밥
+ 108461 : 아루 비빔밥
+ 108462 : 맛있는 아루 비빔밥
+ 108463 : 이상한 바캉스 과일주
+ 108464 : 바캉스 과일주
+ 108465 : 맛있는 바캉스 과일주
+ 108466 : 살랑이는 춤
+ 108467 : 결투의 혼
+ 108468 : 지극정성
+ 108469 : 새콤 베리 탄산 주스
  109000 : 레시피 아이템
  109101 : 레시피: 버섯 닭꼬치
  109102 : 레시피: 어부 토스트
@@ -6378,30 +6377,30 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  109490 : 레시피: 우동
  109491 : 레시피: 돈가스 샌드위치
  109492 : 레시피: 보랏빛 비구름
- 109493 : [EN] - Recipe: Butter Chicken
- 109494 : [EN] - Recipe: Shawarma Wrap
- 109495 : [EN] - Recipe: Selva Salad
- 109496 : [EN] - Recipe: Masala Cheese Balls
- 109497 : [EN] - Recipe: Mushroom Hodgepodge
- 109498 : [EN] - Recipe: Pita Pocket
- 109499 : [EN] - Recipe: Panipuri
- 109500 : [EN] - Recipe: Minty Bean Soup
- 109501 : [EN] - Recipe: Biryani
- 109502 : [EN] - Recipe: Tahchin
- 109503 : [EN] - Recipe: Lambad Fish Roll
- 109504 : [EN] - Recipe: Curry Shrimp
- 109505 : [EN] - Recipe: Tandoori Roast Chicken
- 109506 : [EN] - Recipe: Potato Boat
- 109507 : [EN] - Recipe: Fish With Cream Sauce
- 109508 : [EN] - Recipe: Meat Lovers' Mushroom Pizza
- 109509 : [EN] - Recipe: Sunset Berry Tea
- 109510 : [EN] - Recipe: Milky Mushroom Crisp Tower
- 109511 : [EN] - Recipe: Charcoal-Baked Ajilenakh Cake
- 109512 : [EN] - Recipe: Baklava
- 109513 : [EN] - Recipe: Candied Ajilenakh Nut
- 109514 : [EN] - Recipe: Padisarah Pudding
- 109515 : [EN] - Recipe: Aaru Mixed Rice
- 109516 : [EN] - ？？？
+ 109493 : 레시피: 버터 치킨
+ 109494 : 레시피: 샤와르마
+ 109495 : 레시피: 우림 샐러드
+ 109496 : 레시피: 마살라 치즈볼
+ 109497 : 레시피: 모둠 버섯
+ 109498 : 레시피: 포켓 피타
+ 109499 : 레시피: 파니푸리
+ 109500 : 레시피: 완두콩 민트 수프
+ 109501 : 레시피: 짐승고기 필라프
+ 109502 : 레시피: 타친
+ 109503 : 레시피: 람바드 생선 롤
+ 109504 : 레시피: 새우 카레
+ 109505 : 레시피: 탄두리 치킨
+ 109506 : 레시피: 감자 보트
+ 109507 : 레시피: 크림소스 생선
+ 109508 : 레시피: 고기 버섯피자
+ 109509 : 레시피: 일몰베리 티
+ 109510 : 레시피: 바삭 크림 버섯 타워
+ 109511 : 레시피: 코코넛 숯탄 전병
+ 109512 : 레시피: 바클라바
+ 109513 : 레시피: 대추야자 사탕
+ 109514 : 레시피: 파디사라 푸딩
+ 109515 : 레시피: 아루 비빔밥
+ 109516 : 레시피: 바캉스 과일주
  110000 : 합성 산물
  110001 : 밀가루
  110002 : 크림
@@ -6415,7 +6414,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  110011 : 소시지
  110012 : 훈제 생선
  110013 : 어포
- 110014 : [EN] - Spice
+ 110014 : 향신료
  111006 : 내열 포션
  111007 : 방습 포션
  111008 : 내한 포션
@@ -6438,7 +6437,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  111025 : 가짜 벌레 미끼
  111026 : 가짜 날벌레 미끼
  111027 : 형광초 미끼
- 111028 : [EN] - Sugardew Bait
+ 111028 : 감로 미끼
  112001 : 원질
  112002 : 슬라임 응축액
  112003 : 슬라임청
@@ -6497,21 +6496,21 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  112056 : 맹수 발톱
  112057 : 맹수의 날카로운 발톱
  112058 : 맹수의 귀신 발톱
- 112059 : 둥실 버섯 포자
+ 112059 : 버섯몬 포자
  112060 : 형광 포자 분말
  112061 : 포낭 결정 가루
- 112062 : [EN] - Inactivated Fungal Nucleus
- 112063 : [EN] - Dormant Fungal Nucleus
- 112064 : [EN] - Robust Fungal Nucleus
- 112065 : [EN] - Faded Red Satin
- 112066 : [EN] - Trimmed Red Silk
- 112067 : [EN] - Rich Red Brocade
- 112068 : [EN] - Chaos Storage
- 112069 : [EN] - Chaos Module
- 112070 : [EN] - Chaos Bolt
- 112071 : [EN] - Damaged Prism
- 112072 : [EN] - Turbid Prism
- 112073 : [EN] - Radiant Prism
+ 112062 : 활기를 잃은 버섯핵
+ 112063 : 잠든 버섯핵
+ 112064 : 튼튼한 버섯핵
+ 112065 : 빛바랜 붉은 비단
+ 112066 : 장식된 붉은 비단
+ 112067 : 금자수 붉은 비단
+ 112068 : 혼돈 용기
+ 112069 : 혼돈 모듈
+ 112070 : 혼돈 볼트
+ 112071 : 파손된 결정
+ 112072 : 혼탁한 결정
+ 112073 : 찬란하게 빛나는 결정
  113001 : 폭풍의 씨앗
  113002 : 뇌광 프리즘
  113003 : 동풍의 깃털
@@ -6547,10 +6546,10 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  113033 : 재앙신의 액운을 쫓는 눈물
  113034 : 만겁의 진의
  113035 : 룬 무늬 이빨
- 113036 : [EN] - Majestic Hooked Beak
- 113037 : [EN] - Thunderclap Fruitcore
- 113038 : [EN] - Perpetual Caliber
- 113039 : [EN] - Light Guiding Tetrahedron
+ 113036 : 버섯왕의 뾰족한 부리
+ 113037 : 번개를 품은 야생 열매
+ 113038 : 영구동력 코어
+ 113039 : 빛 인도 사면체
  114001 : 고탑 왕의 잔해
  114002 : 고탑 왕의 절망
  114003 : 고탑 왕의 조각
@@ -6584,21 +6583,21 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  114031 : 나루카미 어령의 친애
  114032 : 나루카미 어령의 용맹
  114033 : 금석극화의 가면
- 114034 : 금석극화의 호교(虎噛)
+ 114034 : 금석극화의 호교(虎嚙)
  114035 : 금석극화의 일각
  114036 : 금석극화의 귀인(鬼人)
- 114037 : [EN] - Copper Talisman of the Forest Dew
- 114038 : [EN] - Iron Talisman of the Forest Dew
- 114039 : [EN] - Silver Talisman of the Forest Dew
- 114040 : [EN] - Golden Talisman of the Forest Dew
- 114041 : [EN] - Oasis Garden's Reminiscence
- 114042 : [EN] - Oasis Garden's Kindness
- 114043 : [EN] - Oasis Garden's Mourning
- 114044 : [EN] - Oasis Garden's Truth
- 114045 : [EN] - Echo of Scorching Might
- 114046 : [EN] - Remnant Glow of Scorching Might
- 114047 : [EN] - Dream of Scorching Might
- 114048 : [EN] - Olden Days of Scorching Might
+ 114037 : 숲의 이슬을 닮은 동 부적
+ 114038 : 숲의 이슬을 닮은 철 부적
+ 114039 : 숲의 이슬을 닮은 은 부적
+ 114040 : 숲의 이슬을 닮은 금 부적
+ 114041 : 오아시스 화원의 추억
+ 114042 : 오아시스 화원의 은혜
+ 114043 : 오아시스 화원의 애념
+ 114044 : 오아시스 화원의 진리
+ 114045 : 태양 같은 권위의 메아리
+ 114046 : 태양 같은 권위의 여광
+ 114047 : 태양 같은 권위의 꿈
+ 114048 : 태양 같은 권위의 과거
  115001 : [CHS] - (test)新手礼包
  115002 : [CHS] - (test)角色养成包一（全平台）
  115003 : [CHS] - (test)角色养成包二（IOS）
@@ -6623,7 +6622,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  115022 : 모험 조력 교재 패키지
  115023 : 모험 조력 단련 패키지
  115024 : 재료 공유 패키지
- 115025 : 재료 공유 패키지
+ 115025 : 양질의 재료 공유 패키지
  115026 : 무기 돌파 셀렉션-고급
  115027 : 무기 돌파 셀렉션-스페셜
  115028 : 레시피집·「미식 탐방」
@@ -6636,7 +6635,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  115037 : 야시로 봉행의 선물
  115038 : 정교한 장식 선물
  115039 : 기묘한 장식 선물
- 115040 : [EN] - Midlander Billet Trove
+ 115040 : 중앙 대륙 원형 상자
  116001 : 기행 경험치
  116002 : 기행 보물함
  116003 : BP 3중 택1 테스트 패키지
@@ -6648,8 +6647,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  116009 : [CHS] - (test)BP付费高级礼包
  116010 : 하늘 번개의 인도
  116011 : 하늘 번개의 철학
- 116012 : [EN] - Guidance of the Land of Verdure
- 116013 : [EN] - Philosophies of the Land of Verdure
+ 116012 : 신록의 인도
+ 116013 : 신록의 철학
  117001 : 심비 성물함·3등급
  117002 : 심비 성물함·2등급
  117003 : 심비 성물함·1등급
@@ -6657,110 +6656,125 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  117005 : 성유물 보물함·떠돌이 악단과 검투사
  117006 : 심비 성물함·2등급
  117007 : 심비 성물함·1등급
- 117008 : [EN] - Domain Reliquary: Tier II
- 117009 : [EN] - Domain Reliquary: Tier I
+ 117008 : 심비 성물함·2등급
+ 117009 : 심비 성물함·1등급
  118001 : 여행자에게 주는 케이크
  118002 : 여행자에게 주는 케이크
  118003 : 여행자에게 주는 케이크
  118004 : 여행자에게 주는 케이크
- 118005 : [EN] - Cake for Traveler
- 118006 : [EN] - Cake for Traveler
- 120000 : [EN] - A Note Alrani Left for Niloofar
- 120001 : [EN] - A Research Paper by Pir Kavikavus
- 120002 : [EN] - Dried Flower
- 120003 : [EN] - Amiti Device Fragment (I)
- 120004 : [EN] - Amiti Device Fragment (II)
- 120005 : [EN] - Amiti Device Fragment (III)
- 120006 : [EN] - Jazari's Mora Purse
- 120007 : [EN] - "The Ultra Invincible" Adventure Handbook
- 120008 : [EN] - Lost Energy Block
- 120009 : [EN] - Strange Parchment
+ 118005 : 여행자에게 주는 케이크
+ 118006 : 여행자에게 주는 케이크
+ 120000 : 엘라니가 닐루파에게 남긴 메모
+ 120001 : 대스승 카비카부스의 논문
+ 120002 : 바람에 말린 꽃
+ 120003 : 아미티 장치 조각·첫 번째
+ 120004 : 아미티 장치 조각·두 번째
+ 120005 : 아미티 장치 조각·세 번째
+ 120006 : 쟈자리의 모라 주머니
+ 120007 : 「천하무적」 모험 핸드북
+ 120008 : 잃어버린 에너지 덩어리
+ 120009 : 기이한 양피지
  120010 : [CHS] - (test)冒险地图
- 120011 : [EN] - Withered Kusava
- 120012 : [EN] - Gulabgir's Special Pet Snake Food
- 120013 : [EN] - Strange Bead
- 120014 : [EN] - Strange Tiny Hats
- 120015 : [EN] - Shabby Rack
- 120016 : [EN] - Javi's Dream
- 120017 : [EN] - Tattered Paper
- 120018 : [EN] - The Shepherd and the Magic Bottle
- 120019 : [EN] - The Tale of Shiruyeh and Shirin (I)
- 120020 : [EN] - The Tale of Shiruyeh and Shirin (II)
- 120021 : [EN] - The Lay of Al-Ahmar
- 120022 : [EN] - The Folio of Foliage (I)
- 120023 : [EN] - The Folio of Foliage (II)
- 120024 : [EN] - The Folio of Foliage (III)
- 120025 : [EN] - Scroll of Streaming Song (I)
- 120026 : [EN] - Scroll of Streaming Song (II)
- 120027 : [EN] - Scroll of Streaming Song (III)
- 120028 : [EN] - An Ode to Soul-Light
- 120029 : [EN] - Transparent Ruins Record (II)
- 120030 : [EN] - Transparent Ruins Record (III)
- 120031 : [EN] - A Key
- 120032 : [EN] - Unsealed Parchment
- 120033 : [EN] - Guiding Parchment
- 120034 : [EN] - Whispering Parchment
- 120035 : [EN] - Mysterious Parchment
- 120036 : [EN] - Ancient Work Log
- 120037 : [EN] - Akademiya Investigation Team's Interim Report
- 120038 : [EN] - Zandik's Note
- 120039 : [EN] - Sohreh's Note
- 120040 : [EN] - Sumeru Investigation Team's Note
- 120041 : [EN] - Dissection Records
- 120042 : [EN] - Ragged Attendance Record
- 120043 : [EN] - ？？？
- 120044 : [EN] - ？？？
- 120045 : [EN] - ？？？
- 120046 : [EN] - ？？？
- 120047 : [EN] - Medical Records
- 120048 : [EN] - Diagnostic Report
- 120049 : [EN] - Shevirme's Funds
- 120050 : [EN] - Quqing's Funds
- 120051 : [EN] - Guanchui's Funds
- 120052 : [EN] - Zakariya's Prescription for Maruf
- 120053 : [EN] - Zakariya's Prescription for Maruf
- 120054 : [EN] - Zakariya's Prescription for Maruf
+ 120011 : 메마른 쿠사바
+ 120012 : 굴랍기르의 특제 애완용 뱀 사료
+ 120013 : 이상한 구슬
+ 120014 : 이상한 소형 모자
+ 120015 : 낡은 선반
+ 120016 : 자비의 「꿈」
+ 120017 : 너덜너덜한 종잇조각
+ 120018 : 목동과 요술병 이야기
+ 120019 : 시루이와 시린의 이야기·권1
+ 120020 : 시루이와 시린의 이야기·권2
+ 120021 : 아흐마르의 이야기
+ 120022 : 오래된 나뭇잎 경전·권1
+ 120023 : 오래된 나뭇잎 경전·권2
+ 120024 : 오래된 나뭇잎 경전·권3
+ 120025 : 푸시의 시가 모음집·권1
+ 120026 : 푸시의 시가 모음집·권2
+ 120027 : 푸시의 시가 모음집·권3
+ 120028 : 영혼의 빛에게 바치는 찬가
+ 120029 : 투명 유적 기록·두 번째
+ 120030 : 투명 유적 기록·세 번째
+ 120031 : 낡은 열쇠
+ 120032 : 개봉된 양피지
+ 120033 : 길을 인도하는 양피지
+ 120034 : 속삭이는 양피지
+ 120035 : 신비로운 양피지
+ 120036 : 오래된 업무 일지
+ 120037 : 아카데미아 탐사대의 임시 보고
+ 120038 : 잔디크의 메모
+ 120039 : 쇼레의 메모
+ 120040 : 수메르 탐사대의 메모
+ 120041 : 해부 기록
+ 120042 : 파손된 출근 기록
+ 120043 : 구매 물자
+ 120044 : 구매 물자
+ 120045 : 구매 물자
+ 120046 : 구매 물자
+ 120047 : 의료 기록
+ 120048 : 진단서
+ 120049 : 셰비르메의 「구매 자금」
+ 120050 : 청경의 「구매 자금」
+ 120051 : 관수의 「구매 자금」
+ 120052 : 자카리야가 마루프에게 발급한 「처방전」
+ 120053 : 자카리야가 마루프에게 발급한 「처방전」
+ 120054 : 자카리야가 마루프에게 발급한 「처방전」
  120055 : [CHS] - （test）马鲁夫的万能药包
- 120056 : [EN] - Zakariya's Medicine for Maruf
+ 120056 : 자카리야가 마루프에게 내준 약
  120057 : [CHS] - （test）蕈兽孢粉
  120058 : [CHS] - （test）新鲜的须弥蔷薇
- 120059 : [EN] - An Elegantly-Written Note
+ 120059 : 필체가 우아한 노트
  120060 : [CHS] - （test）仙人掌凝胶
- 120061 : [EN] - Nermin's Minty Bean Soup
+ 120061 : 네르민이 만든 「완두콩 민트 수프」
  120062 : [CHS] - （test）内尔敏做的香水
- 120063 : [EN] - Future Star
- 120065 : [EN] - Raef's Bag
- 120066 : [EN] - Nermin's Spices
- 120067 : [EN] - Keystone (I)
- 120068 : [EN] - Torn Page: A Thousand Nights (I)
- 120069 : [EN] - Torn Page: A Thousand Nights (II)
- 120070 : [EN] - Torn Page: A Thousand Nights (III)
- 120071 : [EN] - Torn Page: A Thousand Nights (IV)
- 120072 : [EN] - Torn Page: A Thousand Nights (V)
- 120073 : [EN] - Torn Page: A Thousand Nights (VI)
- 120074 : [EN] - A Thousand Nights (I)
- 120075 : [EN] - A Thousand Nights (II)
- 120076 : [EN] - A Thousand Nights (III)
- 120077 : [EN] - A Thousand Nights (IV)
- 120078 : [EN] - A Thousand Nights (V)
- 120079 : [EN] - A Thousand Nights (VI)
- 120080 : [EN] - Samer's Missive
- 120081 : [EN] - Samer's Missive
- 120082 : [EN] - Shevirme's Invoice
- 120083 : [EN] - Quqing's Invoice
- 120084 : [EN] - Guanchui's Invoice
- 120113 : [EN] - ？？？
- 120114 : [EN] - ？？？
- 120115 : [EN] - ？？？
- 120116 : [EN] - ？？？
- 120117 : [EN] - Keystone (II)
- 120118 : [EN] - Azalai's Payment
- 120119 : [EN] - Rama's Receipt
- 120120 : [EN] - Butrus' Receipt
- 120121 : [EN] - Jut's Receipt
- 120122 : [EN] - Jahangir's Receipt
- 120123 : [EN] - ？？？
+ 120063 : 미래의 별
+ 120065 : 리프의 상자
+ 120066 : 네르민의 향신료
+ 120067 : 열쇠의 돌·첫 번째
+ 120068 : 《천일야사·Ⅰ》의 찢어진 페이지
+ 120069 : 《천일야사·Ⅱ》의 찢어진 페이지
+ 120070 : 《천일야사·Ⅲ》의 찢어진 페이지
+ 120071 : 《천일야사·Ⅳ》의 찢어진 페이지
+ 120072 : 《천일야사·Ⅴ》의 찢어진 페이지
+ 120073 : 《천일야사·Ⅵ》의 찢어진 페이지
+ 120074 : 천일야사·Ⅰ
+ 120075 : 천일야사·Ⅱ
+ 120076 : 천일야사·Ⅲ
+ 120077 : 천일야사·Ⅳ
+ 120078 : 천일야사·Ⅴ
+ 120079 : 천일야사·Ⅵ
+ 120080 : 사마일의 메시지
+ 120081 : 사마일의 메시지
+ 120082 : 셰비르메의 주문서
+ 120083 : 청경의 주문서
+ 120084 : 관수의 주문서
+ 120113 : 사이노의 소개장
+ 120114 : 오래된 지도
+ 120115 : 경매 자료
+ 120116 : 사장된 자료 「귀적의 사원」
+ 120117 : 열쇠의 돌·두 번째
+ 120118 : 아잘라이의 대금
+ 120119 : 라마의 화물 영수증
+ 120120 : 부트러스의 화물 영수증
+ 120121 : 주트의 화물 영수증
+ 120122 : 자한기르의 화물 영수증
+ 120123 : 「한정판 사막 특별 여행 패키지」
  120125 : [CHS] - （test）赛芭的蔷薇
+ 120126 : 한 통의 짧은 편지
+ 120128 : 어렴풋이 알아볼 수 있는 명문
+ 120129 : 어렴풋이 알아볼 수 있는 명문
+ 120130 : 어렴풋이 알아볼 수 있는 명문
+ 120131 : 어렴풋이 알아볼 수 있는 명문
+ 120132 : 어렴풋이 알아볼 수 있는 명문
+ 120133 : 어렴풋이 알아볼 수 있는 명문
+ 120134 : 어렴풋이 알아볼 수 있는 명문
+ 120135 : 어렴풋이 알아볼 수 있는 명문
+ 120136 : 어렴풋이 알아볼 수 있는 명문
+ 120137 : 어렴풋이 알아볼 수 있는 명문
+ 120138 : 아카데미아 조사단의 보고서
+ 120139 : 아카데미아 조사단의 보고서
+ 120140 : 밀봉된 명령서
+ 120141 : 오래된 명령서
  130001 : 「예상꽃」 씨앗
  130002 : 「달콤달콤꽃」 씨앗
  130003 : 「세실리아꽃」 씨앗
@@ -6785,9 +6799,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  130022 : 「꿈의 꽃·히비스커스」의 꽃씨
  130023 : 「꿈의 꽃·방울꽃」의 꽃씨
  130024 : 「꿈의 꽃·유홍초」의 꽃씨
- 130025 : [EN] - Harra Fruit Seed
- 130026 : [EN] - Zaytun Peach Seed
- 130027 : [EN] - Sumeru Rose Seed
+ 130025 : 「향신과」의 씨앗
+ 130026 : 「뚠뚠 복숭아」의 씨앗
+ 130027 : 「수메르 장미」의 씨앗
  131000 : 구피
  131001 : 유리 구피
  131002 : 달콤달콤 구피
@@ -6810,12 +6824,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  131020 : 쓴맛 대포 복어
  131021 : 다이브다 가오리
  131022 : 포말로 가오리
- 131023 : [EN] - True Fruit Angler
- 131024 : [EN] - Peach of the Deep Waves
- 131025 : [EN] - Sandstorm Angler
- 131026 : [EN] - Sunset Cloud Angler
- 131027 : [EN] - Lazurite Axe Marlin
- 131028 : [EN] - Halcyon Jade Axe Marlin
+ 131023 : 과실 뿔복어
+ 131024 : 파도에 빠진 복숭아
+ 131025 : 모래 폭풍 뿔복어
+ 131026 : 놀구름 뿔복어
+ 131027 : 청금 미늘창 물고기
+ 131028 : 비옥 미늘창 물고기
  140001 : 최초의 날개
  140002 : 수호의 날개
  140003 : 강림의 날개
@@ -6825,7 +6839,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  140007 : 향연의 날개
  140008 : 날쌘 뇌운의 날개
  140009 : 찬란한 은하의 날개
- 140010 : [EN] - Wings of the Forest
+ 140010 : 울창한 숲의 날개
  141001 : 빛나는 결정·1
  141002 : 빛나는 결정·2
  141003 : 빛나는 결정·3
@@ -6898,21 +6912,21 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  141070 : 빛나는 결정·70
  141071 : 빛나는 결정·71
  141072 : 빛나는 결정·72
- 141073 : [EN] - Radiant Spincrystal 73
- 141074 : [EN] - Radiant Spincrystal 74
- 141075 : [EN] - Radiant Spincrystal 75
- 141076 : [EN] - Radiant Spincrystal 76
- 141077 : [EN] - Radiant Spincrystal 77
- 141078 : [EN] - Radiant Spincrystal 78
- 141079 : [EN] - Radiant Spincrystal 79
- 141080 : [EN] - Radiant Spincrystal 80
- 141081 : [EN] - Radiant Spincrystal 81
- 141082 : [EN] - Radiant Spincrystal 82
- 141083 : [EN] - Radiant Spincrystal 83
- 141084 : [EN] - Radiant Spincrystal 84
- 141085 : [EN] - Radiant Spincrystal 85
- 141086 : [EN] - Radiant Spincrystal 86
- 141087 : [EN] - Radiant Spincrystal 87
+ 141073 : 빛나는 결정·73
+ 141074 : 빛나는 결정·74
+ 141075 : 빛나는 결정·75
+ 141076 : 빛나는 결정·76
+ 141077 : 빛나는 결정·77
+ 141078 : 빛나는 결정·78
+ 141079 : 빛나는 결정·79
+ 141080 : 빛나는 결정·80
+ 141081 : 빛나는 결정·81
+ 141082 : 빛나는 결정·82
+ 141083 : 빛나는 결정·83
+ 141084 : 빛나는 결정·84
+ 141085 : 빛나는 결정·85
+ 141086 : 빛나는 결정·86
+ 141087 : 빛나는 결정·87
  200001 : 등불 종이 섬유
  200002 : 심지 털
  200003 : 부유석 파편
@@ -6927,8 +6941,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  200108 : 「용매」
  200109 : 눈을 밝히는 연고
  200110 : 노을빛 보주
- 200111 : [EN] - Original Fish Ointment
- 200112 : [EN] - Plume of the Changing Winds
+ 200111 : 원조 어유
+ 200112 : 바람을 나르는 깃털
  200201 : 송골매의 춤
  200202 : 철의 날개
  200203 : 바람의 샘
@@ -6996,7 +7010,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  200902 : 염원을 품은 자
  200903 : 나루카와 우카이
  200904 : 달을 묶은 밧줄
- 200905 : [EN] - Serendipity
+ 200905 : 세렌디피티
  210001 : 원신·인상
  210002 : 기행·바람을 잡다
  210003 : 엠버·토끼
@@ -7116,22 +7130,22 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  210121 : 기행·천명
  210122 : 시카노인 헤이조·테마리
  210123 : 기행·바닷빛
- 210124 : [EN] - Tighnari: Dew-Kissed
- 210125 : [EN] - Collei: Good Virtue
- 210126 : [EN] - Dori: Jinni
- 210127 : [EN] - Travel Notes: Woodlands
- 210128 : [EN] - Achievement: Roaming
- 210129 : [EN] - Achievement: Fated Encounter
- 210130 : [EN] - Sumeru: Shimmering Woods
- 210131 : [EN] - Sumeru: Observance
- 210132 : [EN] - Sumeru: Unsullied
- 210133 : [EN] - Travel Notes: Returning Winds
- 210134 : [EN] - ？？？
- 210135 : [EN] - ？？？
- 210136 : [EN] - ？？？
- 210137 : [EN] - Achievement: Seven Lights
- 210138 : [EN] - Sumeru: Sandtreader
- 210139 : [EN] - Achievement: Mirrored Dreams
+ 210124 : 타이나리·이슬 오일
+ 210125 : 콜레이·표변
+ 210126 : 도리·요술 램프
+ 210127 : 기행·깊은 숲
+ 210128 : 업적·만행
+ 210129 : 업적·인연
+ 210130 : 수메르·눈부신 숲
+ 210131 : 수메르·조람
+ 210132 : 수메르·정명
+ 210133 : 기행·돌아온 바람
+ 210134 : 사이노·침묵
+ 210135 : 캔디스·푸른빛 새
+ 210136 : 닐루·수련의 춤
+ 210137 : 업적·일곱 개의 빛
+ 210138 : 수메르·모래 밟기
+ 210139 : 업적·거울의 꿈
  220001 : 바람 신의 눈동자 공명석
  220002 : 바위 신의 눈동자 공명석
  220003 : 바위의 보물찾기 나침반
@@ -7181,25 +7195,25 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  220050 : [CHS] - (test)CD测试道具
  220051 : 아라타키·천하제일의 북
  220052 : 재료 수집기
- 220053 : [EN] - "Kusava"
+ 220053 : 「쿠사바」
  220054 : [CHS] - （test）仇恨测试道具
- 220055 : [EN] - Aranyaka
- 220057 : [EN] - Dendroculus Resonance Stone
- 220058 : [EN] - Dendro Treasure Compass
- 220059 : [EN] - "The Boon of the Elder Tree"
- 220060 : [EN] - Ultra-Hot Burner Lamp Test Model
- 220061 : [EN] - Treasure-Seeking Seelie
- 220062 : [EN] - Mini Seelie: Moss
- 220063 : [EN] - Exquisite Kamera
- 220064 : [EN] - Banu's Wisdom
- 220065 : [EN] - Fishing Line Stabilizer
- 220066 : [EN] - Vintage Lyre
- 220067 : [EN] - ？？？
+ 220055 : 「숲의 책」
+ 220057 : 풀의 신의 눈동자 공명석
+ 220058 : 풀의 보물찾기 나침반
+ 220059 : 「나무왕의 가호」
+ 220060 : 특급 가열 램프 프로토타입
+ 220061 : 「보물 찾는 선령」
+ 220062 : 작은 선령·이끼
+ 220063 : 정교한 「사진기」
+ 220064 : 바누의 지혜
+ 220065 : 낚싯줄 안정 장치
+ 220066 : 낡은 하프
+ 220067 : 통통 축제 폭죽
  220068 : [CHS] - (test)赤沙石板
- 220069 : [EN] - Scarlet Sand Slate
- 220070 : [EN] - "Bubbly Kamera"
- 220071 : [EN] - "Kusava"
- 220074 : [EN] - ？？？
+ 220069 : 적색 사막의 석판
+ 220070 : 「시원한 거품 사진기」
+ 220071 : 「쿠사바」
+ 220074 : 푸른 비단 기관·류운
  221001 : 설명서: 바람 신의 눈동자 공명석
  221002 : 설명서: 바위 신의 눈동자 공명석
  221003 : 설계도: 바위의 보물찾기 나침반
@@ -7218,20 +7232,20 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  221016 : 도감: 파마궁
  221017 : 설계도: 발열병
  221018 : 기억이 담긴 가면
- 221019 : [EN] - Tale of the Forest King
- 221020 : [EN] - Tale of the Desert
- 221021 : [EN] - Tale of the King's Squire
- 221022 : [EN] - Tale of the Moonlight
- 221023 : [EN] - Tale of the Portent
+ 221019 : 숲의 왕에 대한 이야기
+ 221020 : 사막에 대한 이야기
+ 221021 : 왕의 시종에 대한 이야기
+ 221022 : 달빛에 대한 이야기
+ 221023 : 이상한 징조에 대한 이야기
  221032 : 설명서: 번개 신의 눈동자 공명석
  221034 : 설계도: 번개의 보물찾기 나침반
  221035 : 제조법: 과즙 미끼
  221036 : 제조법: 적색 다진 미끼
  221037 : 제조법: 가짜 벌레 미끼
  221038 : 제조법: 가짜 날벌레 미끼
- 221039 : [EN] - Formula: Sugardew Bait
- 221057 : [EN] - Instructions: Dendroculus Resonance Stone
- 221058 : [EN] - Diagram: Dendro Treasure Compass
+ 221039 : 제조법: 감로 미끼
+ 221057 : 설명서: 풀의 신의 눈동자 공명석
+ 221058 : 설계도: 풀의 보물찾기 나침반
  222001 : 「회기의 베개 자국」
  223001 : 꽃비에 겹치는 구름 산
  223002 : 은빛 달밤의 별바다
@@ -7347,12 +7361,17 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  360416 : 무지개 등잔걸이-「행운의 새해」
  360417 : 「달을 밝히는 수많은 등불」
  360418 : 암석 공장 휴대용 등불-「광갱을 밝히는 불빛」
+ 360419 : 「이슬이 잠든 빛」
+ 360420 : 「새파란 빛」
+ 360421 : 「촘촘한 빛」
  361101 : 북대륙 자작나무 코너 카운터
  361102 : 오픈형 삼나무 진열대
  361103 : 조립식 삼나무 진열장
  361104 : 엔티크 삼나무 수납장
  361105 : 대형 자작나무 옷장
  361106 : 각사나무 금박 무늬 옷장
+ 361107 : 빛나는 나무 원목의 깔끔한 선반
+ 361108 : 사막 장식장 탁자-「환대」
  361201 : 도서관 이층 책장
  361202 : 정교한 췌화나무 책장
  361203 : 저렴한 췌화나무 책장
@@ -7363,6 +7382,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  361208 : 수향나무 상품 진열장
  361209 : 단풍나무 책장-「검게 물들인 수심」
  361210 : 단풍나무 책장-「천 권을 담은 창고」
+ 361212 : 사막 옷장-「잡동사니」
  361301 : 길고 튼튼한 도서관 책상
  361302 : 기사단 사무용 책상
  361303 : 기사단 회의용 책상
@@ -7378,11 +7398,16 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  361314 : 꿈의 나무 「냉난방」 코타츠
  361315 : 공작나무 「석정」 다탁
  361316 : 찻집 테이블-「틈이 없는 자리」
+ 361317 : 빛나는 나무 원목의 물레 탁자
+ 361318 : 단단한 에셀나무 테이블
  361401 : 바람의 가호를 받는 침대
  361402 : 안개 노을의 꿈 침대
  361403 : 꿈의 나무 「벚꽃 잠」 침대
  361501 : 소나무 객잔 카운터
  361502 : 찻집 카운터-「십사환」
+ 361503 : 사막 석대-「견고」
+ 361504 : 사막 벽난로-「온화」
+ 361505 : 사막 책상-「신중」
  362101 : 푹신한 접견실 소파
  362102 : 「푸른 하늘의 오후」
  362103 : 「견고한 의지」
@@ -7409,16 +7434,33 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  362217 : 「천상의 소리·얽힘」
  362218 : 축제향기-「고된 여정」
  362219 : 축제향기-「금과 옥」
+ 362220 : 「스페셜 셰프의 여름 연회」
+ 362221 : 영롱한 보물병-「쪽빛」
+ 362222 : 영롱한 보물병-「덩굴 녹색」
+ 362223 : 영롱한 보물병-「여문 보리색」
+ 362224 : 소박한 보물병-「고동색」
+ 362225 : 소박한 보물병-「황갈색」
+ 362226 : 소박한 보물병-「황토색」
+ 362227 : 소박한 보물병-「진갈색」
+ 362228 : 영롱한 보물병-「바다 조개」
+ 362229 : 영롱한 보물병-「암석」
+ 362231 : 「흩어진 연기 속에서」
  362301 : 몬드풍 카펫-「정열의 빨강」
  362302 : 몬드풍 카펫-「지치지 않는 탐색」
  362303 : 객잔 카펫-「내 집 같은 편안함」
  362304 : 접대용 카펫-「따뜻한 환영 인사」
+ 362305 : 「푸른 빛으로 빛나는 무늬」
+ 362306 : 「태양처럼 찬란한 무늬」
+ 362307 : 「야자처럼 짙은 무늬」
+ 362308 : 「햇살처럼 장엄한 무늬」
+ 362309 : 「올리브처럼 수려한 무늬」
  363101 : 꺼지지 않는 휴대용 등불
  363102 : 유리정 각사나무 스탠드
  363103 : 하늘 초롱-「밝은 촛불과 난초 향기」
  363104 : 조개 테이블 스탠드
  363105 : 「찬란하게 빛나는 빛」
  363106 : 「또렷이 빛나는 별」
+ 363107 : 사막 등불-「여광」
  363201 : 화초용 꽃병-「담청색의 여유」
  363202 : 식물용 화분-「깨끗한 바람」
  363203 : 화초용 꽃병-「만개한 주홍」
@@ -7449,6 +7491,16 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  363320 : 칵테일 셰이커 - 「요동치는 향기」
  363321 : 「가면」
  363322 : 「천문 회전체」
+ 363323 : 「향긋한 영약의 솥」
+ 363324 : 「비파랴스」
+ 363325 : 「무성한 숲의 조각」
+ 363326 : 「흥겨운 자태」
+ 363327 : 「돌 사이로 피어난 노래」
+ 363328 : 미니 「주바이르 극장」
+ 363329 : 「대풍기관의 공무 시간」
+ 363330 : 「따뜻한 주전자 속에서」
+ 363331 : 「아삭한 달콤함 속에서」
+ 363332 : 「감도는 안개 속에서」
  364101 : 풍경화-「시골 민가」
  364102 : 풍경화-「먼 하늘가의 구름」
  364103 : 풍경화-「이름 없는 절벽」
@@ -7471,6 +7523,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  364210 : 걸이식 광고판
  364211 : 비단 커튼
  364212 : 「창룡점정의 기이한 형상」
+ 364213 : 단단한 에셀나무 원형 방패
+ 364214 : 사막 벽장식-「노을」
+ 364215 : 사막 벽장식-「화염 깃털」
  364301 : 수향나무 격자 문
  364302 : 기사단 삼나무 문
  364303 : 담장집 단풍나무 문
@@ -7552,6 +7607,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  368149 : 야란
  368150 : 쿠키 시노부
  368151 : 시카노인 헤이조
+ 368152 : 타이나리
+ 368153 : 콜레이
+ 368154 : 도리
+ 368155 : 닐루
+ 368156 : 사이노
+ 368157 : 캔디스
  369101 : 비취아이 고양이
  369102 : 북극견
  369103 : 숲멧돼지
@@ -7609,6 +7670,17 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  369155 : 산호 나비
  369156 : 행운의 빛 벌레
  369157 : 푸른 번개 족제비
+ 369158 : 풀 수정 나비
+ 369159 : 숲 나무 개구리
+ 369160 : 빨강 꼬리 도마뱀
+ 369161 : 아기 버섯 돼지
+ 369162 : 버섯 돼지
+ 369163 : 황혼새
+ 369164 : 흑따오기
+ 369165 : 가면 족제비
+ 369166 : 황금 스카라브
+ 369167 : 사막 뱀장어
+ 369168 : 사막 여우
  370101 : 건초 오두막
  370102 : 건초 저장고
  370103 : 리월풍 민가-「소나무와 시냇물을 벗삼아」
@@ -7643,6 +7715,17 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  370308 : 「요리용 네 칸 솥」
  370309 : 과채 노점-「전원에서」
  370310 : 오토기나무 라멘 포장마차
+ 370311 : 「방직의 깊이」
+ 370312 : 「방직의 척도」
+ 370313 : 「방직의 보람」
+ 370314 : 「흘러넘치는 달콤함」
+ 370315 : 「그늘 아래의 달콤함」
+ 370316 : 「땅굴 속 달콤함」
+ 370317 : 「어부의 거래 장소」
+ 370318 : 「어부의 저장법」
+ 370319 : 「어부의 재활용」
+ 370320 : 빛나는 나무 원목의 천막 잡화점
+ 370321 : 빛나는 나무 원목의 바비큐 노점
  370401 : 츄츄족 초소
  370402 : 츄츄족 우두머리 거처
  370501 : 「벽수 동쪽의 상인」
@@ -7691,6 +7774,17 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  370628 : 이나즈마 민가-「와타츠미의 지난날」
  370629 : 이나즈마 민가-「산호의 방」
  370630 : 이나즈마 민가-「바람의 방」
+ 370700 : 숲의 전시대
+ 370701 : 「숲 주민의 확신」
+ 370702 : 「숲 주민의 안락」
+ 370703 : 「숲 주민의 고독」
+ 370704 : 「숲 주민의 집념」
+ 370705 : 사막 집-「일상」
+ 370706 : 사막 집-「다채로운 향기」
+ 370707 : 사막 집-「나팔 소리」
+ 370708 : 사막 집-「짧은 잠」
+ 370709 : 사막 집-「숨겨진 빛」
+ 370710 : 사막 집-「저금」
  371101 : 꽃과 새 장식 분수
  371102 : 츄츄족 나선형 전망탑
  371103 : 츄츄족 간이 초막
@@ -7707,6 +7801,10 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  371118 : 외경 기석-「명실상부」
  371119 : 암석 공장 기중기-「산을 움직이는 힘」
  371120 : 암석 공장 기중기-「산을 평평하게 하는 힘」
+ 371122 : 사막 텐트-「상세한 일」
+ 371123 : 사막 텐트-「물음」
+ 371124 : 사막 텐트-「쇠퇴」
+ 371125 : 사막 텐트-「휴식」
  371201 : 삼안의 선패
  371202 : 자작나무 정원 정문
  371203 : 조각문양 정원 담장끝
@@ -7740,6 +7838,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  371231 : 푸른빛 싱그러움-「꿈의 경계」
  371232 : 푸른빛 싱그러움-「별꽃 울타리」
  371233 : 푸른빛 싱그러움-「몽환의 미궁」
+ 371234 : 「환몽의 대문」
+ 371235 : 「어부의 경계벽」
+ 371236 : 「어부 활동 금지 구역」
+ 371237 : 사막 돌계단-「등반」
+ 371238 : 사막 담벼락-「습격」
+ 371239 : 사막 담벼락-「수호」
  372101 : 외경 반석-「산악」
  372102 : 외경 반석-「거암(巨巖)」
  372103 : 외경 반석-「위봉(危峯)」
@@ -7747,6 +7851,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  372105 : 외경 반석-「천계」
  372106 : 외경 반석-「영롱」
  372107 : 의석 지반-「행운의 시간」
+ 372108 : 외경 반석-「광막」
+ 372109 : 외경 반석-「자갈」
  372201 : 복청석
  372202 : 제신석
  372203 : 제대석
@@ -7774,6 +7880,8 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  372225 : 적수석
  372226 : 섭랑석
  372227 : 백석 온천-「미화」
+ 372228 : 단단한 소용돌이 도석
+ 372229 : 채색용 기울어진 도석
  372301 : 「창색의 바람」
  372302 : 은빛 고리 야자나무
  372303 : 밝은 모래색 야자나무
@@ -7855,6 +7963,26 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  372446 : 「상야의 빛나는 나무」
  372447 : 아욱빛 전필버섯
  372448 : 아욱빛 축봉버섯
+ 372449 : 붉은색 살랑 버섯
+ 372450 : 갈색 우뚝 버섯
+ 372451 : 살구색 가랑잎 버섯
+ 372452 : 모래색 돔 버섯
+ 372453 : 편안한 잎 우산
+ 372454 : 「숨겨진 강인함」
+ 372455 : 「새벽의 징조처럼」
+ 372456 : 「하늘에 걸린 하얀 별처럼」
+ 372457 : 「달의 조각처럼」
+ 372458 : 「촘촘한 노을처럼」
+ 372459 : 「숨겨진 달콤한 꿀」
+ 372460 : 「숨겨진 짠 열매」
+ 372461 : 「뜨거운 모래 속 청량함」
+ 372462 : 「향기로운 단잠의 나뭇가지」
+ 372463 : 「부드러움이 깃든 나뭇잎 무늬」
+ 372464 : 「반짝이는 저 먼 별처럼」
+ 372465 : 「물결치는 색감」
+ 372466 : 「반쯤 모래 속에 묻힌 편지」
+ 372467 : 「뜨거운 태양빛처럼」
+ 372468 : 「밟기 및 점프 금지 구역」
  372501 : 농업의 길-「검붉은 옥전(玉田)」
  372502 : 농업의 길-「우거진 지전(芝田)」
  372503 : 농업의 길-「정연한 수전(水田)」
@@ -7905,6 +8033,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  373139 : 이원 선율-「일창삼탄」
  373140 : 이원 울림-「긴박하고 요란한 소리」
  373141 : 「빠른 연주의 음률꽃·특수 조율」
+ 373142 : 「어부의 대어를 낚는 소리」
+ 373143 : 「어부의 일상다반」
+ 373144 : 「어부의 판매 요령」
+ 373145 : 「어부의 티끌 모아 태산」
+ 373146 : 「어부의 도구 선택」
  373201 : 식물용 화분-「작고 푸른 낙원」
  373202 : 수분 가득 화단
  373203 : 토양 운반용 나무통
@@ -7967,6 +8100,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  373352 : 「도도코의 모래 위의 휴식」
  373353 : 「도도코의 소장용 찬장」
  373354 : 「도도코의 청량한 우산」
+ 373355 : 「어부의 직조 아이디어」
+ 373356 : 「없어서는 안 되는 물건」
+ 373357 : 「여단의 위엄」
+ 373358 : 「정벌 구상」
+ 373359 : 「날카로운 차단목」
+ 373360 : 「여단의 수레」
  373401 : 조각문양 철제 가로등
  373402 : 야외 소나무 가로등
  373403 : 퇴마등-「밝게 비추리」
@@ -7985,6 +8124,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  373416 : 공작나무 「연속」 가로등
  373501 : 외경 워프 포인트
  373601 : 「신비한 구름 연못」
+ 373602 : 「투명한 물에 비친 그림자」
  373701 : 화분대·상고
  373702 : 화분대·몽생
  373703 : 화분대·바람의 송가
@@ -8066,6 +8206,42 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  374026 : 눈사람 코-「거짓말 당근」
  374027 : 눈사람 코-「덤벼 봐!」
  374028 : 눈사람 코-「사과 폭탄」
+ 374031 : 나무색 몸통-「삐딱한 자세」
+ 374032 : 나무색 몸통-「얌전히 휴식」
+ 374033 : 나무색 몸통-「어흥어흥」
+ 374034 : 나무색 몸통-「지혜로운 노인」
+ 374035 : 꽃색 몸통-「삐딱한 자세」
+ 374036 : 꽃색 몸통-「얌전히 휴식」
+ 374037 : 꽃색 몸통-「어흥어흥」
+ 374038 : 꽃색 몸통-「지혜로운 노인」
+ 374039 : 물색 몸통-「삐딱한 자세」
+ 374040 : 물색 몸통-「얌전히 휴식」
+ 374041 : 물색 몸통-「어흥어흥」
+ 374042 : 물색 몸통-「지혜로운 노인」
+ 374051 : 나무색 머리-「허허」
+ 374052 : 나무색 머리-「헤헤」
+ 374053 : 나무색 머리-「낄낄」
+ 374054 : 나무색 머리-「흑흑」
+ 374055 : 꽃색 머리-「허허」
+ 374056 : 꽃색 머리-「헤헤」
+ 374057 : 꽃색 머리-「낄낄」
+ 374058 : 꽃색 머리-「흑흑」
+ 374059 : 물색 머리-「허허」
+ 374060 : 물색 머리-「헤헤」
+ 374061 : 물색 머리-「낄낄」
+ 374062 : 물색 머리-「흑흑」
+ 374071 : 목각 눈동자-「듣고 있어」
+ 374072 : 목각 눈동자-「안녕」
+ 374073 : 목각 눈동자-「뭐라고?」
+ 374074 : 목각 눈동자-「그럴 리가」
+ 374081 : 목각 모자-「행상」
+ 374082 : 목각 모자-「숲의 주민」
+ 374083 : 목각 모자-「점성술사」
+ 374084 : 목각 모자-「게으름뱅이」
+ 374085 : 목각 모자-[배웅자]
+ 374091 : 목각 망토-「숲의 순찰꾼」
+ 374092 : 목각 망토-「똑똑이」
+ 374093 : 목각 망토-「노래꾼」
  374101 : 풍파를 겪은 대나무 울타리
  374102 : 낡은 소나무 울타리
  374103 : 츄츄족 나무 울타리
@@ -8109,6 +8285,22 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  374503 : 주석 지반-「배도겸행」
  374504 : 푸른빛 싱그러움-「과자로 만든 돌길」
  374505 : 의석 지반-「원대한 구상」
+ 374700 : 「서풍 후후 자선 가게」
+ 374701 : 가게 텐트-「낙락베리 빨강」
+ 374702 : 가게 텐트-「민들레 초록」
+ 374703 : 가게 텐트-「시드르 호수의 파랑」
+ 374704 : 경관 조형물-「적당한 달콤함」
+ 374705 : 경관 조형물-「뜻밖의 선물」
+ 374706 : 경관 조형물-「향기로운 냄새」
+ 374707 : 가게 장식품-「눈으로 즐기는 풍미」
+ 374708 : 가게 장식품-「차례로 줄 서기」
+ 374709 : 가게 장식품-「작은 새 종업원」
+ 374710 : 가게 장식품-「한입만」
+ 374711 : 가게 장식품-「바구니 속 은은한 향기」
+ 374712 : 가게 장식품-「어서 오세요」
+ 374713 : 가게 앞 소품-「식사 하세요」
+ 374714 : 가게 앞 소품-「초특가」
+ 374715 : 가게 앞 소품-「강렬한 향기」
  375101 : 몬드풍 저택-「바람의 정원」
  375103 : 이나즈마 담장집-「우아한 저택」
  376101 : 오락 장치-「스퍼트 리듬」
@@ -8176,6 +8368,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  379021 : 쓴맛 대포 복어
  379022 : 다이브다 가오리
  379023 : 포말로 가오리
+ 379024 : 과실 뿔복어
+ 379025 : 파도에 빠진 복숭아
+ 379026 : 모래 폭풍 뿔복어
+ 379027 : 놀구름 뿔복어
+ 379028 : 청금 미늘창 물고기
+ 379029 : 비옥 미늘창 물고기
  380101 : 깔끔한 목제 처마 벽
  380102 : 짙은색 나무 아치벽
  380103 : 단풍나무 아치벽
@@ -8202,17 +8400,17 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  380415 : 피어나는 촛불등-「깨끗한 연꽃」
  380416 : 무지개 등잔걸이-「행운의 새해」
  380418 : 암석 공장 휴대용 등불-「광갱을 밝히는 불빛」
- 380419 : [EN] - Slumbering Dewlight
- 380420 : [EN] - Dripping Verdant Light
- 380421 : [EN] - Deepwood Illumination
+ 380419 : 「이슬이 잠든 빛」
+ 380420 : 「새파란 빛」
+ 380421 : 「촘촘한 빛」
  381101 : 북대륙 자작나무 코너 카운터
  381102 : 오픈형 삼나무 진열대
  381103 : 조립식 삼나무 진열장
  381104 : 엔티크 삼나무 수납장
  381105 : 대형 자작나무 옷장
  381106 : 각사나무 금박 무늬 옷장
- 381107 : [EN] - Plain Brightwood Shelf
- 381108 : [CHS] - test阿如村室内柜子1
+ 381107 : 빛나는 나무 원목의 깔끔한 선반
+ 381108 : 사막 장식장 탁자-「환대」
  381201 : 도서관 이층 책장
  381202 : 정교한 췌화나무 책장
  381203 : 저렴한 췌화나무 책장
@@ -8223,7 +8421,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  381208 : 수향나무 상품 진열장
  381209 : 단풍나무 책장-「검게 물들인 수심」
  381210 : 단풍나무 책장-「천 권을 담은 창고」
- 381212 : [CHS] - test阿如村室内书柜1
+ 381212 : 사막 옷장-「잡동사니」
  381301 : 길고 튼튼한 도서관 책상
  381302 : 기사단 사무용 책상
  381303 : 기사단 회의용 책상
@@ -8239,16 +8437,16 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  381314 : 꿈의 나무 「냉난방」 코타츠
  381315 : 공작나무 「석정」 다탁
  381316 : 찻집 테이블-「틈이 없는 자리」
- 381317 : [EN] - Brightwood Pottery Worktable
- 381318 : [CHS] - test阿如村室内桌子1
+ 381317 : 빛나는 나무 원목의 물레 탁자
+ 381318 : 단단한 에셀나무 테이블
  381401 : 바람의 가호를 받는 침대
  381402 : 안개 노을의 꿈 침대
  381403 : 꿈의 나무 「벚꽃 잠」 침대
  381501 : 소나무 객잔 카운터
  381502 : 찻집 카운터-「십사환」
- 381503 : [CHS] - test阿如村室内厨台
- 381504 : [CHS] - test阿如村室内火炉1
- 381505 : [CHS] - test阿如村室内木阶梯1
+ 381503 : 사막 석대-「견고」
+ 381504 : 사막 벽난로-「온화」
+ 381505 : 사막 책상-「신중」
  382101 : 푹신한 접견실 소파
  382102 : 「푸른 하늘의 오후」
  382103 : 「견고한 의지」
@@ -8274,31 +8472,31 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  382216 : 꿈의 나무 접이식 병풍「입화」
  382218 : 축제향기-「고된 여정」
  382219 : 축제향기-「금과 옥」
- 382221 : [EN] - Hued Vase: Cerulean
- 382222 : [EN] - Hued Vase: Malachite
- 382223 : [EN] - Hued Vase: Amber
- 382224 : [EN] - Plain Vase: Bronze
- 382225 : [EN] - Plain Vase: Tawny
- 382226 : [EN] - Plain Vase: Ocher
- 382227 : [EN] - Plain Vase: Sepia
- 382228 : [CHS] - test阿如村室内陶罐1
- 382229 : [CHS] - test阿如村室内陶罐2
- 382231 : [CHS] - test须弥室内香炉bp用
+ 382221 : 영롱한 보물병-「쪽빛」
+ 382222 : 영롱한 보물병-「덩굴 녹색」
+ 382223 : 영롱한 보물병-「여문 보리색」
+ 382224 : 소박한 보물병-「고동색」
+ 382225 : 소박한 보물병-「황갈색」
+ 382226 : 소박한 보물병-「황토색」
+ 382227 : 소박한 보물병-「진갈색」
+ 382228 : 영롱한 보물병-「바다 조개」
+ 382229 : 영롱한 보물병-「암석」
+ 382231 : 「흩어진 연기 속에서」
  382301 : 몬드풍 카펫-「정열의 빨강」
  382302 : 몬드풍 카펫-「지치지 않는 탐색」
  382303 : 객잔 카펫-「내 집 같은 편안함」
  382304 : 접대용 카펫-「따뜻한 환영 인사」
- 382305 : [EN] - Glorious Emerald Tapestry
- 382306 : [EN] - Dazzling Golden Tapestry
- 382307 : [EN] - Musing Tawny Tapestry
- 382308 : [CHS] - test阿如村室内地毯1
- 382309 : [CHS] - test通用室内地毯4
+ 382305 : 「푸른 빛으로 빛나는 무늬」
+ 382306 : 「태양처럼 찬란한 무늬」
+ 382307 : 「야자처럼 짙은 무늬」
+ 382308 : 「햇살처럼 장엄한 무늬」
+ 382309 : 「올리브처럼 수려한 무늬」
  383101 : 꺼지지 않는 휴대용 등불
  383102 : 유리정 각사나무 스탠드
  383103 : 하늘 초롱-「밝은 촛불과 난초 향기」
  383104 : 조개 테이블 스탠드
  383106 : 「또렷이 빛나는 별」
- 383107 : [CHS] - test阿如村室内地灯1
+ 383107 : 사막 등불-「여광」
  383201 : 화초용 꽃병-「담청색의 여유」
  383202 : 식물용 화분-「깨끗한 바람」
  383203 : 화초용 꽃병-「만개한 주홍」
@@ -8325,11 +8523,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  383317 : 「신의 후각」 여우 오뚝이
  383318 : 「진정한 요리실력」 너구리 오뚝이
  383322 : 「천문 회전체」
- 383325 : [EN] - A Lush Glimpse
- 383326 : [EN] - Jubilant Posture
- 383330 : [CHS] - test阿如村室内茶具套装
- 383331 : [CHS] - test阿如村室内桌面摆件
- 383332 : [CHS] - test阿如村室内桌面香炉
+ 383325 : 「무성한 숲의 조각」
+ 383326 : 「흥겨운 자태」
+ 383330 : 「따뜻한 주전자 속에서」
+ 383331 : 「아삭한 달콤함 속에서」
+ 383332 : 「감도는 안개 속에서」
  384101 : 풍경화-「시골 민가」
  384102 : 풍경화-「먼 하늘가의 구름」
  384103 : 풍경화-「이름 없는 절벽」
@@ -8351,9 +8549,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  384209 : 걸이식 기록판
  384210 : 걸이식 광고판
  384211 : 비단 커튼
- 384213 : [CHS] - test须弥盾牌墙面挂饰
- 384214 : [CHS] - test阿如村室内墙面布帘1
- 384215 : [CHS] - test阿如村室内墙面装饰1
+ 384213 : 단단한 에셀나무 원형 방패
+ 384214 : 사막 벽장식-「노을」
+ 384215 : 사막 벽장식-「화염 깃털」
  384501 : 「유대의 순간」
  390101 : 건초 오두막
  390102 : 건초 저장고
@@ -8389,17 +8587,17 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  390308 : 「요리용 네 칸 솥」
  390309 : 과채 노점-「전원에서」
  390310 : 오토기나무 라멘 포장마차
- 390311 : [EN] - Woven Depth
- 390312 : [EN] - Woven Length
- 390313 : [EN] - Woven Fruition
- 390314 : [EN] - Sweetness in Exchange
- 390315 : [EN] - Sweetness in the Shade
- 390316 : [EN] - Sweetness in Storage
- 390317 : [EN] - Fisherman's Dealings
- 390318 : [EN] - Fisherman's Preservation Trick
- 390319 : [EN] - Fisherman's Maintenance
- 390320 : [EN] - Brightwood Grocery Stall
- 390321 : [EN] - Brightwood Kebab Cart
+ 390311 : 「방직의 깊이」
+ 390312 : 「방직의 척도」
+ 390313 : 「방직의 보람」
+ 390314 : 「흘러넘치는 달콤함」
+ 390315 : 「그늘 아래의 달콤함」
+ 390316 : 「땅굴 속 달콤함」
+ 390317 : 「어부의 거래 장소」
+ 390318 : 「어부의 저장법」
+ 390319 : 「어부의 재활용」
+ 390320 : 빛나는 나무 원목의 천막 잡화점
+ 390321 : 빛나는 나무 원목의 바비큐 노점
  390401 : 츄츄족 초소
  390402 : 츄츄족 우두머리 거처
  390501 : 「벽수 동쪽의 상인」
@@ -8448,16 +8646,16 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  390628 : 이나즈마 민가-「와타츠미의 지난날」
  390629 : 이나즈마 민가-「산호의 방」
  390630 : 이나즈마 민가-「바람의 방」
- 390701 : [EN] - Deepwood Dweller's Deliberation
- 390702 : [EN] - Deepwood Dweller's Estimation
- 390703 : [EN] - Deepwood Dweller's Lonesome
- 390704 : [EN] - Deepwood Dweller's Perseverance
- 390705 : [CHS] - test阿如村建筑1
- 390706 : [CHS] - test阿如村建筑2
- 390707 : [CHS] - test阿如村建筑3
- 390708 : [CHS] - test阿如村建筑4
- 390709 : [CHS] - test阿如村建筑5
- 390710 : [CHS] - test阿如村建筑6
+ 390701 : 「숲 주민의 확신」
+ 390702 : 「숲 주민의 안락」
+ 390703 : 「숲 주민의 고독」
+ 390704 : 「숲 주민의 집념」
+ 390705 : 사막 집-「일상」
+ 390706 : 사막 집-「다채로운 향기」
+ 390707 : 사막 집-「나팔 소리」
+ 390708 : 사막 집-「짧은 잠」
+ 390709 : 사막 집-「숨겨진 빛」
+ 390710 : 사막 집-「저금」
  391101 : 꽃과 새 장식 분수
  391102 : 츄츄족 나선형 전망탑
  391103 : 츄츄족 간이 초막
@@ -8474,10 +8672,10 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  391118 : 외경 기석-「명실상부」
  391119 : 암석 공장 기중기-「산을 움직이는 힘」
  391120 : 암석 공장 기중기-「산을 평평하게 하는 힘」
- 391122 : [CHS] - test阿如村棚子1
- 391123 : [CHS] - test阿如村棚子2
- 391124 : [CHS] - test阿如村棚子3
- 391125 : [CHS] - test阿如村棚子4
+ 391122 : 사막 텐트-「상세한 일」
+ 391123 : 사막 텐트-「물음」
+ 391124 : 사막 텐트-「쇠퇴」
+ 391125 : 사막 텐트-「휴식」
  391201 : 삼안의 선패
  391202 : 자작나무 정원 정문
  391203 : 조각문양 정원 담장끝
@@ -8508,11 +8706,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  391228 : 온천 외벽-「무월」
  391229 : 온천 나무판자-「안정」
  391230 : 온천 현관-「추위 피하기」
- 391235 : [EN] - Fisherman's Fence
- 391236 : [EN] - "No Fishing Ahead"
- 391237 : [CHS] - test阿如村楼梯
- 391238 : [CHS] - test阿如村围墙墙体长
- 391239 : [CHS] - test阿如村围墙墙体短
+ 391235 : 「어부의 경계벽」
+ 391236 : 「어부 활동 금지 구역」
+ 391237 : 사막 돌계단-「등반」
+ 391238 : 사막 담벼락-「습격」
+ 391239 : 사막 담벼락-「수호」
  392107 : 의석 지반-「행운의 시간」
  393101 : 어지럽게 쌓여있는 삼나무 상자
  393102 : 가지런히 놓인 삼나무 술통
@@ -8551,11 +8749,11 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  393137 : 음식점 전용 대형 부뚜막
  393138 : 유유한 불길
  393141 : 「빠른 연주의 음률꽃·특수 조율」
- 393142 : [EN] - Fisherman's Catch
- 393143 : [EN] - Fisherman's Delicacy
- 393144 : [EN] - Fisherman's Storage Solution
- 393145 : [EN] - Fisherman's Efforts
- 393146 : [EN] - Fisherman's Clemency
+ 393142 : 「어부의 대어를 낚는 소리」
+ 393143 : 「어부의 일상다반」
+ 393144 : 「어부의 판매 요령」
+ 393145 : 「어부의 티끌 모아 태산」
+ 393146 : 「어부의 도구 선택」
  393201 : 식물용 화분-「작고 푸른 낙원」
  393202 : 수분 가득 화단
  393203 : 토양 운반용 나무통
@@ -8604,12 +8802,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  393352 : 「도도코의 모래 위의 휴식」
  393353 : 「도도코의 소장용 찬장」
  393354 : 「도도코의 청량한 우산」
- 393355 : [EN] - Fisherman's Craftsmanship
- 393356 : [EN] - The Essentials
- 393357 : [EN] - The Eremites' Flame of Vigor
- 393358 : [EN] - Embodiment of Warfare
- 393359 : [EN] - Steel Stopper
- 393360 : [EN] - The Eremites' Odyssey
+ 393355 : 「어부의 직조 아이디어」
+ 393356 : 「없어서는 안 되는 물건」
+ 393357 : 「여단의 위엄」
+ 393358 : 「정벌 구상」
+ 393359 : 「날카로운 차단목」
+ 393360 : 「여단의 수레」
  393401 : 조각문양 철제 가로등
  393402 : 야외 소나무 가로등
  393403 : 퇴마등-「밝게 비추리」
@@ -8627,7 +8825,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  393415 : 오토기나무 심플 가로등
  393416 : 공작나무 「연속」 가로등
  393601 : 「신비한 구름 연못」
- 393602 : [EN] - Shaded Clarity
+ 393602 : 「투명한 물에 비친 그림자」
  394101 : 풍파를 겪은 대나무 울타리
  394102 : 낡은 소나무 울타리
  394103 : 츄츄족 나무 울타리
@@ -8778,7 +8976,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 21011302 : 빙탄 츄츄족-강공 강화
 21011401 : 얼음방패 츄츄
 21011402 : 얼음방패 츄츄족(타워 디펜스)
-21011403 : [JP] - ヒルチャール·氷盾-雪山イベント
+21011403 : [EN] - Ice Shield Hilichurl Guard: Dragonspine Event
 21011501 : 이상한 빈손 츄츄족
 21011601 : 번개탄 츄츄족
 21011602 : 번개탄 츄츄족-강공 강화
@@ -8849,7 +9047,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 22040201 : 기뢰·수계(獸界) 유견
 22050101 : 기암·수계(獸界) 사냥개
 22050201 : 기뢰·수계(獸界) 사냥개
-22060101 : [JP] - 黄金王獣
+22060101 : [EN] - Golden Wolflord
 22070101 : [N/A] 4247441641
 22070102 : [N/A] 1947288681
 22070201 : [N/A] 1402090241
@@ -8962,9 +9160,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25090102 : 꼭두각시 장군-바람 분신
 25090103 : 꼭두각시 장군-얼음 분신
 25090104 : 꼭두각시 장군-가면 분신
-25090201 : [JP] - 傀儡将軍-風分身（アイコン有り）
-25090301 : [JP] - 傀儡将軍-氷分身（アイコン有り）
-25090401 : [JP] - 傀儡将軍-仮面分身（アイコン有り）
+25090201 : [EN] - Marionette General: Wind Bunshin (With Icon)
+25090301 : [EN] - Marionette General: Ice Bunshin (With Icon)
+25090401 : [EN] - Marionette General: Masked Bunshin (With Icon)
 25100101 : 해란귀-번개
 25100102 : [N/A] 280790529
 25100201 : 해란귀-불
@@ -9018,7 +9216,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 25410201 : [N/A] 1223193297
 26010101 : 얼음 구라구라꽃
 26010102 : 얼음 구라구라꽃(설산 이벤트)
-26010103 : [JP] - 巨大トリックフラワー·氷（2.3雪山イベント）
+26010103 : [EN] - Giant Cryo Whopperflower (2.3 Dragonspine Event)
 26010104 : [N/A] 2622496017
 26010201 : 화염 구라구라꽃
 26010301 : 번개 구라구라꽃
@@ -9116,7 +9314,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 28020403 : 시바견
 28020404 : 검은 등 하운드
 28020405 : 시바견
-28020406 : [JP] - ハスキー（犬イベント専用、カメラ距離拡大）
+28020406 : [EN] - Northland Hound (Dog Event Special, Extended LoS Range)
 28020407 : [N/A] 4246448217
 28020408 : [N/A] 279322729
 28020409 : [N/A] 3045582529
@@ -9129,7 +9327,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 28020506 : 경장묘
 28020507 : 흑묘
 28020508 : 사파이어
-28020509 : [JP] - グレースノウ（犬イベント専用、カメラ距離拡大）
+28020509 : [EN] - Gray Snow Cat (Dog Event Special, Extended LoS Range)
 28020510 : [N/A] 4118163561
 28020511 : [N/A] 370467545
 28020512 : [N/A] 1412852081
@@ -9140,12 +9338,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 28020604 : 가면 족제비
 28020605 : [N/A] 4171435641
 28020701 : 여우
-28020702 : [JP] - 狐（犬イベント専用、カメラ距離拡大）
+28020702 : [EN] - Kitsune (Dog Event Special, Extended LoS Range)
 28020801 : 너구리 요괴
 28020802 : [N/A] 2189860961
 28020803 : [N/A] 652433657
-28020901 : [JP] - 武士犬（パトロール）
-28020902 : [JP] - 武士犬（戦闘）
+28020901 : [EN] - Samurai Dog (Patrol)
+28020902 : [EN] - Samurai Dog (Combat)
 28020903 : [N/A] 467002241
 28030101 : 푸른 학
 28030102 : 보랏빛 따오기
@@ -9281,66 +9479,66 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 28061301 : [N/A] 3469996769
 28061401 : [N/A] 2330015681
 28061402 : [N/A] 3443985385
-28210101 : [JP] - 洞天黄金ガニ
-28210102 : [JP] - 洞天太陽ガニ
-28210103 : [JP] - 洞天紺青ガニ
-28210104 : [JP] - 洞天将軍ガニ
-28210105 : [JP] - 洞天薄紅ガニ
-28210201 : [JP] - 洞天青トカゲ
-28210202 : [JP] - 洞天赤トカゲ
-28210203 : [JP] - 洞天緑トカゲ
-28210204 : [JP] - 洞天落日サンショウウオ
-28210205 : [JP] - 洞天金サンショウウオ
-28210206 : [JP] - 洞天晴天サンショウウオ
-28210207 : [JP] - 洞天髄喰いトカゲ
+28210101 : [EN] - Domestic Golden Crab
+28210102 : [EN] - Domestic Sun Crab
+28210103 : [EN] - Domestic Ocean Crab
+28210104 : [EN] - Domestic General Crab
+28210105 : [EN] - Domestic Pale Red Crab
+28210201 : [EN] - Domestic Blue Horned Lizard
+28210202 : [EN] - Domestic Red Horned Lizard
+28210203 : [EN] - Domestic Green Horned Lizard
+28210204 : [EN] - Domestic Sunset Loach
+28210205 : [EN] - Domestic Golden Loach
+28210206 : [EN] - Domestic Sunny Loach
+28210207 : [EN] - Domestic Marrow Lizard
 28210208 : [N/A] 4168682209
-28210301 : [JP] - 洞天カエル
-28210302 : [JP] - 洞天泥カエル
-28210303 : [JP] - 洞天青カエル
+28210301 : [EN] - Domestic Frog
+28210302 : [EN] - Domestic Mud Frog
+28210303 : [EN] - Domestic Blue Frog
 28210304 : [N/A] 1743923249
-28210401 : [JP] - 洞天藤紋陸ウナギ
+28210401 : [EN] - Domestic Adorned Unagi
 28210402 : [N/A] 1700882065
-28210403 : [JP] - 洞天赤鰭陸ウナギ
+28210403 : [EN] - Domestic Red-Finned Unagi
 28210404 : [N/A] 1020919801
-28220101 : [JP] - 洞天雪狐
-28220102 : [JP] - 洞天赤狐
+28220101 : [EN] - Domestic Snow Fox
+28220102 : [EN] - Domestic Crimson Fox
 28220108 : [N/A] 3596224209
-28220201 : [JP] - 洞天リス
+28220201 : [EN] - Domestic Squirrel
 28220301 : MY 홈 숲멧돼지
-28220303 : [JP] - 洞天雪のイノシシ
+28220303 : [EN] - Domestic Snowboar
 28220313 : [N/A] 2460569713
 28220314 : [N/A] 3974077529
 28220401 : MY 홈·북극견
 28220402 : MY 홈·순찰견
 28220403 : MY 홈·시바견
 28220404 : MY 홈·검은 등 하운드
-28220501 : [CHT] - 家園藍寶石
+28220501 : [EN] - Domestic Sapphire
 28220502 : MY 홈·비취아이 고양이
-28220503 : [JP] - 洞天グレースノウ
+28220503 : [EN] - Domestic Gray Snow Cat
 28220504 : MY 홈·북극묘
 28220505 : MY 홈·범무늬 고양이
 28220506 : MY 홈·경장묘
-28220601 : [JP] - 洞天雪隠れのイタチ
-28220602 : [JP] - 洞天赤尾イタチ
-28220603 : [JP] - 洞天ブーツイタチ
+28220601 : [EN] - Domestic Snow Weasel
+28220602 : [EN] - Domestic Red-Tailed Weasel
+28220603 : [EN] - Domestic Boot Weasel
 28220604 : [N/A] 3102074185
 28220605 : [N/A] 1207799537
-28220701 : [JP] - 洞天狐
-28220901 : [JP] - 洞天武士犬
+28220701 : [EN] - Domestic Kitsune
+28220901 : [EN] - Domestic Samurai Dog
 28230101 : MY 홈·푸른 학
-28230102 : [JP] - 洞天スミレトキ
+28230102 : [EN] - Domestic Violet Ibis
 28230104 : [N/A] 811422561
-28230301 : [JP] - 洞天白鳩
-28230302 : [JP] - 洞天璃冠鳩
-28230303 : [JP] - 洞天灰羽鳩
-28230304 : [JP] - 洞天赤脇鳩
-28230305 : [JP] - 洞天黒王鳩
-28230306 : [JP] - 洞天カラス
+28230301 : [EN] - Domestic White Pigeon
+28230302 : [EN] - Domestic Brightcrown Pigeon
+28230303 : [EN] - Domestic Graywing Pigeon
+28230304 : [EN] - Domestic Crimsonflank Pigeon
+28230305 : [EN] - Domestic Black King Pigeon
+28230306 : [EN] - Domestic Crow
 28230313 : [N/A] 3724967537
-28230401 : [JP] - 洞天赤ヤマガラ
-28230402 : [JP] - 洞天金ヤマガラ
-28230403 : [JP] - 洞天雪ヤマガラ
-28230404 : [JP] - 洞天碧ヤマガラ
+28230401 : [EN] - Domestic Crimson Finch
+28230402 : [EN] - Domestic Golden Finch
+28230403 : [EN] - Domestic Snow Finch
+28230404 : [EN] - Domestic Emerald Finch
 28240201 : MY 홈 구피
 28240202 : MY 홈 유리 구피
 28240203 : MY 홈 달콤달콤 구피
@@ -9370,10 +9568,10 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 28240804 : [N/A] 2847515857
 28240901 : [N/A] 4288334729
 28240902 : [N/A] 2843011617
-28250101 : [JP] - 洞天風晶蝶
-28250102 : [JP] - 洞天岩晶蝶
-28250103 : [JP] - 洞天氷晶蝶
-28250104 : [JP] - 洞天雷晶蝶
+28250101 : [EN] - Domestic Anemo Crystalfly
+28250102 : [EN] - Domestic Geo Crystalfly
+28250103 : [EN] - Domestic Cryo Crystalfly
+28250104 : [EN] - Domestic Electro Crystalfly
 28250105 : [N/A] 2439255201
 28250106 : [N/A] 3343647737
 28250301 : [N/A] 2411901113
@@ -11763,7 +11961,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
  200704 : 옥중에서 피어나는 꽃 - 요이미야와 대화하기
  200705 : 옥중에서 피어나는 꽃 - 마사카츠 사부 구출하기
  200706 : 옥중에서 피어나는 꽃 - 마사카츠 사부 찾기
- 200707 : 옥중에서 피어나는 꽃 - [CHS] - 回到木漏茶室$HIDDEN
+ 200707 : 옥중에서 피어나는 꽃 - [EN] - Return to Komore Teahouse
  200708 : 옥중에서 피어나는 꽃 - 코모레 찻집 나가기
  200709 : 옥중에서 피어나는 꽃 - 정봉행소 나가기
  200710 : 옥중에서 피어나는 꽃 - 코모레 찻집으로 가기
@@ -13051,9 +13249,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 1202107 : 유언비어 - 우인단의 임시 야영지 조사하기
 1202108 : 유언비어 - 코코미에게 보고하기
 1202109 : 유언비어 - 화물을 상인에게 돌려주기
-1202110 : 유언비어 - [CHS] - 和派蒙对话（废弃）
-1202111 : 유언비어 - [CHS] - 和派蒙对话（废弃）
-1202112 : 유언비어 - [CHS] - 和派蒙对话（废弃）
+1202110 : 유언비어 - [EN] - Talk to Paimon (Discarded)
+1202111 : 유언비어 - [EN] - Talk to Paimon (Discarded)
+1202112 : 유언비어 - [EN] - Talk to Paimon (Discarded)
 1202113 : 유언비어 - 코코미와 산책하기
 1202114 : 유언비어 - 코코미와 대화하기
 1202115 : 유언비어 - [CHS] - （隐藏）完成心海策略-先杀BOSS$HIDDEN
@@ -14231,7 +14429,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 1914613 : 뒷수습 - [CHS] - (test)完成全部对话$HIDDEN
 1914701 : 학업 매진 - 하나미자카로 돌아가 상황 살펴보기
 1914801 : 잠시 회피 - 쿠키 시노부의 상황 확인
-1914802 : 잠시 회피 - 아키라의 은신처로 돌아
+1914802 : 잠시 회피 - 아키라의 은신처로 돌아가기
 1914803 : 잠시 회피 - 발자국을 따라 아키라 찾기
 1914804 : 잠시 회피 - 전단지를 따라 아키라 찾기
 1914805 : 잠시 회피 - 해란귀와 대화하기
@@ -15259,7 +15457,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 2100810 : 3개의 화광, 앞길을 비추다 - 성화와 대화
 2100900 : 찾기 어려운 추억의 맛 - 임무 개방
 2100910 : 찾기 어려운 추억의 맛 - 주 사장과 대화
-2100920 : 찾기 어려운 추억의 맛 - 「무슨 지 무슨 닭」을 주 사장에게 가져다주기
+2100920 : 찾기 어려운 추억의 맛 - 「무슨 닭고기 스튜」를 주 사장에게 가져다주기
 2100930 : 찾기 어려운 추억의 맛 - 주 사장과 대화하기
 2101001 : 요광 해안 날씨 변화 - 임무 개방
 2101101 : 테스트 - [CHS] - 对话NPC$UNRELEASED$HIDDEN
@@ -16638,7 +16836,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 4005609 : 파란 꽃이 남긴 것 - [CHS] - (test)播放葵之翁CG$HIDDEN
 4005610 : 파란 꽃이 남긴 것 - 고카센 광장에서 페이몬과 대화하기
 4005612 : 파란 꽃이 남긴 것 - 알베도와 대화하기
-4005613 : 파란 꽃이 남긴 것 - 오유정 에 들어가기
+4005613 : 파란 꽃이 남긴 것 - 오유정에 들어가기
 4005614 : 파란 꽃이 남긴 것 - 가게에서 소식 묻기
 4005615 : 파란 꽃이 남긴 것 - 가게에서 소식 묻기
 4005616 : 파란 꽃이 남긴 것 - 가게에서 소식 묻기
@@ -16924,9 +17122,9 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 4007410 : [N/A] 0 - 별하늘의 도전 통과하기
 4007411 : [N/A] 0 - 사람들과 합류하기
 4007412 : [N/A] 0 - 사람들과 대화하기
-4007413 : [N/A] 0 - [CHS] - 进入水池$HIDDEN
+4007413 : [N/A] 0 - [EN] - Enter the pool
 4007414 : [N/A] 0 - 환각 비경의 문으로 들어가기
-4007415 : [N/A] 0 - [CHS] - 跟随星星指引找到终点$HIDDEN
+4007415 : [N/A] 0 - [EN] - Follow the star to the destination
 4007416 : [N/A] 0 - [CHS] - (test)(hide)发送水池通知$HIDDEN
 4007417 : [N/A] 0 - 이상한 별을 따라가기
 4007501 : [N/A] 0 - 안내에 따라 주변을 탐색하기
@@ -18089,12 +18287,12 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7014203 : [CHS] - 玩家爬上天空岛大柱子顶端彩蛋任务$HIDDEN - [CHS] - 玩家爬上天空岛大柱子顶端彩蛋任务$HIDDEN
 7014301 : 저온 조사 - 옥희와 대화하기
 7014302 : 저온 조사 - 캐서린과 대화하기
-7014401 : 살을 에는 추위 - [CHS] - (test)打倒无相之冰$HIDDEN
-7014402 : 살을 에는 추위 - [CHS] - (test)向玉霞回报$HIDDEN
-7014403 : 살을 에는 추위 - [CHS] - (test)与玉霞对话$HIDDEN
+7014401 : 살을 에는 추위 - [EN] - Defeat the Cryo Hypostasis
+7014402 : 살을 에는 추위 - [EN] - Report back to Iris
+7014403 : 살을 에는 추위 - [EN] - Talk to Iris
 7014404 : 살을 에는 추위 - [CHS] - (test)记录是否击杀无相冰-隐藏$HIDDEN
-7014405 : 살을 에는 추위 - [CHS] - (test)前往调查异常的寒流$HIDDEN
-7014406 : 살을 에는 추위 - [CHS] - (test)与玉霞对话$HIDDEN
+7014405 : 살을 에는 추위 - [EN] - Investigate the strange cold current
+7014406 : 살을 에는 추위 - [EN] - Talk to Iris
 7014501 : [CHS] - (test)低温调查】与【山中之物$HIDDEN - [N/A] 3842997996
 7050001 : 기계장치 요리법·세 번째 - 류운차풍진군과 대화하기
 7050002 : 기계장치 요리법·세 번째 - 기운의 흔적을 따라 식자재 찾기
@@ -19034,7 +19232,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7105701 : 실종된 광부 - [CHS] - 阅读「工作手册」$HIDDEN
 7105702 : 실종된 광부 - 나타난 하 씨와 대화하기
 7105703 : 실종된 광부 - 하 씨와 함께 「버섯 고기」 수집하기
-7105704 : 실종된 광부 - 둥실 버섯 처치
+7105704 : 실종된 광부 - 버섯몬 처치
 7105705 : 실종된 광부 - 하 씨와의 대화 검은 스크린 CG
 7105706 : 실종된 광부 - 하 씨와 대화하기
 7105707 : 실종된 광부 - 하 씨를 야영지로 데려와 근우와 만나기
@@ -19042,7 +19240,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7105709 : 실종된 광부 - 하 씨를 야영지로 데려와 근우와 만나기
 7105801 : 타향에서 길을 잃은 자 - [CHS] - 击败雷莹术士$HIDDEN
 7105802 : 타향에서 길을 잃은 자 - 패배한 우인단 술사는 할 말이 있어 보인다
-7105803 : 타향에서 길을 잃은 자 - 나타난 둥실 버섯 처치하기
+7105803 : 타향에서 길을 잃은 자 - 나타난 버섯몬 처치하기
 7105804 : 타향에서 길을 잃은 자 - 우인단 술사와 끊긴 대화 이어가기
 7105805 : 타향에서 길을 잃은 자 - 우인단 술사가 숨은 야영지로 가기
 7105806 : 타향에서 길을 잃은 자 - 우인단 술사와 대화하기
@@ -19638,7 +19836,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7182204 : 학자와 전설 - 산길을 따라 나아가기
 7182205 : 학자와 전설 - 츄츄족 처치하기
 7182206 : 학자와 전설 - 소라야와 대화하기
-7182207 : 학자와 전설 - [EN] - Defeat the hilichurls (hidden) $HIDDEN
+7182207 : 학자와 전설 - [CHS] - 打倒丘丘人（隐藏）$HIDDEN
 7182208 : 학자와 전설 - [N/A] 201980468
 7182301 : 고향을 수호하는 자 - 경책 산장 야외로 가서 둘러보기
 7182302 : 고향을 수호하는 자 - 지아와 대화하기
@@ -19870,7 +20068,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7210601 : 콘다 이야기 - [CHS] - 隐藏  第一次对话后 然后闲置对话$HIDDEN
 7210602 : 콘다 이야기 - [CHS] - 隐藏  任务接取对话$HIDDEN
 7210603 : 콘다 이야기 - 콘다 마을로 가기
-7210604 : 콘다 이야기 - 현지인에게 정보 묻기
+7210604 : 콘다 이야기 - 마을 사람에게 정보 묻기
 7210605 : 콘다 이야기 - 콘다 마을 촌장에게 알아보기
 7210606 : 콘다 이야기 - [CHS] - 调查内容1（隐藏）$HIDDEN
 7210607 : 콘다 이야기 - [CHS] - 调查内容2（隐藏）$HIDDEN
@@ -19884,7 +20082,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7210615 : 콘다 이야기 - 콘다 마을 우물 밑 진입하기
 7210616 : 콘다 이야기 - [CHS] - 铁门交付(隐藏）$HIDDEN
 7210617 : 콘다 이야기 - 우물 밑에서 보물찾기
-7210618 : 콘다 이야기 - 현지인에게 정보 묻기
+7210618 : 콘다 이야기 - 마을 사람에게 정보 묻기
 7210619 : 콘다 이야기 - [CHS] - 寻找线索$HIDDEN
 7210620 : 콘다 이야기 - [CHS] - 村长初次对话检测$HIDDEN
 7210621 : 콘다 이야기 - [CHS] - 派蒙对话检测$HIDDEN
@@ -20411,7 +20609,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7215201 : [CHS] - 浮浪双梦记$HIDDEN - [CHS] - (test)查看盗宝团遗留的笔记$HIDDEN
 7215202 : [CHS] - 浮浪双梦记$HIDDEN - [CHS] - (test)寻找海盗宝藏$HIDDEN
 7215203 : [CHS] - 浮浪双梦记$HIDDEN - [CHS] - (test)找到真正的宝藏$HIDDEN
-7215301 : 타향에서 - [CHS] - 与爱拉尼对话$HIDDEN
+7215301 : 타향에서 - [EN] - Talk to Alrani
 7215302 : 타향에서 - 엘라니 따라가기
 7215303 : 타향에서 - 가게 「하늘 정원」과 사장에게 기념사진 찍어주기
 7215304 : 타향에서 - 카에데와 대화하기
@@ -20733,7 +20931,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7216730 : 요구가 너무 많은 작가 - [N/A] 4175261852
 7216731 : 요구가 너무 많은 작가 - [N/A] 3876355868
 7216732 : 요구가 너무 많은 작가 - 츠루미로 들어가기
-7216733 : 요구가 너무 많은 작가 - [CHS] - 与派蒙对话$HIDDEN
+7216733 : 요구가 너무 많은 작가 - [EN] - Talk to Paimon
 7216734 : 요구가 너무 많은 작가 - 카마와 대화하기
 7216735 : 요구가 너무 많은 작가 - [CHS] - 调查光点$HIDDEN
 7216736 : 요구가 너무 많은 작가 - [N/A] 3460165772
@@ -21919,7 +22117,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7269603 : 장난감 시장 진출·코어 동력 - 수집기를 베르트랑에게 건네기
 7269604 : 장난감 시장 진출·코어 동력 - 장난감을 한 번 제작하기
 7269605 : 장난감 시장 진출·코어 동력 - 베르트랑과 대화하기
-7269606 : 장난감 시장 진출·코어 동력 - 2마리의 떠도는 정령을 처치하고 코어 동력 4개 획득하기
+7269606 : 장난감 시장 진출·코어 동력 - 떠도는 정령 2마리를 처치하고 코어 동력 4개 획득하기
 7269607 : 장난감 시장 진출·코어 동력 - 무상의 원소를 처치하고 코어 동력 4개 획득하기
 7269701 : 장난감 시장 진출·대량 생산 - 이도(離島)로 가서 베르트랑 찾기
 7269801 : 오오쿠보 산자에몬과의 결투 - 오오쿠보 산자에몬과 대화하기
@@ -23899,7 +24097,7 @@ setFetterLevel : 파티 내 자신의 캐릭터의 호감도를 설정합니다.
 7902904 : [N/A] 0 - 까마귀 선장의 말에 따라 안개 통과하기
 7902905 : [N/A] 0 - 섬에서 보물의 단서 찾기
 7902906 : [N/A] 0 - 까마귀 선장을 도와 츄츄족 처치하기
-7902907 : [N/A] 0 - 까마귀 선장에게 보답하기
+7902907 : [N/A] 0 - 까마귀 선장에게 보고하기
 7902908 : [N/A] 0 - [CHS] - （test)隐藏刷夜鸦船长$HIDDEN
 7903001 : [N/A] 0 - 위태위태섬 근처의 암초로 이동하기
 7903002 : [N/A] 0 - 근처에서 보물의 단서 찾기

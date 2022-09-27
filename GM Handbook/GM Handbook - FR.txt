@@ -1,5 +1,5 @@
 // Grasscutter 3.0.0 GM Handbook
-// Created 2022/09/11 14:24:49
+// Created 2022/09/27 15:23:25
 
 // Commands
        account : Modifie les comptes utilisateurs
@@ -99,12 +99,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 10000064 : Yun Jin
 10000065 : Kuki Shinobu
 10000066 : Kamisato Ayato
-10000067 : [EN] - Collei
-10000068 : [EN] - Dori
-10000069 : [EN] - Tighnari
-10000070 : [EN] - Nilou
-10000071 : [EN] - Cyno
-10000072 : [EN] - Candace
+10000067 : Collei
+10000068 : Dori
+10000069 : Tighnari
+10000070 : Nilou
+10000071 : Cyno
+10000072 : Candace
 11000008 : Test d'équipe nº4
 11000009 : Test de scène
 11000010 : Modèle nu nº1
@@ -178,13 +178,13 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
     140 : Pierre des crevasses
     141 : Coquillage nacré
     142 : Éclat de stratagème
-    143 : [EN] - Creative Note
-    144 : [EN] - Whimsical Draft
-    145 : [EN] - Ancient Iron Coin
-    147 : [EN] - Festive Fever
-    148 : [EN] - Business Earnings
-    149 : [EN] - Usable Funds
-    150 : [EN] - Strategic Inspiration
+    143 : Note créative
+    144 : Brouillon d'inspiration
+    145 : Sapèque ancienne
+    147 : Fièvre festive
+    148 : Revenu commercial
+    149 : Budget disponible
+    150 : Inspiration stratégique
     201 : Primo-gemme
     202 : Mora
     203 : Cristal primaire
@@ -204,7 +204,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
     307 : Sceau Géo
     314 : EXP de réputation d'Inazuma
     315 : EXP de réputation de Mondstadt
-    316 : [EN] - Sumeru Reputation EXP
+    316 : EXP de réputation de Sumeru
     317 : EXP de réputation de Liyue
     911 : Souvenir de flamme éternelle
     912 : Souvenir de torrent
@@ -265,12 +265,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
    1064 : Yun Jin
    1065 : Kuki Shinobu
    1066 : Kamisato Ayato
-   1067 : [EN] - Collei
-   1068 : [EN] - Dori
-   1069 : [EN] - Tighnari
-   1070 : [EN] - Nilou
-   1071 : [EN] - Cyno
-   1072 : [EN] - Candace
+   1067 : Collei
+   1068 : Dori
+   1069 : Tighnari
+   1070 : Nilou
+   1071 : Cyno
+   1072 : Candace
    1102 : Stella Fortuna de Kamisato Ayaka.
    1103 : Stella Fortuna de Jean
    1105 : Stella Fortuna de Voyageur
@@ -323,12 +323,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
    1164 : Stella Fortuna de Yun Jin
    1165 : Stella Fortuna de Kuki Shinobu
    1166 : Stella Fortuna de Kamisato Ayato.
-   1167 : [EN] - Collei's Stella Fortuna
-   1168 : [EN] - Dori's Stella Fortuna
-   1169 : [EN] - Tighnari's Stella Fortuna
-   1170 : [EN] - Nilou's Stella Fortuna
-   1171 : [EN] - Cyno's Stella Fortuna
-   1172 : [EN] - Candace's Stella Fortuna
+   1167 : Stella Fortuna de Collei
+   1168 : Stella Fortuna de Dori
+   1169 : Stella Fortuna de Tighnari
+   1170 : Stella Fortuna de Nilou
+   1171 : Stella Fortuna de Cyno
+   1172 : Stella Fortuna de Candace
    1201 : Pass de bataille « Gnostique » - Ébauche
    1202 : Faveur de l'astre de la nuit - Nouvelle lune
    2001 : Orbe d'énergie (Pyro)
@@ -405,8 +405,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   11414 : Lame kageuchi d'Amenoma
   11415 : Fuseau de cinabre
   11416 : Kagotsurube Isshin
-  11417 : [EN] - Sapwood Blade
-  11418 : [EN] - Xiphos' Moonlight
+  11417 : Lame d'aubier
+  11418 : Clair de lune de Xiphos
   11419 : Chef d'œuvre Isshin
   11420 : Chef d'œuvre Isshin
   11421 : Chef d'œuvre Isshin
@@ -420,7 +420,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   11508 : [N/A] 1664039091
   11509 : Reflet de tranche-brume
   11510 : Lune ondulante de Futsu
-  11511 : [EN] - Key of Hierophany
+  11511 : Clé de Khaj-Nisut
   12101 : Épée d'entraînement
   12201 : Lame du mercenaire
   12301 : Ombre ferreuse
@@ -442,9 +442,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   12411 : Tombe-neige en argétoile
   12412 : Illustre seigneur des mers
   12414 : Espadon de Nagamasa
-  12415 : [EN] - Mahara Aquamarine
+  12415 : Aigue-marine de Makhaira
   12416 : Akuoumaru
-  12417 : [EN] - Forest Regalia
+  12417 : Apparat de la forêt
   12501 : Fierté de la Voûte d'Azur
   12502 : Mort-du-loup
   12503 : Ode au chant du vent
@@ -472,8 +472,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   13414 : Lance en croix de Kitain
   13415 : « La prise »
   13416 : Aileron de brise-vagues
-  13417 : [EN] - Moonpiercer
-  13419 : [EN] - Shifting Windblade
+  13417 : Perce-lune
+  13419 : Lance du vent saisonnier
   13501 : Bâton de Homa
   13502 : Berge de la Voûte d'Azur
   13503 : [N/A] 469555475
@@ -482,7 +482,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   13506 : Déicide
   13507 : Étouffeur de calamités
   13509 : Lumière du faucheur
-  13511 : [EN] - Staff of the Scarlet Sands
+  13511 : Bâton des sables écarlates
   14101 : Notes de l'apprenti
   14201 : Grimoire de poche
   14301 : Guide de magie
@@ -506,8 +506,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   14413 : Contes de Dodoco
   14414 : Anneau des Hakushin
   14415 : Œil d'assermentation
-  14416 : [EN] - Wandering Evenstar
-  14417 : [EN] - Fruit of Fulfillment
+  14416 : Étoile du soir errante
+  14417 : Le fruit de l'accomplissement
   14501 : Atlas de la Voûte d'Azur
   14502 : L'origine des Quatre Vents
   14503 : Ballade perdue
@@ -540,8 +540,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   15414 : Arc d'exorcisme
   15415 : Predator
   15416 : Lune de Mouun
-  15417 : [EN] - King's Squire
-  15418 : [EN] - End of the Line
+  15417 : Le valet du roi
+  15418 : Chalutier
   15501 : Ailes de la Voûte d'Azur
   15502 : Arc d'Amos
   15503 : Ultime soupir
@@ -551,50 +551,50 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   15507 : Étoile polaire
   15508 : Simulacre d'eau
   15509 : Pulsation du tonnerre
-  15511 : [EN] - Hunter's Path
+  15511 : La voie du chasseur
   20001 : (test)竿测试
   20002 : Plume du Novice
   20004 : Fleur du Novice
-  20412 : [EN] - Lamp of the Lost
-  20413 : [EN] - Lamp of the Lost
-  20422 : [EN] - Scholar of Vines
-  20423 : [EN] - Scholar of Vines
-  20432 : [EN] - Laurel Coronet
-  20433 : [EN] - Laurel Coronet
-  20442 : [EN] - Labyrinth Wayfarer
-  20443 : [EN] - Labyrinth Wayfarer
-  20452 : [EN] - A Time of Insight
-  20453 : [EN] - A Time of Insight
-  20513 : [EN] - Lamp of the Lost
-  20514 : [EN] - Lamp of the Lost
-  20523 : [EN] - Scholar of Vines
-  20524 : [EN] - Scholar of Vines
-  20533 : [EN] - Laurel Coronet
-  20534 : [EN] - Laurel Coronet
-  20543 : [EN] - Labyrinth Wayfarer
-  20544 : [EN] - Labyrinth Wayfarer
-  20553 : [EN] - A Time of Insight
-  20554 : [EN] - A Time of Insight
-  21412 : [EN] - Honeyed Final Feast
-  21413 : [EN] - Honeyed Final Feast
-  21422 : [EN] - Feather of Judgment
-  21423 : [EN] - Feather of Judgment
-  21432 : [EN] - Shadow of the Sand King
-  21433 : [EN] - Shadow of the Sand King
-  21442 : [EN] - Dreaming Steelbloom
-  21443 : [EN] - Dreaming Steelbloom
-  21452 : [EN] - The Sunken Years
-  21453 : [EN] - The Sunken Years
-  21513 : [EN] - Honeyed Final Feast
-  21514 : [EN] - Honeyed Final Feast
-  21523 : [EN] - Feather of Judgment
-  21524 : [EN] - Feather of Judgment
-  21533 : [EN] - Shadow of the Sand King
-  21534 : [EN] - Shadow of the Sand King
-  21543 : [EN] - Dreaming Steelbloom
-  21544 : [EN] - Dreaming Steelbloom
-  21553 : [EN] - The Sunken Years
-  21554 : [EN] - The Sunken Years
+  20412 : Lampe des perdus
+  20413 : Lampe des perdus
+  20422 : Érudit des lianes
+  20423 : Érudit des lianes
+  20432 : Couronne de lauriers
+  20433 : Couronne de lauriers
+  20442 : Voyageur du labyrinthe
+  20443 : Voyageur du labyrinthe
+  20452 : Période de perspicacité
+  20453 : Période de perspicacité
+  20513 : Lampe des perdus
+  20514 : Lampe des perdus
+  20523 : Érudit des lianes
+  20524 : Érudit des lianes
+  20533 : Couronne de lauriers
+  20534 : Couronne de lauriers
+  20543 : Voyageur du labyrinthe
+  20544 : Voyageur du labyrinthe
+  20553 : Période de perspicacité
+  20554 : Période de perspicacité
+  21412 : Festin final de miel
+  21413 : Festin final de miel
+  21422 : Plume du jugement
+  21423 : Plume du jugement
+  21432 : L'ombre du roi des sables
+  21433 : L'ombre du roi des sables
+  21442 : Fleur d'acier rêveuse
+  21443 : Fleur d'acier rêveuse
+  21452 : Les années dorées
+  21453 : Les années dorées
+  21513 : Festin final de miel
+  21514 : Festin final de miel
+  21523 : Plume du jugement
+  21524 : Plume du jugement
+  21533 : L'ombre du roi des sables
+  21534 : L'ombre du roi des sables
+  21543 : Fleur d'acier rêveuse
+  21544 : Fleur d'acier rêveuse
+  21553 : Les années dorées
+  21554 : Les années dorées
   23300 : [CHS] - 移动速度百分比
   23301 : [CHS] - 火元素伤害加成
   23302 : [CHS] - 电元素伤害加成
@@ -903,26 +903,26 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   23618 : Anneaux de fluidité
   23619 : Fleur d'aromesprit
   23620 : Symbole de félicitation
-  23621 : [EN] - Lamp of the Lost
-  23622 : [EN] - Scholar of Vines
-  23623 : [EN] - Laurel Coronet
-  23624 : [EN] - Labyrinth Wayfarer
-  23625 : [EN] - A Time of Insight
-  23626 : [EN] - Lamp of the Lost
-  23627 : [EN] - Scholar of Vines
-  23628 : [EN] - Laurel Coronet
-  23629 : [EN] - Labyrinth Wayfarer
-  23630 : [EN] - A Time of Insight
-  23631 : [EN] - Honeyed Final Feast
-  23632 : [EN] - Feather of Judgment
-  23633 : [EN] - Shadow of the Sand King
-  23634 : [EN] - Dreaming Steelbloom
-  23635 : [EN] - The Sunken Years
-  23636 : [EN] - Honeyed Final Feast
-  23637 : [EN] - Feather of Judgment
-  23638 : [EN] - Shadow of the Sand King
-  23639 : [EN] - Dreaming Steelbloom
-  23640 : [EN] - The Sunken Years
+  23621 : Lampe des perdus
+  23622 : Érudit des lianes
+  23623 : Couronne de lauriers
+  23624 : Voyageur du labyrinthe
+  23625 : Période de perspicacité
+  23626 : Lampe des perdus
+  23627 : Érudit des lianes
+  23628 : Couronne de lauriers
+  23629 : Voyageur du labyrinthe
+  23630 : Période de perspicacité
+  23631 : Festin final de miel
+  23632 : Plume du jugement
+  23633 : L'ombre du roi des sables
+  23634 : Fleur d'acier rêveuse
+  23635 : Les années dorées
+  23636 : Festin final de miel
+  23637 : Plume du jugement
+  23638 : L'ombre du roi des sables
+  23639 : Fleur d'acier rêveuse
+  23640 : Les années dorées
   24101 : Ivresse du Gladiateur
   24102 : Destination du Gladiateur
   24103 : Kabuto orné
@@ -4312,7 +4312,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  100093 : Crevette
  100094 : Viande congelée
  100095 : Anguille
- 100096 : [EN] - Glabrous Beans
+ 100096 : Haricot glabre
  100101 : Paquet de documents de Jean
  100102 : L'Échappée Belle
  100103 : Partition incomplète (Partie 1)
@@ -5001,7 +5001,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  100862 : Le petit mensonge du chat honnête
  100863 : Club de littérature
  100864 : Clé usée par la rouille
- 100865 : [CHS] - 附有记忆的面具（废弃）
+ 100865 : [EN] - Mask of Memories
  100866 : Épée de l'Oni violine
  100867 : Épée de l'Oni cramoisi
  100868 : Omikuji
@@ -5152,11 +5152,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101108 : Épée à deux mains du nord
  101109 : Catalyseur du nord
  101110 : Lance du nord
- 101111 : [EN] - Midlander Sword Billet
- 101112 : [EN] - Midlander Bow Billet
- 101113 : [EN] - Midlander Claymore Billet
- 101114 : [EN] - Midlander Catalyst Billet
- 101115 : [EN] - Midlander Polearm Billet
+ 101111 : Base d'épée du centre
+ 101112 : Base d'arc du centre
+ 101113 : Base d'épée à deux mains du centre
+ 101114 : Base de catalyseur du centre
+ 101115 : Base de lance du centre
  101201 : Scarabuto
  101202 : Fleur de cerisier
  101203 : Moelle cristalline
@@ -5169,19 +5169,19 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101210 : Herbe marine
  101211 : Melon lavande
  101212 : Champitoile
- 101213 : [EN] - Rukkhashava Mushrooms
- 101214 : [EN] - Padisarah
- 101215 : [EN] - Nilotpala Lotus
- 101216 : [EN] - Harra Fruit
- 101217 : [EN] - Kalpalata Lotus
- 101218 : [EN] - Zaytun Peach
- 101219 : [EN] - Sumeru Rose
- 101220 : [EN] - Redcrest
- 101221 : [EN] - Ajilenakh
- 101225 : [EN] - Scarab
- 101226 : [EN] - Activated Starshroom
- 101227 : [EN] - Scorched Starshroom
- 101228 : [EN] - Viparyas
+ 101213 : Champignon sacramental
+ 101214 : Padisachidée
+ 101215 : Nilotpalotus
+ 101216 : Fruit harra
+ 101217 : Kalpalotus
+ 101218 : Pêche zaytun
+ 101219 : Rose sumérienne
+ 101220 : Quandong
+ 101221 : Noix d'ajilenakh
+ 101225 : Scarabée
+ 101226 : Champitoile activé
+ 101227 : Champitoile calciné
+ 101228 : Viparyas
  101301 : Bois de bouleau
  101302 : Bois d'exquisetier
  101303 : Bois de pin
@@ -5194,11 +5194,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101310 : Bois d'érable
  101311 : Bois de cèdre inazumien
  101312 : Bois de dulcinier
- 101313 : [EN] - Brightwood
- 101314 : [EN] - Karmaphala Wood
- 101315 : [EN] - Adhigama Wood
- 101316 : [EN] - Mountain Date Wood
- 101317 : [EN] - Athel Wood
+ 101313 : Bois radiant
+ 101314 : Bois de karmaphalien
+ 101315 : Bois d'épiphanie
+ 101316 : Bois de palmier-dattier
+ 101317 : Bois de tamaris Athel
  101401 : Tissu
  101402 : Teinture rouge
  101403 : Teinture jaune
@@ -5463,12 +5463,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101771 : Emplacement du trésor d'Ako II
  101772 : Emplacement du trésor d'Ako III
  101773 : Emplacement du trésor d'Ako IV
- 101774 : [EN] - Yajna Grass
- 101775 : [EN] - Zohrah Mushroom
- 101776 : [EN] - Barsam Flower
+ 101774 : Herbe yajna
+ 101775 : Champignon zohrah
+ 101776 : Fleur barsam
  101777 : [CHS] - （test）封印钥匙其一
  101778 : [CHS] - （test）封印钥匙其二
- 101779 : [EN] - Arahaoma
+ 101779 : Arahaoma
  101780 : Script de « Mushounin »
  101781 : Script de « Mushounin »
  101782 : Soupe de Jinwu
@@ -5485,7 +5485,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101793 : [CHS] - （test）神秘的信笺11
  101794 : [CHS] - （test）神秘的信笺12
  101795 : Sac de bijoux
- 101796 : [EN] - Vasmrti
+ 101796 : Vasmrti
  101797 : Allez, Dodoco !
  101798 : Journal de route maritime
  101799 : Journal de route I
@@ -5498,31 +5498,31 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101806 : Fragment astral
  101807 : Fragment astral
  101808 : Fragment astral
- 101809 : [EN] - Vasoma Fruit
+ 101809 : Fruit vasoma
  101810 : [CHS] - (test)恒素果2
- 101811 : [EN] - Garland
- 101812 : [EN] - Garland
- 101813 : [EN] - Bija
- 101814 : [EN] - Arana's Flower
- 101815 : [EN] - Araja's Flower
- 101816 : [EN] - Nameless Flower
- 101817 : [EN] - Arapandu's Flower
- 101818 : [EN] - Arakunti's Flower
- 101819 : [EN] - Aranakula's Flower
- 101820 : [EN] - Arabalika's Flower
- 101821 : [EN] - Aranaga's Flower
- 101822 : [EN] - Aranakin's Flower
- 101823 : [EN] - Aragaru's Flower
- 101824 : [EN] - Ararycan's Flower
- 101825 : [EN] - Araesha's Flower
- 101826 : [EN] - Arakara's Flower
- 101827 : [EN] - The Siblings' Flowers
- 101828 : [EN] - The Song Gatherers' Flowers
- 101829 : [EN] - Aralila and Aranishat's Flowers
- 101830 : [EN] - Arakanta's Flower
+ 101811 : Couronne de fleurs
+ 101812 : Couronne de fleurs
+ 101813 : Bija
+ 101814 : Fleur d'Arana
+ 101815 : Fleur d'Araja
+ 101816 : Fleur anonyme
+ 101817 : Fleur d'Arapandu
+ 101818 : Fleur d'Arakunti
+ 101819 : Fleur d'Aranakula
+ 101820 : Fleur d'Arabalika
+ 101821 : Fleur d'Aranaga
+ 101822 : Fleur d'Aranakin
+ 101823 : Fleur d'Aragaru
+ 101824 : Fleur d'Ararycan
+ 101825 : Fleur d'Araesha
+ 101826 : Fleur d'Arakara
+ 101827 : Fleur des « frères »
+ 101828 : Fleur des cueilleurs de chant
+ 101829 : Fleur d'Aralila et Aranishat
+ 101830 : Fleur d'Arakanta
  101831 : [CHS] - (test)兰那罗小花18
- 101832 : [EN] - Stories of You and the Aranara
- 101833 : [EN] - "Emergency Adjustment Plan"
+ 101832 : Histoires des aranaras et vous
+ 101833 : Plan d'ajustement d'urgence
  101834 : Fragment astral
  101835 : Clé
  101836 : Bouteille d'eau de source
@@ -5546,7 +5546,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101857 : Rocaille lumineuse : Droite
  101858 : Rocaille inflexible : Gauche
  101859 : Rocaille inflexible : Droite
- 101860 : [EN] - Living Spring
+ 101860 : Source vivante
  101861 : Boîte de composants
  101862 : Note d'origine inconnue I
  101863 : Note d'origine inconnue II
@@ -5581,7 +5581,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101892 : Morceau : Feuille
  101893 : Extrait du journal de recherche du bureau médico-légal
  101894 : Note d'origine inconnue
- 101895 : [EN] - ？？？
+ 101895 : [CHS] - (test）钥匙
  101896 : Noyau cristallin
  101897 : Noyau cristallin
  101898 : Noyau cristallin
@@ -5591,102 +5591,101 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  101902 : Clé d'écho
  101903 : Lettre reçue récemment
  101904 : Jus de raisin raffiné du Domaine de l'Aurore
- 101905 : [EN] - Slime Condensate-Soaked Soil
- 101906 : [EN] - Whopperflower Root Soil
- 101907 : [EN] - Moist Soil
+ 101905 : Terre gorgée de bave de Blob
+ 101906 : Terre de Fleur mensongère
+ 101907 : Terre humide
  101908 : Nucléus stellaire
  101909 : Provision de Dosdragon : Jambon
  101910 : Contrat de surveillance nocturne
- 101911 : [EN] - Special "Concresoil" for Toys
+ 101911 : Polyterre pour jouet
  101912 : [CHS] - (test)材料参照物
- 101913 : [EN] - Whopperflower Root Soil
- 101914 : [EN] - Fertile Soil (Reportedly)
- 101915 : [EN] - Discarded "Concresoil"
+ 101913 : Terre de Fleur mensongère
+ 101914 : Terre supposément fertile
+ 101915 : Polyterre abandonnée
  101916 : Mission de recherche du Poste de police
  101917 : Clé recouverte de sel de mer
  101918 : [CHS] - （test）危危岛遗迹钥匙2
- 101919 : [EN] - Special Bird Egg
- 101920 : [EN] - Special Mushroom
- 101921 : [EN] - Special Mint
- 101922 : [EN] - Special Harra Fruit
- 101923 : [EN] - Special Sweet Flower
+ 101919 : Œuf d'oiseau spécial
+ 101920 : Champignon spécial
+ 101921 : Menthe spéciale
+ 101922 : Fruit harra spécial
+ 101923 : Fleur sucrante spéciale
  101924 : [CHS] - (test)新鲜的材料2
- 101925 : [EN] - Box Lunch from Tighnari
- 101926 : [EN] - Letter to Haypasia
- 101927 : [EN] - Box Lunch from the Traveler
- 101928 : [EN] - Tighnari's Introduction Letter
- 101929 : [EN] - Bag of Transaction Funds
- 101930 : [EN] - Package of Canned Knowledge
- 101931 : [EN] - Canned Knowledge "Swordfighting Techniques VIII"
- 101932 : [EN] - Bag of Intel Transaction Funds
- 101933 : [EN] - Picture of the Transaction
- 101934 : [EN] - Informant Code Chart
+ 101925 : Panier-repas de Tighnari
+ 101926 : Lettre pour Haypasia
+ 101927 : #Panier-repas {M#du voyageur}{F#de la voyageuse}
+ 101928 : Lettre d'introduction de Tighnari
+ 101929 : Fonds de transaction
+ 101930 : Paquet de concentrés de connaissances
+ 101931 : #Concentré de connaissances «{NON_BREAK_SPACE}Techniques d'escrime VIII »
+ 101932 : Fonds d'achat de renseignements
+ 101933 : Photo de la transaction
+ 101934 : Codes des informateurs
  101935 : Conque déplacée 1
  101936 : Conque déplacée 2
  101937 : Conque déplacée 3
- 101938 : [EN] - Prescription Medication from Bimarstan for Gurgen
- 101939 : [EN] - Prescription Medication from Bimarstan for Azra
- 101940 : [EN] - Prescription Medication from Bimarstan for Aftab
- 101941 : [EN] - Fresh Harra Fruit
- 101942 : [EN] - Fresh Zaytun Peach
+ 101938 : Ordonnance du Bimarestan pour Gurgen
+ 101939 : Ordonnance du Bimarestan pour Azra
+ 101940 : Ordonnance du Bimarestan pour Aftab
+ 101941 : Fruit harra frais
+ 101942 : Pêche zaytun fraîche
  101943 : Tissu teint en rouge
- 101944 : [EN] - "The Best Water"
+ 101944 : #« La meilleure de toutes les eaux{NON_BREAK_SPACE}»
  101945 : Montre de poche en argent
  101946 : Vieil insigne
- 101947 : [EN] - Fresh Slime Condensate
- 101948 : [EN] - Sareh's Note
- 101949 : [EN] - Sareh's Note
- 101950 : [EN] - Sareh's Note
- 101951 : [EN] - Fresh Nilotpala Lotus
- 101952 : [EN] - Rose Sprout
- 101953 : [EN] - Eagle Feather of The Brave
- 101954 : [EN] - Florescent Talisman
- 101955 : [EN] - Freshly-Picked Mushroom
- 101956 : [EN] - Strange Sumeru Rose
- 101957 : [EN] - Riddle Note
- 101958 : [EN] - Riddle Note
- 101959 : [EN] - Riddle Note
- 101960 : [EN] - Riddle Note
- 101961 : [EN] - Rafiq's Shipbuilding Materials
- 101962 : [EN] - Little Dried Flower
- 101963 : [EN] - Activated·Canned Knowledge
+ 101947 : Bave de Blob fraîche
+ 101948 : Note de Sareh
+ 101949 : Note de Sareh
+ 101950 : Note de Sareh
+ 101951 : Nilotpalotus frais
+ 101952 : Jeune rose
+ 101953 : Plume d'aigle du Brave
+ 101954 : Talisman de fleurs
+ 101955 : Champignon fraîchement récolté
+ 101956 : Rose sumérienne anormale
+ 101957 : Énigme
+ 101958 : Énigme
+ 101959 : Énigme
+ 101960 : Énigme
+ 101961 : Matériaux de construction navale de Rafiq
+ 101962 : Petite fleur séchée
+ 101963 : Concentré de connaissances activé
  101964 : Manuscrit de Persikov
- 101965 : [EN] - Normal Wood
- 101966 : [EN] - Fatui Meal
- 101967 : [EN] - Treasure Map in a Box
- 101968 : [EN] - Glinting Component
- 101969 : [EN] - Sacred Seal: Valley
- 101970 : [EN] - Sacred Seal: Bird Head
- 101971 : [EN] - Sacred Seal: Raised Arm
- 101972 : [EN] - Sacred Seal: Sandstorm
- 101973 : [EN] - Sacred Seal: Auricle
- 101974 : [EN] - Sacred Seal: Forest
- 101975 : [EN] - Sacred Seal: Thunderstrike
- 101976 : [EN] - Sacred Seal: Danger
- 101977 : [EN] - Sacred Seal: Chisel Hammer
- 101978 : [EN] - Sacred Seal: Sunrise
- 101979 : [EN] - Sacred Seal: Right to Rule
- 101980 : [EN] - Sacred Seal: Sheep Head
- 101981 : [EN] - Sacred Seal: Crocodile Head
- 101982 : [EN] - Sacred Seal: Giant Serpent
- 101983 : [EN] - Sacred Seal: Ceremony
- 101984 : [EN] - Sacred Seal: Labor
- 101985 : [EN] - Sacred Seal: Dune
+ 101965 : Bois ordinaire
+ 101966 : Repas de Fatui
+ 101967 : Carte au trésor dans une boîte
+ 101968 : Composant scintillant
+ 101969 : Sceau sacré : Vallée
+ 101970 : Sceau sacré : Tête d'oiseau
+ 101971 : Sceau sacré : Bras levés
+ 101972 : Sceau sacré : Tempête de sable
+ 101973 : Sceau sacré : Auricule
+ 101974 : Sceau sacré : Forêt
+ 101975 : Sceau sacré : Coup de tonnerre
+ 101976 : Sceau sacré : Danger
+ 101977 : Sceau sacré : Burin
+ 101978 : Sceau sacré : Soleil levant
+ 101979 : Sceau sacré : Règne
+ 101980 : Sceau sacré : Tête de mouton
+ 101981 : Sceau sacré : Tête de crocodile
+ 101982 : Sceau sacré : Serpent géant
+ 101983 : Sceau sacré : Cérémonie
+ 101984 : Sceau sacré : Labeur
+ 101985 : Sceau sacré : Dune
  101986 : [CHS] - (test)黑乎乎的怪东西
- 101987 : [EN] - Golden Rose Seeds
- 101988 : [EN] - Transparent Ruins Record (I)
- 101989 : [EN] - Record of Lamb-Eater Rock
- 101990 : [EN] - Record of the Tomb of Full Flagons
- 101991 : [EN] - Soheil's Old Notes
- 101992 : [EN] - Record of Aaru's Reflection
+ 101987 : Graines de rose dorée
+ 101988 : Registre des ruines transparentes I
+ 101989 : Registre de Rocher agneauvore
+ 101990 : Registre de la Tombe des ribotes
+ 101991 : Notes archéologiques de Soheil
+ 101992 : Registre du Clos d'Aaru
  101993 : Notes du chef de troupe du théâtre du crépuscule
- 101994 : [EN] - Freshly-Picked Harra Fruit
- 101995 : [EN] - Unsigned Note
- 101996 : [EN] - Ragged Records
- 101997 : [EN] - Remelting Device
- 101998 : [EN] - Remelting Tablet
- 101999 : [EN] - Employer's Orders
- 102000 : [EN] - Unknown Object With an Earthy Glow
+ 101994 : Fruit harra fraîchement cueilli
+ 101995 : Note non signée
+ 101996 : Registre en lambeaux
+ 101997 : Dispositif de refonte
+ 101998 : Comprimé de refonte
+ 101999 : Ordres du commanditaire
  102001 : Fragment Pyro
  102002 : Frament Hydro
  102003 : Fragment Dendro
@@ -5761,24 +5760,24 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  104317 : Guide de l'Or
  104318 : Philosophie de l'Or
  104319 : Couronne de la sagesse
- 104320 : Enseignement de l'éphémère
+ 104320 : Enseignement de l'Éphémère
  104321 : Guide de l'Éphémère
- 104322 : Philosophie de l'éphémère
- 104323 : Enseignement de l'élégance
+ 104322 : Philosophie de l'Éphémère
+ 104323 : Enseignement de l'Élégance
  104324 : Guide de l'Élégance
- 104325 : Philosophie de l'élégance
- 104326 : Enseignement de la lumière
+ 104325 : Philosophie de l'Élégance
+ 104326 : Enseignement de la Lumière
  104327 : Guide de la Lumière
- 104328 : Philosophie de la lumière
- 104329 : [EN] - Teachings of Admonition
- 104330 : [EN] - Guide to Admonition
- 104331 : [EN] - Philosophies of Admonition
- 104332 : [EN] - Teachings of Ingenuity
- 104333 : [EN] - Guide to Ingenuity
- 104334 : [EN] - Philosophies of Ingenuity
- 104335 : [EN] - Teachings of Praxis
- 104336 : [EN] - Guide to Praxis
- 104337 : [EN] - Philosophies of Praxis
+ 104328 : Philosophie de la Lumière
+ 104329 : Enseignement de l'Admonestation
+ 104330 : Guide de l'Admonestation
+ 104331 : Philosophie de l'Admonestation
+ 104332 : Enseignement de l'Ingénuité
+ 104333 : Guide de l'Ingénuité
+ 104334 : Philosophie de l'Ingénuité
+ 104335 : Enseignement de l'Usage
+ 104336 : Guide de l'Usage
+ 104337 : Philosophie de l'Usage
  105001 : Goutte sanctifiante
  105002 : Baume sanctifiant
  105003 : Essence sanctifiante
@@ -5801,8 +5800,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  107014 : Électroculus
  107015 : Amulette sélénite
  107016 : Cristal de lumen
- 107017 : [EN] - Dendroculus
- 107018 : [EN] - Sumeru Shrine of Depths Key
+ 107017 : Dendroculus
+ 107018 : Clé de Sanctuaire des profondeurs de Sumeru
  108000 : Plat
  108001 : Toast du pêcheur (suspect)
  108002 : Toast du pêcheur
@@ -6194,85 +6193,85 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  108388 : Waltz d'omurice
  108389 : Crevettes à la rosée
  108390 : Vérité unique
- 108391 : [EN] - Suspicious Butter Chicken
- 108392 : [EN] - Butter Chicken
- 108393 : [EN] - Delicious Butter Chicken
- 108394 : [EN] - Suspicious Shawarma Wrap
- 108395 : [EN] - Shawarma Wrap
- 108396 : [EN] - Delicious Shawarma Wrap
- 108397 : [EN] - Suspicious Selva Salad
- 108398 : [EN] - Selva Salad
- 108399 : [EN] - Delicious Selva Salad
- 108400 : [EN] - Suspicious Masala Cheese Balls
- 108401 : [EN] - Masala Cheese Balls
- 108402 : [EN] - Delicious Masala Cheese Balls
- 108403 : [EN] - Suspicious Mushroom Hodgepodge
- 108404 : [EN] - Mushroom Hodgepodge
- 108405 : [EN] - Delicious Mushroom Hodgepodge
- 108406 : [EN] - Suspicious Pita Pocket
- 108407 : [EN] - Pita Pocket
- 108408 : [EN] - Delicious Pita Pocket
- 108409 : [EN] - Suspicious Panipuri
- 108410 : [EN] - Panipuri
- 108411 : [EN] - Delicious Panipuri
- 108412 : [EN] - Suspicious Minty Bean Soup
- 108413 : [EN] - Minty Bean Soup
- 108414 : [EN] - Delicious Minty Bean Soup
- 108415 : [EN] - Suspicious Biryani
- 108416 : [EN] - Biryani
- 108417 : [EN] - Delicious Biryani
- 108418 : [EN] - Suspicious Tahchin
- 108419 : [EN] - Tahchin
- 108420 : [EN] - Delicious Tahchin
- 108421 : [EN] - Suspicious Lambad Fish Roll
- 108422 : [EN] - Lambad Fish Roll
- 108423 : [EN] - Delicious Lambad Fish Roll
- 108424 : [EN] - Suspicious Curry Shrimp
- 108425 : [EN] - Curry Shrimp
- 108426 : [EN] - Delicious Curry Shrimp
- 108427 : [EN] - Suspicious Tandoori Roast Chicken
- 108428 : [EN] - Tandoori Roast Chicken
- 108429 : [EN] - Delicious Tandoori Roast Chicken
- 108430 : [EN] - Suspicious Potato Boat
- 108431 : [EN] - Potato Boat
- 108432 : [EN] - Delicious Potato Boat
- 108433 : [EN] - Suspicious Fish With Cream Sauce
- 108434 : [EN] - Fish With Cream Sauce
- 108435 : [EN] - Delicious Fish With Cream Sauce
- 108436 : [EN] - Forest Watcher's Choice
- 108437 : [EN] - Yearning
- 108438 : [EN] - Show Me the Mora
- 108439 : [EN] - Suspicious Meat Lovers' Mushroom Pizza
- 108440 : [EN] - Meat Lovers' Mushroom Pizza
- 108441 : [EN] - Delicious Meat Lovers' Mushroom Pizza
- 108442 : [EN] - Suspicious Sunset Berry Tea
- 108443 : [EN] - Sunset Berry Tea
- 108444 : [EN] - Delicious Sunset Berry Tea
- 108445 : [EN] - Suspicious Milky Mushroom Crisp Tower
- 108446 : [EN] - Milky Mushroom Crisp Tower
- 108447 : [EN] - Delicious Milky Mushroom Crisp Tower
- 108448 : [EN] - Suspicious Coconut Charcoal Cakes
- 108449 : [EN] - Coconut Charcoal Cakes
- 108450 : [EN] - Delicious Coconut Charcoal Cakes
- 108451 : [EN] - Suspicious Baklava
- 108452 : [EN] - Baklava
- 108453 : [EN] - Delicious Baklava
- 108454 : [EN] - Suspicious Candied Ajilenakh Nut
- 108455 : [EN] - Candied Ajilenakh Nut
- 108456 : [EN] - Delicious Candied Ajilenakh Nut
- 108457 : [EN] - Suspicious Padisarah Pudding
- 108458 : [EN] - Padisarah Pudding
- 108459 : [EN] - Delicious Padisarah Pudding
- 108460 : [EN] - Suspicious Aaru Mixed Rice
- 108461 : [EN] - Aaru Mixed Rice
- 108462 : [EN] - Delicious Aaru Mixed Rice
- 108463 : [EN] - ？？？
- 108464 : [EN] - ？？？
- 108465 : [EN] - ？？？
- 108466 : [EN] - Swirling Steps
- 108467 : [EN] - Duel Soul
- 108468 : [EN] - Utmost Care
- 108469 : [EN] - ？？？
+ 108391 : Poulet au beurre (suspect)
+ 108392 : Poulet au beurre
+ 108393 : Poulet au beurre (délicieux)
+ 108394 : Shawarma (suspect)
+ 108395 : Shawarma
+ 108396 : Shawarma (délicieux)
+ 108397 : Salade de selve (suspecte)
+ 108398 : Salade de selve
+ 108399 : Salade de selve (délicieuse)
+ 108400 : Boules de fromage au masala (suspectes)
+ 108401 : Boules de fromage au masala
+ 108402 : Boules de fromage au masala (délicieuses)
+ 108403 : Mélangé de champignons (suspect)
+ 108404 : Mélangé de champignons
+ 108405 : Mélangé de champignons (délicieux)
+ 108406 : Snack pita (suspect)
+ 108407 : Snack pita
+ 108408 : Snack pita (délicieux)
+ 108409 : Panipuris (suspects)
+ 108410 : Panipuris
+ 108411 : Panipuris (délicieux)
+ 108412 : Soupe de pois-menthe (suspecte)
+ 108413 : Soupe de pois-menthe
+ 108414 : Soupe de pois-menthe (délicieuse)
+ 108415 : Biryani (suspect)
+ 108416 : Biryani
+ 108417 : Biryani (délicieux)
+ 108418 : Tahtchine (suspect)
+ 108419 : Tahtchine
+ 108420 : Tahtchine (délicieux)
+ 108421 : Rouleau au poisson de Lambad (suspect)
+ 108422 : Rouleau au poisson de Lambad
+ 108423 : Rouleau au poisson de Lambad (délicieux)
+ 108424 : Crevettes au curry (suspectes)
+ 108425 : Crevettes au curry
+ 108426 : Crevettes au curry (délicieuses)
+ 108427 : Poulet tandoori (suspect)
+ 108428 : Poulet tandoori
+ 108429 : Poulet tandoori (délicieux)
+ 108430 : Bateau-patate (suspect)
+ 108431 : Bateau-patate
+ 108432 : Bateau-patate (délicieux)
+ 108433 : Poisson à la crème (suspect)
+ 108434 : Poisson à la crème
+ 108435 : Poisson à la crème (délicieux)
+ 108436 : Recommandation de brigadier forestier
+ 108437 : Aspiration
+ 108438 : Aboul'moras
+ 108439 : Pizza champignons-viande (suspecte)
+ 108440 : Pizza champignons-viande
+ 108441 : Pizza champignons-viande (délicieuse)
+ 108442 : Thé à la tombaie (suspect)
+ 108443 : Thé à la tombaie
+ 108444 : Thé à la tombaie (délicieux)
+ 108445 : Tour de champignons au lait (suspecte)
+ 108446 : Tour de champignons au lait
+ 108447 : Tour de champignons au lait (délicieuse)
+ 108448 : Charbon d'ajilenakh (suspect)
+ 108449 : Charbon d'ajilenakh
+ 108450 : Charbon d'ajilenakh (délicieux)
+ 108451 : Baklava (suspect)
+ 108452 : Baklava
+ 108453 : Baklava (délicieux)
+ 108454 : Nougat d'ajilenakh (suspect)
+ 108455 : Nougat d'ajilenakh
+ 108456 : Nougat d'ajilenakh (délicieux)
+ 108457 : Pudding de padisachidées (suspect)
+ 108458 : Pudding de padisachidées
+ 108459 : Pudding de padisachidées (délicieux)
+ 108460 : Riz mélangé d'Aaru (suspect)
+ 108461 : Riz mélangé d'Aaru
+ 108462 : Riz mélangé d'Aaru (délicieux)
+ 108463 : Jus de fruits du festival (suspect)
+ 108464 : Jus de fruits du festival
+ 108465 : Jus de fruits du festival (délicieux)
+ 108466 : Pas tourbillonnant
+ 108467 : Âme duelliste
+ 108468 : Soin extrême
+ 108469 : Jus de tombaie pétillant
  109000 : Ingrédient
  109101 : Recette : Brochette de poulet et de champignons
  109102 : Recette : Toast du pêcheur
@@ -6383,30 +6382,30 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  109490 : Recette : Udon
  109491 : Recette : Sandwich à la viande
  109492 : Recette : Aster arc-en-ciel
- 109493 : [EN] - Recipe: Butter Chicken
- 109494 : [EN] - Recipe: Shawarma Wrap
- 109495 : [EN] - Recipe: Selva Salad
- 109496 : [EN] - Recipe: Masala Cheese Balls
- 109497 : [EN] - Recipe: Mushroom Hodgepodge
- 109498 : [EN] - Recipe: Pita Pocket
- 109499 : [EN] - Recipe: Panipuri
- 109500 : [EN] - Recipe: Minty Bean Soup
- 109501 : [EN] - Recipe: Biryani
- 109502 : [EN] - Recipe: Tahchin
- 109503 : [EN] - Recipe: Lambad Fish Roll
- 109504 : [EN] - Recipe: Curry Shrimp
- 109505 : [EN] - Recipe: Tandoori Roast Chicken
- 109506 : [EN] - Recipe: Potato Boat
- 109507 : [EN] - Recipe: Fish With Cream Sauce
- 109508 : [EN] - Recipe: Meat Lovers' Mushroom Pizza
- 109509 : [EN] - Recipe: Sunset Berry Tea
- 109510 : [EN] - Recipe: Milky Mushroom Crisp Tower
- 109511 : [EN] - Recipe: Charcoal-Baked Ajilenakh Cake
- 109512 : [EN] - Recipe: Baklava
- 109513 : [EN] - Recipe: Candied Ajilenakh Nut
- 109514 : [EN] - Recipe: Padisarah Pudding
- 109515 : [EN] - Recipe: Aaru Mixed Rice
- 109516 : [EN] - ？？？
+ 109493 : Recette : Poulet au beurre
+ 109494 : Recette : Shawarma
+ 109495 : Recette : Salade de selve
+ 109496 : Recette : Boules de fromage au masala
+ 109497 : Recette : Mélangé de champignons
+ 109498 : Recette : Snack pita
+ 109499 : Recette : Panipuris
+ 109500 : Recette : Soupe de pois-menthe
+ 109501 : Recette : Biryani
+ 109502 : Recette : Tahtchine
+ 109503 : Recette : Rouleau au poisson de Lambad
+ 109504 : Recette : Crevettes au curry
+ 109505 : Recette : Poulet tandoori
+ 109506 : Recette : Bateau-patate
+ 109507 : Recette : Poisson à la crème
+ 109508 : Recette : Pizza champignons-viande
+ 109509 : Recette : Thé à la tombaie
+ 109510 : Recette : Tour de champignons au lait
+ 109511 : Recette : Charbon d'ajilenakh
+ 109512 : Recette : Baklava
+ 109513 : Recette : Nougat d'ajilenakh
+ 109514 : Recette : Pudding de padisachidées
+ 109515 : Recette : Riz mélangé d'Aaru
+ 109516 : Recette : Jus de fruits du festival
  110000 : Produit synthétisé
  110001 : Farine
  110002 : Crème
@@ -6420,7 +6419,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  110011 : Saucisse
  110012 : Poisson fumé
  110013 : Poisson séché
- 110014 : [EN] - Spice
+ 110014 : Épice
  111006 : Potion de résistance Pyro
  111007 : Potion de résistance Hydro
  111008 : Potion de résistance Cryo
@@ -6443,7 +6442,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  111025 : Ver factice
  111026 : Fausse mouche
  111027 : Herbe fluorescente
- 111028 : [EN] - Sugardew Bait
+ 111028 : Appât de rosée
  112001 : Substance Primo
  112002 : Bave de Blob
  112003 : Mucus de Blob
@@ -6478,7 +6477,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  112032 : Insigne de nouvelle recrue
  112033 : Insigne de sergent
  112034 : Insigne d'officier
- 112035 : Insigne du Pilleur
+ 112035 : Insigne des Pilleurs
  112036 : Insigne de corbeau en argent
  112037 : Insigne de corbeau en or
  112038 : Nectar de Fleur mensongère
@@ -6505,18 +6504,18 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  112059 : Spores de Fongus
  112060 : Pollen fluorescent
  112061 : Poussière cristalline de sporange
- 112062 : [EN] - Inactivated Fungal Nucleus
- 112063 : [EN] - Dormant Fungal Nucleus
- 112064 : [EN] - Robust Fungal Nucleus
- 112065 : [EN] - Faded Red Satin
- 112066 : [EN] - Trimmed Red Silk
- 112067 : [EN] - Rich Red Brocade
- 112068 : [EN] - Chaos Storage
- 112069 : [EN] - Chaos Module
- 112070 : [EN] - Chaos Bolt
- 112071 : [EN] - Damaged Prism
- 112072 : [EN] - Turbid Prism
- 112073 : [EN] - Radiant Prism
+ 112062 : Noyau fongique inactivé
+ 112063 : Noyau fongique dormant
+ 112064 : Noyau fongique robuste
+ 112065 : Satin rouge délavé
+ 112066 : Soie rouge brodée
+ 112067 : Brocart rouge luxueux
+ 112068 : Conteneur du chaos
+ 112069 : Module du chaos
+ 112070 : Vis du chaos
+ 112071 : Prisme endommagé
+ 112072 : Prisme trouble
+ 112073 : Prisme radieux
  113001 : Graine d'ouragan
  113002 : Prisme d'éclair
  113003 : Plume de Stormterror
@@ -6552,10 +6551,10 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  113033 : Larmes de la divinité calamiteuse
  113034 : Signification d'une éternité
  113035 : Croc runique
- 113036 : [EN] - Majestic Hooked Beak
- 113037 : [EN] - Thunderclap Fruitcore
- 113038 : [EN] - Perpetual Caliber
- 113039 : [EN] - Light Guiding Tetrahedron
+ 113036 : Bec crochu majestueux
+ 113037 : Fruit du tonnerre
+ 113038 : Calibre perpétuel
+ 113039 : Tétraèdre de lumière
  114001 : Tuile cassée de Décabarian
  114002 : Mur abattu de Décabarian
  114003 : Fragment dispersé de Décabarian
@@ -6592,18 +6591,18 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  114034 : Masque de la morsure du tigre
  114035 : Masque du cornu
  114036 : Masque du kijin
- 114037 : [EN] - Copper Talisman of the Forest Dew
- 114038 : [EN] - Iron Talisman of the Forest Dew
- 114039 : [EN] - Silver Talisman of the Forest Dew
- 114040 : [EN] - Golden Talisman of the Forest Dew
- 114041 : [EN] - Oasis Garden's Reminiscence
- 114042 : [EN] - Oasis Garden's Kindness
- 114043 : [EN] - Oasis Garden's Mourning
- 114044 : [EN] - Oasis Garden's Truth
- 114045 : [EN] - Echo of Scorching Might
- 114046 : [EN] - Remnant Glow of Scorching Might
- 114047 : [EN] - Dream of Scorching Might
- 114048 : [EN] - Olden Days of Scorching Might
+ 114037 : Talisman en cuivre de la rosée
+ 114038 : Talisman en fer de la rosée
+ 114039 : Talisman en argent de la rosée
+ 114040 : Talisman en or de la rosée
+ 114041 : Souvenir du jardin d'oasis
+ 114042 : Gentillesse du jardin d'oasis
+ 114043 : Deuil du jardin d'oasis
+ 114044 : Vérité du jardin d'oasis
+ 114045 : Dernier écho du pouvoir brûlant
+ 114046 : Éclat subsistant du pouvoir brûlant
+ 114047 : Rêve dominant du pouvoir brûlant
+ 114048 : Passé glorieux du pouvoir brûlant
  115001 : [CHS] - (test)新手礼包
  115002 : [CHS] - (test)角色养成包一（全平台）
  115003 : [CHS] - (test)角色养成包二（IOS）
@@ -6641,7 +6640,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  115037 : Cadeau de la Commission culturelle
  115038 : Décoration exquise reçue en cadeau
  115039 : Décoration fantastique reçue en cadeau
- 115040 : [EN] - Midlander Billet Trove
+ 115040 : Coffre de base d'arme du centre
  116001 : EXP PB
  116002 : Coffre PB
  116003 : Packs PB (Choisissez en 1 sur 3)
@@ -6653,8 +6652,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  116009 : [CHS] - (test)BP付费高级礼包
  116010 : Conseil de la Terre du Tonnerre
  116011 : Philosophie de la Terre du Tonnerre
- 116012 : [EN] - Guidance of the Land of Verdure
- 116013 : [EN] - Philosophies of the Land of Verdure
+ 116012 : Guide de la Terre de verdure
+ 116013 : Philosophie de la Terre de verdure
  117001 : Reliquaire des profondeurs - Catégorie III
  117002 : Reliquaire des profondeurs - Catégorie II
  117003 : Reliquaire des profondeurs - Catégorie I
@@ -6662,110 +6661,125 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  117005 : Grand reliquaire : la Compagnie Vagabonde et le Gladiateur
  117006 : Reliquaire des profondeurs - Catégorie II
  117007 : Reliquaire des profondeurs - Catégorie I
- 117008 : [EN] - Domain Reliquary: Tier II
- 117009 : [EN] - Domain Reliquary: Tier I
+ 117008 : Reliquaire des profondeurs - Catégorie II
+ 117009 : Reliquaire des profondeurs - Catégorie I
  118001 : #Gâteau {M#du voyageur}{F#de la voyageuse}
  118002 : #Gâteau {M#du voyageur}{F#de la voyageuse}
  118003 : #Gâteau {M#du voyageur}{F#de la voyageuse}
  118004 : #Gâteau {M#du voyageur}{F#de la voyageuse}
- 118005 : [EN] - Cake for Traveler
- 118006 : [EN] - Cake for Traveler
- 120000 : [EN] - A Note Alrani Left for Niloofar
- 120001 : [EN] - A Research Paper by Pir Kavikavus
- 120002 : [EN] - Dried Flower
- 120003 : [EN] - Amiti Device Fragment (I)
- 120004 : [EN] - Amiti Device Fragment (II)
- 120005 : [EN] - Amiti Device Fragment (III)
- 120006 : [EN] - Jazari's Mora Purse
- 120007 : [EN] - "The Ultra Invincible" Adventure Handbook
- 120008 : [EN] - Lost Energy Block
- 120009 : [EN] - Strange Parchment
+ 118005 : #Gâteau {M#du voyageur}{F#de la voyageuse}
+ 118006 : #Gâteau {M#du voyageur}{F#de la voyageuse}
+ 120000 : Note d'Alrani pour Niloofar
+ 120001 : Thèse de Pir Kavikavus
+ 120002 : Fleur séchée
+ 120003 : Fragment du mécanisme d'Amiti I
+ 120004 : Fragment du mécanisme d'Amiti II
+ 120005 : Fragment du mécanisme d'Amiti III
+ 120006 : Bourse de moras de Jazari
+ 120007 : #Manuel d'aventure de «{NON_BREAK_SPACE}l'ultra-invulnérable{NON_BREAK_SPACE}»
+ 120008 : Bloc d'énergie perdu
+ 120009 : Vélin étrange
  120010 : [CHS] - (test)冒险地图
- 120011 : [EN] - Withered Kusava
- 120012 : [EN] - Gulabgir's Special Pet Snake Food
- 120013 : [EN] - Strange Bead
- 120014 : [EN] - Strange Tiny Hats
- 120015 : [EN] - Shabby Rack
- 120016 : [EN] - Javi's Dream
- 120017 : [EN] - Tattered Paper
- 120018 : [EN] - The Shepherd and the Magic Bottle
- 120019 : [EN] - The Tale of Shiruyeh and Shirin (I)
- 120020 : [EN] - The Tale of Shiruyeh and Shirin (II)
- 120021 : [EN] - The Lay of Al-Ahmar
- 120022 : [EN] - The Folio of Foliage (I)
- 120023 : [EN] - The Folio of Foliage (II)
- 120024 : [EN] - The Folio of Foliage (III)
- 120025 : [EN] - Scroll of Streaming Song (I)
- 120026 : [EN] - Scroll of Streaming Song (II)
- 120027 : [EN] - Scroll of Streaming Song (III)
- 120028 : [EN] - An Ode to Soul-Light
- 120029 : [EN] - Transparent Ruins Record (II)
- 120030 : [EN] - Transparent Ruins Record (III)
- 120031 : [EN] - A Key
- 120032 : [EN] - Unsealed Parchment
- 120033 : [EN] - Guiding Parchment
- 120034 : [EN] - Whispering Parchment
- 120035 : [EN] - Mysterious Parchment
- 120036 : [EN] - Ancient Work Log
- 120037 : [EN] - Akademiya Investigation Team's Interim Report
- 120038 : [EN] - Zandik's Note
- 120039 : [EN] - Sohreh's Note
- 120040 : [EN] - Sumeru Investigation Team's Note
- 120041 : [EN] - Dissection Records
- 120042 : [EN] - Ragged Attendance Record
- 120043 : [EN] - ？？？
- 120044 : [EN] - ？？？
- 120045 : [EN] - ？？？
- 120046 : [EN] - ？？？
- 120047 : [EN] - Medical Records
- 120048 : [EN] - Diagnostic Report
- 120049 : [EN] - Shevirme's Funds
- 120050 : [EN] - Quqing's Funds
- 120051 : [EN] - Guanchui's Funds
- 120052 : [EN] - Zakariya's Prescription for Maruf
- 120053 : [EN] - Zakariya's Prescription for Maruf
- 120054 : [EN] - Zakariya's Prescription for Maruf
+ 120011 : Kusava flétri
+ 120012 : Nourriture spéciale pour serpent de Gulabgir
+ 120013 : Perle étrange
+ 120014 : Petits chapeaux étranges
+ 120015 : Étagère miteuse
+ 120016 : Rêve de Javi
+ 120017 : Papier déchiré
+ 120018 : Le berger et la bouteille magique
+ 120019 : Conte de Shiruyeh et Shirin - Tome I
+ 120020 : Conte de Shiruyeh et Shirin - Tome II
+ 120021 : L'histoire d'Al-Ahmar
+ 120022 : Folios de feuillage - Tome I
+ 120023 : Folios de feuillage - Tome II
+ 120024 : Folios de feuillage - Tome III
+ 120025 : Parchemin de l'hymne à flot - Tome I
+ 120026 : Parchemin de l'hymne à flot - Tome II
+ 120027 : Parchemin de l'hymne à flot - Tome III
+ 120028 : Une ode à la lumière de l'âme
+ 120029 : Registre des ruines transparentes II
+ 120030 : Registre des ruines transparentes III
+ 120031 : Clé ancienne
+ 120032 : Vélin descellé
+ 120033 : Vélin de guidage
+ 120034 : Vélin de murmure
+ 120035 : Vélin mystérieux
+ 120036 : Journal de travail ancien
+ 120037 : Rapport provisoire d'enquête de l'Académie
+ 120038 : Note de Zandik
+ 120039 : Note de Sohreh
+ 120040 : Note des enquêteurs de Sumeru
+ 120041 : Registre de dissection
+ 120042 : Registre de présence en lambeaux
+ 120043 : Matériaux achetés
+ 120044 : Matériaux achetés
+ 120045 : Matériaux achetés
+ 120046 : Matériaux achetés
+ 120047 : Dossier médical
+ 120048 : Rapport diagnostique
+ 120049 : Budget de Shevirme
+ 120050 : Budget de Quqing
+ 120051 : Budget de Guanchui
+ 120052 : Ordonnance de Zakariya pour Maruf
+ 120053 : Ordonnance de Zakariya pour Maruf
+ 120054 : Ordonnance de Zakariya pour Maruf
  120055 : [CHS] - （test）马鲁夫的万能药包
- 120056 : [EN] - Zakariya's Medicine for Maruf
+ 120056 : Médicament de Zakariya pour Maruf
  120057 : [CHS] - （test）蕈兽孢粉
  120058 : [CHS] - （test）新鲜的须弥蔷薇
- 120059 : [EN] - An Elegantly-Written Note
+ 120059 : Note élégamment écrite
  120060 : [CHS] - （test）仙人掌凝胶
- 120061 : [EN] - Nermin's Minty Bean Soup
+ 120061 : Soupe de pois-menthe de Nermin
  120062 : [CHS] - （test）内尔敏做的香水
- 120063 : [EN] - Future Star
- 120065 : [EN] - Raef's Bag
- 120066 : [EN] - Nermin's Spices
- 120067 : [EN] - Keystone (I)
- 120068 : [EN] - Torn Page: A Thousand Nights (I)
- 120069 : [EN] - Torn Page: A Thousand Nights (II)
- 120070 : [EN] - Torn Page: A Thousand Nights (III)
- 120071 : [EN] - Torn Page: A Thousand Nights (IV)
- 120072 : [EN] - Torn Page: A Thousand Nights (V)
- 120073 : [EN] - Torn Page: A Thousand Nights (VI)
- 120074 : [EN] - A Thousand Nights (I)
- 120075 : [EN] - A Thousand Nights (II)
- 120076 : [EN] - A Thousand Nights (III)
- 120077 : [EN] - A Thousand Nights (IV)
- 120078 : [EN] - A Thousand Nights (V)
- 120079 : [EN] - A Thousand Nights (VI)
- 120080 : [EN] - Samer's Missive
- 120081 : [EN] - Samer's Missive
- 120082 : [EN] - Shevirme's Invoice
- 120083 : [EN] - Quqing's Invoice
- 120084 : [EN] - Guanchui's Invoice
- 120113 : [EN] - ？？？
- 120114 : [EN] - ？？？
- 120115 : [EN] - ？？？
- 120116 : [EN] - ？？？
- 120117 : [EN] - Keystone (II)
- 120118 : [EN] - Azalai's Payment
- 120119 : [EN] - Rama's Receipt
- 120120 : [EN] - Butrus' Receipt
- 120121 : [EN] - Jut's Receipt
- 120122 : [EN] - Jahangir's Receipt
- 120123 : [EN] - ？？？
+ 120063 : Étoile du futur
+ 120065 : Colis de Raef
+ 120066 : Épices de Nermin
+ 120067 : Pierre-clé I
+ 120068 : Page déchirée de « Les mille nuits - I »
+ 120069 : Page déchirée de « Les mille nuits - II »
+ 120070 : Page déchirée de « Les mille nuits - III »
+ 120071 : Page déchirée de « Les mille nuits - IV »
+ 120072 : Page déchirée de « Les mille nuits - V »
+ 120073 : Page déchirée de « Les mille nuits - VI »
+ 120074 : Les mille nuits - I
+ 120075 : Les mille nuits - II
+ 120076 : Les mille nuits - III
+ 120077 : Les mille nuits - IV
+ 120078 : Les mille nuits - V
+ 120079 : Les mille nuits - VI
+ 120080 : Missive de Samail
+ 120081 : Missive de Samail
+ 120082 : Bon de commande de Shevirme
+ 120083 : Bon de commande de Quqing
+ 120084 : Bon de commande de Guanchui
+ 120113 : Lettre d'introduction de Cyno
+ 120114 : Carte ancienne
+ 120115 : Brochure d'enchère
+ 120116 : Document scellé : Cour de la désolation
+ 120117 : Pierre-clé II
+ 120118 : Paiement d'Azalai
+ 120119 : Reçu de Rama
+ 120120 : Reçu de Butrus
+ 120121 : Reçu de Jut
+ 120122 : Reçu de Jahangir
+ 120123 : Kit de voyage en désert, édition limitée
  120125 : [CHS] - （test）赛芭的蔷薇
+ 120126 : Courte lettre
+ 120128 : Inscription vaguement lisible
+ 120129 : Inscription vaguement lisible
+ 120130 : Inscription vaguement lisible
+ 120131 : Inscription vaguement lisible
+ 120132 : Inscription vaguement lisible
+ 120133 : Inscription vaguement lisible
+ 120134 : Inscription vaguement lisible
+ 120135 : Inscription vaguement lisible
+ 120136 : Inscription vaguement lisible
+ 120137 : Inscription vaguement lisible
+ 120138 : Rapport d'enquête de l'Académie
+ 120139 : Rapport d'enquête de l'Académie
+ 120140 : Ordres scellés
+ 120141 : Ordres anciens
  130001 : Graine de fleur de soie
  130002 : Graine de fleur sucrante
  130003 : Graine de cécilia
@@ -6790,9 +6804,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  130022 : Graine de florêve : hibiscus étoilé
  130023 : Graine de florêve : cloche poire
  130024 : Graine de florêve : cosse de soie
- 130025 : [EN] - Harra Fruit Seed
- 130026 : [EN] - Zaytun Peach Seed
- 130027 : [EN] - Sumeru Rose Seed
+ 130025 : Graine de fruit harra
+ 130026 : Graine de pêche zaytun
+ 130027 : Graine de rose sumérienne
  131000 : Médaka
  131001 : Médaka verni
  131002 : Médaka sucrant
@@ -6815,12 +6829,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  131020 : Poisson-globe amer
  131021 : Raie divda
  131022 : Raie formalo
- 131023 : [EN] - True Fruit Angler
- 131024 : [EN] - Peach of the Deep Waves
- 131025 : [EN] - Sandstorm Angler
- 131026 : [EN] - Sunset Cloud Angler
- 131027 : [EN] - Lazurite Axe Marlin
- 131028 : [EN] - Halcyon Jade Axe Marlin
+ 131023 : Baudroie de vérifruit
+ 131024 : Pêche des vagues profondes
+ 131025 : Baudroie de sable
+ 131026 : Baudroie de crépuscule
+ 131027 : Marlin à hache de lazurite
+ 131028 : Marlin à hache de jade
  140001 : Planeur du débutant
  140002 : Ailes accompagnatrices
  140003 : Ailes de la descente
@@ -6830,7 +6844,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  140007 : Ailes d'agapes
  140008 : Ailes du tempestrier
  140009 : Ailes de brillance galactique
- 140010 : [EN] - Wings of the Forest
+ 140010 : Ailes de la forêt
  141001 : Gyrocristal radiant 1
  141002 : Gyrocristal radiant 2
  141003 : Gyrocristal radiant 3
@@ -6903,21 +6917,21 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  141070 : Gyrocristal radiant 70
  141071 : Gyrocristal radiant 71
  141072 : Gyrocristal radiant 72
- 141073 : [EN] - Radiant Spincrystal 73
- 141074 : [EN] - Radiant Spincrystal 74
- 141075 : [EN] - Radiant Spincrystal 75
- 141076 : [EN] - Radiant Spincrystal 76
- 141077 : [EN] - Radiant Spincrystal 77
- 141078 : [EN] - Radiant Spincrystal 78
- 141079 : [EN] - Radiant Spincrystal 79
- 141080 : [EN] - Radiant Spincrystal 80
- 141081 : [EN] - Radiant Spincrystal 81
- 141082 : [EN] - Radiant Spincrystal 82
- 141083 : [EN] - Radiant Spincrystal 83
- 141084 : [EN] - Radiant Spincrystal 84
- 141085 : [EN] - Radiant Spincrystal 85
- 141086 : [EN] - Radiant Spincrystal 86
- 141087 : [EN] - Radiant Spincrystal 87
+ 141073 : Gyrocristal radiant 73
+ 141074 : Gyrocristal radiant 74
+ 141075 : Gyrocristal radiant 75
+ 141076 : Gyrocristal radiant 76
+ 141077 : Gyrocristal radiant 77
+ 141078 : Gyrocristal radiant 78
+ 141079 : Gyrocristal radiant 79
+ 141080 : Gyrocristal radiant 80
+ 141081 : Gyrocristal radiant 81
+ 141082 : Gyrocristal radiant 82
+ 141083 : Gyrocristal radiant 83
+ 141084 : Gyrocristal radiant 84
+ 141085 : Gyrocristal radiant 85
+ 141086 : Gyrocristal radiant 86
+ 141087 : Gyrocristal radiant 87
  200001 : Cellulose de lanterne
  200002 : Matériau pour mèche
  200003 : Fragment de plaustrite
@@ -6932,8 +6946,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  200108 : Alkahest
  200109 : Baume de la vue
  200110 : Gemme lumineuse
- 200111 : [EN] - Original Fish Ointment
- 200112 : [EN] - Plume of the Changing Winds
+ 200111 : Huile de poisson originale
+ 200112 : Panache des vents changeants
  200201 : Danse du faucon
  200202 : Ailes d'acier
  200203 : Source du vent
@@ -7001,7 +7015,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  200902 : Faiseur de vœux
  200903 : Narukawa Ukai
  200904 : Pêchelune
- 200905 : [EN] - Serendipity
+ 200905 : Sérendipité
  210001 : Genshin Impact - Un monde nouveau
  210002 : PB - Attrape-vent
  210003 : Amber - Baron Lapinou
@@ -7121,22 +7135,22 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  210121 : PB - Destinée
  210122 : Shikanoin Heizou - Temari
  210123 : PB - Azur marin
- 210124 : [EN] - Tighnari: Dew-Kissed
- 210125 : [EN] - Collei: Good Virtue
- 210126 : [EN] - Dori: Jinni
- 210127 : [EN] - Travel Notes: Woodlands
- 210128 : [EN] - Achievement: Roaming
- 210129 : [EN] - Achievement: Fated Encounter
- 210130 : [EN] - Sumeru: Shimmering Woods
- 210131 : [EN] - Sumeru: Observance
- 210132 : [EN] - Sumeru: Unsullied
- 210133 : [EN] - Travel Notes: Returning Winds
- 210134 : [EN] - ？？？
- 210135 : [EN] - ？？？
- 210136 : [EN] - ？？？
- 210137 : [EN] - Achievement: Seven Lights
- 210138 : [EN] - Sumeru: Sandtreader
- 210139 : [EN] - Achievement: Mirrored Dreams
+ 210124 : Tighnari - Baigné de rosée
+ 210125 : Collei - Vertu
+ 210126 : Dori - Lampe magique
+ 210127 : PB - Fond des bois
+ 210128 : Succès - Errance
+ 210129 : Succès - Destin
+ 210130 : Sumeru - Bois scintillants
+ 210131 : Sumeru - Observance
+ 210132 : Sumeru - Rectitude
+ 210133 : PB - Vent de retour
+ 210134 : Cyno - Sérénité
+ 210135 : Candace - Héronne cendrée
+ 210136 : Nilou - Danse du lotus
+ 210137 : Succès - Sept lumières
+ 210138 : Sumeru - Marche-sable
+ 210139 : Succès - Rêves reflétés
  220001 : Pierre de résonance Anémoculus
  220002 : Pierre de résonance Géoculus
  220003 : Détecteur de trésors Géo
@@ -7186,25 +7200,25 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  220050 : [CHS] - (test)CD测试道具
  220051 : Tambourin harmonieux d'Arataki
  220052 : Collecteur de matériaux
- 220053 : [EN] - "Kusava"
+ 220053 : Kusava
  220054 : [CHS] - （test）仇恨测试道具
- 220055 : [EN] - Aranyaka
- 220057 : [EN] - Dendroculus Resonance Stone
- 220058 : [EN] - Dendro Treasure Compass
- 220059 : [EN] - "The Boon of the Elder Tree"
- 220060 : [EN] - Ultra-Hot Burner Lamp Test Model
- 220061 : [EN] - Treasure-Seeking Seelie
- 220062 : [EN] - Mini Seelie: Moss
- 220063 : [EN] - Exquisite Kamera
- 220064 : [EN] - Banu's Wisdom
- 220065 : [EN] - Fishing Line Stabilizer
- 220066 : [EN] - Vintage Lyre
- 220067 : [EN] - ？？？
+ 220055 : Aranyaka
+ 220057 : Pierre de résonance Dendroculus
+ 220058 : Détecteur de trésors Dendro
+ 220059 : Faveur de l'arbre aîné
+ 220060 : Modèle d'essai de lampe à ultra-brûleur
+ 220061 : Fée chercheuse
+ 220062 : Mini-fée moussue
+ 220063 : Daguerréotype raffiné
+ 220064 : Sagesse de Banu
+ 220065 : Stabilisateur de ligne de pêche
+ 220066 : Lyre ancienne
+ 220067 : Bombe de table rebondissante
  220068 : [CHS] - (test)赤沙石板
- 220069 : [EN] - Scarlet Sand Slate
- 220070 : [EN] - "Bubbly Kamera"
- 220071 : [EN] - "Kusava"
- 220074 : [EN] - ？？？
+ 220069 : Stèle des sables écarlates
+ 220070 : « Daguerréotype pétillant »
+ 220071 : Kusava
+ 220074 : Appareil turquoise de Souffle-Nuages
  221001 : Instructions : Pierre de résonance Anémoculus
  221002 : Instructions : Pierre de résonance Géoculus
  221003 : Plan : Détecteur de trésors Géo
@@ -7223,20 +7237,20 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  221016 : Plan : Arc d'exorcisme
  221017 : Plan : Fiole exothermique
  221018 : Masque des souvenirs
- 221019 : [EN] - Tale of the Forest King
- 221020 : [EN] - Tale of the Desert
- 221021 : [EN] - Tale of the King's Squire
- 221022 : [EN] - Tale of the Moonlight
- 221023 : [EN] - Tale of the Portent
+ 221019 : Conte du roi de la forêt
+ 221020 : Conte du désert
+ 221021 : Conte du vassal du roi
+ 221022 : Conte de la lumière lunaire
+ 221023 : Conte du présage
  221032 : Instructions : Pierre de résonance Électroculus
  221034 : Plan : Détecteur de trésors Électro
  221035 : Recette : Appât de pâte de fruit
  221036 : Recette : Appât fétide
  221037 : Recette : Ver factice
  221038 : Recette : Fausse mouche
- 221039 : [EN] - Formula: Sugardew Bait
- 221057 : [EN] - Instructions: Dendroculus Resonance Stone
- 221058 : [EN] - Diagram: Dendro Treasure Compass
+ 221039 : Recette : Appât de rosée
+ 221057 : Instructions : Pierre de résonance Dendroculus
+ 221058 : Plan : Détecteur de trésors Dendro
  222001 : Imprimé de soie
  223001 : Des nuages de montagne, la pluie dorée tombe
  223002 : D'étoiles, la nuit d'argent est pleine
@@ -7352,12 +7366,17 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  360416 : Lumière arc-en-ciel « Célébration matinale »
  360417 : « Infinité de demeures éclairant la lune »
  360418 : Lampe de maçonnerie « Chandelle des profondeurs »
+ 360419 : Étreinte du sommeil rosé
+ 360420 : Éclat de la goutte de verdure
+ 360421 : « Illumination des bois »
  361101 : Comptoir avec abattant en bouleau du nord
  361102 : Étagère ouverte en épicéa
  361103 : Combinaison d'étagères en épicéa
  361104 : Buffet classique en épicéa
  361105 : Grande garde-robe en bouleau
  361106 : Garde-robe en bois d'haréna à caisson doré
+ 361107 : Étagère unie en bois radiant
+ 361108 : Bureau du désert « Hospitalité »
  361201 : Bibliothèque à deux étages
  361202 : Bibliothèque raffinée en bois d'exquisetier
  361203 : Bibliothèque basique en bois d'exquisetier
@@ -7368,6 +7387,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  361208 : Cabinet de marchand rouge en cèdre
  361209 : Bibliothèque « Cœur d'encre » en bois d'érable
  361210 : Bibliothèque « Butin de mille ouvrages » en bois d'érable
+ 361212 : Armoire du désert « Fouillis »
  361301 : Table d'étude robuste
  361302 : Bureau de l'Ordre de Favonius
  361303 : Table de réunion de l'Ordre de Favonius
@@ -7383,11 +7403,16 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  361314 : Kotatsu « Fraîcheur et chaleur » en bois de rêve
  361315 : Table à thé « Sekijou » en bois de cèdre inazumien
  361316 : Table de salon de thé « Assise continue »
+ 361317 : Établi de poterie en bois radiant
+ 361318 : Table longue en bois de tamaris Athel
  361401 : Lit « Douce brise »
  361402 : Lit « Brume de nuages »
  361403 : Lit « Repos des cerisiers » en bois de rêve
  361501 : Comptoir de réception en pin
  361502 : Comptoir de salon de thé « Toshimaru »
+ 361503 : Plateforme en pierre du désert « Robuste »
+ 361504 : Cheminée du désert « Chaleur »
+ 361505 : #Bibliothèque du désert «{NON_BREAK_SPACE}Consciencieux »
  362101 : Canapé de salon confortable
  362102 : « Ciel bleu d'après-midi »
  362103 : « Détermination inébranlable »
@@ -7414,16 +7439,33 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  362217 : Euphonie céleste « Entrelacs »
  362218 : Fragrance festive « Face au périple »
  362219 : Fragrance festive « D'or et de jade »
+ 362220 : Banquet d'été du grand chef
+ 362221 : Vase teinté « Céruléen »
+ 362222 : Vase teinté « Malachite »
+ 362223 : Vase teinté « Ambre »
+ 362224 : Vase uni « Bronze »
+ 362225 : Vase uni « Fauve »
+ 362226 : Vase uni « Ocre »
+ 362227 : Vase uni « Sépia »
+ 362228 : Vase teinté « Porcelaine »
+ 362229 : Vase teinté « Roche sombre »
+ 362231 : « Au milieu de la fumée fuyante »
  362301 : Tapis de Mondstadt « Ardeur pourpre »
  362302 : Tapis de Mondstadt « Recherche infatigable »
  362303 : Tapis d'auberge « Loin du foyer »
  362304 : Tapis d'entrée « Accueil chaleureux »
+ 362305 : Tapisserie émeraude glorieuse
+ 362306 : Tapisserie dorée éblouissante
+ 362307 : Tapisserie fauve inspirante
+ 362308 : « Solennité brûlée par le cagnard »
+ 362309 : Oliveraie
  363101 : Lanterne constamment allumée
  363102 : Lampadaire en bois d'haréna du Pavillon Liuli
  363103 : Lanterne Tianyuan « Lueur parfumée »
  363104 : Lampe de table coquillage
  363105 : Lueur de gloire
  363106 : Tranquillité stellaire
+ 363107 : Lampe du désert « Lueur »
  363201 : Composition florale « Tranquillité céleste »
  363202 : Plante en pot « Brise cristalline »
  363203 : Composition florale « Aurore florissante »
@@ -7454,6 +7496,16 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  363320 : Mélangeur de taverne « Mixture épaisse »
  363321 : Masque
  363322 : Cosmos intérieur
+ 363323 : Chaudron d'herbes
+ 363324 : Viparyas
+ 363325 : « Aperçu de la luxuriance »
+ 363326 : « Croissance joviale »
+ 363327 : « Chant parmi les pierres »
+ 363328 : Théâtre Zubayr miniature
+ 363329 : Général mahamatra en service
+ 363330 : Cruche veloutée
+ 363331 : Douceur croquante
+ 363332 : Brume tordue
  364101 : Tableau de paysage « Maison de campagne »
  364102 : Tableau de paysage « Nuages au loin »
  364103 : Tableau de paysage « Falaise inconnue »
@@ -7476,6 +7528,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  364210 : Enseigne murale
  364211 : Drapé de brocart
  364212 : « Merveille à travers les yeux du dragon »
+ 364213 : Bouclier résistant en bois de tamaris Athel
+ 364214 : #Tenture murale du désert «{NON_BREAK_SPACE}Coucher de soleil »
+ 364215 : #Tenture murale du désert «{NON_BREAK_SPACE}Plumes enflammées »
  364301 : Porte en cèdre parfumé
  364302 : Porte en épicéa de l'Ordre de Favonius
  364303 : Porte de domaine en bois d'érable
@@ -7557,6 +7612,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  368149 : Yelan
  368150 : Kuki Shinobu
  368151 : Shikanoin Heizou
+ 368152 : Tighnari
+ 368153 : Collei
+ 368154 : Dori
+ 368155 : Nilou
+ 368156 : Cyno
+ 368157 : Candace
  369101 : Chat aux yeux de jade
  369102 : Chien du grand nord
  369103 : Sanglier des forêts
@@ -7614,6 +7675,17 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  369155 : Papillon de corail
  369156 : Luciolichance
  369157 : Belette foudrazurée
+ 369158 : Papillon cristallin Dendro
+ 369159 : Grenouille arboricole
+ 369160 : Lézard à queue rouge
+ 369161 : Petit porpignon
+ 369162 : Porpignon
+ 369163 : Fauconuit
+ 369164 : Ibis sacré
+ 369165 : Belette masquée
+ 369166 : Scarabée
+ 369167 : Anguille des sables
+ 369168 : Fennec
  370101 : Cabane en paille
  370102 : Entrepôt ouvert en paille
  370103 : Maison liyuéenne « Retraite solitaire »
@@ -7648,6 +7720,17 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  370308 : « Marmite des quatre quadrants »
  370309 : Étalage de primeurs « Fruits de la récolte »
  370310 : Étal à ramen en bois de dulcinier
+ 370311 : Profondeur tissée
+ 370312 : Longueur tissée
+ 370313 : Réalisation tissée
+ 370314 : « Douceur de l'échange »
+ 370315 : « Douceur de l'ombre »
+ 370316 : « Douceur de la collection »
+ 370317 : « Affaires du pêcheur »
+ 370318 : « Conservation du pêcheur »
+ 370319 : « Maintenance du pêcheur »
+ 370320 : Étal d'épicerie en bois radiant
+ 370321 : Chariot à kebab en bois radiant
  370401 : Avant-poste Brutocollinus
  370402 : Hutte Brutocollinus prestigieuse
  370501 : « Nuages à l'est de Bishui »
@@ -7696,6 +7779,17 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  370628 : #Maison inazumienne «{NON_BREAK_SPACE}Réminiscence watatsumienne{NON_BREAK_SPACE}»
  370629 : Maison inazumienne « Logis de corail »
  370630 : Maison inazumienne « Gîte de tempête »
+ 370700 : Vitrine sylvestre
+ 370701 : « Délibération de l'habitant des bois »
+ 370702 : #« Estimation de l'habitant des bois{NON_BREAK_SPACE}»
+ 370703 : « Isolation de l'habitant des bois »
+ 370704 : « Persévérance de l'habitant des bois »
+ 370705 : #Maison du désert « Vies ordinaires{NON_BREAK_SPACE}»
+ 370706 : Maison du désert « Épices abondantes »
+ 370707 : Maison du désert « Clameur »
+ 370708 : Maison du désert « Court repos »
+ 370709 : #Maison du désert « Lumière cachée{NON_BREAK_SPACE}»
+ 370710 : Maison du désert « Entreposage »
  371101 : Fontaine à fleurs et oiseaux
  371102 : Tour de garde Brutocollinus en spirale
  371103 : Abri Brutocollinus en paille
@@ -7712,6 +7806,10 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  371118 : #Cabochon dimensionnel «{NON_BREAK_SPACE}Vol plané{NON_BREAK_SPACE}»
  371119 : #Grue de maçonnerie «{NON_BREAK_SPACE}Déplace-montagne »
  371120 : #Grue de maçonnerie «{NON_BREAK_SPACE}Dompte-plaine »
+ 371122 : Cabane du désert « Menus détails »
+ 371123 : Cabane du désert « Questions »
+ 371124 : Cabane du désert « Flétrissement »
+ 371125 : Cabane du désert « Repos »
  371201 : Portail des Adeptes
  371202 : Portail de cour principale en bouleau
  371203 : Fin de clôture de cour sculptée
@@ -7745,6 +7843,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  371231 : #Éden verdoyant «{NON_BREAK_SPACE}Frontière des rêves »
  371232 : Éden verdoyant « Clôture florétoile »
  371233 : Éden verdoyant « Labyrinthe enfumé »
+ 371234 : Porte fantasmatique
+ 371235 : « Limite du pêcheur »
+ 371236 : « Frontière du pêcheur »
+ 371237 : #Marches en pierre du désert «{NON_BREAK_SPACE}Grimpette »
+ 371238 : Mur du désert « Attaque surprise »
+ 371239 : #Mur du désert « Défense sérieuse{NON_BREAK_SPACE}»
  372101 : Roche dimensionnelle « Canopée escarpée »
  372102 : Roche dimensionnelle « Rempart rocheux »
  372103 : Roche dimensionnelle « Sommet verdoyant »
@@ -7752,6 +7856,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  372105 : Roche dimensionnelle « Marche céleste »
  372106 : Roche dimensionnelle « Beauté exquise »
  372107 : Fondations de pierre « Temps fortuné »
+ 372108 : Roche dimensionnelle « Étendue désertique »
+ 372109 : Roche dimensionnelle « Gravier »
  372201 : Roche enfouie
  372202 : Roche récréative
  372203 : Roche impériale inamovible
@@ -7779,6 +7885,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  372225 : Pierre de méditation
  372226 : Pierres à gué
  372227 : Pierre blanche de source « Feu secret »
+ 372228 : Terre cuite à motifs de disques
+ 372229 : Pierre oblique peinte
  372301 : « Couleur du vent »
  372302 : Cocotier des sables d'argent
  372303 : Cocotier des sables blancs
@@ -7860,6 +7968,26 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  372446 : « Broussaille de la nuit sans fin »
  372447 : Champi-frisson mauve
  372448 : Champi-luth mauve
+ 372449 : Oscillapignon écarlate
+ 372450 : Palmipignon marron
+ 372451 : Champi-beurre flétri
+ 372452 : Champi-dôme sableux
+ 372453 : Parapluie de quiétude
+ 372454 : Ténacité du mensonge
+ 372455 : « Comme un présage de l'aube »
+ 372456 : « Comme les étoiles blanches du ciel »
+ 372457 : #« Comme les éclats brisés de la lune{NON_BREAK_SPACE}»
+ 372458 : « Comme l'encerclement du soir »
+ 372459 : Douceur cachée
+ 372460 : Salinité dissimulée
+ 372461 : Rafraîchissement sur les sables brûlants
+ 372462 : Branches parfumées endormies
+ 372463 : Souples et subtiles nervures des feuilles
+ 372464 : « Comme les étoiles scintillantes lointaines »
+ 372465 : Couleurs bouillantes dans l'eau
+ 372466 : Lettres à moitié enterrées dans le sable
+ 372467 : « Comme la brûlante lumière du soleil »
+ 372468 : Zone interdite aux sauts et piétinements
  372501 : Champ « Plantation de jade »
  372502 : Champ « Glèbe luxuriant »
  372503 : Champ « Zone humide »
@@ -7910,6 +8038,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  373139 : Caisse claire des poiriers « Chœur de quatuor »
  373140 : Percussion des poiriers « En cadence »
  373141 : Fleuron d'allegro « Accord spécial »
+ 373142 : « Prise du pêcheur »
+ 373143 : « Délice du pêcheur »
+ 373144 : « Promotion du pêcheur »
+ 373145 : « Effort du pêcheur »
+ 373146 : « Clémence du pêcheur »
  373201 : Plante en pot « Immensité verdoyante »
  373202 : Jardinière à réservoir d'eau
  373203 : Tonneau en bois pour la terre
@@ -7972,6 +8105,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  373352 : Sieste de plage de Dodoco
  373353 : Vitrine de collection de Dodoco
  373354 : Parasol de plage de Dodoco
+ 373355 : « Artisanat du pêcheur »
+ 373356 : « Les essentiels »
+ 373357 : Flamme de vigueur des Érémites
+ 373358 : Incarnation de la guerre
+ 373359 : Arrêt d'assaut
+ 373360 : Traversée des Érémites
  373401 : Lampadaire en fer forgé
  373402 : Lampadaire en pin
  373403 : Lampadaire chasse-monstre « Illumination totale »
@@ -7990,6 +8129,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  373416 : Lampadaire « Renzou » en bois de cèdre inazumien
  373501 : Téléporteur intradimensionnel
  373601 : « Bassin mystique »
+ 373602 : Ombre cristalline
  373701 : Jardinière « D'antan »
  373702 : Jardinière « Vie éphémère »
  373703 : Jardinière « Ode au vent »
@@ -8071,6 +8211,42 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  374026 : #Nez de bonhomme de neige «{NON_BREAK_SPACE}Carotte menteuse »
  374027 : #Nez de bonhomme de neige «{NON_BREAK_SPACE}Boum{NON_BREAK_SPACE}!{NON_BREAK_SPACE}»
  374028 : #Nez de bonhomme de neige «{NON_BREAK_SPACE}Pomme explosive »
+ 374031 : Torse boisé « Entrain »
+ 374032 : Torse boisé « Repos confortable »
+ 374033 : Torse boisé « Rugissement »
+ 374034 : Torse boisé « Sagesse d'aîné »
+ 374035 : Torse fleuri « Entrain »
+ 374036 : Torse fleuri « Repos confortable »
+ 374037 : Torse fleuri « Rugissement »
+ 374038 : Torse fleuri « Sagesse d'aîné »
+ 374039 : Torse aqueux « Entrain »
+ 374040 : #Torse aqueux « Repos confortable{NON_BREAK_SPACE}»
+ 374041 : Torse aqueux « Rugissement »
+ 374042 : Torse aqueux « Sagesse d'aîné »
+ 374051 : Tête boisée « Hoho »
+ 374052 : Tête boisée « Héhé »
+ 374053 : Tête boisée « Hmph »
+ 374054 : Tête boisée « Bouhou »
+ 374055 : Tête fleurie « Hoho »
+ 374056 : Tête fleurie « Héhé »
+ 374057 : Tête fleurie « Hmph »
+ 374058 : Tête fleurie « Bouhou »
+ 374059 : Tête aqueuse « Hoho »
+ 374060 : Tête aqueuse « Héhé »
+ 374061 : Tête aqueuse « Hmph »
+ 374062 : Tête aqueuse « Bouhou »
+ 374071 : Yeux de figurine « J'écoute »
+ 374072 : Yeux de figurine « Bonjour »
+ 374073 : Yeux de figurine « Quoi ? »
+ 374074 : Yeux de figurine « Mais non ! »
+ 374081 : Chapeau de figurine « Marchand »
+ 374082 : Chapeau de figurine « Habitant de la forêt »
+ 374083 : Chapeau de figurine « Divinateur »
+ 374084 : Chapeau de figurine « Flemmard »
+ 374085 : #Chapeau de figurine «{NON_BREAK_SPACE}Bourlingueur »
+ 374091 : Écharpe de figurine « Gardien de la forêt »
+ 374092 : Écharpe de figurine « Polymathe »
+ 374093 : Écharpe de figurine « Chanteur »
  374101 : Clôture en bambou usagé
  374102 : Clôture résistante en pin
  374103 : Clôture Brutocollinus en bois
@@ -8114,6 +8290,22 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  374503 : Fondations de pierre « Duplicité du temps »
  374504 : #Éden verdoyant « Chemin biscuité{NON_BREAK_SPACE}»
  374505 : Fondations de pierre « Conception grandiose »
+ 374700 : Bidules favoniens
+ 374701 : Charpente « Rouge tombaie »
+ 374702 : Charpente « Vert pissenlit »
+ 374703 : Charpente « Bleu de cidre »
+ 374704 : Accessoire paysager « Adéquatement sucré »
+ 374705 : Accessoire paysager « Cadeau surprise »
+ 374706 : Accessoire paysager « Arôme vif »
+ 374707 : Ornement « Saveur visible »
+ 374708 : Ornement « File ordonnée »
+ 374709 : Ornement « Oisillon serveur »
+ 374710 : Ornement « Juste une bouchée »
+ 374711 : Ornement « Panier de senteurs »
+ 374712 : Ornement « Bienvenue »
+ 374713 : Devanture « Et bon appétit ! »
+ 374714 : Devanture « Promo imbattable »
+ 374715 : Devanture « Un parfum puissant »
  375101 : Résidence mondstadtoise « Manoir du Domaine »
  375103 : Maison fortifiée inazumienne « Domaine raffiné »
  376101 : Appareil de loisirs « Sprinteur rythmique »
@@ -8181,6 +8373,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  379021 : Poisson-globe amer
  379022 : Raie divda
  379023 : Raie formalo
+ 379024 : Baudroie de vérifruit
+ 379025 : Pêche des vagues profondes
+ 379026 : Baudroie de sable
+ 379027 : Baudroie de crépuscule
+ 379028 : Marlin à hache de lazurite
+ 379029 : Marlin à hache de jade
  380101 : Mur en bois avec alcôve de jade
  380102 : Mur avec arches en bois foncé
  380103 : Mur voûté en bois d'érable
@@ -8207,17 +8405,17 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  380415 : Bougie fleurie « Pureté du lotus »
  380416 : Lumière arc-en-ciel « Célébration matinale »
  380418 : Lampe de maçonnerie « Chandelle des profondeurs »
- 380419 : [EN] - Slumbering Dewlight
- 380420 : [EN] - Dripping Verdant Light
- 380421 : [EN] - Deepwood Illumination
+ 380419 : Étreinte du sommeil rosé
+ 380420 : Éclat de la goutte de verdure
+ 380421 : « Illumination des bois »
  381101 : Comptoir avec abattant en bouleau du nord
  381102 : Étagère ouverte en épicéa
  381103 : Combinaison d'étagères en épicéa
  381104 : Buffet classique en épicéa
  381105 : Grande garde-robe en bouleau
  381106 : Garde-robe en bois d'haréna à caisson doré
- 381107 : [EN] - Plain Brightwood Shelf
- 381108 : [CHS] - test阿如村室内柜子1
+ 381107 : Étagère unie en bois radiant
+ 381108 : Bureau du désert « Hospitalité »
  381201 : Bibliothèque à deux étages
  381202 : Bibliothèque raffinée en bois d'exquisetier
  381203 : Bibliothèque basique en bois d'exquisetier
@@ -8228,7 +8426,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  381208 : Cabinet de marchand rouge en cèdre
  381209 : Bibliothèque « Cœur d'encre » en bois d'érable
  381210 : Bibliothèque « Butin de mille ouvrages » en bois d'érable
- 381212 : [CHS] - test阿如村室内书柜1
+ 381212 : Armoire du désert « Fouillis »
  381301 : Table d'étude robuste
  381302 : Bureau de l'Ordre de Favonius
  381303 : Table de réunion de l'Ordre de Favonius
@@ -8244,16 +8442,16 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  381314 : Kotatsu « Fraîcheur et chaleur » en bois de rêve
  381315 : Table à thé « Sekijou » en bois de cèdre inazumien
  381316 : Table de salon de thé « Assise continue »
- 381317 : [EN] - Brightwood Pottery Worktable
- 381318 : [CHS] - test阿如村室内桌子1
+ 381317 : Établi de poterie en bois radiant
+ 381318 : Table longue en bois de tamaris Athel
  381401 : Lit « Douce brise »
  381402 : Lit « Brume de nuages »
  381403 : Lit « Repos des cerisiers » en bois de rêve
  381501 : Comptoir de réception en pin
  381502 : Comptoir de salon de thé « Toshimaru »
- 381503 : [CHS] - test阿如村室内厨台
- 381504 : [CHS] - test阿如村室内火炉1
- 381505 : [CHS] - test阿如村室内木阶梯1
+ 381503 : #Plateforme en pierre du désert «{NON_BREAK_SPACE}Robuste »
+ 381504 : Cheminée du désert « Chaleur »
+ 381505 : #Bibliothèque du désert «{NON_BREAK_SPACE}Consciencieux »
  382101 : Canapé de salon confortable
  382102 : « Ciel bleu d'après-midi »
  382103 : « Détermination inébranlable »
@@ -8279,31 +8477,31 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  382216 : Paravent « Jukaku » en bois de rêve
  382218 : Fragrance festive « Face au périple »
  382219 : Fragrance festive « D'or et de jade »
- 382221 : [EN] - Hued Vase: Cerulean
- 382222 : [EN] - Hued Vase: Malachite
- 382223 : [EN] - Hued Vase: Amber
- 382224 : [EN] - Plain Vase: Bronze
- 382225 : [EN] - Plain Vase: Tawny
- 382226 : [EN] - Plain Vase: Ocher
- 382227 : [EN] - Plain Vase: Sepia
- 382228 : [CHS] - test阿如村室内陶罐1
- 382229 : [CHS] - test阿如村室内陶罐2
- 382231 : [CHS] - test须弥室内香炉bp用
+ 382221 : Vase teinté « Céruléen »
+ 382222 : Vase teinté « Malachite »
+ 382223 : Vase teinté « Ambre »
+ 382224 : Vase uni « Bronze »
+ 382225 : Vase uni « Fauve »
+ 382226 : Vase uni « Ocre »
+ 382227 : Vase uni « Sépia »
+ 382228 : Vase teinté « Porcelaine »
+ 382229 : Vase teinté « Roche sombre »
+ 382231 : « Au milieu de la fumée fuyante »
  382301 : Tapis de Mondstadt « Ardeur pourpre »
  382302 : Tapis de Mondstadt « Recherche infatigable »
  382303 : Tapis d'auberge « Loin du foyer »
  382304 : Tapis d'entrée « Accueil chaleureux »
- 382305 : [EN] - Glorious Emerald Tapestry
- 382306 : [EN] - Dazzling Golden Tapestry
- 382307 : [EN] - Musing Tawny Tapestry
- 382308 : [CHS] - test阿如村室内地毯1
- 382309 : [CHS] - test通用室内地毯4
+ 382305 : Tapisserie émeraude glorieuse
+ 382306 : Tapisserie dorée éblouissante
+ 382307 : Tapisserie fauve inspirante
+ 382308 : « Solennité brûlée par le cagnard »
+ 382309 : Oliveraie
  383101 : Lanterne constamment allumée
  383102 : Lampadaire en bois d'haréna du Pavillon Liuli
  383103 : Lanterne Tianyuan « Lueur parfumée »
  383104 : Lampe de table coquillage
  383106 : Tranquillité stellaire
- 383107 : [CHS] - test阿如村室内地灯1
+ 383107 : Lampe du désert « Lueur »
  383201 : Composition florale « Tranquillité céleste »
  383202 : Plante en pot « Brise cristalline »
  383203 : Composition florale « Aurore florissante »
@@ -8330,11 +8528,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  383317 : Daruma Kitsune « Nez divin »
  383318 : Daruma tanuki « Authenticité culinaire »
  383322 : Cosmos intérieur
- 383325 : [EN] - A Lush Glimpse
- 383326 : [EN] - Jubilant Posture
- 383330 : [CHS] - test阿如村室内茶具套装
- 383331 : [CHS] - test阿如村室内桌面摆件
- 383332 : [CHS] - test阿如村室内桌面香炉
+ 383325 : « Aperçu de la luxuriance »
+ 383326 : « Croissance joviale »
+ 383330 : Cruche veloutée
+ 383331 : Douceur croquante
+ 383332 : Brume tordue
  384101 : Tableau de paysage « Maison de campagne »
  384102 : Tableau de paysage « Nuages au loin »
  384103 : Tableau de paysage « Falaise inconnue »
@@ -8356,9 +8554,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  384209 : Tableau d'affichage mural
  384210 : Enseigne murale
  384211 : Drapé de brocart
- 384213 : [CHS] - test须弥盾牌墙面挂饰
- 384214 : [CHS] - test阿如村室内墙面布帘1
- 384215 : [CHS] - test阿如村室内墙面装饰1
+ 384213 : Bouclier résistant en bois de tamaris Athel
+ 384214 : #Tenture murale du désert «{NON_BREAK_SPACE}Coucher de soleil »
+ 384215 : #Tenture murale du désert «{NON_BREAK_SPACE}Plumes enflammées »
  384501 : « Moment suspendu »
  390101 : Cabane en paille
  390102 : Entrepôt ouvert en paille
@@ -8394,17 +8592,17 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  390308 : « Marmite des quatre quadrants »
  390309 : Étalage de primeurs « Fruits de la récolte »
  390310 : Étal à ramen en bois de dulcinier
- 390311 : [EN] - Woven Depth
- 390312 : [EN] - Woven Length
- 390313 : [EN] - Woven Fruition
- 390314 : [EN] - Sweetness in Exchange
- 390315 : [EN] - Sweetness in the Shade
- 390316 : [EN] - Sweetness in Storage
- 390317 : [EN] - Fisherman's Dealings
- 390318 : [EN] - Fisherman's Preservation Trick
- 390319 : [EN] - Fisherman's Maintenance
- 390320 : [EN] - Brightwood Grocery Stall
- 390321 : [EN] - Brightwood Kebab Cart
+ 390311 : Profondeur tissée
+ 390312 : Longueur tissée
+ 390313 : Réalisation tissée
+ 390314 : « Douceur de l'échange »
+ 390315 : « Douceur de l'ombre »
+ 390316 : « Douceur de la collection »
+ 390317 : « Affaires du pêcheur »
+ 390318 : « Conservation du pêcheur »
+ 390319 : « Maintenance du pêcheur »
+ 390320 : Étal d'épicerie en bois radiant
+ 390321 : Chariot à kebab en bois radiant
  390401 : Avant-poste Brutocollinus
  390402 : Hutte Brutocollinus prestigieuse
  390501 : « Nuages à l'est de Bishui »
@@ -8453,16 +8651,16 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  390628 : #Maison inazumienne «{NON_BREAK_SPACE}Réminiscence watatsumienne{NON_BREAK_SPACE}»
  390629 : Maison inazumienne « Logis de corail »
  390630 : Maison inazumienne « Gîte de tempête »
- 390701 : [EN] - Deepwood Dweller's Deliberation
- 390702 : [EN] - Deepwood Dweller's Estimation
- 390703 : [EN] - Deepwood Dweller's Lonesome
- 390704 : [EN] - Deepwood Dweller's Perseverance
- 390705 : [CHS] - test阿如村建筑1
- 390706 : [CHS] - test阿如村建筑2
- 390707 : [CHS] - test阿如村建筑3
- 390708 : [CHS] - test阿如村建筑4
- 390709 : [CHS] - test阿如村建筑5
- 390710 : [CHS] - test阿如村建筑6
+ 390701 : « Délibération de l'habitant des bois »
+ 390702 : « Estimation de l'habitant des bois »
+ 390703 : « Isolation de l'habitant des bois »
+ 390704 : « Persévérance de l'habitant des bois »
+ 390705 : #Maison du désert « Vies ordinaires{NON_BREAK_SPACE}»
+ 390706 : Maison du désert « Épices abondantes »
+ 390707 : Maison du désert « Clameur »
+ 390708 : Maison du désert « Court repos »
+ 390709 : #Maison du désert « Lumière cachée{NON_BREAK_SPACE}»
+ 390710 : Maison du désert « Entreposage »
  391101 : Fontaine à fleurs et oiseaux
  391102 : Tour de garde Brutocollinus en spirale
  391103 : Abri Brutocollinus en paille
@@ -8479,10 +8677,10 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  391118 : #Cabochon dimensionnel «{NON_BREAK_SPACE}Vol plané{NON_BREAK_SPACE}»
  391119 : #Grue de maçonnerie «{NON_BREAK_SPACE}Déplace-montagne »
  391120 : #Grue de maçonnerie «{NON_BREAK_SPACE}Dompte-plaine »
- 391122 : [CHS] - test阿如村棚子1
- 391123 : [CHS] - test阿如村棚子2
- 391124 : [CHS] - test阿如村棚子3
- 391125 : [CHS] - test阿如村棚子4
+ 391122 : Cabane du désert « Menus détails »
+ 391123 : Cabane du désert « Questions »
+ 391124 : Cabane du désert « Flétrissement »
+ 391125 : Cabane du désert « Repos »
  391201 : Portail des Adeptes
  391202 : Portail de cour principale en bouleau
  391203 : Fin de clôture de cour sculptée
@@ -8513,11 +8711,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  391228 : Enceinte de source « Entrée interdite »
  391229 : Mur de source « Fondation stable »
  391230 : Vestibule de source « À l'abri du froid »
- 391235 : [EN] - Fisherman's Fence
- 391236 : [EN] - "No Fishing Ahead"
- 391237 : [CHS] - test阿如村楼梯
- 391238 : [CHS] - test阿如村围墙墙体长
- 391239 : [CHS] - test阿如村围墙墙体短
+ 391235 : « Limite du pêcheur »
+ 391236 : « Frontière du pêcheur »
+ 391237 : #Marches en pierre du désert «{NON_BREAK_SPACE}Grimpette »
+ 391238 : Mur du désert « Attaque surprise »
+ 391239 : #Mur du désert « Défense sérieuse{NON_BREAK_SPACE}»
  392107 : Fondations de pierre « Temps fortuné »
  393101 : Pile désordonnée de caisses en épicéa
  393102 : Empilement ordonné de tonneaux en épicéa
@@ -8556,11 +8754,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  393137 : Cuisinière robuste de restaurant
  393138 : Flammes sereines
  393141 : Fleuron d'allegro « Accord spécial »
- 393142 : [EN] - Fisherman's Catch
- 393143 : [EN] - Fisherman's Delicacy
- 393144 : [EN] - Fisherman's Storage Solution
- 393145 : [EN] - Fisherman's Efforts
- 393146 : [EN] - Fisherman's Clemency
+ 393142 : « Prise du pêcheur »
+ 393143 : « Délice du pêcheur »
+ 393144 : « Promotion du pêcheur »
+ 393145 : « Effort du pêcheur »
+ 393146 : « Clémence du pêcheur »
  393201 : Plante en pot « Immensité verdoyante »
  393202 : Jardinière à réservoir d'eau
  393203 : Tonneau en bois pour la terre
@@ -8609,12 +8807,12 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  393352 : Sieste de plage de Dodoco
  393353 : Vitrine de collection de Dodoco
  393354 : Parasol de plage de Dodoco
- 393355 : [EN] - Fisherman's Craftsmanship
- 393356 : [EN] - The Essentials
- 393357 : [EN] - The Eremites' Flame of Vigor
- 393358 : [EN] - Embodiment of Warfare
- 393359 : [EN] - Steel Stopper
- 393360 : [EN] - The Eremites' Odyssey
+ 393355 : « Artisanat du pêcheur »
+ 393356 : « Les essentiels »
+ 393357 : Flamme de vigueur des Érémites
+ 393358 : Incarnation de la guerre
+ 393359 : Arrêt d'assaut
+ 393360 : Traversée des Érémites
  393401 : Lampadaire en fer forgé
  393402 : Lampadaire en pin
  393403 : Lampadaire chasse-monstre « Illumination totale »
@@ -8632,7 +8830,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  393415 : Lampadaire simple en bois de dulcinier
  393416 : Lampadaire « Renzou » en bois de cèdre inazumien
  393601 : « Bassin mystique »
- 393602 : [EN] - Shaded Clarity
+ 393602 : Ombre cristalline
  394101 : Clôture en bambou usagé
  394102 : Clôture résistante en pin
  394103 : Clôture Brutocollinus en bois
@@ -10436,10 +10634,10 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   35721 : Attaque du dragon - [EN] - Dvalin's Assault
   35722 : Attaque du dragon - Vainquez Stormterror.
   35723 : Attaque du dragon - [EN] - Talk to Amber
-  35724 : Attaque du dragon - Rendez-vous au quartier général de l'Ordre de Favonius.
+  35724 : Attaque du dragon - Rendez-vous au QG de l'Ordre de Favonius.
   35725 : Attaque du dragon - [CHS] - (test)地城内cs$HIDDEN
   35800 : Ordre de Favonius - [CHS] - (test)任务中第一次涉及loading场景让派蒙出来说句话$HIDDEN
-  35801 : Ordre de Favonius - Entrez dans le quartier général de l'Ordre de Favonius.
+  35801 : Ordre de Favonius - Entrez dans le QG de l'Ordre de Favonius.
   35802 : Ordre de Favonius - Parlez à Jean.
   35901 : [CHS] - (test)蒙德与三地城$HIDDEN - [CHS] - (test)天气变换$HIDDEN
   35902 : [CHS] - (test)蒙德与三地城$HIDDEN - [CHS] - (test)特效管理$HIDDEN
@@ -10456,7 +10654,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   37001 : Une ombre plane sur Mondstadt - Revenez à Mondstadt.
   37002 : Une ombre plane sur Mondstadt - Écoutez la conversation entre Jean et la mystérieuse personne.
   37003 : Une ombre plane sur Mondstadt - [CHS] - (test)你一进门我就触发接对话$HIDDEN
-  37004 : Une ombre plane sur Mondstadt - Revenez au quartier général de l'Ordre de Favonius avec Jean.
+  37004 : Une ombre plane sur Mondstadt - Revenez au QG de l'Ordre de Favonius avec Jean.
   37005 : Une ombre plane sur Mondstadt - Parlez à Jean.
   37101 : Rencontre inattendue - Quittez le QG de l'Ordre de Favonius.
   37102 : Rencontre inattendue - Parlez à Paimon.
@@ -10540,9 +10738,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   38803 : Obstacle - Activez la barrière de vent.
   38804 : Obstacle - [CHS] - (test)风障开启后，与琴对话$HIDDEN
   38805 : Obstacle - [CHS] - (test)失败任务回滚$HIDDEN
-  38806 : Obstacle - Rendez-vous à l'entrée du repaire de Stormterror.
+  38806 : Obstacle - Rendez-vous à l'entrée de l'Antre de Stormterror.
   38901 : Un foyer sans habitant - [CHS] - (test)达到巢穴大门$HIDDEN
-  38902 : Un foyer sans habitant - Rendez-vous à la porte du repaire de Stormterror.
+  38902 : Un foyer sans habitant - Rendez-vous à la porte de l'Antre de Stormterror.
   38903 : Un foyer sans habitant - [CHS] - (test)与温迪对话$HIDDEN
   38904 : Un foyer sans habitant - Rendez-vous vers le champ de vent vertical.
   38905 : Un foyer sans habitant - Rejoignez le sommet.
@@ -10737,7 +10935,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   46409 : Légende du Héros de la Nuit - Parlez à Hoffman.
   46501 : Crise du Héros de la Nuit - Attendez que le soleil se lève.
   46502 : Crise du Héros de la Nuit - Rendez-vous à l'Ordre de Favonius.
-  46503 : Crise du Héros de la Nuit - Parlez à Hoffman à l'entrée du quartier général de l'Ordre de Favonius.
+  46503 : Crise du Héros de la Nuit - Parlez à Hoffman à l'entrée du QG de l'Ordre de Favonius.
   46504 : Crise du Héros de la Nuit - Rendez-vous au Domaine de l'Aurore.
   46505 : Crise du Héros de la Nuit - Prévenez Diluc au sujet de la déclaration de guerre.
   46506 : Crise du Héros de la Nuit - Rendez-vous à la base de l'Ordre de l'Abîme.
@@ -10746,7 +10944,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   46509 : Crise du Héros de la Nuit - Atteignez les profondeurs de la base de l'Ordre de l'Abîme.
   46510 : Crise du Héros de la Nuit - Interrogez le Mage de l'Abîme pour découvrir son plan.
   46511 : Crise du Héros de la Nuit - Quittez le repaire de l'Ordre de l'Abîme.
-  46512 : Crise du Héros de la Nuit - Rendez-vous au quartier général de l'Ordre de Favonius.
+  46512 : Crise du Héros de la Nuit - Rendez-vous au QG de l'Ordre de Favonius.
   46513 : Crise du Héros de la Nuit - Parlez de la situation de l'Ordre de Favonius avec Hoffman.
   46514 : Crise du Héros de la Nuit - Utilisez le feu pour convaincre le Mage de l'Abîme.
   46515 : Crise du Héros de la Nuit - Succès
@@ -10872,7 +11070,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
   48606 : Le vent d'ouest souffle tous les jours - Parlez à Jean.
   48607 : Le vent d'ouest souffle tous les jours - Parlez à Jean.
   48608 : Le vent d'ouest souffle tous les jours - Demandez des nouvelles de Jean à Barbara.
-  48609 : Le vent d'ouest souffle tous les jours - Retournez au quartier général de l'Ordre de Favonius.
+  48609 : Le vent d'ouest souffle tous les jours - Retournez au QG de l'Ordre de Favonius.
   48610 : Le vent d'ouest souffle tous les jours - Parlez à Kaeya
   48611 : Le vent d'ouest souffle tous les jours - Parlez à Margaret pour en apprendre davantage sur la mission.
   48612 : Le vent d'ouest souffle tous les jours - Parlez à Charles pour en apprendre davantage sur la mission.
@@ -11906,10 +12104,10 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  201716 : Document incriminant - [CHS] - (test)保护环$HIDDEN
  201801 : Loyauté aveugle et témérité imprudente - (test)一天之后
  201802 : Loyauté aveugle et témérité imprudente - Retournez au Sanctuaire de Narukami et trouvez Yae Miko.
- 201803 : Loyauté aveugle et témérité imprudente - Suivez Kujou Sara jusqu'au quartier général de la Commission administrative.
+ 201803 : Loyauté aveugle et témérité imprudente - Suivez Kujou Sara jusqu'au QG de la Commission administrative.
  201804 : Loyauté aveugle et témérité imprudente - Parlez à Kujou Takayuki.
  201805 : Loyauté aveugle et témérité imprudente - Parlez à Kujou Sara.
- 201806 : Loyauté aveugle et témérité imprudente - Suivez Kujou Sara à l'intérieur du quartier général de la Commission administrative.
+ 201806 : Loyauté aveugle et témérité imprudente - Suivez Kujou Sara à l'intérieur du QG de la Commission administrative.
  201807 : Loyauté aveugle et témérité imprudente - Vainquez les gardes de la Commission administrative.
  201901 : Duel devant le trône - Parlez à Signora.
  201902 : Duel devant le trône - Vainquez Signora dans un duel devant le trône.
@@ -12011,8 +12209,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
  800519 : Le sépulcre des protégés - [N/A] 3683290620
  800520 : Le sépulcre des protégés - [N/A] 3488080028
  800601 : Souvenirs d'inteyvat - Suivez le chemin indiqué par Halfdan.
- 800602 : Souvenirs d'inteyvat - Suivez le chemin et continuez à explorer.
- 800603 : Souvenirs d'inteyvat - Suivez le chemin et continuez à explorer.
+ 800602 : Souvenirs d'inteyvat - Suivez le chemin et continuez d'explorer.
+ 800603 : Souvenirs d'inteyvat - Suivez le chemin et continuez d'explorer.
  800604 : Souvenirs d'inteyvat - Allez au camp de Brutocollinus.
  800605 : Souvenirs d'inteyvat - Cherchez des indices dans le camp des Brutocollinus.
  800606 : Souvenirs d'inteyvat - Quittez le camp de Brutocollinus.
@@ -12143,7 +12341,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1012001 : Ombre du passé - Discutez avec Jean.
 1012002 : Ombre du passé - Trouvez un ancien aristocrate dans la ville.
 1012003 : Ombre du passé - Discutez avec les gens près des remparts.
-1012004 : Ombre du passé - Retournez au quartier général de l'Ordre de Favonius pour discuter d'une solution.
+1012004 : Ombre du passé - Retournez au QG de l'Ordre de Favonius pour discuter d'une solution.
 1012005 : Ombre du passé - Discutez avec Amber.
 1012006 : Ombre du passé - Allez retrouver Eula dans les Montagnes du guet.
 1012007 : Ombre du passé - Vainquez les Fatui des environs.
@@ -12192,9 +12390,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1020003 : Qui est le meilleur combattant de Mondstadt ? - Entrer dans la taverne
 1020004 : Qui est le meilleur combattant de Mondstadt ? - Renseignez-vous auprès des buveurs sur qui est le meilleur combattant.
 1020005 : Qui est le meilleur combattant de Mondstadt ? - Faites le point avec Paimon.
-1020006 : Qui est le meilleur combattant de Mondstadt ? - Rendez-vous au quartier général de l'Ordre de Favonius.
+1020006 : Qui est le meilleur combattant de Mondstadt ? - Rendez-vous au QG de l'Ordre de Favonius.
 1020007 : Qui est le meilleur combattant de Mondstadt ? - Renseignez-vous auprès de Jean sur qui est le meilleur combattant.
-1020008 : Qui est le meilleur combattant de Mondstadt ? - Quittez le bureau du quartier général de l'Ordre de Favonius.
+1020008 : Qui est le meilleur combattant de Mondstadt ? - Quittez le bureau du QG de l'Ordre de Favonius.
 1020009 : Qui est le meilleur combattant de Mondstadt ? - [CHS] - (test)捡起地上的本子（不出现）$HIDDEN
 1020010 : Qui est le meilleur combattant de Mondstadt ? - Renseignez-vous sur la petite fille.
 1020011 : Qui est le meilleur combattant de Mondstadt ? - Renseignez-vous auprès des buveurs sur qui est le meilleur combattant.
@@ -12337,7 +12535,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1101001 : Rencontre au-delà des mers - Renseignez-vous sur la situation auprès des Millelithes.
 1101002 : Rencontre au-delà des mers - Examinez la piste du Gardien des ruines.
 1101003 : Rencontre au-delà des mers - Éliminez le Gardien des ruines.
-1101004 : Rencontre au-delà des mers - Continuez à explorer les environs.
+1101004 : Rencontre au-delà des mers - Continuez d'explorer les environs.
 1101005 : Rencontre au-delà des mers - Rendez-vous à la Banque du Nord.
 1101006 : Rencontre au-delà des mers - Parlez à Tartaglia.
 1101007 : Rencontre au-delà des mers - Examinez la piste du Gardien des ruines.
@@ -12532,7 +12730,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1102301 : Du sel dans la plaie - Explorez la grotte et entrez dans les ruines.
 1102302 : Du sel dans la plaie - Explorez et retrouvez les artéfacts divins.
 1102303 : Du sel dans la plaie - [CHS] - (test)盐盏处对话（release后隐藏）$HIDDEN
-1102304 : Du sel dans la plaie - Continuez à explorer.
+1102304 : Du sel dans la plaie - Continuez d'explorer.
 1102305 : Du sel dans la plaie - [CHS] - (test)盐尺处对话（release后隐藏）$HIDDEN
 1102306 : Du sel dans la plaie - Punissez Kliment.
 1102307 : Du sel dans la plaie - Parlez à Zhongli et Wanyan.
@@ -12540,7 +12738,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1102309 : Du sel dans la plaie - Examinez l'épée brisée dans la pièce.
 1102310 : Du sel dans la plaie - Rattrapez Wanyan.
 1102311 : Du sel dans la plaie - Parlez à Wanyan pour découvrir la vérité.
-1102312 : Du sel dans la plaie - Continuez à explorer.
+1102312 : Du sel dans la plaie - Continuez d'explorer.
 1102313 : Du sel dans la plaie - [CHS] - (test)断剑房间对话开门标记（release后隐藏）$HIDDEN
 1102314 : Du sel dans la plaie - Descendez dans la grotte.
 1102401 : Une amère vérité - Parlez à Zhongli dans la Forêt de pierre de Guyun.
@@ -12569,7 +12767,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1102620 : Conclusion inévitable - Examinez l'entrée sous-marine.
 1102621 : Conclusion inévitable - [N/A] 2659239268
 1102622 : Conclusion inévitable - Déplacez la vasque pour résoudre l'énigme.
-1102623 : Conclusion inévitable - Continuez à explorer.
+1102623 : Conclusion inévitable - Continuez d'explorer.
 1102624 : Conclusion inévitable - [N/A] 494243996
 1102625 : Conclusion inévitable - [N/A] 3644850612
 1102626 : Conclusion inévitable - [N/A] 1049028540
@@ -12724,8 +12922,8 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1111006 : Le mystérieux Funérarium Wangsheng - Explorez les environs du Funérarium en attendant Hu Tao.
 1111007 : Le mystérieux Funérarium Wangsheng - Parlez une nouvelle fois à Hu Tao.
 1111008 : Le mystérieux Funérarium Wangsheng - Accompagnez Hu Tao pour ses visites.
-1111009 : Le mystérieux Funérarium Wangsheng - Continuez à accompagner Hu Tao.
-1111010 : Le mystérieux Funérarium Wangsheng - Continuez à accompagner Hu Tao.
+1111009 : Le mystérieux Funérarium Wangsheng - Continuez d'accompagner Hu Tao.
+1111010 : Le mystérieux Funérarium Wangsheng - Continuez d'accompagner Hu Tao.
 1111011 : Le mystérieux Funérarium Wangsheng - Explorez les environs du Funérarium en attendant Hu Tao.
 1111012 : Le mystérieux Funérarium Wangsheng - Explorez les environs du Funérarium en attendant Hu Tao.
 1111013 : Le mystérieux Funérarium Wangsheng - [N/A] 839176884
@@ -13246,7 +13444,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1203703 : [N/A] 0 - Repoussez l'assaillant.
 1203704 : [N/A] 0 - Repoussez l'assaillant.
 1203705 : [N/A] 0 - Allez retrouver Kazuha à Ritou.
-1203706 : [N/A] 0 - Rendez-vous au quartier général de la Commission administrative.
+1203706 : [N/A] 0 - Rendez-vous au QG de la Commission administrative.
 1203801 : [N/A] 0 - Demandez des informations à Ryuuji.
 1203802 : [N/A] 0 - Renseignez-vous auprès d'Amenoma Tougo.
 1203803 : [N/A] 0 - Rendez-vous chez Nagato pour comprendre la situation.
@@ -13276,11 +13474,11 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1203904 : [N/A] 0 - Accompagnez Kazuha pour répondre à Kujou Kamaji.
 1203905 : [N/A] 0 - Entrez dans la base et éliminez les ennemis à l'intérieur.
 1203906 : [N/A] 0 - Discutez avec Kazuha.
-1203907 : [N/A] 0 - Continuez à éliminer les ennemis.
+1203907 : [N/A] 0 - Continuez d'éliminer les ennemis.
 1203908 : [N/A] 0 - Discutez avec Kazuha.
 1203909 : [N/A] 0 - [CHS] - 继续深入，击败敌人$HIDDEN
 1203910 : [N/A] 0 - Discutez avec Kazuha.
-1203911 : [N/A] 0 - Continuez à éliminer les ennemis.
+1203911 : [N/A] 0 - Continuez d'éliminer les ennemis.
 1203912 : [N/A] 0 - Discutez avec Kazuha.
 1203913 : [N/A] 0 - Discutez avec Kazuha.
 1203914 : [N/A] 0 - Écoutez ce que la lame maudite a à dire.
@@ -13292,7 +13490,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1203920 : [N/A] 0 - Discutez avec Kazuha.
 1203921 : [N/A] 0 - [CHS] - 继续深入，击败敌人$HIDDEN
 1203922 : [N/A] 0 - Discutez avec Kazuha.
-1203923 : [N/A] 0 - Continuez à éliminer les ennemis.
+1203923 : [N/A] 0 - Continuez d'éliminer les ennemis.
 1204001 : Lumière de purification - Parlez à Catherine.
 1204002 : Lumière de purification - Rendez-vous dans la zone où les monstres sont apparus.
 1204003 : Lumière de purification - Vainquez les Limiers de faille.
@@ -13499,7 +13697,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1902202 : Observation lointaine - [CHS] - (test)暂时屏蔽
 1902301 : Exorcisme - Rendez-vous à la Librairie Wanwen pour comprendre l'indice.
 1902302 : Exorcisme - Rendez-vous à l'endroit mentionné dans l'indice.
-1902303 : Exorcisme - Continuez à enquêter.
+1902303 : Exorcisme - Continuez d'enquêter.
 1902304 : Exorcisme - Avancez pour chercher d'autres d'indices.
 1902305 : Exorcisme - Vainquez les Brutocollinus en approche.
 1902306 : Exorcisme - Discutez avec Chongyun.
@@ -13557,9 +13755,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 1903003 : Le test de bravoure - Cherchez des traces de mauvais esprits.
 1903004 : Le test de bravoure - Cherchez des traces de mauvais esprits.
 1903005 : Le test de bravoure - Cherchez des traces de mauvais esprits.
-1903006 : Le test de bravoure - Continuez à avancer pour trouver d'autres indices.
+1903006 : Le test de bravoure - Continuez d'avancer pour trouver d'autres indices.
 1903007 : Le test de bravoure - Rendez-vous là où a lieu le test de bravoure.
-1903008 : Le test de bravoure - Continuez à avancer pour trouver d'autres indices.
+1903008 : Le test de bravoure - Continuez d'avancer pour trouver d'autres indices.
 1903101 : Un inconfort soudain - [CHS] - (test)废弃
 1903102 : Un inconfort soudain - Trouvez du nectar de Fleur mensongère Cryo.
 1903103 : Un inconfort soudain - Trouvez de la bave de Cryoblob.
@@ -15387,7 +15585,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 2102214 : Le trésor des Plaines Guili - Parlez à Soraya.
 2102290 : Le trésor des Plaines Guili - [CHS] - 与索拉雅对话，玩家选择接取任务$HIDDEN
 2102301 : Passage encombré - [CHS] - 与甄强对话$HIDDEN
-2102302 : Passage encombré - Montez dans l'élévateur.
+2102302 : Passage encombré - Montez dans l'ascenseur.
 2102303 : Passage encombré - Parlez à Huai'an.
 2102401 : Une bonne affaire - [CHS] - 与兰达对话$HIDDEN
 2102402 : Une bonne affaire - [CHS] - 拿到货单总$HIDDEN
@@ -16112,7 +16310,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4000704 : [EN] - （test）海灯节可疑小贼npc控制 - [CHS] - (test)完成任务，删除小贼（隐藏）$UNRELEASED$HIDDEN
 4000801 : Récompense du Festival des lanternes - Récompense du Festival des lanternes
 4000901 : [CHS] - (test)海灯节做灯教学奖励$UNRELEASED$HIDDEN - [CHS] - (test)海灯节做灯教学奖励$UNRELEASED$HIDDEN
-4001001 : Îles mystérieuses : Voyage vers l'inconnu - Rendez-vous au quartier général de l'Ordre de Favonius.
+4001001 : Îles mystérieuses : Voyage vers l'inconnu - Rendez-vous au QG de l'Ordre de Favonius.
 4001002 : Îles mystérieuses : Voyage vers l'inconnu - Parlez à Klee.
 4001003 : Îles mystérieuses : Voyage vers l'inconnu - Renseignez-vous sur l'île légendaire.
 4001004 : Îles mystérieuses : Voyage vers l'inconnu - Renseignez-vous sur l'île légendaire.
@@ -16263,9 +16461,9 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4001801 : [CHS] - (test)海岛beta任务三阶段$HIDDEN - [CHS] - (test)三阶段beta桥接任务$HIDDEN
 4001901 : [CHS] - (test)海岛beta任务四阶段$HIDDEN - [CHS] - (test)四阶段beta桥接任务$HIDDEN
 4002001 : Une situation délicate - Rendez-vous à la Guilde des aventuriers d'Inazuma.
-4002002 : Une situation délicate - Rendez-vous au quartier général de la Commission administrative.
-4002003 : Une situation délicate - Négociez avec l'employé du quartier général de la Commission administrative.
-4002004 : Une situation délicate - Entrez dans le quartier général de la Commission administrative.
+4002002 : Une situation délicate - Rendez-vous au QG de la Commission administrative.
+4002003 : Une situation délicate - Négociez avec l'employé du QG de la Commission administrative.
+4002004 : Une situation délicate - Entrez dans le QG de la Commission administrative.
 4002005 : Une situation délicate - Parlez à Kujou Sara.
 4002006 : Une situation délicate - Rendez-vous au donjon pour enquêter.
 4002007 : Une situation délicate - Allez voir comment vont les soldats blessés.
@@ -16323,7 +16521,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4002302 : Voie du Taishou - [N/A] 2472661748
 4002401 : （test）逐月食材$HIDDEN - （test）食材$HIDDEN
 4002501 : Passé enneigé - Allez à l'atelier d'alchimie de Mondstadt.
-4002502 : Passé enneigé - Parlez avec tout le monde.
+4002502 : Passé enneigé - Parlez à tout le monde.
 4002503 : Passé enneigé - Allez à Dosdragon.
 4002504 : Passé enneigé - Parlez à Joël.
 4002505 : Passé enneigé - Retrouvez Amber dans les Monts Dosdragon.
@@ -16373,7 +16571,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4002706 : L'ombre s'épaissit - Attendez que la nuit tombe (18 h 00 - 06 h 00).
 4002707 : L'ombre s'épaissit - Parlez à Albedo.
 4002708 : L'ombre s'épaissit - Allumez le feu.
-4002709 : L'ombre s'épaissit - Parlez avec tout le monde.
+4002709 : L'ombre s'épaissit - Parlez à tout le monde.
 4002710 : L'ombre s'épaissit - Rendez-vous à l'endroit où peindre.
 4002711 : L'ombre s'épaissit - Commencez à peindre.
 4002712 : L'ombre s'épaissit - [CHS] - (test)废弃$HIDDEN
@@ -16385,15 +16583,15 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4002718 : L'ombre s'épaissit - [CHS] - (test)废弃$HIDDEN
 4002719 : L'ombre s'épaissit - [CHS] - (test)破碎石块$HIDDEN
 4002720 : L'ombre s'épaissit - [CHS] - (test)调整时间到9点$HIDDEN
-4002801 : L'ombre s'épaissit - Parlez avec tout le monde.
+4002801 : L'ombre s'épaissit - Parlez à tout le monde.
 4002802 : L'ombre s'épaissit - Quittez le campement.
 4002803 : L'ombre s'épaissit - Parlez à Eula et Amber.
 4002804 : L'ombre s'épaissit - Descendez la falaise pour retrouver vos compagnons.
 4002805 : L'ombre s'épaissit - [CHS] - 前往阿贝多的营地$HIDDEN
 4002806 : L'ombre s'épaissit - Cherchez Albedo.
-4002807 : L'ombre s'épaissit - Parlez avec tout le monde.
+4002807 : L'ombre s'épaissit - Parlez à tout le monde.
 4002808 : L'ombre s'épaissit - Descendez la montagne en compagnie d'Albedo.
-4002809 : L'ombre s'épaissit - Parlez avec tout le monde.
+4002809 : L'ombre s'épaissit - Parlez à tout le monde.
 4002810 : L'ombre s'épaissit - Parlez à Eula.
 4002811 : L'ombre s'épaissit - Éliminez le monstre.
 4002812 : L'ombre s'épaissit - Parlez à Albedo.
@@ -16411,7 +16609,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4002903 : Un secret né des cendres - Retournez au camp des aventuriers.
 4002904 : Un secret né des cendres - Parlez à Cyrus.
 4002905 : Un secret né des cendres - Allez à l'atelier d'alchimie de Mondstadt.
-4002906 : Un secret né des cendres - Parlez avec tout le monde.
+4002906 : Un secret né des cendres - Parlez à tout le monde.
 4003001 : [CHS] - (test)狗子隐藏任务$UNRELEASED$HIDDEN - [CHS] - (test)隐藏任务用于发放道具$UNRELEASED$HIDDEN
 4003101 : L'affaire du Bantan Sango : Le mystère de l'ombre noire - Rendez-vous à la Guilde des aventuriers d'Inazuma.
 4003102 : L'affaire du Bantan Sango : Le mystère de l'ombre noire - Rendez-vous à l'Agence de détectives Bantan Sango.
@@ -16672,7 +16870,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4005803 : Le palais sombre, teint de noir - Parlez à Kazuha.
 4005804 : Le palais sombre, teint de noir - Rendez-vous au Domaine Kamisato
 4005805 : Le palais sombre, teint de noir - Parlez à Ayaka.
-4005806 : Le palais sombre, teint de noir - Rendez-vous au quartier général de la Commission administrative.
+4005806 : Le palais sombre, teint de noir - Rendez-vous au QG de la Commission administrative.
 4005807 : Le palais sombre, teint de noir - Parlez à Kujou Sara.
 4005808 : Le palais sombre, teint de noir - Rendez-vous à l'entrepôt du Poste de police.
 4005809 : Le palais sombre, teint de noir - Entrez dans l'entrepôt du Poste de police.
@@ -17697,7 +17895,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 4141112 : Lettre de la brume - Vainquez les Pilleurs de trésors.
 4141113 : Lettre de la brume - Parlez à Barbara.
 4141114 : Lettre de la brume - Trouvez Nimrod à l'extérieur de la taverne.
-4141115 : Lettre de la brume - Rendez-vous au quartier général de l'Ordre de Favonius.
+4141115 : Lettre de la brume - Rendez-vous au QG de l'Ordre de Favonius.
 4141116 : Lettre de la brume - [CHS] - 击败盗宝团$HIDDEN
 4141201 : Royaume du brouillard et du vent - Rendez-vous à l'atelier d'alchimie.
 4141202 : Royaume du brouillard et du vent - Rendez-vous au camp au pied de la montagne.
@@ -18005,7 +18203,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 7011002 : [CHS] - 隐藏任务循环龙牙材料$HIDDEN - [CHS] - test2 永不能完成$HIDDEN
 7012101 : Royaume sous les neiges - [CHS] - (test)(隐藏)获得任意一个信物碎片$HIDDEN
 7012102 : Royaume sous les neiges - [CHS] - (test)(隐藏)与派蒙对话$HIDDEN
-7012103 : Royaume sous les neiges - Retournez au camp et questionnez l'érudit sur ces journaux.
+7012103 : Royaume sous les neiges - Retournez au camp et questionnez le chercheur sur ces journaux.
 7012104 : Royaume sous les neiges - [CHS] - (test)(隐藏)碎片收集进度记录$HIDDEN
 7012105 : Royaume sous les neiges - Recherchez des journaux dans le camp sur le versant ensoleillé.
 7012106 : Royaume sous les neiges - Recherchez des journaux dans la salle secrète.
@@ -19282,7 +19480,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 7150011 : Divine cuisine - 1 - Faites votre rapport à Souffle-Nuages.
 7150012 : Divine cuisine - 1 - (test)领取任务前置$HIDDEN
 7150101 : Une aventure boueuse bizarre - Allez parler à Catherine à la Guilde des aventuriers de Liyue.
-7150102 : Une aventure boueuse bizarre - Rendez-vous au camp minier pour chercher l'érudit sumérien.
+7150102 : Une aventure boueuse bizarre - Rendez-vous au camp minier pour chercher le chercheur sumérien.
 7150103 : Une aventure boueuse bizarre - Activez les Pointes de Pursina.
 7150104 : Une aventure boueuse bizarre - Parlez à Hussein.
 7150201 : Rapport sur l'auto-circulation des Pointes : Résumé - Parlez à Hussein.
@@ -19310,7 +19508,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 7155504 : Qui mettra la main sur le trésor ? - [CHS] - test火堆对话2$HIDDEN
 7155505 : Qui mettra la main sur le trésor ? - [CHS] - test痕迹对话3$HIDDEN
 7155506 : Qui mettra la main sur le trésor ? - [CHS] - 回滚隔离$HIDDEN
-7155507 : Qui mettra la main sur le trésor ? - Cherchez l'érudite disparue.
+7155507 : Qui mettra la main sur le trésor ? - Cherchez la chercheuse disparue.
 7155508 : Qui mettra la main sur le trésor ? - [CHS] - 解救考古学家-隐藏任务$HIDDEN
 7155509 : Qui mettra la main sur le trésor ? - Éliminez les Pilleurs de trésors et récupérez la clé.
 7155510 : Qui mettra la main sur le trésor ? - Parlez à Alrani.
@@ -19322,7 +19520,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 7155516 : Qui mettra la main sur le trésor ? - [CHS] - test痕迹对话3$HIDDEN
 7155517 : Qui mettra la main sur le trésor ? - [CHS] - 痕迹对话3$HIDDEN
 7155518 : Qui mettra la main sur le trésor ? - [CHS] - 派蒙总结$HIDDEN
-7155519 : Qui mettra la main sur le trésor ? - Cherchez l'érudite disparue.
+7155519 : Qui mettra la main sur le trésor ? - Cherchez la chercheuse disparue.
 7165001 : La belle affaire - Parlez à Mme Yu.
 7165002 : La belle affaire - [CHS] - 与小雨对话$HIDDEN
 7165101 : L'énigme demeure - Parlez à Catherine de Liyue.
@@ -19643,7 +19841,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 7182204 : L'érudite et la légende - Suivez la route de montagne.
 7182205 : L'érudite et la légende - Éliminez les Brutocollinus.
 7182206 : L'érudite et la légende - Parlez à Soraya.
-7182207 : L'érudite et la légende - [EN] - Defeat the hilichurls (hidden) $HIDDEN
+7182207 : L'érudite et la légende - [CHS] - 打倒丘丘人（隐藏）$HIDDEN
 7182208 : L'érudite et la légende - [N/A] 201980468
 7182301 : Tour floral - Allez explorer l'extérieur du Village de Qingce.
 7182302 : Tour floral - Parlez à Zhi.
@@ -23773,7 +23971,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 7902202 : [N/A] 0 - Cherchez la photo que la Suivante miroir a perdue.
 7902205 : [N/A] 0 - Rendez la montre de poche avec la photo à la Suivante miroir.
 7902206 : [N/A] 0 - Rendez-vous là où la Suivante miroir est partie.
-7902207 : [N/A] 0 - Ouvrez l'entrée de la grotte qui a été scellée par des épines.
+7902207 : [N/A] 0 - Nettoyez les épines autour de l'entrée.
 7902208 : [N/A] 0 - Entrez dans la grotte et parlez à Agafya.
 7902210 : [N/A] 0 - [N/A] 2260687964
 7902211 : [N/A] 0 - Recherchez des traces des membres de l'autre groupe.
@@ -23831,7 +24029,7 @@ setFetterLevel : Défini le niveau d'affinité de votre personnage actif
 7902520 : [N/A] 0 - Parlez à Mamesuke et Shibasuke.
 7902521 : [N/A] 0 - Vainquez les Pyroblobs.
 7902522 : [N/A] 0 - Parlez à Mamesuke et Shibasuke.
-7902523 : [N/A] 0 - Donnez un pistil de fleur enflammé à Shibasuke.
+7902523 : [N/A] 0 - Donnez un pistil de fleur enflammée à Shibasuke.
 7902524 : [N/A] 0 - [CHS] - (test)和豆助、柴助对话
 7902525 : [N/A] 0 - Changez les deux côtés du bonsaï en rocaille inflexible.
 7902526 : [N/A] 0 - Parlez à Mamesuke et Shibasuke.

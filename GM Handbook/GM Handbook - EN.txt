@@ -1,5 +1,5 @@
 // Grasscutter 3.0.0 GM Handbook
-// Created 2022/09/11 14:24:49
+// Created 2022/09/27 15:23:25
 
 // Commands
        account : Modify user accounts
@@ -420,7 +420,7 @@ setFetterLevel : Sets your fetter level for your current active character
   11508 : [N/A] 1664039091
   11509 : Mistsplitter Reforged
   11510 : Haran Geppaku Futsu
-  11511 : Key of Hierophany
+  11511 : Key of Khaj-Nisut
   12101 : Waster Greatsword
   12201 : Old Merc's Pal
   12301 : Ferrous Shadow
@@ -442,14 +442,14 @@ setFetterLevel : Sets your fetter level for your current active character
   12411 : Snow-Tombed Starsilver
   12412 : Luxurious Sea-Lord
   12414 : Katsuragikiri Nagamasa
-  12415 : Mahara Aquamarine
+  12415 : Makhaira Aquamarine
   12416 : Akuoumaru
   12417 : Forest Regalia
   12501 : Skyward Pride
   12502 : Wolf's Gravestone
   12503 : Song of Broken Pines
   12504 : The Unforged
-  12505 : [CHT] - 砥厄魚
+  12505 : Primordial Jade Greatsword
   12506 : The Other Side
   12508 : [N/A] 759708203
   12509 : [N/A] 2507837467
@@ -473,7 +473,7 @@ setFetterLevel : Sets your fetter level for your current active character
   13415 : "The Catch"
   13416 : Wavebreaker's Fin
   13417 : Moonpiercer
-  13419 : Shifting Windblade
+  13419 : Missive Windspear
   13501 : Staff of Homa
   13502 : Skyward Spine
   13503 : [N/A] 469555475
@@ -512,7 +512,7 @@ setFetterLevel : Sets your fetter level for your current active character
   14502 : Lost Prayer to the Sacred Winds
   14503 : Lost Ballade
   14504 : Memory of Dust
-  14505 : [CHT] - 定土玉圭
+  14505 : Primordial Jade Regalia
   14506 : Everlasting Moonglow
   14508 : [N/A] 4123950051
   14509 : Kagura's Verity
@@ -545,8 +545,8 @@ setFetterLevel : Sets your fetter level for your current active character
   15501 : Skyward Harp
   15502 : Amos' Bow
   15503 : Elegy for the End
-  15504 : [CHT] - 昆吾墜龍
-  15505 : [CHT] - 懸黎千鈞
+  15504 : Kunwu's Wyrmbane
+  15505 : Primordial Jade Vista
   15506 : Mirror Breaker
   15507 : Polar Star
   15508 : Aqua Simulacra
@@ -5001,7 +5001,7 @@ setFetterLevel : Sets your fetter level for your current active character
  100862 : The Honest Cat's Little Lie
  100863 : Literature Club
  100864 : Rust-Worn Key
- 100865 : [CHS] - 附有记忆的面具（废弃）
+ 100865 : Mask of Memories
  100866 : The Violet Oni's Blade
  100867 : The Crimson Oni's Blade
  100868 : Fortune Slip
@@ -5177,7 +5177,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101218 : Zaytun Peach
  101219 : Sumeru Rose
  101220 : Redcrest
- 101221 : Ajilenakh
+ 101221 : Ajilenakh Nut
  101225 : Scarab
  101226 : Activated Starshroom
  101227 : Scorched Starshroom
@@ -5581,7 +5581,7 @@ setFetterLevel : Sets your fetter level for your current active character
  101892 : Part: Meadow
  101893 : Forensic Office Research Log Excerpt
  101894 : Note of Unknown Origin
- 101895 : ？？？
+ 101895 : [CHS] - (test）钥匙
  101896 : Crystalline Core
  101897 : Crystalline Core
  101898 : Crystalline Core
@@ -5675,10 +5675,10 @@ setFetterLevel : Sets your fetter level for your current active character
  101986 : [CHS] - (test)黑乎乎的怪东西
  101987 : Golden Rose Seeds
  101988 : Transparent Ruins Record (I)
- 101989 : Record of Lamb-Eater Rock
- 101990 : Record of the Tomb of Full Flagons
+ 101989 : Record of Lamb-Devourer Rock
+ 101990 : Record of the Tomb of Carouses
  101991 : Soheil's Old Notes
- 101992 : Record of Aaru's Reflection
+ 101992 : Record of Aaru's Shut
  101993 : Twilight Theater Head's Notes
  101994 : Freshly-Picked Harra Fruit
  101995 : Unsigned Note
@@ -5686,7 +5686,6 @@ setFetterLevel : Sets your fetter level for your current active character
  101997 : Remelting Device
  101998 : Remelting Tablet
  101999 : Employer's Orders
- 102000 : Unknown Object With an Earthy Glow
  102001 : Pyro Shard
  102002 : Hydro Shard
  102003 : Dendro Shard
@@ -6251,9 +6250,9 @@ setFetterLevel : Sets your fetter level for your current active character
  108445 : Suspicious Milky Mushroom Crisp Tower
  108446 : Milky Mushroom Crisp Tower
  108447 : Delicious Milky Mushroom Crisp Tower
- 108448 : Suspicious Coconut Charcoal Cakes
- 108449 : Coconut Charcoal Cakes
- 108450 : Delicious Coconut Charcoal Cakes
+ 108448 : Suspicious Coconut Charcoal Cake
+ 108449 : Coconut Charcoal Cake
+ 108450 : Delicious Coconut Charcoal Cake
  108451 : Suspicious Baklava
  108452 : Baklava
  108453 : Delicious Baklava
@@ -6266,13 +6265,13 @@ setFetterLevel : Sets your fetter level for your current active character
  108460 : Suspicious Aaru Mixed Rice
  108461 : Aaru Mixed Rice
  108462 : Delicious Aaru Mixed Rice
- 108463 : ？？？
- 108464 : ？？？
- 108465 : ？？？
+ 108463 : Suspicious Fruits of the Festival
+ 108464 : Fruits of the Festival
+ 108465 : Delicious Fruits of the Festival
  108466 : Swirling Steps
  108467 : Duel Soul
  108468 : Utmost Care
- 108469 : ？？？
+ 108469 : Sparkling Berry Juice
  109000 : Recipe Item
  109101 : Recipe: Chicken-Mushroom Skewer
  109102 : Recipe: Fisherman's Toast
@@ -6401,12 +6400,12 @@ setFetterLevel : Sets your fetter level for your current active character
  109508 : Recipe: Meat Lovers' Mushroom Pizza
  109509 : Recipe: Sunset Berry Tea
  109510 : Recipe: Milky Mushroom Crisp Tower
- 109511 : Recipe: Charcoal-Baked Ajilenakh Cake
+ 109511 : Recipe: Coconut Charcoal Cake
  109512 : Recipe: Baklava
  109513 : Recipe: Candied Ajilenakh Nut
  109514 : Recipe: Padisarah Pudding
  109515 : Recipe: Aaru Mixed Rice
- 109516 : ？？？
+ 109516 : Recipe: Fruits of the Festival
  110000 : Crafted Items
  110001 : Flour
  110002 : Cream
@@ -6701,7 +6700,7 @@ setFetterLevel : Sets your fetter level for your current active character
  120028 : An Ode to Soul-Light
  120029 : Transparent Ruins Record (II)
  120030 : Transparent Ruins Record (III)
- 120031 : A Key
+ 120031 : Ancient Key
  120032 : Unsealed Parchment
  120033 : Guiding Parchment
  120034 : Whispering Parchment
@@ -6713,10 +6712,10 @@ setFetterLevel : Sets your fetter level for your current active character
  120040 : Sumeru Investigation Team's Note
  120041 : Dissection Records
  120042 : Ragged Attendance Record
- 120043 : ？？？
- 120044 : ？？？
- 120045 : ？？？
- 120046 : ？？？
+ 120043 : Purchased Goods
+ 120044 : Purchased Goods
+ 120045 : Purchased Goods
+ 120046 : Purchased Goods
  120047 : Medical Records
  120048 : Diagnostic Report
  120049 : Shevirme's Funds
@@ -6734,8 +6733,8 @@ setFetterLevel : Sets your fetter level for your current active character
  120061 : Nermin's Minty Bean Soup
  120062 : [CHS] - （test）内尔敏做的香水
  120063 : Future Star
- 120065 : Raef's Bag
- 120066 : Nermin's Spices
+ 120065 : Raef's Package
+ 120066 : Nermin's Perfume Ingredients
  120067 : Keystone (I)
  120068 : Torn Page: A Thousand Nights (I)
  120069 : Torn Page: A Thousand Nights (II)
@@ -6749,23 +6748,38 @@ setFetterLevel : Sets your fetter level for your current active character
  120077 : A Thousand Nights (IV)
  120078 : A Thousand Nights (V)
  120079 : A Thousand Nights (VI)
- 120080 : Samer's Missive
- 120081 : Samer's Missive
+ 120080 : Samail's Missive
+ 120081 : Samail's Missive
  120082 : Shevirme's Invoice
  120083 : Quqing's Invoice
  120084 : Guanchui's Invoice
- 120113 : ？？？
- 120114 : ？？？
- 120115 : ？？？
- 120116 : ？？？
+ 120113 : Cyno's Introduction Letter
+ 120114 : Ancient Map
+ 120115 : Auction Information
+ 120116 : Sealed Materials: The Court of Desolation
  120117 : Keystone (II)
  120118 : Azalai's Payment
  120119 : Rama's Receipt
  120120 : Butrus' Receipt
  120121 : Jut's Receipt
  120122 : Jahangir's Receipt
- 120123 : ？？？
+ 120123 : Limited Edition Desert Special Travel Pack
  120125 : [CHS] - （test）赛芭的蔷薇
+ 120126 : A Short Letter
+ 120128 : Vaguely-Readable Inscription
+ 120129 : Vaguely-Readable Inscription
+ 120130 : Vaguely-Readable Inscription
+ 120131 : Vaguely-Readable Inscription
+ 120132 : Vaguely-Readable Inscription
+ 120133 : Vaguely-Readable Inscription
+ 120134 : Vaguely-Readable Inscription
+ 120135 : Vaguely-Readable Inscription
+ 120136 : Vaguely-Readable Inscription
+ 120137 : Vaguely-Readable Inscription
+ 120138 : Akademiya Investigation Team's Report
+ 120139 : Akademiya Investigation Team's Report
+ 120140 : Sealed Orders
+ 120141 : Old Orders
  130001 : Silk Flower Seed
  130002 : Sweet Flower Seed
  130003 : Cecilia Seed
@@ -7131,9 +7145,9 @@ setFetterLevel : Sets your fetter level for your current active character
  210131 : Sumeru: Observance
  210132 : Sumeru: Unsullied
  210133 : Travel Notes: Returning Winds
- 210134 : ？？？
- 210135 : ？？？
- 210136 : ？？？
+ 210134 : Cyno: Silence
+ 210135 : Candace: Grey Heron
+ 210136 : Nilou: Lotus Dance
  210137 : Achievement: Seven Lights
  210138 : Sumeru: Sandtreader
  210139 : Achievement: Mirrored Dreams
@@ -7199,12 +7213,12 @@ setFetterLevel : Sets your fetter level for your current active character
  220064 : Banu's Wisdom
  220065 : Fishing Line Stabilizer
  220066 : Vintage Lyre
- 220067 : ？？？
+ 220067 : Jumpy Dumpty Party Popper
  220068 : [CHS] - (test)赤沙石板
  220069 : Scarlet Sand Slate
  220070 : "Bubbly Kamera"
  220071 : "Kusava"
- 220074 : ？？？
+ 220074 : Cloud Retainer's Damasked Device
  221001 : Instructions: Anemoculus Resonance Stone
  221002 : Instructions: Geoculus Resonance Stone
  221003 : Diagram: Geo Treasure Compass
@@ -7317,14 +7331,14 @@ setFetterLevel : Sets your fetter level for your current active character
  350057 : A Thousand Swings
  350058 : Scholarly Trove
  350059 : Of Maple and Tea Scents Entwined
- 360001 : [CHS] - (test)墙面1
- 360002 : [CHS] - (test)墙面2
- 360003 : [CHS] - (test)地板1
- 360004 : [CHS] - (test)地板2
- 360005 : [CHS] - (test)天花板1
- 360006 : [CHS] - (test)天花板2
- 360007 : [CHS] - (test)吊灯1
- 360008 : [CHS] - (test)吊灯2
+ 360001 : Wall 1
+ 360002 : Wall 2
+ 360003 : Floor 1
+ 360004 : Floor 2
+ 360005 : Ceiling 1
+ 360006 : Ceiling 2
+ 360007 : Ceiling Lamp 1
+ 360008 : Ceiling Lamp 2
  360101 : Timber Wall With Jade Eaves
  360102 : Dark Wood Arch Wall
  360103 : Maple Wood Vaulted Wall
@@ -7352,12 +7366,17 @@ setFetterLevel : Sets your fetter level for your current active character
  360416 : Rainbow Lights: At Dawn We Celebrate
  360417 : Countless Homes Light Up the Moon
  360418 : Stoneworks Lamp: Deeping-Gloom Candle
+ 360419 : Slumbering Dewlight
+ 360420 : Dripping Verdant Light
+ 360421 : Deepwood Illumination
  361101 : Northern Birch Folding Counter
  361102 : Open-Top Fir Shelf
  361103 : Fir Case Shelf Combination
  361104 : Classic Fir Cabinet
  361105 : Large Birch Wardrobe
  361106 : Gold-Lined Sandbearer Wardrobe
+ 361107 : Plain Brightwood Shelf
+ 361108 : Desert Desk: Hospitality
  361201 : Two-Tier Library Bookshelf
  361202 : Exquisite Cuihua Bookshelf
  361203 : Economy Cuihua Bookshelf
@@ -7368,6 +7387,7 @@ setFetterLevel : Sets your fetter level for your current active character
  361208 : Shopkeeper's Cedar Shelf
  361209 : Maple Wood Bookcase: Inkheart
  361210 : Maple Wood Bookcase: Trove of a Thousand Tomes
+ 361212 : Desert Cabinet: Odds and Ends
  361301 : Sturdy Library Table
  361302 : Favonius Office Table
  361303 : Favonius Conference Table
@@ -7383,11 +7403,16 @@ setFetterLevel : Sets your fetter level for your current active character
  361314 : Yumemiru "Cold and Warmth" Kotatsu
  361315 : "Sekijou" Aralia Tea Table
  361316 : Teahouse Long Table: Seamless Seating
+ 361317 : Brightwood Pottery Worktable
+ 361318 : Long Athelwood Table
  361401 : Breeze-Blessed Bed
  361402 : Cloudy Haze Bed
  361403 : Yumemiru "Sakura's Rest" Bed
  361501 : Pine Reception Counter
  361502 : Teahouse Counter: "Toshimaru"
+ 361503 : Desert Stone Platform: Sturdy
+ 361504 : Desert Fireplace: Warmth
+ 361505 : Desert Study: Conscientiousness
  362101 : Soft Lounge Sofa
  362102 : "Clear Blue Afternoon"
  362103 : "Unwavering Determination"
@@ -7414,16 +7439,33 @@ setFetterLevel : Sets your fetter level for your current active character
  362217 : Euphonium Unbound: Winding
  362218 : Festive Fragrance: Goods Piled High
  362219 : Festive Fragrance: Of Gold and Jade
+ 362220 : "Master Chef's Summertime Banquet"
+ 362221 : Hued Vase: Cerulean
+ 362222 : Hued Vase: Malachite
+ 362223 : Hued Vase: Amber
+ 362224 : Plain Vase: Bronze
+ 362225 : Plain Vase: Tawny
+ 362226 : Plain Vase: Ocher
+ 362227 : Plain Vase: Sepia
+ 362228 : Hued Vase: Seashell
+ 362229 : Hued Vase: Dark Rock
+ 362231 : Amidst the Fleeing Smoke
  362301 : Mondstadt Rug: Crimson Ardor
  362302 : Mondstadt Rug: Tireless Search
  362303 : Tavern Rug: Home Away From Home
  362304 : Entrance Rug: A Warm Welcome
+ 362305 : Glorious Emerald Tapestry
+ 362306 : Dazzling Golden Tapestry
+ 362307 : Musing Tawny Tapestry
+ 362308 : Sun-Scorched Solemnity
+ 362309 : The Olive Grove
  363101 : Trusty Portable Lamp
  363102 : Liuli Pavilion Sandbearer Floor Lamp
  363103 : Tianyuan Lantern: Fragrant Brilliance
  363104 : Seashell Table Lamp
  363105 : Flash of Glory
  363106 : Tranquil Starlight
+ 363107 : Desert Lamp: Lingering Light
  363201 : Flower Arrangement: Baby Blue Tranquility
  363202 : Potted Plant: Crystalline Breeze
  363203 : Flower Arrangement: Sprawling Daybreak
@@ -7454,6 +7496,16 @@ setFetterLevel : Sets your fetter level for your current active character
  363320 : Tavern Shaker: Grumous Oscillation
  363321 : A Mask
  363322 : Cosmos Within
+ 363323 : Cauldron of Herbs
+ 363324 : Viparyas
+ 363325 : A Lush Glimpse
+ 363326 : Jubilant Posture
+ 363327 : Songs Amongst the Stones
+ 363328 : Miniature Zubayr Theater
+ 363329 : The General Mahamatra on Duty
+ 363330 : The Mellow Pot
+ 363331 : The Crisp Sweetness
+ 363332 : The Twisting Mist
  364101 : Landscape Painting: Country Home
  364102 : Landscape Painting: Distant Clouds
  364103 : Landscape Painting: Nameless Precipice
@@ -7476,6 +7528,9 @@ setFetterLevel : Sets your fetter level for your current active character
  364210 : Mounted Noticeboard
  364211 : Embroidered Curtains
  364212 : A Dragon's Wondrous Sight
+ 364213 : Athelwood Metal Buckler
+ 364214 : Desert Wall-Drapes: Sunset
+ 364215 : Desert Wall-Drapes: Flaming Feathers
  364301 : Fragrant Cedar Door
  364302 : Favonius Fir Door
  364303 : Estate Maple Doorway
@@ -7557,6 +7612,12 @@ setFetterLevel : Sets your fetter level for your current active character
  368149 : Yelan
  368150 : Kuki Shinobu
  368151 : Shikanoin Heizou
+ 368152 : Tighnari
+ 368153 : Collei
+ 368154 : Dori
+ 368155 : Nilou
+ 368156 : Cyno
+ 368157 : Candace
  369101 : Jade-Eyed Cat
  369102 : Northland Hound
  369103 : Forest Boar
@@ -7614,6 +7675,17 @@ setFetterLevel : Sets your fetter level for your current active character
  369155 : Coral Butterfly
  369156 : Lucklight Fly
  369157 : Bluethunder Weasel
+ 369158 : Dendro Crystalfly
+ 369159 : Forest Tree Frog
+ 369160 : Red Tailed Lizard
+ 369161 : Puny Shroomboar
+ 369162 : Shroomboar
+ 369163 : Dusk Bird
+ 369164 : Sacred Ibis
+ 369165 : Masked Weasel
+ 369166 : Scarab
+ 369167 : Quicksand Unagi
+ 369168 : Desert Fox
  370101 : Straw Hut
  370102 : Straw Depot
  370103 : Liyue House: Solitary Retreat
@@ -7648,6 +7720,17 @@ setFetterLevel : Sets your fetter level for your current active character
  370308 : "Four-Quadrant Cooking Cauldron"
  370309 : Fruit and Veggie Stall: Harvest Bounties
  370310 : Otogi Wood Ramen Stand
+ 370311 : Woven Depth
+ 370312 : Woven Length
+ 370313 : Woven Fruition
+ 370314 : Sweetness in Exchange
+ 370315 : Sweetness in the Shade
+ 370316 : Sweetness in Storage
+ 370317 : Fisherman's Dealings
+ 370318 : Fisherman's Preservation Trick
+ 370319 : Fisherman's Maintenance
+ 370320 : Brightwood Grocery Stall
+ 370321 : Brightwood Kebab Cart
  370401 : Hilichurl Outpost Hut
  370402 : Hilichurl Chieftain Hall
  370501 : "Clouds East of Bishui"
@@ -7696,6 +7779,17 @@ setFetterLevel : Sets your fetter level for your current active character
  370628 : Inazuman Home: Watatsumi Reminiscence
  370629 : Inazuman Home: House of Coral
  370630 : Inazuman Home: Stormhouse
+ 370700 : Woodland Stand
+ 370701 : Deepwood Dweller's Deliberation
+ 370702 : Deepwood Dweller's Estimation
+ 370703 : Deepwood Dweller's Lonesome
+ 370704 : Deepwood Dweller's Perseverance
+ 370705 : Desert House: Ordinary Lives
+ 370706 : Desert House: Spices Abound
+ 370707 : Desert House: Hue and Cry
+ 370708 : Desert House: Brief Sleep
+ 370709 : Desert House: Hidden Light
+ 370710 : Desert House: Save and Store
  371101 : Bird and Blossom Design Fountain
  371102 : Hilichurl Spiral Watchtower
  371103 : Hilichurl Straw Hut
@@ -7712,6 +7806,10 @@ setFetterLevel : Sets your fetter level for your current active character
  371118 : Sub-Space Cabochon: In Soaring Flight
  371119 : Stoneworks Crane: Mountain Mover
  371120 : Stoneworks Crane: Hill Tamer
+ 371122 : Desert Hut: Minutiae
+ 371123 : Desert Hut: Questions
+ 371124 : Desert Hut: Wilting
+ 371125 : Desert Hut: Rest
  371201 : Adeptus Gate
  371202 : Birch Main Courtyard Gate
  371203 : Carved Courtyard Fence Ending
@@ -7745,6 +7843,12 @@ setFetterLevel : Sets your fetter level for your current active character
  371231 : Of Fields Green: Border of Dreams
  371232 : Of Fields Green: Starflower Fence
  371233 : Of Fields Green: Smoky Labyrinth
+ 371234 : "Gate of Phantasm"
+ 371235 : Fisherman's Fence
+ 371236 : "No Fishing Ahead"
+ 371237 : Desert Stone Steps: Climbing
+ 371238 : Desert Wall: Surprise Attack
+ 371239 : Desert Wall: Stalwart Defense
  372101 : Sub-Space Boulder: Craggy Canopy
  372102 : Sub-Space Boulder: Rocky Bulwark
  372103 : Sub-Space Boulder: Verdant Peak
@@ -7752,6 +7856,8 @@ setFetterLevel : Sets your fetter level for your current active character
  372105 : Sub-Space Boulder: Palace Steps
  372106 : Sub-Space Boulder: Refined Beauty
  372107 : Foundations of Stone: Fortunate Times
+ 372108 : Sub-Space Boulder: Desert Wastes
+ 372109 : Sub-Space Boulder: Gravel
  372201 : Hiding Grazestone
  372202 : Recreation Stone
  372203 : Unmoving Kingstone
@@ -7779,6 +7885,8 @@ setFetterLevel : Sets your fetter level for your current active character
  372225 : Meditation Stone
  372226 : Wading Stones
  372227 : Hot Spring Whitestone: Secret Fire
+ 372228 : Disk-Patterned Terracotta
+ 372229 : Painted Oblique Stone
  372301 : "The Color of the Wind"
  372302 : Silversand Coconut Tree
  372303 : Whitesand Coconut Tree
@@ -7860,6 +7968,26 @@ setFetterLevel : Sets your fetter level for your current active character
  372446 : Evernight Blazeshrub
  372447 : Mauve Shiverstroke Shroom
  372448 : Mauve Lute's-Edge Shroom
+ 372449 : Scarlet Swayshroom
+ 372450 : Brown Treeshroom
+ 372451 : Withered Buttershroom
+ 372452 : Sandy Domeshroom
+ 372453 : Umbrella of Calm
+ 372454 : The Belying Toughness
+ 372455 : Like an Omen of Daybreak
+ 372456 : Like the Dangling White Stars
+ 372457 : Like the Moon's Shattered Shards
+ 372458 : Like the Encircling Eventide
+ 372459 : The Hidden Sweetness
+ 372460 : The Concealed Salt
+ 372461 : Chilling Sand Grilling
+ 372462 : The Fragrant Branches Asleep
+ 372463 : The Leaf Veins, Supple and Subtle
+ 372464 : Like the Shimmering Distant Stars
+ 372465 : Colors in the Water Roiling
+ 372466 : Letters in the Sands Half-Buried
+ 372467 : Like the Blistering Sunlight
+ 372468 : No Jumping, No Tramping
  372501 : A Path of Value: Jade Field
  372502 : A Path of Value: Luxuriant Glebe
  372503 : A Path of Value: Orderly Meadow
@@ -7868,7 +7996,7 @@ setFetterLevel : Sets your fetter level for your current active character
  372603 : Sub-Space Boulder: Seat of Mist
  372604 : Sub-Space Boulder: Floating Precipice
  372605 : Sub-Space Cabochon: Up, Up and Away
- 373100 : [CHS] - (test)测试用烧烤炉
+ 373100 : Test Grill
  373101 : Messy Pile of Fir Crates
  373102 : Neat Stack of Fir Kegs
  373103 : Heavy Hay Bale
@@ -7910,6 +8038,11 @@ setFetterLevel : Sets your fetter level for your current active character
  373139 : Pear Orchard Snare Drum: A Quartet Chorus
  373140 : Pear Orchard Percussion: Gong on the Dot
  373141 : Allegro Bloom: Special Tuning
+ 373142 : Fisherman's Catch
+ 373143 : Fisherman's Delicacy
+ 373144 : Fisherman's Storage Solution
+ 373145 : Fisherman's Efforts
+ 373146 : Fisherman's Clemency
  373201 : Potted Plant: Verdant Vastness
  373202 : Water-Retaining Flower Beds
  373203 : Soil-Carrying Wooden Barrel
@@ -7972,6 +8105,12 @@ setFetterLevel : Sets your fetter level for your current active character
  373352 : Dodoco's Beach Nap
  373353 : Dodoco's Collection Cupboard
  373354 : Dodoco's Sunshade Umbrella
+ 373355 : Fisherman's Craftsmanship
+ 373356 : The Essentials
+ 373357 : The Eremites' Flame of Vigor
+ 373358 : Embodiment of Warfare
+ 373359 : Steel Stopper
+ 373360 : The Eremites' Odyssey
  373401 : Wrought Iron Carved Street Light
  373402 : Pine Street Light
  373403 : Evil-Repelling Lantern: All-Around Lighting
@@ -7990,6 +8129,7 @@ setFetterLevel : Sets your fetter level for your current active character
  373416 : Aralia "Renzou" Street Lamp
  373501 : Sub-Space Waypoint
  373601 : Pool of Sapphire Grace
+ 373602 : Shaded Clarity
  373701 : Flower Stand: Of Yore
  373702 : Flower Stand: Fleeting Life
  373703 : Flower Stand: Windsong
@@ -8071,6 +8211,42 @@ setFetterLevel : Sets your fetter level for your current active character
  374026 : Snowman Nose: Lying Carrot
  374027 : Snowman Nose: Touch Me!
  374028 : Snowman Nose: Apple Bomb
+ 374031 : Wooden Torso: Swagger
+ 374032 : Wooden Torso: Cozy Rest
+ 374033 : Wooden Torso: Tiger's Roar
+ 374034 : Wooden Torso: Wise Elder
+ 374035 : Pink Torso: Swagger
+ 374036 : Pink Torso: Cozy Rest
+ 374037 : Pink Torso: Tiger's Roar
+ 374038 : Pink Torso: Wise Elder
+ 374039 : Blue Torso: Swagger
+ 374040 : Blue Torso: Cozy Rest
+ 374041 : Blue Torso: Tiger's Roar
+ 374042 : Blue Torso: Wise Elder
+ 374051 : Wooden Head: Ho Ho
+ 374052 : Wooden Head: Hehe
+ 374053 : Wooden Head: Hmph
+ 374054 : Wooden Head: Boohoo
+ 374055 : Pink Head: Ho Ho
+ 374056 : Pink Head: Hehe
+ 374057 : Pink Head: Hmph
+ 374058 : Pink Head: Boohoo
+ 374059 : Blue Head: Ho Ho
+ 374060 : Blue Head: Hehe
+ 374061 : Blue Head: Hmph
+ 374062 : Blue Head: Boohoo
+ 374071 : Wood-Carved Eyes: I'm All Ears
+ 374072 : Wood-Carved Eyes: How May I Help You
+ 374073 : Wood-Carved Eyes: Say That Again, I Dare You
+ 374074 : Wood-Carved Eyes: I Don't Get It
+ 374081 : Wood-Carved Hat: Merchant
+ 374082 : Wood-Carved Hat: Forest Dwellers
+ 374083 : Wood-Carved Hat: Diviner
+ 374084 : Wood-Carved Hat: Slacker
+ 374085 : Wood-Carved Hat: Fareweller
+ 374091 : Wood-Carved Cape: Forest Guardian
+ 374092 : Wood-Carved Cape: Polymath
+ 374093 : Wood-Carved Cape: Singer
  374101 : Weathered Bamboo Fence
  374102 : Sturdy Pine Fence
  374103 : Wooden Hilichurl Fence
@@ -8114,6 +8290,22 @@ setFetterLevel : Sets your fetter level for your current active character
  374503 : Foundations of Stone: Double-Time
  374504 : Of Fields Green: Cookie Road
  374505 : Foundations of Stone: Grand Design
+ 374700 : Favonian Goodies
+ 374701 : Shop Frame: Valberry Red
+ 374702 : Shop Frame: Dandelion Green
+ 374703 : Shop Frame: Cider Lake Blue
+ 374704 : Landscape Accessory: Appropriately Sweetened
+ 374705 : Landscape Accessory: Surprise Gift
+ 374706 : Landscape Accessory: Bright Aroma
+ 374707 : Shop Ornament: Visible Flavor
+ 374708 : Shop Ornament: Orderly Queue
+ 374709 : Shop Ornament: Birdie the Waiter
+ 374710 : Shop Ornament: Just One Bite
+ 374711 : Shop Ornament: A Basket of Scents
+ 374712 : Shop Ornament: Welcome, Welcome!
+ 374713 : Storefront Furnishing: Please, Enjoy Your Meal
+ 374714 : Storefront Furnishing: Super Special Prices
+ 374715 : Storefront Furnishing: A Powerful Fragrance
  375101 : Mondstadt Mansion: Windward Manor
  375103 : Inazuman Walled House: Refined Estate
  376101 : Leisure Device: Rhythmic Sprinter
@@ -8181,6 +8373,12 @@ setFetterLevel : Sets your fetter level for your current active character
  379021 : Bitter Pufferfish
  379022 : Divda Ray
  379023 : Formalo Ray
+ 379024 : True Fruit Angler
+ 379025 : Peach of the Deep Waves
+ 379026 : Sandstorm Angler
+ 379027 : Sunset Cloud Angler
+ 379028 : Lazurite Axe Marlin
+ 379029 : Halcyon Jade Axe Marlin
  380101 : Timber Wall With Jade Eaves
  380102 : Dark Wood Arch Wall
  380103 : Maple Wood Vaulted Wall
@@ -8217,7 +8415,7 @@ setFetterLevel : Sets your fetter level for your current active character
  381105 : Large Birch Wardrobe
  381106 : Gold-Lined Sandbearer Wardrobe
  381107 : Plain Brightwood Shelf
- 381108 : [CHS] - test阿如村室内柜子1
+ 381108 : Desert Desk: Hospitality
  381201 : Two-Tier Library Bookshelf
  381202 : Exquisite Cuihua Bookshelf
  381203 : Economy Cuihua Bookshelf
@@ -8228,7 +8426,7 @@ setFetterLevel : Sets your fetter level for your current active character
  381208 : Shopkeeper's Cedar Shelf
  381209 : Maple Wood Bookcase: Inkheart
  381210 : Maple Wood Bookcase: Trove of a Thousand Tomes
- 381212 : [CHS] - test阿如村室内书柜1
+ 381212 : Desert Cabinet: Odds and Ends
  381301 : Sturdy Library Table
  381302 : Favonius Office Table
  381303 : Favonius Conference Table
@@ -8245,15 +8443,15 @@ setFetterLevel : Sets your fetter level for your current active character
  381315 : "Sekijou" Aralia Tea Table
  381316 : Teahouse Long Table: Seamless Seating
  381317 : Brightwood Pottery Worktable
- 381318 : [CHS] - test阿如村室内桌子1
+ 381318 : Long Athelwood Table
  381401 : Breeze-Blessed Bed
  381402 : Cloudy Haze Bed
  381403 : Yumemiru "Sakura's Rest" Bed
  381501 : Pine Reception Counter
  381502 : Teahouse Counter: "Toshimaru"
- 381503 : [CHS] - test阿如村室内厨台
- 381504 : [CHS] - test阿如村室内火炉1
- 381505 : [CHS] - test阿如村室内木阶梯1
+ 381503 : Desert Stone Platform: Sturdy
+ 381504 : Desert Fireplace: Warmth
+ 381505 : Desert Study: Conscientiousness
  382101 : Soft Lounge Sofa
  382102 : "Clear Blue Afternoon"
  382103 : "Unwavering Determination"
@@ -8286,9 +8484,9 @@ setFetterLevel : Sets your fetter level for your current active character
  382225 : Plain Vase: Tawny
  382226 : Plain Vase: Ocher
  382227 : Plain Vase: Sepia
- 382228 : [CHS] - test阿如村室内陶罐1
- 382229 : [CHS] - test阿如村室内陶罐2
- 382231 : [CHS] - test须弥室内香炉bp用
+ 382228 : Hued Vase: Seashell
+ 382229 : Hued Vase: Dark Rock
+ 382231 : Amidst the Fleeing Smoke
  382301 : Mondstadt Rug: Crimson Ardor
  382302 : Mondstadt Rug: Tireless Search
  382303 : Tavern Rug: Home Away From Home
@@ -8296,14 +8494,14 @@ setFetterLevel : Sets your fetter level for your current active character
  382305 : Glorious Emerald Tapestry
  382306 : Dazzling Golden Tapestry
  382307 : Musing Tawny Tapestry
- 382308 : [CHS] - test阿如村室内地毯1
- 382309 : [CHS] - test通用室内地毯4
+ 382308 : Sun-Scorched Solemnity
+ 382309 : The Olive Grove
  383101 : Trusty Portable Lamp
  383102 : Liuli Pavilion Sandbearer Floor Lamp
  383103 : Tianyuan Lantern: Fragrant Brilliance
  383104 : Seashell Table Lamp
  383106 : Tranquil Starlight
- 383107 : [CHS] - test阿如村室内地灯1
+ 383107 : Desert Lamp: Lingering Light
  383201 : Flower Arrangement: Baby Blue Tranquility
  383202 : Potted Plant: Crystalline Breeze
  383203 : Flower Arrangement: Sprawling Daybreak
@@ -8332,9 +8530,9 @@ setFetterLevel : Sets your fetter level for your current active character
  383322 : Cosmos Within
  383325 : A Lush Glimpse
  383326 : Jubilant Posture
- 383330 : [CHS] - test阿如村室内茶具套装
- 383331 : [CHS] - test阿如村室内桌面摆件
- 383332 : [CHS] - test阿如村室内桌面香炉
+ 383330 : The Mellow Pot
+ 383331 : The Crisp Sweetness
+ 383332 : The Twisting Mist
  384101 : Landscape Painting: Country Home
  384102 : Landscape Painting: Distant Clouds
  384103 : Landscape Painting: Nameless Precipice
@@ -8356,9 +8554,9 @@ setFetterLevel : Sets your fetter level for your current active character
  384209 : Mounted Record Board
  384210 : Mounted Noticeboard
  384211 : Embroidered Curtains
- 384213 : [CHS] - test须弥盾牌墙面挂饰
- 384214 : [CHS] - test阿如村室内墙面布帘1
- 384215 : [CHS] - test阿如村室内墙面装饰1
+ 384213 : Athelwood Metal Buckler
+ 384214 : Desert Wall-Drapes: Sunset
+ 384215 : Desert Wall-Drapes: Flaming Feathers
  384501 : Lingering Moment
  390101 : Straw Hut
  390102 : Straw Depot
@@ -8457,12 +8655,12 @@ setFetterLevel : Sets your fetter level for your current active character
  390702 : Deepwood Dweller's Estimation
  390703 : Deepwood Dweller's Lonesome
  390704 : Deepwood Dweller's Perseverance
- 390705 : [CHS] - test阿如村建筑1
- 390706 : [CHS] - test阿如村建筑2
- 390707 : [CHS] - test阿如村建筑3
- 390708 : [CHS] - test阿如村建筑4
- 390709 : [CHS] - test阿如村建筑5
- 390710 : [CHS] - test阿如村建筑6
+ 390705 : Desert House: Ordinary Lives
+ 390706 : Desert House: Spices Abound
+ 390707 : Desert House: Hue and Cry
+ 390708 : Desert House: Brief Sleep
+ 390709 : Desert House: Hidden Light
+ 390710 : Desert House: Save and Store
  391101 : Bird and Blossom Design Fountain
  391102 : Hilichurl Spiral Watchtower
  391103 : Hilichurl Straw Hut
@@ -8479,10 +8677,10 @@ setFetterLevel : Sets your fetter level for your current active character
  391118 : Sub-Space Cabochon: In Soaring Flight
  391119 : Stoneworks Crane: Mountain Mover
  391120 : Stoneworks Crane: Hill Tamer
- 391122 : [CHS] - test阿如村棚子1
- 391123 : [CHS] - test阿如村棚子2
- 391124 : [CHS] - test阿如村棚子3
- 391125 : [CHS] - test阿如村棚子4
+ 391122 : Desert Hut: Minutiae
+ 391123 : Desert Hut: Questions
+ 391124 : Desert Hut: Wilting
+ 391125 : Desert Hut: Rest
  391201 : Adeptus Gate
  391202 : Birch Main Courtyard Gate
  391203 : Carved Courtyard Fence Ending
@@ -8515,9 +8713,9 @@ setFetterLevel : Sets your fetter level for your current active character
  391230 : Hot Spring Foyer: Shelter from the Cold
  391235 : Fisherman's Fence
  391236 : "No Fishing Ahead"
- 391237 : [CHS] - test阿如村楼梯
- 391238 : [CHS] - test阿如村围墙墙体长
- 391239 : [CHS] - test阿如村围墙墙体短
+ 391237 : Desert Stone Steps: Climbing
+ 391238 : Desert Wall: Surprise Attack
+ 391239 : Desert Wall: Stalwart Defense
  392107 : Foundations of Stone: Fortunate Times
  393101 : Messy Pile of Fir Crates
  393102 : Neat Stack of Fir Kegs
@@ -8729,8 +8927,8 @@ setFetterLevel : Sets your fetter level for your current active character
 20040301 : Geo Hypostasis: Gimel
 20040302 : (Event) Geo Hypostasis - Gimel
 20040401 : Hydro Hypostasis
-20040501 : [CHT] - 無相之冰 塔勒特
-20040601 : [CHT] - 無相之火 亞因
+20040501 : Cryo Hypostasis - Daleth
+20040601 : Pyro Hypostasis: Ayin
 20050101 : Oceanid
 20050102 : Oceanid (Main Body)
 20050201 : Oceanid Boar
@@ -8744,7 +8942,7 @@ setFetterLevel : Sets your fetter level for your current active character
 20050501 : Oceanid Finch
 20050502 : [N/A] 3170658753
 20050601 : Oceanid Mallard
-20050602 : [CHT] - 純水之鴨(陸地行走版）
+20050602 : Oceanid Mallard (Landwalker Version)
 20050603 : [N/A] 3202330985
 20050701 : Oceanid Ferret
 20050702 : Oceanid Ferret (Enhanced)
@@ -8752,14 +8950,14 @@ setFetterLevel : Sets your fetter level for your current active character
 20050801 : Oceanid Frog
 20050802 : [N/A] 1075324793
 20050901 : Oceanid Raptor
-20060101 : [CHT] - 水飄浮靈
-20060201 : [CHT] - 岩飄浮靈
-20060301 : [CHT] - 風飄浮靈
+20060101 : Hydro Specter
+20060201 : Geo Specter
+20060301 : Anemo Specter
 20060401 : [N/A] 1122658065
 20060501 : [N/A] 2166448969
 20060601 : [N/A] 887526489
 20060701 : [N/A] 586909705
-20070101 : [CHT] - 雷音權現
+20070101 : Thunder Manifestation
 21010101 : Hilichurl
 21010102 : Hilichurl (Mechanicus)
 21010201 : Hilichurl Fighter
@@ -8780,13 +8978,13 @@ setFetterLevel : Sets your fetter level for your current active character
 21011201 : Rock Shield Hilichurl Guard
 21011202 : Rock Shield Hilichurl Guard (Mechanicus)
 21011301 : Cryo Hilichurl Grenadier
-21011302 : [CHT] - 冰彈丘丘人-強攻強化
+21011302 : Cryo Hilichurl Grenadier - Enhanced Attack
 21011401 : Ice Shield Hilichurl Guard
 21011402 : Ice Shield Hilichurl Guard (Mechanicus)
-21011403 : [JP] - ヒルチャール·氷盾-雪山イベント
+21011403 : Ice Shield Hilichurl Guard: Dragonspine Event
 21011501 : Unusual Unarmed Hilichurl
-21011601 : [CHT] - 雷彈丘丘人
-21011602 : [CHT] - 雷彈丘丘人-強攻強化
+21011601 : Electro Hilichurl Grenadier
+21011602 : Electro Hilichurl Grenadier - Enhanced Attack
 21020101 : Wooden Shieldwall Mitachurl
 21020102 : Wooden Shieldwall Mitachurl (Mechanicus)
 21020201 : Blazing Axe Mitachurl
@@ -8800,11 +8998,11 @@ setFetterLevel : Sets your fetter level for your current active character
 21020502 : Stonehide Lawachurl (Mechanicus)
 21020601 : Ice Shieldwall Mitachurl
 21020602 : Ice Shieldwall Mitachurl (Mechanicus)
-21020701 : [CHT] - 雷斧丘丘暴徒
-21020702 : [CHT] - 雷斧丘丘暴徒（塔防）
-21020703 : [CHT] - 雷斧丘丘暴徒-強攻強化
-21020801 : [CHT] - 丘丘雷兜王
-21020802 : [CHT] - 丘丘雷兜王（塔防）
+21020701 : Crackling Axe Mitachurl
+21020702 : Crackling Axe Mitachurl (Mechanicus)
+21020703 : Crackling Axe Mitachurl - Enhanced Attack
+21020801 : Thunderhelm Lawachurl
+21020802 : Thunderhelm Lawachurl (Mechanicus)
 21030101 : Hydro Samachurl
 21030102 : Hydro Samachurl (Mechanicus)
 21030103 : Test_Movement Healing Hydro Samachurl
@@ -8820,9 +9018,9 @@ setFetterLevel : Sets your fetter level for your current active character
 21030403 : Geo Samachurl (Mechanicus)
 21030501 : Cryo Samachurl
 21030502 : Cryo Samachurl (Mechanicus)
-21030601 : [CHT] - 雷丘丘薩滿
-21030602 : [CHT] - 雷丘丘薩滿（塔防）
-21030603 : [CHT] - 雷丘丘薩滿-支援強化
+21030601 : Electro Samachurl
+21030602 : Electro Samachurl (Mechanicus)
+21030603 : Electro Samachurl - Enhanced Support
 22010101 : Pyro Abyss Mage
 22010102 : Test_Shield-Enhanced Pyro Abyss Mage
 22010103 : Test_Teleport-Enhanced Pyro Abyss Mage
@@ -8838,23 +9036,23 @@ setFetterLevel : Sets your fetter level for your current active character
 22010303 : Test_Teleport-Enhanced Hydro Abyss Mage
 22010304 : Test_Attacking-Enhanced Hydro Abyss Mage
 22010305 : Hydro Abyss Mage (Mechanicus)
-22010401 : [CHT] - 雷深淵法師
-22010402 : [CHT] - 雷深淵法師（塔防）
-22010403 : [CHT] - 雷深淵法師-防護強化
-22010404 : [CHT] - 雷深淵法師-強攻強化
+22010401 : Electro Abyss Mage
+22010402 : Electro Abyss Mage (Mechanicus)
+22010403 : Electro Abyss Mage - Enhanced Shield
+22010404 : Electro Abyss Mage - Enhanced Attack
 22020101 : Abyss Herald: Wicked Torrents (Disappearing)
-22020102 : [CHT] - 深淵使徒·激流（常駐）
+22020102 : Abyss Herald: Wicked Torrents (Permanent)
 22020103 : [N/A] 3179556369
 22030101 : Abyss Lector: Violet Lightning (Disappearing)
-22030102 : [CHT] - 深淵詠者·紫電（常駐）
+22030102 : Abyss Lector: Violet Lightning (Permanent)
 22030103 : [N/A] 577563505
 22030201 : [N/A] 2617375089
 22030202 : [N/A] 1076558185
-22040101 : [CHT] - 嗜岩·獸境幼獸
-22040201 : [CHT] - 嗜雷·獸境幼獸
-22050101 : [CHT] - 嗜岩·獸境獵犬
-22050201 : [CHT] - 嗜雷·獸境獵犬
-22060101 : [JP] - 黄金王獣
+22040101 : Rockfond Rifthound Whelp
+22040201 : Thundercraven Rifthound Whelp
+22050101 : Rockfond Rifthound
+22050201 : Thundercraven Rifthound
+22060101 : Golden Wolflord
 22070101 : [N/A] 4247441641
 22070102 : [N/A] 1947288681
 22070201 : [N/A] 1402090241
@@ -8874,8 +9072,8 @@ setFetterLevel : Sets your fetter level for your current active character
 23030101 : Fatui Electro Cicin Mage
 23030102 : [N/A] 1822587745
 23040101 : Fatui Cryo Cicin Mage
-23040102 : [CHT] - 愚人眾 冰螢術士-強攻強化
-23050101 : [CHT] - 愚人眾 藏鏡仕女
+23040102 : Fatui Cryo Cicin Mage - Enhanced Attack
+23050101 : Fatui Mirror Maiden
 24010101 : Ruin Guard
 24010102 : Ruin Guard (Mechanicus)
 24010108 : [N/A] 4043680265
@@ -8884,24 +9082,24 @@ setFetterLevel : Sets your fetter level for your current active character
 24010202 : Ruin Hunter (Mechanicus)
 24010301 : Ruin Grader
 24010302 : Ruin Grader (Mechanicus)
-24010303 : [CHT] - 遺蹟重機（挖礦版）
+24010303 : Ruin Grader (Mining Version)
 24010304 : [N/A] 4152683505
 24010401 : [N/A] 3060024009
-24020101 : [CHT] - 遺蹟巡弋者
-24020102 : [CHT] - 遺蹟巡弋者（閹割版）
-24020103 : [CHT] - 遺蹟巡弋者（強化版）
-24020201 : [CHT] - 遺蹟殲擊者
-24020202 : [CHT] - 遺蹟殲擊者（閹割版）
-24020203 : [CHT] - 遺蹟殲擊者（強化版）
-24020301 : [CHT] - 遺蹟防衛者
-24020302 : [CHT] - 遺蹟防衛者（閹割版）
-24020303 : [CHT] - 遺蹟防衛者（強化版）
+24020101 : Ruin Cruiser
+24020102 : Ruin Cruiser (Weakened)
+24020103 : Ruin Cruiser (Enhanced)
+24020201 : Ruin Destroyer
+24020202 : Ruin Destroyer (Weakened)
+24020203 : Ruin Destroyer (Enhanced)
+24020301 : Ruin Defender
+24020302 : Ruin Defender (Weakened)
+24020303 : Ruin Defender (Enhanced)
 24020304 : [N/A] 3323395121
-24020401 : [CHT] - 遺蹟偵察者
-24020402 : [CHT] - 遺蹟偵察者（閹割版）
-24020403 : [CHT] - 遺蹟偵察者（強化版）
-24021101 : [CHT] - 恒常機關陣列
-24021102 : [CHT] - 恒常機關陣列（稻妻活動專用）
+24020401 : Ruin Scout
+24020402 : Ruin Scout (Weakened)
+24020403 : Ruin Scout (Enhanced)
+24021101 : Perpetual Mechanical Array
+24021102 : Perpetual Mechanical Array (Inazuma Event-Only)
 24030101 : [N/A] 765448937
 24030201 : [N/A] 3903929633
 24030301 : [N/A] 3108339881
@@ -8945,37 +9143,37 @@ setFetterLevel : Sets your fetter level for your current active character
 25040103 : [N/A] 3988208201
 25050101 : Millelith Soldier
 25050201 : Millelith Sergeant
-25050301 : [CHT] - 幕府足輕
-25050401 : [CHT] - 幕府足輕頭
+25050301 : Shogunate Infantry
+25050401 : Shogunate Infantry Captain
 25050402 : [N/A] 220906409
-25050501 : [CHT] - 珊瑚宮眾
+25050501 : Sangonomiya Cohort
 25050502 : [FR] - (test)心海个人线反抗军足轻
 25060101 : [N/A] 3034153769
 25060102 : [N/A] 2830824473
 25070101 : [N/A] 2923584017
 25070201 : [N/A] 1247878633
 25070202 : [N/A] 2217700337
-25080101 : [CHT] - 浪人
-25080201 : [CHT] - 浪人·山賊
+25080101 : Ronin
+25080201 : Ronin: Sanzoku
 25080202 : [N/A] 2892035809
-25080301 : [CHT] - 浪人·暗部
-25080401 : [CHT] - 幕府武士
+25080301 : Ronin: Anbu
+25080401 : Shogunate Samurai
 25080402 : [N/A] 193563705
 25080403 : [N/A] 1581579825
 25080404 : [N/A] 400320561
-25090101 : [CHT] - 傀儡將軍
-25090102 : [CHT] - 傀儡將軍-風分身
-25090103 : [CHT] - 傀儡將軍-冰分身
-25090104 : [CHT] - 傀儡將軍-面具分身
-25090201 : [JP] - 傀儡将軍-風分身（アイコン有り）
-25090301 : [JP] - 傀儡将軍-氷分身（アイコン有り）
-25090401 : [JP] - 傀儡将軍-仮面分身（アイコン有り）
-25100101 : [CHT] - 海亂鬼-雷
+25090101 : Marionette General
+25090102 : Marionette General: Wind Bunshin
+25090103 : Marionette General: Ice Bunshin
+25090104 : Marionette General: Masked Bunshin
+25090201 : Marionette General: Wind Bunshin (With Icon)
+25090301 : Marionette General: Ice Bunshin (With Icon)
+25090401 : Marionette General: Masked Bunshin (With Icon)
+25100101 : Electro Kairagi
 25100102 : [N/A] 280790529
-25100201 : [CHT] - 海亂鬼-火
-25100301 : [CHT] - 海亂鬼-雷幽靈
+25100201 : Pyro Kairagi
+25100301 : Thunderwraith Kairagi
 25100302 : [N/A] 1381328249
-25100401 : [CHT] - 海亂鬼-火幽靈
+25100401 : Flameghoul Kairagi
 25110101 : [N/A] 1820584137
 25110102 : [N/A] 2361510321
 25110201 : [N/A] 3397827697
@@ -9023,10 +9221,10 @@ setFetterLevel : Sets your fetter level for your current active character
 25410201 : [N/A] 1223193297
 26010101 : Cryo Whopperflower
 26010102 : Cryo Whopperflower (Dragonspine Event)
-26010103 : [JP] - 巨大トリックフラワー·氷（2.3雪山イベント）
+26010103 : Giant Cryo Whopperflower (2.3 Dragonspine Event)
 26010104 : [N/A] 2622496017
 26010201 : Pyro Whopperflower
-26010301 : [CHT] - 雷騙騙花
+26010301 : Electro Whopperflower
 26020101 : Cryo Regisvine
 26020102 : Cryo Regisvine (Dragonspine Event)
 26020201 : Pyro Regisvine
@@ -9036,12 +9234,12 @@ setFetterLevel : Sets your fetter level for your current active character
 26040102 : Geovishap: Pyro
 26040103 : Geovishap: Cryo
 26040104 : Geovishap: Electro
-26040105 : [CHT] - 岩龍蜥-水（塔防）
+26040105 : Geovishap: Hydro (Mechanicus)
 26050101 : Primo Geovishap: Hydro
 26050201 : Primo Geovishap: Pyro
 26050301 : Primo Geovishap: Cryo
 26050401 : Primo Geovishap: Electro
-26050501 : [CHT] - 古岩龍蜥-活動
+26050501 : Primo Geovishap (Event)
 26050601 : [N/A] 2676909737
 26050701 : [N/A] 2782696025
 26050702 : [N/A] 1674770585
@@ -9073,16 +9271,16 @@ setFetterLevel : Sets your fetter level for your current active character
 28010101 : Golden Crab
 28010102 : Sun Crab
 28010103 : Ocean Crab
-28010104 : [CHT] - 將軍蟹
-28010105 : [CHT] - 薄紅蟹
-28010106 : [CHT] - 螃蟹
+28010104 : General Crab
+28010105 : Pale Red Crab
+28010106 : Crab
 28010201 : Blue Horned Lizard
 28010202 : Red Horned Lizard
 28010203 : Green Horned Lizard
 28010204 : Sunset Loach
 28010205 : Golden Loach
 28010206 : Sunny Loach
-28010207 : [CHT] - 嗜髓蜥
+28010207 : Pith Lizard
 28010208 : [N/A] 404479849
 28010301 : Frog
 28010302 : Mud Frog
@@ -9120,8 +9318,8 @@ setFetterLevel : Sets your fetter level for your current active character
 28020402 : Forest-Patrol Hound
 28020403 : Shiba
 28020404 : Black-Back Hound
-28020405 : [CHT] - 柴犬
-28020406 : [JP] - ハスキー（犬イベント専用、カメラ距離拡大）
+28020405 : Shiba
+28020406 : Northland Hound (Dog Event Special, Extended LoS Range)
 28020407 : [N/A] 4246448217
 28020408 : [N/A] 279322729
 28020409 : [N/A] 3045582529
@@ -9133,8 +9331,8 @@ setFetterLevel : Sets your fetter level for your current active character
 28020505 : Tiger-Striped Cat
 28020506 : Sheriff Cat
 28020507 : Black Cat
-28020508 : [CHT] - 藍寶石
-28020509 : [JP] - グレースノウ（犬イベント専用、カメラ距離拡大）
+28020508 : Sapphire
+28020509 : Gray Snow Cat (Dog Event Special, Extended LoS Range)
 28020510 : [N/A] 4118163561
 28020511 : [N/A] 370467545
 28020512 : [N/A] 1412852081
@@ -9144,16 +9342,16 @@ setFetterLevel : Sets your fetter level for your current active character
 28020603 : Boot Weasel
 28020604 : Masked Weasel
 28020605 : [N/A] 4171435641
-28020701 : [CHT] - 狐
-28020702 : [JP] - 狐（犬イベント専用、カメラ距離拡大）
-28020801 : [CHT] - 妖狸
+28020701 : Kitsune
+28020702 : Kitsune (Dog Event Special, Extended LoS Range)
+28020801 : Bake-Danuki
 28020802 : [N/A] 2189860961
 28020803 : [N/A] 652433657
-28020901 : [JP] - 武士犬（パトロール）
-28020902 : [JP] - 武士犬（戦闘）
+28020901 : Samurai Dog (Patrol)
+28020902 : Samurai Dog (Combat)
 28020903 : [N/A] 467002241
 28030101 : Azure Crane
-28030102 : [CHT] - 菫䴉
+28030102 : Violet Ibis
 28030103 : [N/A] 434877481
 28030104 : [N/A] 3431473329
 28030201 : Brownwing Falcon
@@ -9165,12 +9363,12 @@ setFetterLevel : Sets your fetter level for your current active character
 28030303 : Graywing Pigeon
 28030304 : Crimsonflank Pigeon
 28030305 : Black King Pigeon
-28030306 : [CHT] - 鴉
-28030307 : [CHT] - 白鴿
-28030308 : [CHT] - 璃冠鴿
-28030309 : [CHT] - 灰羽鴿
-28030310 : [CHT] - 赤脅鴿
-28030311 : [CHT] - 黑王鴿
+28030306 : Duck
+28030307 : White Pigeon
+28030308 : Brightcrown Pigeon
+28030309 : Graywing Pigeon
+28030310 : Crimsonflank Pigeon
+28030311 : Black King Pigeon
 28030312 : [N/A] 1045054721
 28030313 : [N/A] 45487625
 28030401 : Crimson Finch
@@ -9190,32 +9388,32 @@ setFetterLevel : Sets your fetter level for your current active character
 28040101 : Black-Back Bass
 28040102 : Blue-Fin Bass
 28040103 : Golden Bass
-28040104 : [CHT] - 黑背鱸魚
-28040105 : [CHT] - 黑背鱸魚
-28040106 : [CHT] - 藍鰭鱸魚
-28040107 : [CHT] - 黃金鱸魚
+28040104 : Black-Back Bass
+28040105 : Black-Back Bass
+28040106 : Blue-Fin Bass
+28040107 : Golden Bass
 28040108 : [N/A] 3075342297
-28040201 : [CHT] - 花鱂
-28040202 : [CHT] - 琉璃花鱂
-28040203 : [CHT] - 甜甜花鱂
-28040204 : [CHT] - 藍染花鱂
-28040205 : [CHT] - 擒霞客
-28040206 : [CHT] - 水晶宴
-28040301 : [CHT] - 肺棘魚
-28040302 : [CHT] - 鬥棘魚
-28040303 : [CHT] - 鴆棘魚
-28040304 : [CHT] - 赤魔王
-28040305 : [CHT] - 雪中君
-28040401 : [CHT] - 金赤假龍
-28040402 : [CHT] - 錆假龍
-28040501 : [CHT] - 流紋褐蝶魚
-28040502 : [CHT] - 流紋京紫蝶魚
-28040503 : [CHT] - 流紋茶蝶魚
-28040504 : [CHT] - 長生仙
-28040505 : [CHT] - 雷鳴仙
-28040506 : [CHT] - 月光鰭
-28040601 : [CHT] - 炮魨
-28040602 : [CHT] - 苦炮魨
+28040201 : Medaka
+28040202 : Glaze Medaka
+28040203 : Sweet-Flower Medaka
+28040204 : Aizen Medaka
+28040205 : Dawncatcher
+28040206 : Crystalfish
+28040301 : Lunged Stickleback
+28040302 : Betta
+28040303 : Venomspine Fish
+28040304 : Akai Maou
+28040305 : Snowstrider
+28040401 : Golden Koi
+28040402 : Rusty Koi
+28040501 : Brown Shirakodai
+28040502 : Purple Shirakodai
+28040503 : Tea-Colored Shirakodai
+28040504 : Abiding Angelfish
+28040505 : Raimei Angelfish
+28040506 : Moonfin
+28040601 : Pufferfish
+28040602 : Bitter Pufferfish
 28040701 : [N/A] 2972773745
 28040702 : [N/A] 3716656137
 28040703 : [N/A] 369916953
@@ -9228,16 +9426,16 @@ setFetterLevel : Sets your fetter level for your current active character
 28050101 : Anemo Crystalfly
 28050102 : Geo Crystalfly
 28050103 : Cryo Crystalfly
-28050104 : [CHT] - 雷晶蝶
+28050104 : Electro Crystalfly
 28050105 : [N/A] 1189656297
 28050106 : [N/A] 149328065
 28050201 : Amateur Weasel Thief
 28050202 : Hoarder Weasel Thief
 28050203 : Golden Weasel Thief
 28050204 : [N/A] 3522830081
-28050211 : [CHT] - 新手盜寶鼬
-28050212 : [CHT] - 藏金盜寶鼬
-28050213 : [CHT] - 大黃金盜寶鼬
+28050211 : Amateur Weasel Thief
+28050212 : Hoarder Weasel Thief
+28050213 : Golden Weasel Thief
 28050221 : [N/A] 2987095625
 28050222 : [N/A] 1663181017
 28050223 : [N/A] 4261963577
@@ -9286,87 +9484,87 @@ setFetterLevel : Sets your fetter level for your current active character
 28061301 : [N/A] 3469996769
 28061401 : [N/A] 2330015681
 28061402 : [N/A] 3443985385
-28210101 : [JP] - 洞天黄金ガニ
-28210102 : [JP] - 洞天太陽ガニ
-28210103 : [JP] - 洞天紺青ガニ
-28210104 : [JP] - 洞天将軍ガニ
-28210105 : [JP] - 洞天薄紅ガニ
-28210201 : [JP] - 洞天青トカゲ
-28210202 : [JP] - 洞天赤トカゲ
-28210203 : [JP] - 洞天緑トカゲ
-28210204 : [JP] - 洞天落日サンショウウオ
-28210205 : [JP] - 洞天金サンショウウオ
-28210206 : [JP] - 洞天晴天サンショウウオ
-28210207 : [JP] - 洞天髄喰いトカゲ
+28210101 : Domestic Golden Crab
+28210102 : Domestic Sun Crab
+28210103 : Domestic Ocean Crab
+28210104 : Domestic General Crab
+28210105 : Domestic Pale Red Crab
+28210201 : Domestic Blue Horned Lizard
+28210202 : Domestic Red Horned Lizard
+28210203 : Domestic Green Horned Lizard
+28210204 : Domestic Sunset Loach
+28210205 : Domestic Golden Loach
+28210206 : Domestic Sunny Loach
+28210207 : Domestic Marrow Lizard
 28210208 : [N/A] 4168682209
-28210301 : [JP] - 洞天カエル
-28210302 : [JP] - 洞天泥カエル
-28210303 : [JP] - 洞天青カエル
+28210301 : Domestic Frog
+28210302 : Domestic Mud Frog
+28210303 : Domestic Blue Frog
 28210304 : [N/A] 1743923249
-28210401 : [JP] - 洞天藤紋陸ウナギ
+28210401 : Domestic Adorned Unagi
 28210402 : [N/A] 1700882065
-28210403 : [JP] - 洞天赤鰭陸ウナギ
+28210403 : Domestic Red-Finned Unagi
 28210404 : [N/A] 1020919801
-28220101 : [JP] - 洞天雪狐
-28220102 : [JP] - 洞天赤狐
+28220101 : Domestic Snow Fox
+28220102 : Domestic Crimson Fox
 28220108 : [N/A] 3596224209
-28220201 : [JP] - 洞天リス
-28220301 : [CHT] - 家園野林豬
-28220303 : [JP] - 洞天雪のイノシシ
+28220201 : Domestic Squirrel
+28220301 : Domestic Forest Boar
+28220303 : Domestic Snowboar
 28220313 : [N/A] 2460569713
 28220314 : [N/A] 3974077529
-28220401 : [CHT] - 家園北地犬
-28220402 : [CHT] - 家園巡林犬
-28220403 : [CHT] - 家園柴犬
-28220404 : [CHT] - 家園黑背獵犬
-28220501 : [CHT] - 家園藍寶石
-28220502 : [CHT] - 家園翠目貓
-28220503 : [JP] - 洞天グレースノウ
-28220504 : [CHT] - 家園北地貓
-28220505 : [CHT] - 家園虎紋貓
-28220506 : [CHT] - 家園警長貓
-28220601 : [JP] - 洞天雪隠れのイタチ
-28220602 : [JP] - 洞天赤尾イタチ
-28220603 : [JP] - 洞天ブーツイタチ
+28220401 : Domestic Northland Hound
+28220402 : Domestic Forest-Patrol Hound
+28220403 : Domestic Shiba
+28220404 : Domestic Black-Back Hound
+28220501 : Domestic Sapphire
+28220502 : Domestic Jade-Eyed Cat
+28220503 : Domestic Gray Snow Cat
+28220504 : Domestic Northland Cat
+28220505 : Domestic Tiger-Striped Cat
+28220506 : Domestic Sheriff Cat
+28220601 : Domestic Snow Weasel
+28220602 : Domestic Red-Tailed Weasel
+28220603 : Domestic Boot Weasel
 28220604 : [N/A] 3102074185
 28220605 : [N/A] 1207799537
-28220701 : [JP] - 洞天狐
-28220901 : [JP] - 洞天武士犬
-28230101 : [CHT] - 家園藍翎鷺
-28230102 : [JP] - 洞天スミレトキ
+28220701 : Domestic Kitsune
+28220901 : Domestic Samurai Dog
+28230101 : Domestic Azure Crane
+28230102 : Domestic Violet Ibis
 28230104 : [N/A] 811422561
-28230301 : [JP] - 洞天白鳩
-28230302 : [JP] - 洞天璃冠鳩
-28230303 : [JP] - 洞天灰羽鳩
-28230304 : [JP] - 洞天赤脇鳩
-28230305 : [JP] - 洞天黒王鳩
-28230306 : [JP] - 洞天カラス
+28230301 : Domestic White Pigeon
+28230302 : Domestic Brightcrown Pigeon
+28230303 : Domestic Graywing Pigeon
+28230304 : Domestic Crimsonflank Pigeon
+28230305 : Domestic Black King Pigeon
+28230306 : Domestic Crow
 28230313 : [N/A] 3724967537
-28230401 : [JP] - 洞天赤ヤマガラ
-28230402 : [JP] - 洞天金ヤマガラ
-28230403 : [JP] - 洞天雪ヤマガラ
-28230404 : [JP] - 洞天碧ヤマガラ
-28240201 : [CHT] - 家園花鱂
-28240202 : [CHT] - 家園琉璃花鱂
-28240203 : [CHT] - 家園甜甜花鱂
-28240204 : [CHT] - 家園藍染花鱂
-28240205 : [CHT] - 家園擒霞客
-28240206 : [CHT] - 家園水晶宴
-28240301 : [CHT] - 家園肺棘魚
-28240302 : [CHT] - 家園鬥棘魚
-28240303 : [CHT] - 家園鴆棘魚
-28240304 : [CHT] - 家園赤魔王
-28240305 : [CHT] - 家園雪中君
-28240401 : [CHT] - 家園金赤假龍
-28240402 : [CHT] - 家園錆假龍
-28240501 : [CHT] - 家園流紋褐蝶魚
-28240502 : [CHT] - 家園流紋京紫蝶魚
-28240503 : [CHT] - 家園流紋茶蝶魚
-28240504 : [CHT] - 家園長生仙
-28240505 : [CHT] - 家園雷鳴仙
-28240506 : [CHT] - 家園月光鰭
-28240601 : [CHT] - 家園炮魨
-28240602 : [CHT] - 家園苦炮魨
+28230401 : Domestic Crimson Finch
+28230402 : Domestic Golden Finch
+28230403 : Domestic Snow Finch
+28230404 : Domestic Emerald Finch
+28240201 : Domestic Medaka
+28240202 : Domestic Glaze Medaka
+28240203 : Domestic Sweet-Flower Medaka
+28240204 : Domestic Aizen Medaka
+28240205 : Domestic Dawncatcher
+28240206 : Domestic Crystalfish
+28240301 : Domestic Lunged Stickleback
+28240302 : Domestic Betta
+28240303 : Domestic Venomspine Fish
+28240304 : Domestic Akai Maou
+28240305 : Domestic Snowstrider
+28240401 : Domestic Golden Koi
+28240402 : Domestic Rusty Koi
+28240501 : Domestic Brown Shirakodai
+28240502 : Domestic Purple Shirakodai
+28240503 : Domestic Tea-Colored Shirakodai
+28240504 : Domestic Abiding Angelfish
+28240505 : Domestic Raimei Angelfish
+28240506 : Domestic Moonfin
+28240601 : Domestic Pufferfish
+28240602 : Domestic Bitter Pufferfish
 28240701 : [N/A] 3103739145
 28240702 : [N/A] 3877023689
 28240801 : [N/A] 2213501889
@@ -9375,10 +9573,10 @@ setFetterLevel : Sets your fetter level for your current active character
 28240804 : [N/A] 2847515857
 28240901 : [N/A] 4288334729
 28240902 : [N/A] 2843011617
-28250101 : [JP] - 洞天風晶蝶
-28250102 : [JP] - 洞天岩晶蝶
-28250103 : [JP] - 洞天氷晶蝶
-28250104 : [JP] - 洞天雷晶蝶
+28250101 : Domestic Anemo Crystalfly
+28250102 : Domestic Geo Crystalfly
+28250103 : Domestic Cryo Crystalfly
+28250104 : Domestic Electro Crystalfly
 28250105 : [N/A] 2439255201
 28250106 : [N/A] 3343647737
 28250301 : [N/A] 2411901113
@@ -9399,13 +9597,13 @@ setFetterLevel : Sets your fetter level for your current active character
 29040102 : Azhdaha
 29040103 : Azhdaha
 29040104 : Azhdaha
-29040111 : [CHT] - 若陀龍王
-29050101 : [CHT] - 女士
-29050102 : [CHT] - 焚盡的熾炎魔女
-29050103 : [CHT] - 女士
-29050104 : [CHT] - 焚盡的熾炎魔女
-29060101 : [CHT] - 雷電將軍
-29060102 : [CHT] - 雷電影
+29040111 : Azhdaha
+29050101 : Signora
+29050102 : Crimson Witch of Embers
+29050103 : Signora
+29050104 : Crimson Witch of Embers
+29060101 : Raiden Shogun
+29060102 : Raiden Ei
 29060201 : [N/A] 3574291769
 29060202 : [N/A] 2732789569
 29060203 : [N/A] 2002743809
@@ -11768,7 +11966,7 @@ setFetterLevel : Sets your fetter level for your current active character
  200704 : A Flower Blooms in a Prison - Talk to Yoimiya
  200705 : A Flower Blooms in a Prison - Rescue Master Masakatsu
  200706 : A Flower Blooms in a Prison - Find Master Masakatsu
- 200707 : A Flower Blooms in a Prison - [CHS] - 回到木漏茶室$HIDDEN
+ 200707 : A Flower Blooms in a Prison - Return to Komore Teahouse
  200708 : A Flower Blooms in a Prison - Leave Komore Teahouse
  200709 : A Flower Blooms in a Prison - Leave Police Station
  200710 : A Flower Blooms in a Prison - Go to Komore Teahouse
@@ -11776,7 +11974,7 @@ setFetterLevel : Sets your fetter level for your current active character
  200801 : Amidst Stormy Judgment - Go to the Vision Hunt Ceremony
  200802 : Amidst Stormy Judgment - [CHS] - （test)进入雷电将军地城$HIDDEN
  200803 : Amidst Stormy Judgment - Defeat the Raiden Shogun
- 200804 : Amidst Stormy Judgment - [CHS] - 救出托马$HIDDEN
+ 200804 : Amidst Stormy Judgment - Rescue Thoma
  200805 : Amidst Stormy Judgment - Go to Komore Teahouse the following day
  200806 : Amidst Stormy Judgment - Go to Komore Teahouse
  200807 : Amidst Stormy Judgment - [CHS] - (test)特殊显示逻辑控制任务$HIDDEN
@@ -11858,7 +12056,7 @@ setFetterLevel : Sets your fetter level for your current active character
  201302 : Ritou Escape Plan - Talk to Shinsuke of the Kanjou Commission
  201303 : Ritou Escape Plan - Leave the Kanjou Commissioner's Office
  201304 : Ritou Escape Plan - Talk to Shinnojou
- 201305 : Ritou Escape Plan - [CHS] - 在第二天的约定时间（18~24时）与柊家小姐见面$HIDDEN
+ 201305 : Ritou Escape Plan - Meet Ms. Hiiragi at the appointed time (18:00 – 24:00) on the next day
  201306 : Ritou Escape Plan - Meet Ms. Hiiragi at the appointed time (18:00 – 24:00)
  201307 : Ritou Escape Plan - Meet Hiiragi Chisato
  201308 : Ritou Escape Plan - Go to Ritou's border to carry out Chisato's plan
@@ -11889,7 +12087,7 @@ setFetterLevel : Sets your fetter level for your current active character
  201608 : The Servant's Path - Talk to Yae Miko
  201609 : The Servant's Path - Return to the Grand Narukami Shrine and talk to Yae Miko
  201701 : Proof of Guilt - Go to Chinju Forest
- 201702 : Proof of Guilt - Find the helper the Yae Miko spoke of
+ 201702 : Proof of Guilt - Find the helper who Yae Miko spoke of
  201703 : Proof of Guilt - Go to Komore Teahouse
  201704 : Proof of Guilt - Talk to Thoma
  201705 : Proof of Guilt - Wait for midnight (00:00 – 05:00)
@@ -12908,7 +13106,7 @@ setFetterLevel : Sets your fetter level for your current active character
 1200510 : Woven Wishes - Defeat the ronin
 1200511 : Woven Wishes - Talk to Kurisu
 1200512 : Woven Wishes - [CHS] - (test)【废弃】鉴别宝物并与绫华对话
-1200513 : Woven Wishes - [CHS] - (test)【废弃】返回小仓屋
+1200513 : Woven Wishes - Return to Ogura Textiles & Kimonos
 1200514 : Woven Wishes - Return to Ogura Textiles & Kimonos
 1200515 : Woven Wishes - [CHS] - (test)【废弃】和绫华在周围稍事休息
 1200516 : Woven Wishes - [CHS] - (test)【废弃】与绫华对话
@@ -12917,7 +13115,7 @@ setFetterLevel : Sets your fetter level for your current active character
 1200601 : Food From Afar - Talk to Kiminami Anna
 1200602 : Food From Afar - Give the pizza to Kamisato Ayaka
 1200603 : Food From Afar - Talk to Kamisato Ayaka
-1200604 : Food From Afar - [CHS] - (test)【废弃】把菜谱交给木南杏奈$HIDDEN
+1200604 : Food From Afar - Give the recipe to Kiminami Anna
 1200605 : Food From Afar - Return to Ogura Textiles & Kimonos to collect the goods
 1200606 : Food From Afar - Talk to Kiminami Anna
 1200607 : Food From Afar - [CHS] - (test)判断是特色菜谱$HIDDEN
@@ -13056,9 +13254,9 @@ setFetterLevel : Sets your fetter level for your current active character
 1202107 : Rumors Abound - Investigate the temporary Fatui camp
 1202108 : Rumors Abound - Report back to Kokomi
 1202109 : Rumors Abound - Give the cargo back to the merchants
-1202110 : Rumors Abound - [CHS] - 和派蒙对话（废弃）
-1202111 : Rumors Abound - [CHS] - 和派蒙对话（废弃）
-1202112 : Rumors Abound - [CHS] - 和派蒙对话（废弃）
+1202110 : Rumors Abound - Talk to Paimon (Discarded)
+1202111 : Rumors Abound - Talk to Paimon (Discarded)
+1202112 : Rumors Abound - Talk to Paimon (Discarded)
 1202113 : Rumors Abound - Take a walk with Kokomi
 1202114 : Rumors Abound - Talk to Kokomi
 1202115 : Rumors Abound - [CHS] - （隐藏）完成心海策略-先杀BOSS$HIDDEN
@@ -13070,7 +13268,7 @@ setFetterLevel : Sets your fetter level for your current active character
 1202201 : Her Secret - Wait till 10:00 – 12:00 the next day
 1202202 : Her Secret - Wait for Kokomi near the Sangonomiya Shrine
 1202203 : Her Secret - Talk to Paimon
-1202204 : Her Secret - [CHS] - 废弃$HIDDEN
+1202204 : Her Secret - Ask the guards about Kokomi's whereabouts
 1202205 : Her Secret - Go to the designated place
 1202206 : Her Secret - Placeholder
 1202207 : Her Secret - [CHS] - 设置任务全局变量$HIDDEN
@@ -15167,7 +15365,7 @@ setFetterLevel : Sets your fetter level for your current active character
 2100001 : Ahoy! A Pirate’s Growth for Ye! - Talk to Little Meng
 2100002 : Ahoy! A Pirate’s Growth for Ye! - Head over to Bishui River
 2100003 : Ahoy! A Pirate’s Growth for Ye! - Talk to Little Meng
-2100004 : Ahoy! A Pirate’s Growth for Ye! - Look for the place where you released the drifting bottle
+2100004 : Ahoy! A Pirate’s Growth for Ye! - Look for a place to release the drifting bottle
 2100005 : Ahoy! A Pirate’s Growth for Ye! - Check the Sweet Flower
 2100006 : Ahoy! A Pirate’s Growth for Ye! - Defeat the Whopperflower
 2100007 : Ahoy! A Pirate’s Growth for Ye! - Talk to Little Meng
@@ -16746,7 +16944,7 @@ setFetterLevel : Sets your fetter level for your current active character
 4006509 : [N/A] 0 - Operate the device and investigate further
 4006510 : [N/A] 0 - Enter the corridor and explore further
 4006511 : [N/A] 0 - Investigate the area
-4006512 : [N/A] 0 - Investigate the surroundings and find a way to open the door
+4006512 : [N/A] 0 - Investigate your surroundings and find a way to open the door
 4006513 : [N/A] 0 - Operate the device and investigate further
 4006514 : [N/A] 0 - Look for Kazuha
 4006515 : [N/A] 0 - Discuss with everyone
@@ -16781,20 +16979,20 @@ setFetterLevel : Sets your fetter level for your current active character
 4006701 : [N/A] 0 - Look around for the items you need
 4006702 : [N/A] 0 - Place the rock into the bonsai
 4006703 : [N/A] 0 - Talk to everyone
-4006704 : [N/A] 0 - Continue onward in the shattered space
-4006705 : [N/A] 0 - Continue onward in the shattered space
-4006706 : [N/A] 0 - Continue onward in the shattered space
-4006707 : [N/A] 0 - Continue onward in the shattered space
-4006708 : [N/A] 0 - Continue onward in the shattered space
+4006704 : [N/A] 0 - Continue onward through the shattered space
+4006705 : [N/A] 0 - Continue onward through the shattered space
+4006706 : [N/A] 0 - Continue onward through the shattered space
+4006707 : [N/A] 0 - Continue onward through the shattered space
+4006708 : [N/A] 0 - Continue onward through the shattered space
 4006709 : [N/A] 0 - Defeat the soldiers who are confiscating Visions
 4006710 : [N/A] 0 - Talk to the fisher on the fishing boat
 4006711 : [N/A] 0 - Continue onward in the shattered space
 4006712 : [N/A] 0 - Board the Alcor
 4006713 : [N/A] 0 - Return to camp
 4006714 : [N/A] 0 - Contact Venti in a less conspicuous place
-4006715 : [N/A] 0 - Listen to the voice on the dock
+4006715 : [N/A] 0 - Listen to the voice at the docks
 4006716 : [N/A] 0 - [CHS] - (test)(hide)对话中刷死兆星号$HIDDEN
-4006717 : [N/A] 0 - Continue onward in the shattered space
+4006717 : [N/A] 0 - Continue onward through the shattered space
 4006801 : [N/A] 0 - Rest until the following day (06:00 — 24:00)
 4006802 : [N/A] 0 - Talk to everyone
 4006803 : [N/A] 0 - Head to the island in the north
@@ -16822,7 +17020,7 @@ setFetterLevel : Sets your fetter level for your current active character
 4006907 : [N/A] 0 - Help Little Fei to look for his friends
 4006908 : [N/A] 0 - Talk to Little Fei, Little Meng, and Little Lulu
 4006909 : [N/A] 0 - [CHS] - (test)(hide)隐藏刷新传送门$HIDDEN
-4006910 : [N/A] 0 - [CHS] - 进入辛焱家$HIDDEN
+4006910 : [N/A] 0 - Enter Xinyan's house
 4006911 : [N/A] 0 - [CHS] - (test)(hide)和投影门1对话$HIDDEN
 4006912 : [N/A] 0 - Enter Xinyan's house
 4006913 : [N/A] 0 - Talk to everyone
@@ -16849,10 +17047,10 @@ setFetterLevel : Sets your fetter level for your current active character
 4007010 : [N/A] 0 - Go to the hill where the wind blows
 4007011 : [N/A] 0 - Check the Fatui machine
 4007012 : [N/A] 0 - Defeat the opponents
-4007013 : [N/A] 0 - Use the powers of Frozen Soul
+4007013 : [N/A] 0 - Use Frozen Soul's powers
 4007014 : [N/A] 0 - [CHS] - (test)(hide)进入梦境发送自由通知$HIDDEN
 4007015 : [N/A] 0 - Obtain Blazing Heart's help
-4007016 : [N/A] 0 - Return to the Fatui's bastion
+4007016 : [N/A] 0 - Return to the Fatui bastion
 4007017 : [N/A] 0 - Go to the island that Mona mentioned
 4007018 : [N/A] 0 - Talk to everyone
 4007019 : [N/A] 0 - Inform Frozen Soul of the result
@@ -16929,9 +17127,9 @@ setFetterLevel : Sets your fetter level for your current active character
 4007410 : [N/A] 0 - Pass the challenge of the starry sky
 4007411 : [N/A] 0 - Rendezvous with everyone
 4007412 : [N/A] 0 - Talk to everyone
-4007413 : [N/A] 0 - [CHS] - 进入水池$HIDDEN
+4007413 : [N/A] 0 - Enter the pool
 4007414 : [N/A] 0 - Enter the mirage door
-4007415 : [N/A] 0 - [CHS] - 跟随星星指引找到终点$HIDDEN
+4007415 : [N/A] 0 - Follow the star to the destination
 4007416 : [N/A] 0 - [CHS] - (test)(hide)发送水池通知$HIDDEN
 4007417 : [N/A] 0 - Follow the strange star
 4007501 : [N/A] 0 - Follow the hint and explore the area
@@ -18094,12 +18292,12 @@ setFetterLevel : Sets your fetter level for your current active character
 7014203 : [CHS] - 玩家爬上天空岛大柱子顶端彩蛋任务$HIDDEN - [CHS] - 玩家爬上天空岛大柱子顶端彩蛋任务$HIDDEN
 7014301 : When the Trail Goes Cold - Talk to Iris
 7014302 : When the Trail Goes Cold - Talk to Katheryne
-7014401 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)打倒无相之冰$HIDDEN
-7014402 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)向玉霞回报$HIDDEN
-7014403 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)与玉霞对话$HIDDEN
-7014404 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)记录是否击杀无相冰-隐藏$HIDDEN
-7014405 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)前往调查异常的寒流$HIDDEN
-7014406 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)与玉霞对话$HIDDEN
+7014401 : Chilled to the Bone - Defeat the Cryo Hypostasis
+7014402 : Chilled to the Bone - Report back to Iris
+7014403 : Chilled to the Bone - Talk to Iris
+7014404 : Chilled to the Bone - [CHS] - (test)记录是否击杀无相冰-隐藏$HIDDEN
+7014405 : Chilled to the Bone - Investigate the strange cold current
+7014406 : Chilled to the Bone - Talk to Iris
 7014501 : [CHS] - (test)低温调查】与【山中之物$HIDDEN - [N/A] 3842997996
 7050001 : Contraption-Contrived Cooking Course: Part III - Talk to Cloud Retainer
 7050002 : Contraption-Contrived Cooking Course: Part III - Follow the aura trail and find the ingredients
@@ -18783,7 +18981,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7103314 : Verses and Vistas of Lantern Rite (Part II) - Talk to Qingzhou
 7103315 : Verses and Vistas of Lantern Rite (Part II) - Hang the lantern riddle
 7103401 : [CHS] - (test)海灯节的诗与画之二结束隐藏逻辑$HIDDEN - [CHS] - (test)结尾隐藏逻辑$HIDDEN
-7103501 : Hereafter: The Trail of Pervases - [CHS] - 前往万民堂$HIDDEN
+7103501 : Hereafter: The Trail of Pervases - Go to Wanmin Restaurant
 7103502 : Hereafter: The Trail of Pervases - Speak to Chef Mao
 7103503 : Hereafter: The Trail of Pervases - Pay respects to Pervases
 7103504 : Hereafter: The Trail of Pervases - Talk to Xiao
@@ -19264,7 +19462,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7109905 : On the Stage, Behind the Stage - Talk to Dayu
 7109906 : On the Stage, Behind the Stage - Wait until the following day (18:00 – 21:00)
 7109907 : On the Stage, Behind the Stage - Head to Heyu Tea House
-7109908 : On the Stage, Behind the Stage - Brew tea with Yunjin
+7109908 : On the Stage, Behind the Stage - Brew tea with Yun Jin
 7109909 : On the Stage, Behind the Stage - Talk to Fan Er'ye
 7109910 : On the Stage, Behind the Stage - Go to the warehouse at the dock and obtain the wooden planks
 7109911 : On the Stage, Behind the Stage - Give the planks to Dayu
@@ -19335,7 +19533,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7165401 : A Teapot to Call Home: Part II - Enter the Serenitea Pot
 7165402 : A Teapot to Call Home: Part II - Talk to Paimon
 7165403 : A Teapot to Call Home: Part II - Explore the area
-7165404 : A Teapot to Call Home: Part II - [CHS] - 进入「尘歌壶」$HIDDEN
+7165404 : A Teapot to Call Home: Part II - Enter the Serenitea Pot
 7165405 : A Teapot to Call Home: Part II - [CHS] - 判断进入壶1$HIDDEN
 7165406 : A Teapot to Call Home: Part II - [CHS] - 判断进入壶2$HIDDEN
 7165407 : A Teapot to Call Home: Part II - Talk to Paimon
@@ -19643,7 +19841,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7182204 : When Scholar and Legends Meet - Follow the mountain path
 7182205 : When Scholar and Legends Meet - Defeat the hilichurls
 7182206 : When Scholar and Legends Meet - Talk to Soraya
-7182207 : When Scholar and Legends Meet - Defeat the hilichurls (hidden) $HIDDEN
+7182207 : When Scholar and Legends Meet - [CHS] - 打倒丘丘人（隐藏）$HIDDEN
 7182208 : When Scholar and Legends Meet - [N/A] 201980468
 7182301 : Guardians of the Countryside - Go and have a look in the wild nearby Qingce Village
 7182302 : Guardians of the Countryside - Speak with Zhi
@@ -19786,7 +19984,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7210203 : [CHS] - 神社占卜御签挂（test）$HIDDEN - [CHS] - 解除封印（test）$HIDDEN
 7210204 : [CHS] - 神社占卜御签挂（test）$HIDDEN - [CHS] - 解除封印（test）$HIDDEN
 7210205 : [CHS] - 神社占卜御签挂（test）$HIDDEN - [CHS] - 道具检测（隐藏）$HIDDEN
-7210206 : [CHS] - 神社占卜御签挂（test）$HIDDEN - [CHS] - 找到这里的祭具—采配$HIDDEN
+7210206 : [CHS] - 神社占卜御签挂（test）$HIDDEN - Find the ritual tools here and pick them up
 7210207 : [CHS] - 神社占卜御签挂（test）$HIDDEN - [CHS] - 初次任务完成检测（废弃）$HIDDEN
 7210301 : [CHS] - 神社占卜假扮巫女常驻（test）$HIDDEN - [CHS] - （test）竹签·大吉（抽到竹签变量1，交付竹签变量0）$HIDDEN
 7210302 : [CHS] - 神社占卜假扮巫女常驻（test）$HIDDEN - [CHS] - （test）竹签·大吉（抽到竹签变量1，交付竹签变量0）$HIDDEN
@@ -19888,7 +20086,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7210614 : A Strange Story in Konda - Head over to the designated area recorded in the notebook
 7210615 : A Strange Story in Konda - Descend into the well in Konda Village
 7210616 : A Strange Story in Konda - [CHS] - 铁门交付(隐藏）$HIDDEN
-7210617 : A Strange Story in Konda - [CHS] - 在井底寻找宝藏（废弃）
+7210617 : A Strange Story in Konda - Find the treasure at the bottom of the well
 7210618 : A Strange Story in Konda - Ask the locals for information
 7210619 : A Strange Story in Konda - [CHS] - 寻找线索$HIDDEN
 7210620 : A Strange Story in Konda - [CHS] - 村长初次对话检测$HIDDEN
@@ -20416,7 +20614,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7215201 : [CHS] - 浮浪双梦记$HIDDEN - [CHS] - (test)查看盗宝团遗留的笔记$HIDDEN
 7215202 : [CHS] - 浮浪双梦记$HIDDEN - [CHS] - (test)寻找海盗宝藏$HIDDEN
 7215203 : [CHS] - 浮浪双梦记$HIDDEN - [CHS] - (test)找到真正的宝藏$HIDDEN
-7215301 : In Another Land - [CHS] - 与爱拉尼对话$HIDDEN
+7215301 : In Another Land - Talk to Alrani
 7215302 : In Another Land - Follow Alrani
 7215303 : In Another Land - Take a photo of Eipekkusu and its owner
 7215304 : In Another Land - Talk to Kaede
@@ -20738,7 +20936,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7216730 : A Particularly Particular Author - [N/A] 4175261852
 7216731 : A Particularly Particular Author - [N/A] 3876355868
 7216732 : A Particularly Particular Author - Travel to Tsurumi Island
-7216733 : A Particularly Particular Author - [CHS] - 与派蒙对话$HIDDEN
+7216733 : A Particularly Particular Author - Talk to Paimon
 7216734 : A Particularly Particular Author - Talk to Kama
 7216735 : A Particularly Particular Author - [CHS] - 调查光点$HIDDEN
 7216736 : A Particularly Particular Author - [N/A] 3460165772
@@ -21361,8 +21559,8 @@ setFetterLevel : Sets your fetter level for your current active character
 7224218 : The Entrance to Tokoyo - Investigate the nearby area and search for clues
 7224219 : The Entrance to Tokoyo - [N/A] 387883828
 7224220 : The Entrance to Tokoyo - Investigate the mechanism and activate the gate
-7224301 : [CHS] - 食莲者后续玛乔丽$HIDDEN - [CHS] - (test)找玛乔丽对话$HIDDEN
-7224302 : [CHS] - 食莲者后续玛乔丽$HIDDEN - [CHS] - (test)找玛乔丽买卖
+7224301 : Lotus Eater Epilogue: Marjorie - [CHS] - (test)找玛乔丽对话$HIDDEN
+7224302 : Lotus Eater Epilogue: Marjorie - [CHS] - (test)找玛乔丽买卖
 7224401 : The Phaethons' Syrtos - [CHS] - (test)和NPC对话$HIDDEN
 7224402 : The Phaethons' Syrtos - Offer a Sango Pearl to the seven royal tombs
 7224403 : The Phaethons' Syrtos - Offer a Sango Pearl to the seven royal tombs
@@ -21798,9 +21996,9 @@ setFetterLevel : Sets your fetter level for your current active character
 7266703 : Bait Resupply Plan - [CHS] - 回滚任务$HIDDEN
 7266801 : [CHS] - 和派蒙隐藏对话$HIDDEN - [N/A] 2751061716
 7266802 : [CHS] - 和派蒙隐藏对话$HIDDEN - [N/A] 3871313788
-7266901 : [CHS] - 隐藏发鱼饵$HIDDEN - [CHS] - 废弃$HIDDEN
-7266902 : [CHS] - 隐藏发鱼饵$HIDDEN - Discarded
-7266903 : [CHS] - 隐藏发鱼饵$HIDDEN - Discarded
+7266901 : Bait Resupply Plan - [CHS] - 废弃$HIDDEN
+7266902 : Bait Resupply Plan - Discarded
+7266903 : Bait Resupply Plan - Discarded
 7267001 : I, Researcher - Talk to Hosseini
 7267002 : I, Researcher - Clear the three camps west of Wangshu Inn
 7267003 : I, Researcher - Report back to Hosseini
@@ -23773,7 +23971,7 @@ setFetterLevel : Sets your fetter level for your current active character
 7902202 : [N/A] 0 - Look for the photo that the Mirror Maiden lost
 7902205 : [N/A] 0 - Give the pocket watch with the photo back to the Mirror Maiden
 7902206 : [N/A] 0 - Check the direction that the Mirror Maiden left in
-7902207 : [N/A] 0 - Unseal the vine-covered cave entrance
+7902207 : [N/A] 0 - Clear out the thorns around the cave entrance
 7902208 : [N/A] 0 - Go into the cave and speak to Agafya
 7902210 : [N/A] 0 - [N/A] 2260687964
 7902211 : [N/A] 0 - Look for traces of the other group's members
