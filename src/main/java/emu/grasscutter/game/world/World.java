@@ -110,6 +110,9 @@ public class World implements Iterable<Player> {
 
         // Create scene from scene data if it doesnt exist
         SceneData sceneData = GameData.getSceneDataMap().get(sceneId);
+        if(sceneData==null){
+            sceneData = new SceneData(sceneId, SceneType.SCENE_ROOM, "IndoorScene_Xm_Csd");
+        }
         if (sceneData != null) {
             scene = new Scene(this, sceneData);
             this.registerScene(scene);
@@ -231,9 +234,9 @@ public class World implements Iterable<Player> {
         // Set the destination.
         teleportTo = event.getDestination();
 
-        if (GameData.getSceneDataMap().get(sceneId) == null) {
+        /*if (GameData.getSceneDataMap().get(sceneId) == null) {
             return false;
-        }
+        }*/
 
         Scene oldScene = null;
 

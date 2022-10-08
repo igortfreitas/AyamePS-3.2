@@ -1,40 +1,66 @@
-2022-09-27T15:23:04Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: pt-BR.json, falling back to: en-US.json
-2022-09-27T15:23:05Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
-2022-09-27T15:23:06Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
-2022-09-27T15:23:25Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
-2022-09-27T15:23:26Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
-2022-09-27T15:23:26Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
-2022-09-27T15:23:26Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.0
-2022-09-27T15:23:26Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.3.1-dev-GIT_NOT_FOUND
-2022-09-27T15:23:30Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: IdLookPlugin
-2022-09-27T15:23:33Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
-2022-09-27T15:23:35Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
-2022-09-27T15:23:35Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
-2022-09-27T15:23:35Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
-2022-09-27T15:23:35Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: IdLookPlugin
-2022-09-27T15:23:35Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
-2022-09-27T15:23:35Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
-2022-09-27T15:24:57Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] request: query_region_list
-2022-09-27T15:24:59Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
-2022-09-27T15:24:59Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] failed to log in via token.
-2022-09-27T15:25:00Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
-2022-09-27T15:25:02Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] request: query_region_list
-2022-09-27T15:25:07Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in as 10014.
-2022-09-27T15:25:07Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
-2022-09-27T15:25:07Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
-2022-09-27T15:25:07Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
-2022-09-27T15:25:07Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
-2022-09-27T15:25:26Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:62974
-2022-09-27T15:25:39Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 1 activities.
-2022-09-27T15:30:16Z <INFO:emu.grasscutter.command.CommandHandler> Reloading config.
-2022-09-27T15:30:16Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: pt-BR.json, falling back to: en-US.json
-2022-09-27T15:30:17Z <INFO:emu.grasscutter.command.CommandHandler> Reload complete.
-2022-09-27T15:53:08Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:62974
-2022-09-27T15:53:58Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] request: query_region_list
-2022-09-27T15:54:00Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
-2022-09-27T15:54:00Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in via token as 10014.
-2022-09-27T15:54:00Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
-2022-09-27T15:54:00Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
-2022-09-27T15:54:00Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
-2022-09-27T15:54:00Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
-2022-09-27T15:54:26Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:64961
+2022-10-07T17:47:06Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: pt-BR.json, falling back to: en-US.json
+2022-10-07T17:47:07Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-10-07T17:47:07Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-10-07T17:47:34Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-10-07T17:47:36Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-10-07T17:47:36Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-10-07T17:47:36Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.2.0
+2022-10-07T17:47:36Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.3.1-dev-2c33bdd3c
+2022-10-07T17:47:40Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: GiveArtifactSnoo
+2022-10-07T17:47:40Z <INFO:emu.grasscutter.plugin.PluginManager> Loading plugin: IdLookPlugin
+2022-10-07T17:48:17Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-10-07T17:48:19Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-10-07T17:48:19Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-10-07T17:48:19Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-10-07T17:48:19Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: GiveArtifactSnoo
+2022-10-07T17:48:19Z <INFO:snoobi.bignose.GiveArtifactSnoo> The Give Artifact plugin has been enabled.
+2022-10-07T17:48:19Z <INFO:emu.grasscutter.plugin.PluginManager> Enabling plugin: IdLookPlugin
+2022-10-07T17:48:19Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.
+2022-10-07T17:48:19Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-10-07T17:50:41Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] request: query_region_list
+2022-10-07T17:50:47Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
+2022-10-07T17:50:47Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] failed to log in via token.
+2022-10-07T17:50:47Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-07T17:50:55Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in as 10019.
+2022-10-07T17:50:55Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-07T17:50:55Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-10-07T17:50:55Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-07T17:50:55Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-10-07T17:51:37Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:63124
+2022-10-07T17:51:50Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 1 activities.
+2022-10-07T17:55:21Z <INFO:emu.grasscutter.game.home.GameHome> Set player 10 home 2003 to initial setting
+2022-10-07T17:55:21Z <INFO:emu.grasscutter.game.home.GameHome> Set player 10 home 2201 to initial setting
+2022-10-07T17:56:31Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:63124
+2022-10-07T17:56:33Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
+2022-10-07T17:56:33Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in via token as 10019.
+2022-10-07T17:56:33Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-07T17:56:33Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-10-07T17:56:33Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-07T17:56:33Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-10-07T17:56:41Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:56358
+2022-10-07T17:57:34Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: pt-BR.json, falling back to: en-US.json
+2022-10-07T18:04:13Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000074 found.
+2022-10-07T18:04:13Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000074 found.
+2022-10-07T18:04:28Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000074 found.
+2022-10-07T18:04:28Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000074 found.
+2022-10-07T18:04:32Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000074 found.
+2022-10-07T18:04:32Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000074 found.
+2022-10-07T18:04:35Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000073 found.
+2022-10-07T18:04:36Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000070 found.
+2022-10-07T18:04:36Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000070 found.
+2022-10-07T18:04:37Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000070 found.
+2022-10-07T18:04:37Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000070 found.
+2022-10-07T18:04:38Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000070 found.
+2022-10-07T18:04:44Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000073 found.
+2022-10-07T18:09:40Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:56358
+2022-10-07T18:09:45Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in via token.
+2022-10-07T18:09:45Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] logged in via token as 10019.
+2022-10-07T18:09:45Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-07T18:09:45Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client [0:0:0:0:0:0:0:1] succeed to exchange combo token.
+2022-10-07T18:09:45Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client [0:0:0:0:0:0:0:1] is trying to log in.
+2022-10-07T18:09:45Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-10-07T18:09:56Z <INFO:emu.grasscutter.command.CommandHandler> Server shutting down...
+2022-10-07T18:09:56Z <INFO:emu.grasscutter.plugin.PluginManager> Disabling plugin: GiveArtifactSnoo
+2022-10-07T18:09:56Z <INFO:snoobi.bignose.GiveArtifactSnoo> The GiveArt plugin died lol
+2022-10-07T18:09:56Z <INFO:emu.grasscutter.plugin.PluginManager> Disabling plugin: IdLookPlugin
+2022-10-07T18:09:56Z <INFO:uk.haku.idlook.IdLookPlugin> The IdLook plugin has been loaded.

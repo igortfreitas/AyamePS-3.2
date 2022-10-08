@@ -144,7 +144,7 @@
           "attackProperty": {
             "damagePercentage": 0.4300000071525574,
             "damagePercentageRatio": 0.0,
-            "elementType": "Water",
+            "elementType": "Fire",
             "elementDurability": 25.0,
             "strikeType": "Slash",
             "enBreak": 52.64,

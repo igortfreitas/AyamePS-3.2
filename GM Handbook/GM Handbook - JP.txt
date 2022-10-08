@@ -1,5 +1,5 @@
-// Grasscutter 3.0.0 GM Handbook
-// Created 2022/09/27 15:23:25
+// Grasscutter 3.2.0 GM Handbook
+// Created 2022/10/07 17:47:35
 
 // Commands
        account : ユーザーアカウントを変更
@@ -99,12 +99,14 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 10000064 : 雲菫
 10000065 : 久岐忍
 10000066 : 神里綾人
-10000067 : コレイ
-10000068 : ドリー
-10000069 : ティナリ
-10000070 : ニィロウ
-10000071 : セノ
-10000072 : キャンディス
+10000067 : [EN] - Collei
+10000068 : [EN] - Dori
+10000069 : [EN] - Tighnari
+10000070 : [EN] - Nilou
+10000071 : [EN] - Cyno
+10000072 : [EN] - Candace
+10000073 : [EN] - Candace
+10000074 : [EN] - Candace
 11000008 : テストチーム4
 11000009 : シーンテスト
 11000010 : モデル1
@@ -178,13 +180,16 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
     140 : 幽々たる砥石
     141 : 鮮やかな漂流物
     142 : 戦策砕珀
-    143 : 構想ノート
-    144 : アイデアメモ
-    145 : 古鉄銭
-    147 : 賑わい度
-    148 : 営業収入
-    149 : 使用可能な資金
-    150 : 戦略的インスピレーション
+    143 : [EN] - Creative Note
+    144 : [EN] - Whimsical Draft
+    145 : [EN] - Ancient Iron Coin
+    147 : [EN] - Festive Fever
+    148 : [EN] - Business Earnings
+    149 : [EN] - Usable Funds
+    150 : [EN] - Strategic Inspiration
+    151 : [EN] - Strategic Inspiration
+    152 : [EN] - Strategic Inspiration
+    153 : [EN] - Strategic Inspiration
     201 : 原石
     202 : モラ
     203 : 創世結晶
@@ -204,7 +209,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
     307 : 岩の印
     314 : 評判経験値·稲妻
     315 : 評判経験値·モンド
-    316 : 評判経験値·スメール
+    316 : [EN] - Sumeru Reputation EXP
     317 : 評判経験値·璃月
     911 : 恒常燃焼の記憶
     912 : 永久奔流の記憶
@@ -265,12 +270,14 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
    1064 : 雲菫
    1065 : 久岐忍
    1066 : 神里綾人
-   1067 : コレイ
-   1068 : ドリー
-   1069 : ティナリ
-   1070 : ニィロウ
-   1071 : セノ
-   1072 : キャンディス
+   1067 : [EN] - Collei
+   1068 : [EN] - Dori
+   1069 : [EN] - Tighnari
+   1070 : [EN] - Nilou
+   1071 : [EN] - Cyno
+   1072 : [EN] - Candace
+   1073 : [EN] - Candace
+   1074 : [EN] - Candace
    1102 : 神里綾華の星屑
    1103 : ジンの星屑
    1105 : 旅人（男）の星屑
@@ -323,12 +330,14 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
    1164 : 雲菫の星屑
    1165 : 久岐忍の星屑
    1166 : 神里綾人の星屑
-   1167 : コレイの星屑
-   1168 : ドリーの星屑
-   1169 : ティナリの星屑
-   1170 : ニィロウの星屑
-   1171 : セノの星屑
-   1172 : キャンディスの星屑
+   1167 : [EN] - Collei's Stella Fortuna
+   1168 : [EN] - Dori's Stella Fortuna
+   1169 : [EN] - Tighnari's Stella Fortuna
+   1170 : [EN] - Nilou's Stella Fortuna
+   1171 : [EN] - Cyno's Stella Fortuna
+   1172 : [EN] - Candace's Stella Fortuna
+   1173 : [EN] - Candace's Stella Fortuna
+   1174 : [EN] - Candace's Stella Fortuna
    1201 : 天空紀行·原稿
    1202 : 空月の祝福·新月
    2001 : 元素エネルギーボール(炎)
@@ -405,8 +414,8 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   11414 : 天目影打
   11415 : シナバースピンドル
   11416 : 籠釣瓶一心
-  11417 : 原木刀
-  11418 : サイフォスの月明かり
+  11417 : [EN] - Sapwood Blade
+  11418 : [EN] - Xiphos' Moonlight
   11419 : 「一心伝」名刀
   11420 : 「一心伝」名刀
   11421 : 「一心伝」名刀
@@ -420,7 +429,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   11508 : [N/A] 1664039091
   11509 : 霧切の廻光
   11510 : 波乱月白経津
-  11511 : 聖顕の鍵
+  11511 : [EN] - Key of Hierophany
   12101 : 訓練用大剣
   12201 : 傭兵の重剣
   12301 : 鉄影段平
@@ -442,9 +451,9 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   12411 : 雪葬の星銀
   12412 : 銜玉の海皇
   12414 : 桂木斬長正
-  12415 : マカイラの水色
+  12415 : [EN] - Mahara Aquamarine
   12416 : 惡王丸
-  12417 : 森林のレガリア
+  12417 : [EN] - Forest Regalia
   12501 : 天空の傲
   12502 : 狼の末路
   12503 : 松韻の響く頃
@@ -472,8 +481,8 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   13414 : 喜多院十文字槍
   13415 : 「漁獲」
   13416 : 斬波のひれ長
-  13417 : ムーンピアサー
-  13419 : 風信の矛
+  13417 : [EN] - Moonpiercer
+  13419 : [EN] - Shifting Windblade
   13501 : 護摩の杖
   13502 : 天空の脊
   13503 : [N/A] 469555475
@@ -482,7 +491,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   13506 : レジサイド
   13507 : 息災
   13509 : 草薙の稲光
-  13511 : 赤砂の杖
+  13511 : [EN] - Staff of the Scarlet Sands
   14101 : 生徒ノート
   14201 : ポケット魔導書
   14301 : 魔導緒論
@@ -506,8 +515,8 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   14413 : ドドコの物語
   14414 : 白辰の輪
   14415 : 誓いの明瞳
-  14416 : 彷徨える星
-  14417 : 満悦の実
+  14416 : [EN] - Wandering Evenstar
+  14417 : [EN] - Fruit of Fulfillment
   14501 : 天空の巻
   14502 : 四風原典
   14503 : 散逸した叙事詩
@@ -516,6 +525,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   14506 : 不滅の月華
   14508 : [N/A] 4123950051
   14509 : 神楽の真意
+  14511 : [N/A] 1201790667
   15101 : 狩猟弓
   15201 : 歴戦の狩猟弓
   15301 : 鴉羽の弓
@@ -540,8 +550,8 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   15414 : 破魔の弓
   15415 : プレデター
   15416 : 曚雲の月
-  15417 : 王の近侍
-  15418 : 竭沢
+  15417 : [EN] - King's Squire
+  15418 : [EN] - End of the Line
   15501 : 天空の翼
   15502 : アモスの弓
   15503 : 終焉を嘆く詩
@@ -551,50 +561,50 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   15507 : 冬極の白星
   15508 : 若水
   15509 : 飛雷の鳴弦
-  15511 : 狩人の道
+  15511 : [EN] - Hunter's Path
   20001 : [CHS] - (test)竿测试
   20002 : 初心者の羽
   20004 : 初心者の花
-  20412 : 迷い人の灯
-  20413 : 迷い人の灯
-  20422 : 翠蔓の知者
-  20423 : 翠蔓の知者
-  20432 : 月桂の宝冠
-  20433 : 月桂の宝冠
-  20442 : 迷宮の遊客
-  20443 : 迷宮の遊客
-  20452 : 賢知の定期
-  20453 : 賢知の定期
-  20513 : 迷い人の灯
-  20514 : 迷い人の灯
-  20523 : 翠蔓の知者
-  20524 : 翠蔓の知者
-  20533 : 月桂の宝冠
-  20534 : 月桂の宝冠
-  20543 : 迷宮の遊客
-  20544 : 迷宮の遊客
-  20553 : 賢知の定期
-  20554 : 賢知の定期
-  21412 : 甘露の終宴
-  21413 : 甘露の終宴
-  21422 : 裁断の羽根
-  21423 : 裁断の羽根
-  21432 : 砂王の投影
-  21433 : 砂王の投影
-  21442 : 夢境の鉄花
-  21443 : 夢境の鉄花
-  21452 : 深金の歳月
-  21453 : 深金の歳月
-  21513 : 甘露の終宴
-  21514 : 甘露の終宴
-  21523 : 裁断の羽根
-  21524 : 裁断の羽根
-  21533 : 砂王の投影
-  21534 : 砂王の投影
-  21543 : 夢境の鉄花
-  21544 : 夢境の鉄花
-  21553 : 深金の歳月
-  21554 : 深金の歳月
+  20412 : [EN] - Lamp of the Lost
+  20413 : [EN] - Lamp of the Lost
+  20422 : [EN] - Scholar of Vines
+  20423 : [EN] - Scholar of Vines
+  20432 : [EN] - Laurel Coronet
+  20433 : [EN] - Laurel Coronet
+  20442 : [EN] - Labyrinth Wayfarer
+  20443 : [EN] - Labyrinth Wayfarer
+  20452 : [EN] - A Time of Insight
+  20453 : [EN] - A Time of Insight
+  20513 : [EN] - Lamp of the Lost
+  20514 : [EN] - Lamp of the Lost
+  20523 : [EN] - Scholar of Vines
+  20524 : [EN] - Scholar of Vines
+  20533 : [EN] - Laurel Coronet
+  20534 : [EN] - Laurel Coronet
+  20543 : [EN] - Labyrinth Wayfarer
+  20544 : [EN] - Labyrinth Wayfarer
+  20553 : [EN] - A Time of Insight
+  20554 : [EN] - A Time of Insight
+  21412 : [EN] - Honeyed Final Feast
+  21413 : [EN] - Honeyed Final Feast
+  21422 : [EN] - Feather of Judgment
+  21423 : [EN] - Feather of Judgment
+  21432 : [EN] - Shadow of the Sand King
+  21433 : [EN] - Shadow of the Sand King
+  21442 : [EN] - Dreaming Steelbloom
+  21443 : [EN] - Dreaming Steelbloom
+  21452 : [EN] - The Sunken Years
+  21453 : [EN] - The Sunken Years
+  21513 : [EN] - Honeyed Final Feast
+  21514 : [EN] - Honeyed Final Feast
+  21523 : [EN] - Feather of Judgment
+  21524 : [EN] - Feather of Judgment
+  21533 : [EN] - Shadow of the Sand King
+  21534 : [EN] - Shadow of the Sand King
+  21543 : [EN] - Dreaming Steelbloom
+  21544 : [EN] - Dreaming Steelbloom
+  21553 : [EN] - The Sunken Years
+  21554 : [EN] - The Sunken Years
   23300 : [CHS] - 移动速度百分比
   23301 : [CHS] - 火元素伤害加成
   23302 : [CHS] - 电元素伤害加成
@@ -903,26 +913,26 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   23618 : 浮流の対玉
   23619 : 魂香の花
   23620 : 祭祀の証
-  23621 : 迷い人の灯
-  23622 : 翠蔓の知者
-  23623 : 月桂の宝冠
-  23624 : 迷宮の遊客
-  23625 : 賢知の定期
-  23626 : 迷い人の灯
-  23627 : 翠蔓の知者
-  23628 : 月桂の宝冠
-  23629 : 迷宮の遊客
-  23630 : 賢知の定期
-  23631 : 甘露の終宴
-  23632 : 裁断の羽根
-  23633 : 砂王の投影
-  23634 : 夢境の鉄花
-  23635 : 深金の歳月
-  23636 : 甘露の終宴
-  23637 : 裁断の羽根
-  23638 : 砂王の投影
-  23639 : 夢境の鉄花
-  23640 : 深金の歳月
+  23621 : [EN] - Lamp of the Lost
+  23622 : [EN] - Scholar of Vines
+  23623 : [EN] - Laurel Coronet
+  23624 : [EN] - Labyrinth Wayfarer
+  23625 : [EN] - A Time of Insight
+  23626 : [EN] - Lamp of the Lost
+  23627 : [EN] - Scholar of Vines
+  23628 : [EN] - Laurel Coronet
+  23629 : [EN] - Labyrinth Wayfarer
+  23630 : [EN] - A Time of Insight
+  23631 : [EN] - Honeyed Final Feast
+  23632 : [EN] - Feather of Judgment
+  23633 : [EN] - Shadow of the Sand King
+  23634 : [EN] - Dreaming Steelbloom
+  23635 : [EN] - The Sunken Years
+  23636 : [EN] - Honeyed Final Feast
+  23637 : [EN] - Feather of Judgment
+  23638 : [EN] - Shadow of the Sand King
+  23639 : [EN] - Dreaming Steelbloom
+  23640 : [EN] - The Sunken Years
   24101 : 剣闘士の酩酊
   24102 : 剣闘士の帰着
   24103 : 華飾の兜
@@ -4312,7 +4322,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  100093 : エビのむき身
  100094 : 「冷製鮮肉」
  100095 : ウナギ肉
- 100096 : ツルツル豆
+ 100096 : [EN] - Glabrous Beans
  100101 : ジンの書類カバン
  100102 : 『極限脱出』
  100103 : 破れた楽譜（前半）
@@ -5152,11 +5162,11 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  101108 : 北陸両手剣
  101109 : 北陸法器
  101110 : 北陸の長柄武器
- 101111 : 中央大陸片手剣の原型
- 101112 : 中央大陸弓の原型
- 101113 : 中央大陸両手剣の原型
- 101114 : 中央大陸法器の原型
- 101115 : 中央大陸長柄武器の原型
+ 101111 : [EN] - Midlander Sword Billet
+ 101112 : [EN] - Midlander Bow Billet
+ 101113 : [EN] - Midlander Claymore Billet
+ 101114 : [EN] - Midlander Catalyst Billet
+ 101115 : [EN] - Midlander Polearm Billet
  101201 : オニカブトムシ
  101202 : 緋櫻毬
  101203 : 晶化骨髄
@@ -5169,19 +5179,19 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  101210 : 海草
  101211 : スミレウリ
  101212 : 星茸
- 101213 : ルッカデヴァータダケ
- 101214 : パティサラ
- 101215 : サウマラタ蓮
- 101216 : ハッラの実
- 101217 : カルパラタ蓮
- 101218 : ザイトゥン桃
- 101219 : スメールローズ
- 101220 : 赤念の実
- 101221 : デーツ
- 101225 : 聖金虫
- 101226 : みなぎる星茸
- 101227 : ひからびた星茸
- 101228 : ヴィパリャス
+ 101213 : [EN] - Rukkhashava Mushrooms
+ 101214 : [EN] - Padisarah
+ 101215 : [EN] - Nilotpala Lotus
+ 101216 : [EN] - Harra Fruit
+ 101217 : [EN] - Kalpalata Lotus
+ 101218 : [EN] - Zaytun Peach
+ 101219 : [EN] - Sumeru Rose
+ 101220 : [EN] - Redcrest
+ 101221 : [EN] - Ajilenakh
+ 101225 : [EN] - Scarab
+ 101226 : [EN] - Activated Starshroom
+ 101227 : [EN] - Scorched Starshroom
+ 101228 : [EN] - Viparyas
  101301 : 樺材
  101302 : 萃華材
  101303 : 松材
@@ -5194,11 +5204,11 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  101310 : 楓材
  101311 : 孔雀材
  101312 : 御伽材
- 101313 : 輝光材
- 101314 : 業果材
- 101315 : 証悟材
- 101316 : ヤシ材
- 101317 : タマリスク材
+ 101313 : [EN] - Brightwood
+ 101314 : [EN] - Karmaphala Wood
+ 101315 : [EN] - Adhigama Wood
+ 101316 : [EN] - Mountain Date Wood
+ 101317 : [EN] - Athel Wood
  101401 : 布材
  101402 : 赤色の染料
  101403 : 黄色の染料
@@ -5463,12 +5473,12 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  101771 : 赤穂秘宝の在所·其の二
  101772 : 赤穂秘宝の在所·其の三
  101773 : 赤穂秘宝の在所·其の四
- 101774 : ヤグナ草
- 101775 : ゾーラ茸
- 101776 : バルサムフラワー
+ 101774 : [EN] - Yajna Grass
+ 101775 : [EN] - Zohrah Mushroom
+ 101776 : [EN] - Barsam Flower
  101777 : [CHS] - （test）封印钥匙其一
  101778 : [CHS] - （test）封印钥匙其二
- 101779 : アランハオマ
+ 101779 : [EN] - Arahaoma
  101780 : 『無生忍』台本
  101781 : 『無生忍』台本
  101782 : 瑾武が作ったスープ
@@ -5485,7 +5495,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  101793 : [CHS] - （test）神秘的信笺11
  101794 : [CHS] - （test）神秘的信笺12
  101795 : 一袋の装飾品
- 101796 : ヴァスミリティ
+ 101796 : [EN] - Vasmrti
  101797 : 出発！ドドコ
  101798 : 航路の覚え書き
  101799 : 順路の覚え書き·其の一
@@ -5498,31 +5508,31 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  101806 : 星象の欠片
  101807 : 星象の欠片
  101808 : 星象の欠片
- 101809 : ヴァソマの実
+ 101809 : [EN] - Vasoma Fruit
  101810 : [CHS] - (test)恒素果2
- 101811 : 「花冠」
- 101812 : 「花冠」
- 101813 : ビージャの実
- 101814 : アランラナの花
- 101815 : アランラジャの花
- 101816 : 名もなき花
- 101817 : アランパンドゥの花
- 101818 : アランコンティの花
- 101819 : アランナクラの花
- 101820 : アランバリカの花
- 101821 : アランナガの花
- 101822 : アランナキンの花
- 101823 : アランガルの花
- 101824 : アランラキャの花
- 101825 : アランイシャの花
- 101826 : アランカラの花
- 101827 : 「兄妹たち」の花
- 101828 : 歌摘みの花
- 101829 : アランリラとアランニシャットの花
- 101830 : アランカンタの花
+ 101811 : [EN] - Garland
+ 101812 : [EN] - Garland
+ 101813 : [EN] - Bija
+ 101814 : [EN] - Arana's Flower
+ 101815 : [EN] - Araja's Flower
+ 101816 : [EN] - Nameless Flower
+ 101817 : [EN] - Arapandu's Flower
+ 101818 : [EN] - Arakunti's Flower
+ 101819 : [EN] - Aranakula's Flower
+ 101820 : [EN] - Arabalika's Flower
+ 101821 : [EN] - Aranaga's Flower
+ 101822 : [EN] - Aranakin's Flower
+ 101823 : [EN] - Aragaru's Flower
+ 101824 : [EN] - Ararycan's Flower
+ 101825 : [EN] - Araesha's Flower
+ 101826 : [EN] - Arakara's Flower
+ 101827 : [EN] - The Siblings' Flowers
+ 101828 : [EN] - The Song Gatherers' Flowers
+ 101829 : [EN] - Aralila and Aranishat's Flowers
+ 101830 : [EN] - Arakanta's Flower
  101831 : [CHS] - (test)兰那罗小花18
- 101832 : あなたとアランナラの物語
- 101833 : 「緊急調整計画書」
+ 101832 : [EN] - Stories of You and the Aranara
+ 101833 : [EN] - "Emergency Adjustment Plan"
  101834 : 星象の欠片
  101835 : 鍵
  101836 : 泉水の入ったボトル
@@ -5546,7 +5556,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  101857 : 浮光山石·右
  101858 : 磐固山石·左
  101859 : 磐固山石·右
- 101860 : 活源水
+ 101860 : [EN] - Living Spring
  101861 : 一箱のパーツ
  101862 : 得体の知れない紙切れ 其の一
  101863 : 得体の知れない紙切れ 其の二
@@ -5581,7 +5591,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  101892 : 部品·澄緑
  101893 : 法医室の研究日誌のページ
  101894 : 得体の知れない紙切れ
- 101895 : [CHS] - (test）钥匙
+ 101895 : [EN] - ？？？
  101896 : 晶核
  101897 : 晶核
  101898 : 晶核
@@ -5591,101 +5601,102 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  101902 : 余韻の鍵
  101903 : 届いたばかりの手紙
  101904 : アカツキワイナリーの絶品ブドウジュース
- 101905 : スライムの液体を染み込ませた土
- 101906 : トリックフラワーの根っこの土
- 101907 : ジメジメした土
+ 101905 : [EN] - Slime Condensate-Soaked Soil
+ 101906 : [EN] - Whopperflower Root Soil
+ 101907 : [EN] - Moist Soil
  101908 : 星光凝核
  101909 : 雪山物資·ハム
  101910 : 幽羽夜巡の契約
- 101911 : 特製おもちゃ用「セメン土」
+ 101911 : [EN] - Special "Concresoil" for Toys
  101912 : [CHS] - (test)材料参照物
- 101913 : トリックフラワーの根っこの土
- 101914 : 肥沃な土？
- 101915 : 廃棄された「セメン土」
+ 101913 : [EN] - Whopperflower Root Soil
+ 101914 : [EN] - Fertile Soil (Reportedly)
+ 101915 : [EN] - Discarded "Concresoil"
  101916 : 奉行所の尋ね人依頼
  101917 : 海塩が付着している鍵
  101918 : [CHS] - （test）危危岛遗迹钥匙2
- 101919 : 特別な鳥の卵
- 101920 : 特別なキノコ
- 101921 : 特別なミント
- 101922 : 特別なハッラの実
- 101923 : 特別なスイートフラワー
+ 101919 : [EN] - Special Bird Egg
+ 101920 : [EN] - Special Mushroom
+ 101921 : [EN] - Special Mint
+ 101922 : [EN] - Special Harra Fruit
+ 101923 : [EN] - Special Sweet Flower
  101924 : [CHS] - (test)新鲜的材料2
- 101925 : ティナリの弁当箱
- 101926 : ハイパシアへの手紙
- 101927 : 旅人の手作り弁当
- 101928 : ティナリの紹介状
- 101929 : 取引用モラ袋
- 101930 : 缶詰知識の袋
- 101931 : 缶詰知識「片手剣の戦闘技術·八」
- 101932 : 情報購入用モラ袋
- 101933 : 取引現場の写真
- 101934 : 情報屋の暗号表
+ 101925 : [EN] - Box Lunch from Tighnari
+ 101926 : [EN] - Letter to Haypasia
+ 101927 : [EN] - Box Lunch from the Traveler
+ 101928 : [EN] - Tighnari's Introduction Letter
+ 101929 : [EN] - Bag of Transaction Funds
+ 101930 : [EN] - Package of Canned Knowledge
+ 101931 : [EN] - Canned Knowledge "Swordfighting Techniques VIII"
+ 101932 : [EN] - Bag of Intel Transaction Funds
+ 101933 : [EN] - Picture of the Transaction
+ 101934 : [EN] - Informant Code Chart
  101935 : 置き間違えられたホラガイ·1
  101936 : 置き間違えられたホラガイ·2
  101937 : 置き間違えられたホラガイ·3
- 101938 : ビマリスタンがガルゲンに出した処方薬
- 101939 : ビマリスタンがアズラに出した処方薬
- 101940 : ビマリスタンがアフタブに出した処方薬
- 101941 : 新鮮なハッラの実
- 101942 : 新鮮なザイトゥン桃
+ 101938 : [EN] - Prescription Medication from Bimarstan for Gurgen
+ 101939 : [EN] - Prescription Medication from Bimarstan for Azra
+ 101940 : [EN] - Prescription Medication from Bimarstan for Aftab
+ 101941 : [EN] - Fresh Harra Fruit
+ 101942 : [EN] - Fresh Zaytun Peach
  101943 : 赤く染まった布地
- 101944 : 「最高に美味しい水」
+ 101944 : [EN] - "The Best Water"
  101945 : 銀メッキの懐中時計
  101946 : 古びた記章
- 101947 : 新鮮なスライムの液体
- 101948 : サリーの便箋
- 101949 : サリーの便箋
- 101950 : サリーの便箋
- 101951 : 新鮮なサウマラタ蓮
- 101952 : ローズの萌芽
- 101953 : 勇士の鷹の羽根
- 101954 : 花の御守り
- 101955 : 採れたての新鮮キノコ
- 101956 : 異常なスメールローズ
- 101957 : 謎解きが書かれた紙
- 101958 : 謎解きが書かれた紙
- 101959 : 謎解きが書かれた紙
- 101960 : 謎解きが書かれた紙
- 101961 : ラフィクの造船材料
- 101962 : 風に乾いた小さな花
- 101963 : 活性化済み·缶詰知識
+ 101947 : [EN] - Fresh Slime Condensate
+ 101948 : [EN] - Sareh's Note
+ 101949 : [EN] - Sareh's Note
+ 101950 : [EN] - Sareh's Note
+ 101951 : [EN] - Fresh Nilotpala Lotus
+ 101952 : [EN] - Rose Sprout
+ 101953 : [EN] - Eagle Feather of The Brave
+ 101954 : [EN] - Florescent Talisman
+ 101955 : [EN] - Freshly-Picked Mushroom
+ 101956 : [EN] - Strange Sumeru Rose
+ 101957 : [EN] - Riddle Note
+ 101958 : [EN] - Riddle Note
+ 101959 : [EN] - Riddle Note
+ 101960 : [EN] - Riddle Note
+ 101961 : [EN] - Rafiq's Shipbuilding Materials
+ 101962 : [EN] - Little Dried Flower
+ 101963 : [EN] - Activated·Canned Knowledge
  101964 : ペルシーコフのレポート
- 101965 : 普通の木材
- 101966 : ファデュイの食事
- 101967 : 筐底の宝の地図
- 101968 : 点滅する部品
- 101969 : ヒエログリフタブレット·谷
- 101970 : ヒエログリフタブレット·鳥の頭
- 101971 : ヒエログリフタブレット·上げた腕
- 101972 : ヒエログリフタブレット·砂嵐
- 101973 : ヒエログリフタブレット·耳殻
- 101974 : ヒエログリフタブレット·樹木
- 101975 : ヒエログリフタブレット·雷霆
- 101976 : ヒエログリフタブレット·危険
- 101977 : ヒエログリフタブレット·槌
- 101978 : ヒエログリフタブレット·日の出
- 101979 : ヒエログリフタブレット·王権
- 101980 : ヒエログリフタブレット·羊の頭
- 101981 : ヒエログリフタブレット·ワニの頭
- 101982 : ヒエログリフタブレット·巨蛇
- 101983 : ヒエログリフタブレット·祭祀
- 101984 : ヒエログリフタブレット·労働
- 101985 : ヒエログリフタブレット·砂丘
+ 101965 : [EN] - Normal Wood
+ 101966 : [EN] - Fatui Meal
+ 101967 : [EN] - Treasure Map in a Box
+ 101968 : [EN] - Glinting Component
+ 101969 : [EN] - Sacred Seal: Valley
+ 101970 : [EN] - Sacred Seal: Bird Head
+ 101971 : [EN] - Sacred Seal: Raised Arm
+ 101972 : [EN] - Sacred Seal: Sandstorm
+ 101973 : [EN] - Sacred Seal: Auricle
+ 101974 : [EN] - Sacred Seal: Forest
+ 101975 : [EN] - Sacred Seal: Thunderstrike
+ 101976 : [EN] - Sacred Seal: Danger
+ 101977 : [EN] - Sacred Seal: Chisel Hammer
+ 101978 : [EN] - Sacred Seal: Sunrise
+ 101979 : [EN] - Sacred Seal: Right to Rule
+ 101980 : [EN] - Sacred Seal: Sheep Head
+ 101981 : [EN] - Sacred Seal: Crocodile Head
+ 101982 : [EN] - Sacred Seal: Giant Serpent
+ 101983 : [EN] - Sacred Seal: Ceremony
+ 101984 : [EN] - Sacred Seal: Labor
+ 101985 : [EN] - Sacred Seal: Dune
  101986 : [CHS] - (test)黑乎乎的怪东西
- 101987 : ゴールデンローズの種
- 101988 : 透明遺跡の記録·其の一
- 101989 : 羊呑の岩の記録
- 101990 : 飽飲の霊廟の記録
- 101991 : ソヘイルの考古ノート
- 101992 : アアルの影の記録
+ 101987 : [EN] - Golden Rose Seeds
+ 101988 : [EN] - Transparent Ruins Record (I)
+ 101989 : [EN] - Record of Lamb-Eater Rock
+ 101990 : [EN] - Record of the Tomb of Full Flagons
+ 101991 : [EN] - Soheil's Old Notes
+ 101992 : [EN] - Record of Aaru's Reflection
  101993 : 暮夜劇団団長の手稿
- 101994 : 摘みたてのハッラの実
- 101995 : 署名のない紙切れ
- 101996 : ボロボロな記録
- 101997 : リメルト装置
- 101998 : リメルトタブレット
- 101999 : 雇い主の命令
+ 101994 : [EN] - Freshly-Picked Harra Fruit
+ 101995 : [EN] - Unsigned Note
+ 101996 : [EN] - Ragged Records
+ 101997 : [EN] - Remelting Device
+ 101998 : [EN] - Remelting Tablet
+ 101999 : [EN] - Employer's Orders
+ 102000 : [EN] - Unknown Object With an Earthy Glow
  102001 : 炎元素結晶の欠片
  102002 : 水元素結晶の欠片
  102003 : 草元素結晶の欠片
@@ -5769,15 +5780,15 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  104326 : 「天光」の教え
  104327 : 「天光」の導き
  104328 : 「天光」の哲学
- 104329 : 「忠言」の教え
- 104330 : 「忠言」の導き
- 104331 : 「忠言」の哲学
- 104332 : 「創意」の教え
- 104333 : 「創意」の導き
- 104334 : 「創意」の哲学
- 104335 : 「篤行」の教え
- 104336 : 「篤行」の導き
- 104337 : 「篤行」の哲学
+ 104329 : [EN] - Teachings of Admonition
+ 104330 : [EN] - Guide to Admonition
+ 104331 : [EN] - Philosophies of Admonition
+ 104332 : [EN] - Teachings of Ingenuity
+ 104333 : [EN] - Guide to Ingenuity
+ 104334 : [EN] - Philosophies of Ingenuity
+ 104335 : [EN] - Teachings of Praxis
+ 104336 : [EN] - Guide to Praxis
+ 104337 : [EN] - Philosophies of Praxis
  105001 : 祝福の雫
  105002 : 祈聖のオイル
  105003 : 祈聖のエキス
@@ -5800,8 +5811,8 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  107014 : 失われた雷神の瞳
  107015 : 月逐い符
  107016 : 流明晶石
- 107017 : 失われた草神の瞳
- 107018 : スメールの地霊壇の鍵
+ 107017 : [EN] - Dendroculus
+ 107018 : [EN] - Sumeru Shrine of Depths Key
  108000 : 料理
  108001 : 微妙な漁師トースト
  108002 : 漁師トースト
@@ -6193,85 +6204,90 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  108388 : オムライス·ワルツ
  108389 : 美露エビ
  108390 : 唯一の真相
- 108391 : 微妙なバターチキン
- 108392 : バターチキン
- 108393 : 美味しそうなバターチキン
- 108394 : 微妙なシャワルマサンド
- 108395 : シャワルマサンド
- 108396 : 美味しそうなシャワルマサンド
- 108397 : 微妙な雨林サラダ
- 108398 : 雨林サラダ
- 108399 : 美味しそうな雨林サラダ
- 108400 : 微妙なマサラチーズボール
- 108401 : マサラチーズボール
- 108402 : 美味しそうなマサラチーズボール
- 108403 : 微妙な山盛りキノコ
- 108404 : 山盛りキノコ
- 108405 : 美味しそうな山盛りキノコ
- 108406 : 微妙なピタ
- 108407 : ピタ
- 108408 : 美味しそうなピタ
- 108409 : 微妙なパニプリ
- 108410 : パニプリ
- 108411 : 美味しそうなパニプリ
- 108412 : 微妙なミントビーンスープ
- 108413 : ミントビーンスープ
- 108414 : 美味しそうなミントビーンスープ
- 108415 : 微妙な獣肉のビリヤニ
- 108416 : 獣肉のビリヤニ
- 108417 : 美味しそうな獣肉のビリヤニ
- 108418 : 微妙なタフチーン
- 108419 : タフチーン
- 108420 : 美味しそうなタフチーン
- 108421 : 微妙なランバドフィッシュロール
- 108422 : ランバドフィッシュロール
- 108423 : 美味しそうなランバドフィッシュロール
- 108424 : 微妙なカレーシュリムプ
- 108425 : カレーシュリムプ
- 108426 : 美味しそうなカレーシュリムプ
- 108427 : 微妙なタンドリーチキン
- 108428 : タンドリーチキン
- 108429 : 美味しそうなタンドリーチキン
- 108430 : 微妙なポテトボート
- 108431 : ポテトボート
- 108432 : 美味しそうなポテトボート
- 108433 : 微妙な魚のクリームソース
- 108434 : 魚のクリームソース
- 108435 : 美味しそうな魚のクリームソース
- 108436 : レンジャー長のイチオシ
- 108437 : 憧れ
- 108438 : モラ、早くいらっしゃい！
- 108439 : 微妙な焼きキノコミートピザ
- 108440 : 焼きキノコミートピザ
- 108441 : 美味しそうな焼きキノコミートピザ
- 108442 : 微妙な夕暮れベリーティー
- 108443 : 夕暮れベリーティー
- 108444 : 美味しそうな夕暮れベリーティー
- 108445 : 微妙なミルキーキノコクリスプタワー
- 108446 : ミルキーキノコクリスプタワー
- 108447 : 美味しそうなミルキーキノコクリスプタワー
- 108448 : 微妙なデーツナン
- 108449 : デーツナン
- 108450 : 美味しそうなデーツナン
- 108451 : 微妙なバクラヴァ
- 108452 : バクラヴァ
- 108453 : 美味しそうなバクラヴァ
- 108454 : 微妙なナツメヤシキャンディ
- 108455 : ナツメヤシキャンディ
- 108456 : 美味しそうなナツメヤシキャンディ
- 108457 : 微妙なパティサラプリン
- 108458 : パティサラプリン
- 108459 : 美味しそうなパティサラプリン
- 108460 : 微妙なアアルコシャリ
- 108461 : アアルコシャリ
- 108462 : 美味しそうなアアルコシャリ
- 108463 : 微妙なバケーションサイダー
- 108464 : バケーションサイダー
- 108465 : 美味しそうなバケーションサイダー
- 108466 : ひらめく踊り
- 108467 : 決闘の魂
- 108468 : 至れり尽くせり
- 108469 : スパークリングベリージュース
+ 108391 : [EN] - Suspicious Butter Chicken
+ 108392 : [EN] - Butter Chicken
+ 108393 : [EN] - Delicious Butter Chicken
+ 108394 : [EN] - Suspicious Shawarma Wrap
+ 108395 : [EN] - Shawarma Wrap
+ 108396 : [EN] - Delicious Shawarma Wrap
+ 108397 : [EN] - Suspicious Selva Salad
+ 108398 : [EN] - Selva Salad
+ 108399 : [EN] - Delicious Selva Salad
+ 108400 : [EN] - Suspicious Masala Cheese Balls
+ 108401 : [EN] - Masala Cheese Balls
+ 108402 : [EN] - Delicious Masala Cheese Balls
+ 108403 : [EN] - Suspicious Mushroom Hodgepodge
+ 108404 : [EN] - Mushroom Hodgepodge
+ 108405 : [EN] - Delicious Mushroom Hodgepodge
+ 108406 : [EN] - Suspicious Pita Pocket
+ 108407 : [EN] - Pita Pocket
+ 108408 : [EN] - Delicious Pita Pocket
+ 108409 : [EN] - Suspicious Panipuri
+ 108410 : [EN] - Panipuri
+ 108411 : [EN] - Delicious Panipuri
+ 108412 : [EN] - Suspicious Minty Bean Soup
+ 108413 : [EN] - Minty Bean Soup
+ 108414 : [EN] - Delicious Minty Bean Soup
+ 108415 : [EN] - Suspicious Biryani
+ 108416 : [EN] - Biryani
+ 108417 : [EN] - Delicious Biryani
+ 108418 : [EN] - Suspicious Tahchin
+ 108419 : [EN] - Tahchin
+ 108420 : [EN] - Delicious Tahchin
+ 108421 : [EN] - Suspicious Lambad Fish Roll
+ 108422 : [EN] - Lambad Fish Roll
+ 108423 : [EN] - Delicious Lambad Fish Roll
+ 108424 : [EN] - Suspicious Curry Shrimp
+ 108425 : [EN] - Curry Shrimp
+ 108426 : [EN] - Delicious Curry Shrimp
+ 108427 : [EN] - Suspicious Tandoori Roast Chicken
+ 108428 : [EN] - Tandoori Roast Chicken
+ 108429 : [EN] - Delicious Tandoori Roast Chicken
+ 108430 : [EN] - Suspicious Potato Boat
+ 108431 : [EN] - Potato Boat
+ 108432 : [EN] - Delicious Potato Boat
+ 108433 : [EN] - Suspicious Fish With Cream Sauce
+ 108434 : [EN] - Fish With Cream Sauce
+ 108435 : [EN] - Delicious Fish With Cream Sauce
+ 108436 : [EN] - Forest Watcher's Choice
+ 108437 : [EN] - Yearning
+ 108438 : [EN] - Show Me the Mora
+ 108439 : [EN] - Suspicious Meat Lovers' Mushroom Pizza
+ 108440 : [EN] - Meat Lovers' Mushroom Pizza
+ 108441 : [EN] - Delicious Meat Lovers' Mushroom Pizza
+ 108442 : [EN] - Suspicious Sunset Berry Tea
+ 108443 : [EN] - Sunset Berry Tea
+ 108444 : [EN] - Delicious Sunset Berry Tea
+ 108445 : [EN] - Suspicious Milky Mushroom Crisp Tower
+ 108446 : [EN] - Milky Mushroom Crisp Tower
+ 108447 : [EN] - Delicious Milky Mushroom Crisp Tower
+ 108448 : [EN] - Suspicious Coconut Charcoal Cakes
+ 108449 : [EN] - Coconut Charcoal Cakes
+ 108450 : [EN] - Delicious Coconut Charcoal Cakes
+ 108451 : [EN] - Suspicious Baklava
+ 108452 : [EN] - Baklava
+ 108453 : [EN] - Delicious Baklava
+ 108454 : [EN] - Suspicious Candied Ajilenakh Nut
+ 108455 : [EN] - Candied Ajilenakh Nut
+ 108456 : [EN] - Delicious Candied Ajilenakh Nut
+ 108457 : [EN] - Suspicious Padisarah Pudding
+ 108458 : [EN] - Padisarah Pudding
+ 108459 : [EN] - Delicious Padisarah Pudding
+ 108460 : [EN] - Suspicious Aaru Mixed Rice
+ 108461 : [EN] - Aaru Mixed Rice
+ 108462 : [EN] - Delicious Aaru Mixed Rice
+ 108463 : [EN] - ？？？
+ 108464 : [EN] - ？？？
+ 108465 : [EN] - ？？？
+ 108466 : [EN] - Swirling Steps
+ 108467 : [EN] - Duel Soul
+ 108468 : [EN] - Utmost Care
+ 108469 : [EN] - ？？？
+ 108470 : [EN] - ？？？
+ 108471 : [EN] - ？？？
+ 108472 : [EN] - ？？？
+ 108473 : [EN] - ？？？
+ 108474 : [EN] - ？？？
  109000 : レシピアイテム
  109101 : レシピ：鳥肉と野生キノコの串焼き
  109102 : レシピ：漁師トースト
@@ -6382,30 +6398,31 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  109490 : レシピ：うどん
  109491 : レシピ：カツサンド
  109492 : レシピ：紫苑雲霓
- 109493 : レシピ：バターチキン
- 109494 : レシピ：シャワルマサンド
- 109495 : レシピ：雨林サラダ
- 109496 : レシピ：マサラチーズボール
- 109497 : レシピ：山盛りキノコ
- 109498 : レシピ：ピタ
- 109499 : レシピ：パニプリ
- 109500 : レシピ：ミントビーンスープ
- 109501 : レシピ：獣肉のビリヤニ
- 109502 : レシピ：タフチーン
- 109503 : レシピ：ランバドフィッシュロール
- 109504 : レシピ：カレーシュリムプ
- 109505 : レシピ：タンドリーチキン
- 109506 : レシピ：ポテトボート
- 109507 : レシピ：魚のクリームソース
- 109508 : レシピ：焼きキノコミートピザ
- 109509 : レシピ：夕暮れベリーティー
- 109510 : レシピ：ミルキーキノコクリスプタワー
- 109511 : レシピ：デーツナン
- 109512 : レシピ：バクラヴァ
- 109513 : レシピ：ナツメヤシキャンディ
- 109514 : レシピ：パティサラプリン
- 109515 : レシピ：アアルコシャリ
- 109516 : レシピ：バケーションサイダー
+ 109493 : [EN] - Recipe: Butter Chicken
+ 109494 : [EN] - Recipe: Shawarma Wrap
+ 109495 : [EN] - Recipe: Selva Salad
+ 109496 : [EN] - Recipe: Masala Cheese Balls
+ 109497 : [EN] - Recipe: Mushroom Hodgepodge
+ 109498 : [EN] - Recipe: Pita Pocket
+ 109499 : [EN] - Recipe: Panipuri
+ 109500 : [EN] - Recipe: Minty Bean Soup
+ 109501 : [EN] - Recipe: Biryani
+ 109502 : [EN] - Recipe: Tahchin
+ 109503 : [EN] - Recipe: Lambad Fish Roll
+ 109504 : [EN] - Recipe: Curry Shrimp
+ 109505 : [EN] - Recipe: Tandoori Roast Chicken
+ 109506 : [EN] - Recipe: Potato Boat
+ 109507 : [EN] - Recipe: Fish With Cream Sauce
+ 109508 : [EN] - Recipe: Meat Lovers' Mushroom Pizza
+ 109509 : [EN] - Recipe: Sunset Berry Tea
+ 109510 : [EN] - Recipe: Milky Mushroom Crisp Tower
+ 109511 : [EN] - Recipe: Charcoal-Baked Ajilenakh Cake
+ 109512 : [EN] - Recipe: Baklava
+ 109513 : [EN] - Recipe: Candied Ajilenakh Nut
+ 109514 : [EN] - Recipe: Padisarah Pudding
+ 109515 : [EN] - Recipe: Aaru Mixed Rice
+ 109516 : [EN] - ？？？
+ 109517 : [EN] - ？？？
  110000 : 合成産物
  110001 : 小麦粉
  110002 : クリーム
@@ -6419,7 +6436,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  110011 : ソーセージ
  110012 : 魚の燻製
  110013 : 魚の干物
- 110014 : 香辛料
+ 110014 : [EN] - Spice
  111006 : 耐熱薬剤
  111007 : 耐湿薬剤
  111008 : 耐寒薬剤
@@ -6442,7 +6459,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  111025 : ワームの疑似餌
  111026 : ハエの疑似餌
  111027 : 蛍草餌
- 111028 : 甘露餌
+ 111028 : [EN] - Sugardew Bait
  112001 : 原質
  112002 : スライムの液体
  112003 : スライムの分泌物
@@ -6504,18 +6521,18 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  112059 : キノコンの胞子
  112060 : キノコンの蛍胞子
  112061 : キノコンの晶胞子
- 112062 : キノコンの衰菌核
- 112063 : キノコンの眠菌核
- 112064 : キノコンの壮菌核
- 112065 : 色褪せた赤い絹
- 112066 : 縁飾の赤い絹
- 112067 : 金織の赤い絹
- 112068 : 混沌ストレージ
- 112069 : 混沌モジュール
- 112070 : 混沌ボルト
- 112071 : 壊れたプリズム
- 112072 : 濁ったプリズム
- 112073 : 輝くプリズム
+ 112062 : [EN] - Inactivated Fungal Nucleus
+ 112063 : [EN] - Dormant Fungal Nucleus
+ 112064 : [EN] - Robust Fungal Nucleus
+ 112065 : [EN] - Faded Red Satin
+ 112066 : [EN] - Trimmed Red Silk
+ 112067 : [EN] - Rich Red Brocade
+ 112068 : [EN] - Chaos Storage
+ 112069 : [EN] - Chaos Module
+ 112070 : [EN] - Chaos Bolt
+ 112071 : [EN] - Damaged Prism
+ 112072 : [EN] - Turbid Prism
+ 112073 : [EN] - Radiant Prism
  113001 : 暴風の種
  113002 : 雷光のプリズム
  113003 : 東風の羽根
@@ -6551,10 +6568,14 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  113033 : 禍神の禊涙
  113034 : 万劫の真意
  113035 : 符文の歯車
- 113036 : 茸王の鉤状のくちばし
- 113037 : 隠雷の実
- 113038 : 永続コア
- 113039 : 導光四面体
+ 113036 : [EN] - Majestic Hooked Beak
+ 113037 : [EN] - Thunderclap Fruitcore
+ 113038 : [EN] - Perpetual Caliber
+ 113039 : [EN] - Light Guiding Tetrahedron
+ 113040 : [EN] - Light Guiding Tetrahedron
+ 113041 : [EN] - Light Guiding Tetrahedron
+ 113042 : [EN] - Light Guiding Tetrahedron
+ 113043 : [EN] - Light Guiding Tetrahedron
  114001 : 高塔の王の瓦
  114002 : 高塔の王の残壁
  114003 : 高塔の王の断片
@@ -6591,18 +6612,18 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  114034 : 今昔劇画の虎牙
  114035 : 今昔劇画の隻角
  114036 : 今昔劇画の鬼人
- 114037 : 静謐な森のしずくの銅符
- 114038 : 静謐な森のしずくの鉄符
- 114039 : 静謐な森のしずくの銀符
- 114040 : 静謐な森のしずくの金符
- 114041 : オアシスガーデンの追憶
- 114042 : オアシスガーデンの恩恵
- 114043 : オアシスガーデンの哀思
- 114044 : オアシスガーデンの真諦
- 114045 : 烈日権威の残響
- 114046 : 烈日権威の残光
- 114047 : 烈日権威の夢想
- 114048 : 烈日権威の往日
+ 114037 : [EN] - Copper Talisman of the Forest Dew
+ 114038 : [EN] - Iron Talisman of the Forest Dew
+ 114039 : [EN] - Silver Talisman of the Forest Dew
+ 114040 : [EN] - Golden Talisman of the Forest Dew
+ 114041 : [EN] - Oasis Garden's Reminiscence
+ 114042 : [EN] - Oasis Garden's Kindness
+ 114043 : [EN] - Oasis Garden's Mourning
+ 114044 : [EN] - Oasis Garden's Truth
+ 114045 : [EN] - Echo of Scorching Might
+ 114046 : [EN] - Remnant Glow of Scorching Might
+ 114047 : [EN] - Dream of Scorching Might
+ 114048 : [EN] - Olden Days of Scorching Might
  115001 : [CHS] - (test)新手礼包
  115002 : [CHS] - (test)角色养成包一（全平台）
  115003 : [CHS] - (test)角色养成包二（IOS）
@@ -6640,7 +6661,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  115037 : 社奉行からの贈り物。
  115038 : 精巧な調度品の贈り物。
  115039 : 不思議な調度品の贈り物。
- 115040 : 中央大陸の原型の箱
+ 115040 : [EN] - Midlander Billet Trove
  116001 : 紀行経験
  116002 : 紀行宝匣
  116003 : テスト用BP選択ギフトパック
@@ -6652,8 +6673,8 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  116009 : [CHS] - (test)BP付费高级礼包
  116010 : 雲雷の導き
  116011 : 雲雷の哲学
- 116012 : 碧草の導き
- 116013 : 碧草の哲学
+ 116012 : [EN] - Guidance of the Land of Verdure
+ 116013 : [EN] - Philosophies of the Land of Verdure
  117001 : 深秘の聖遺物箱·三等
  117002 : 深秘の聖遺物箱·二等
  117003 : 深秘の聖遺物箱·一等
@@ -6661,125 +6682,121 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  117005 : 聖遺物宝箱·流浪楽団と剣闘士
  117006 : 深秘の聖遺物箱·二等
  117007 : 深秘の聖遺物箱·一等
- 117008 : 深秘の聖遺物箱·二等
- 117009 : 深秘の聖遺物箱·一等
+ 117008 : [EN] - Domain Reliquary: Tier II
+ 117009 : [EN] - Domain Reliquary: Tier I
  118001 : 旅人へのケーキ
  118002 : 旅人へのケーキ
  118003 : 旅人へのケーキ
  118004 : 旅人へのケーキ
- 118005 : 旅人へのケーキ
- 118006 : 旅人へのケーキ
- 120000 : アラニからニルファへのメモ
- 120001 : カビカバスの論文
- 120002 : 風に乾いた花
- 120003 : アミティ装置の欠片·其の一
- 120004 : アミティ装置の欠片·其の二
- 120005 : アミティ装置の欠片·其の三
- 120006 : ジャザリーのモラ袋
- 120007 : 「究極無敵」な冒険手帳
- 120008 : 失われたエネルギーブロック
- 120009 : 奇妙な羊皮紙
+ 118005 : [EN] - Cake for Traveler
+ 118006 : [EN] - Cake for Traveler
+ 120000 : [EN] - A Note Alrani Left for Niloofar
+ 120001 : [EN] - A Research Paper by Pir Kavikavus
+ 120002 : [EN] - Dried Flower
+ 120003 : [EN] - Amiti Device Fragment (I)
+ 120004 : [EN] - Amiti Device Fragment (II)
+ 120005 : [EN] - Amiti Device Fragment (III)
+ 120006 : [EN] - Jazari's Mora Purse
+ 120007 : [EN] - "The Ultra Invincible" Adventure Handbook
+ 120008 : [EN] - Lost Energy Block
+ 120009 : [EN] - Strange Parchment
  120010 : [CHS] - (test)冒险地图
- 120011 : 枯れたクサヴァ
- 120012 : グラブジル特製！ペットの蛇の餌
- 120013 : 変わったビーズ
- 120014 : 小さな変わった帽子
- 120015 : 古びたラック
- 120016 : ジャヴィの「夢」
- 120017 : ボロボロな紙切れ
- 120018 : 牧童と魔法の瓶
- 120019 : シェロイとシリンの物語·1
- 120020 : シェロイとシリンの物語·2
- 120021 : アフマルの物語
- 120022 : 遐葉論·1
- 120023 : 遐葉論·2
- 120024 : 遐葉論·3
- 120025 : プシュパの歌·1
- 120026 : プシュパの歌·2
- 120027 : プシュパの歌·3
- 120028 : 霊光への頌歌
- 120029 : 透明遺跡の記録·其の二
- 120030 : 透明遺跡の記録·其の三
- 120031 : 古びた鍵
- 120032 : 封の開かれた羊皮紙
- 120033 : 道しるべの羊皮紙
- 120034 : 囁きの羊皮紙
- 120035 : 不思議な羊皮紙
- 120036 : 古い仕事日誌
- 120037 : 教令院考察隊の臨時報告
- 120038 : ザンディクのノート
- 120039 : ソホレのノート
- 120040 : スメール考察隊のノート
- 120041 : 解剖記録
- 120042 : ボロボロな出勤記録
- 120043 : 仕入れた物資
- 120044 : 仕入れた物資
- 120045 : 仕入れた物資
- 120046 : 仕入れた物資
- 120047 : カルテ
- 120048 : 診断書
- 120049 : シェヴァマの「仕入れ資金」
- 120050 : 曲清の「仕入れ資金」
- 120051 : 関垂の「仕入れ資金」
- 120052 : ザカリヤがマルフのために出した「処方箋」
- 120053 : ザカリヤがマルフのために出した「処方箋」
- 120054 : ザカリヤがマルフのために出した「処方箋」
+ 120011 : [EN] - Withered Kusava
+ 120012 : [EN] - Gulabgir's Special Pet Snake Food
+ 120013 : [EN] - Strange Bead
+ 120014 : [EN] - Strange Tiny Hats
+ 120015 : [EN] - Shabby Rack
+ 120016 : [EN] - Javi's Dream
+ 120017 : [EN] - Tattered Paper
+ 120018 : [EN] - The Shepherd and the Magic Bottle
+ 120019 : [EN] - The Tale of Shiruyeh and Shirin (I)
+ 120020 : [EN] - The Tale of Shiruyeh and Shirin (II)
+ 120021 : [EN] - The Lay of Al-Ahmar
+ 120022 : [EN] - The Folio of Foliage (I)
+ 120023 : [EN] - The Folio of Foliage (II)
+ 120024 : [EN] - The Folio of Foliage (III)
+ 120025 : [EN] - Scroll of Streaming Song (I)
+ 120026 : [EN] - Scroll of Streaming Song (II)
+ 120027 : [EN] - Scroll of Streaming Song (III)
+ 120028 : [EN] - An Ode to Soul-Light
+ 120029 : [EN] - Transparent Ruins Record (II)
+ 120030 : [EN] - Transparent Ruins Record (III)
+ 120031 : [EN] - A Key
+ 120032 : [EN] - Unsealed Parchment
+ 120033 : [EN] - Guiding Parchment
+ 120034 : [EN] - Whispering Parchment
+ 120035 : [EN] - Mysterious Parchment
+ 120036 : [EN] - Ancient Work Log
+ 120037 : [EN] - Akademiya Investigation Team's Interim Report
+ 120038 : [EN] - Zandik's Note
+ 120039 : [EN] - Sohreh's Note
+ 120040 : [EN] - Sumeru Investigation Team's Note
+ 120041 : [EN] - Dissection Records
+ 120042 : [EN] - Ragged Attendance Record
+ 120043 : [EN] - ？？？
+ 120044 : [EN] - ？？？
+ 120045 : [EN] - ？？？
+ 120046 : [EN] - ？？？
+ 120047 : [EN] - Medical Records
+ 120048 : [EN] - Diagnostic Report
+ 120049 : [EN] - Shevirme's Funds
+ 120050 : [EN] - Quqing's Funds
+ 120051 : [EN] - Guanchui's Funds
+ 120052 : [EN] - Zakariya's Prescription for Maruf
+ 120053 : [EN] - Zakariya's Prescription for Maruf
+ 120054 : [EN] - Zakariya's Prescription for Maruf
  120055 : [CHS] - （test）马鲁夫的万能药包
- 120056 : ザカリヤがマルフのために作った薬
+ 120056 : [EN] - Zakariya's Medicine for Maruf
  120057 : [CHS] - （test）蕈兽孢粉
  120058 : [CHS] - （test）新鲜的须弥蔷薇
- 120059 : 優雅な筆跡のノート
+ 120059 : [EN] - An Elegantly-Written Note
  120060 : [CHS] - （test）仙人掌凝胶
- 120061 : ネルミンが作った「ミントビーンスープ」
+ 120061 : [EN] - Nermin's Minty Bean Soup
  120062 : [CHS] - （test）内尔敏做的香水
- 120063 : 未来星
- 120065 : レイフの荷物
- 120066 : ネルミンの香料
- 120067 : 鍵の石板·其の一
- 120068 : 『千夜物語·一』の破れたページ
- 120069 : 『千夜物語·二』の破れたページ
- 120070 : 『千夜物語·三』の破れたページ
- 120071 : 『千夜物語·四』の破れたページ
- 120072 : 『千夜物語·五』の破れたページ
- 120073 : 『千夜物語·六』の破れたページ
- 120074 : 千夜物語·一
- 120075 : 千夜物語·二
- 120076 : 千夜物語·三
- 120077 : 千夜物語·四
- 120078 : 千夜物語·五
- 120079 : 千夜物語·六
- 120080 : サミエルのメッセージ
- 120081 : サミエルのメッセージ
- 120082 : シェヴァマへの受注書
- 120083 : 曲清への受注書
- 120084 : 関垂への受注書
- 120113 : セノの紹介状
- 120114 : 古い地図
- 120115 : オークションの資料
- 120116 : 封じられた資料「帰元ノ庭」
- 120117 : 鍵の石板·其の二
- 120118 : アザライの資金
- 120119 : ラマからの領収書
- 120120 : ブトルスからの領収書
- 120121 : ジュートからの領収書
- 120122 : ジャハンギルからの領収書
- 120123 : 「砂漠特別旅行パック（限定版）」
+ 120063 : [EN] - Future Star
+ 120065 : [EN] - Raef's Bag
+ 120066 : [EN] - Nermin's Spices
+ 120067 : [EN] - Keystone (I)
+ 120068 : [EN] - Torn Page: A Thousand Nights (I)
+ 120069 : [EN] - Torn Page: A Thousand Nights (II)
+ 120070 : [EN] - Torn Page: A Thousand Nights (III)
+ 120071 : [EN] - Torn Page: A Thousand Nights (IV)
+ 120072 : [EN] - Torn Page: A Thousand Nights (V)
+ 120073 : [EN] - Torn Page: A Thousand Nights (VI)
+ 120074 : [EN] - A Thousand Nights (I)
+ 120075 : [EN] - A Thousand Nights (II)
+ 120076 : [EN] - A Thousand Nights (III)
+ 120077 : [EN] - A Thousand Nights (IV)
+ 120078 : [EN] - A Thousand Nights (V)
+ 120079 : [EN] - A Thousand Nights (VI)
+ 120080 : [EN] - Samer's Missive
+ 120081 : [EN] - Samer's Missive
+ 120082 : [EN] - Shevirme's Invoice
+ 120083 : [EN] - Quqing's Invoice
+ 120084 : [EN] - Guanchui's Invoice
+ 120113 : [EN] - ？？？
+ 120114 : [EN] - ？？？
+ 120115 : [EN] - ？？？
+ 120116 : [EN] - ？？？
+ 120117 : [EN] - Keystone (II)
+ 120118 : [EN] - Azalai's Payment
+ 120119 : [EN] - Rama's Receipt
+ 120120 : [EN] - Butrus' Receipt
+ 120121 : [EN] - Jut's Receipt
+ 120122 : [EN] - Jahangir's Receipt
+ 120123 : [EN] - ？？？
  120125 : [CHS] - （test）赛芭的蔷薇
- 120126 : 一通のメッセージ
- 120128 : うっすらと読み取れる銘文
- 120129 : うっすらと読み取れる銘文
- 120130 : うっすらと読み取れる銘文
- 120131 : うっすらと読み取れる銘文
- 120132 : うっすらと読み取れる銘文
- 120133 : うっすらと読み取れる銘文
- 120134 : うっすらと読み取れる銘文
- 120135 : うっすらと読み取れる銘文
- 120136 : うっすらと読み取れる銘文
- 120137 : うっすらと読み取れる銘文
- 120138 : 教令院調査チームの報告
- 120139 : 教令院調査チームの報告
- 120140 : 封の閉じられた命令書
- 120141 : 古い命令書
+ 120127 : [EN] - ？？？
+ 120152 : [EN] - ？？？
+ 120153 : [EN] - ？？？
+ 120154 : [EN] - ？？？
+ 120155 : [EN] - ？？？
+ 120156 : [EN] - ？？？
+ 120157 : [EN] - ？？？
+ 120158 : [EN] - ？？？
+ 120159 : [EN] - ？？？
+ 120160 : [EN] - ？？？
+ 120161 : [EN] - ？？？
  130001 : 「霓裳花」の種
  130002 : 「スイートフラワー」の種
  130003 : 「セシリアの花」の種
@@ -6804,9 +6821,9 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  130022 : 「夢乃花·ホシムクゲ」の種
  130023 : 「夢乃花·トウレイ」の種
  130024 : 「夢乃花·ニシキサヤ」の種
- 130025 : 「ハッラの実」の種
- 130026 : 「ザイトゥン桃」の種
- 130027 : 「スメールローズ」の種
+ 130025 : [EN] - Harra Fruit Seed
+ 130026 : [EN] - Zaytun Peach Seed
+ 130027 : [EN] - Sumeru Rose Seed
  131000 : グッピー
  131001 : 琉璃グッピー
  131002 : スイートグッピー
@@ -6829,12 +6846,12 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  131020 : 苦鉄砲フグ
  131021 : ディフダエイ
  131022 : フォーマルハウトエイ
- 131023 : 真果コオニフグ
- 131024 : 浮沈蜜桃
- 131025 : 砂吹きコオニフグ
- 131026 : 夕雲コオニフグ
- 131027 : 金青ハチェットウオ
- 131028 : 翠玉ハチェットウオ
+ 131023 : [EN] - True Fruit Angler
+ 131024 : [EN] - Peach of the Deep Waves
+ 131025 : [EN] - Sandstorm Angler
+ 131026 : [EN] - Sunset Cloud Angler
+ 131027 : [EN] - Lazurite Axe Marlin
+ 131028 : [EN] - Halcyon Jade Axe Marlin
  140001 : 始まりの翼
  140002 : 見守りの翼
  140003 : 降臨の翼
@@ -6844,7 +6861,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  140007 : 饗宴の翼
  140008 : 雷騰雲奔の翼
  140009 : 銀河燦爛の翼
- 140010 : 樹花爛漫の翼
+ 140010 : [EN] - Wings of the Forest
  141001 : 旋曜玉帛·1
  141002 : 旋曜玉帛·2
  141003 : 旋曜玉帛·3
@@ -6917,21 +6934,21 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  141070 : 旋曜玉帛·70
  141071 : 旋曜玉帛·71
  141072 : 旋曜玉帛·72
- 141073 : 旋曜玉帛·73
- 141074 : 旋曜玉帛·74
- 141075 : 旋曜玉帛·75
- 141076 : 旋曜玉帛·76
- 141077 : 旋曜玉帛·77
- 141078 : 旋曜玉帛·78
- 141079 : 旋曜玉帛·79
- 141080 : 旋曜玉帛·80
- 141081 : 旋曜玉帛·81
- 141082 : 旋曜玉帛·82
- 141083 : 旋曜玉帛·83
- 141084 : 旋曜玉帛·84
- 141085 : 旋曜玉帛·85
- 141086 : 旋曜玉帛·86
- 141087 : 旋曜玉帛·87
+ 141073 : [EN] - Radiant Spincrystal 73
+ 141074 : [EN] - Radiant Spincrystal 74
+ 141075 : [EN] - Radiant Spincrystal 75
+ 141076 : [EN] - Radiant Spincrystal 76
+ 141077 : [EN] - Radiant Spincrystal 77
+ 141078 : [EN] - Radiant Spincrystal 78
+ 141079 : [EN] - Radiant Spincrystal 79
+ 141080 : [EN] - Radiant Spincrystal 80
+ 141081 : [EN] - Radiant Spincrystal 81
+ 141082 : [EN] - Radiant Spincrystal 82
+ 141083 : [EN] - Radiant Spincrystal 83
+ 141084 : [EN] - Radiant Spincrystal 84
+ 141085 : [EN] - Radiant Spincrystal 85
+ 141086 : [EN] - Radiant Spincrystal 86
+ 141087 : [EN] - Radiant Spincrystal 87
  200001 : 紙の繊維
  200002 : 灯芯素材
  200003 : 浮生の石片
@@ -6946,8 +6963,8 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  200108 : 「溶媒」
  200109 : 明目の油剤
  200110 : 霞色の宝珠
- 200111 : 原海魚油
- 200112 : 移風の蒼羽
+ 200111 : [EN] - Original Fish Ointment
+ 200112 : [EN] - Plume of the Changing Winds
  200201 : 鷹の舞
  200202 : 鉄の翼
  200203 : 風の泉
@@ -7015,7 +7032,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  200902 : 太公望
  200903 : 鳴川鵜飼
  200904 : 月結びの縄
- 200905 : セレンディピティ
+ 200905 : [EN] - Serendipity
  210001 : 原神·印象
  210002 : 紀行·風捕り
  210003 : アンバー·ウサギ
@@ -7135,22 +7152,25 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  210121 : 紀行·天命
  210122 : 鹿野院平蔵·鞠
  210123 : 紀行·海藍
- 210124 : ティナリ·沐露
- 210125 : コレイ·春風駘蕩
- 210126 : ドリー·魔法のランプ
- 210127 : 紀行·深林
- 210128 : アチーブメント·漫遊
- 210129 : アチーブメント·合縁
- 210130 : スメール·瑶林
- 210131 : スメール·照覧
- 210132 : スメール·正明
- 210133 : 紀行·帰風
- 210134 : セノ·噤閉
- 210135 : キャンディス·蒼鷺
- 210136 : ニィロウ·蓮舞
- 210137 : アチーブメント·七芒
- 210138 : スメール·砂踏み
- 210139 : アチーブメント·鏡の夢
+ 210124 : [EN] - Tighnari: Dew-Kissed
+ 210125 : [EN] - Collei: Good Virtue
+ 210126 : [EN] - Dori: Jinni
+ 210127 : [EN] - Travel Notes: Woodlands
+ 210128 : [EN] - Achievement: Roaming
+ 210129 : [EN] - Achievement: Fated Encounter
+ 210130 : [EN] - Sumeru: Shimmering Woods
+ 210131 : [EN] - Sumeru: Observance
+ 210132 : [EN] - Sumeru: Unsullied
+ 210133 : [EN] - Travel Notes: Returning Winds
+ 210134 : [EN] - ？？？
+ 210135 : [EN] - ？？？
+ 210136 : [EN] - ？？？
+ 210137 : [EN] - Achievement: Seven Lights
+ 210138 : [EN] - Sumeru: Sandtreader
+ 210139 : [EN] - Achievement: Mirrored Dreams
+ 210140 : [EN] - ？？？
+ 210141 : [EN] - ？？？
+ 210142 : [EN] - ？？？
  220001 : 風神の瞳の共鳴石
  220002 : 岩神の瞳の共鳴石
  220003 : 岩のトレジャーコンパス
@@ -7200,25 +7220,26 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  220050 : [CHS] - (test)CD测试道具
  220051 : 荒瀧·盛世豪鼓
  220052 : 素材収集器
- 220053 : 「クサヴァ」
+ 220053 : [EN] - "Kusava"
  220054 : [CHS] - （test）仇恨测试道具
- 220055 : 「森林書」
- 220057 : 草神の瞳の共鳴石
- 220058 : 草のトレジャーコンパス
- 220059 : 「王樹の加護」
- 220060 : 実験型超燃ランプ
- 220061 : 「宝探し仙霊」
- 220062 : 小さな仙霊·翠苔
- 220063 : 精巧な「写真機」
- 220064 : バヌの智慧
- 220065 : 釣り糸安定装置
- 220066 : 古びたライアー
- 220067 : ボンボン祭典クラッカー
+ 220055 : [EN] - Aranyaka
+ 220057 : [EN] - Dendroculus Resonance Stone
+ 220058 : [EN] - Dendro Treasure Compass
+ 220059 : [EN] - "The Boon of the Elder Tree"
+ 220060 : [EN] - Ultra-Hot Burner Lamp Test Model
+ 220061 : [EN] - Treasure-Seeking Seelie
+ 220062 : [EN] - Mini Seelie: Moss
+ 220063 : [EN] - Exquisite Kamera
+ 220064 : [EN] - Banu's Wisdom
+ 220065 : [EN] - Fishing Line Stabilizer
+ 220066 : [EN] - Vintage Lyre
+ 220067 : [EN] - ？？？
  220068 : [CHS] - (test)赤沙石板
- 220069 : 赤砂の石板
- 220070 : 「バブリー写真機」
- 220071 : 「クサヴァ」
- 220074 : 縹錦からくり·留雲
+ 220069 : [EN] - Scarlet Sand Slate
+ 220070 : [EN] - "Bubbly Kamera"
+ 220071 : [EN] - "Kusava"
+ 220073 : [EN] - ？？？
+ 220074 : [EN] - ？？？
  221001 : 説明：風神の瞳の共鳴石
  221002 : 説明：岩神の瞳の共鳴石
  221003 : 図譜：岩のトレジャーコンパス
@@ -7237,21 +7258,22 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  221016 : 図譜：破魔の弓
  221017 : 図譜:放熱瓶
  221018 : 記憶が入ったお面
- 221019 : 森林王に関する物語
- 221020 : 砂漠に関する物語
- 221021 : 王の侍従に関する物語
- 221022 : 月光に関する物語
- 221023 : 異兆に関する物語
+ 221019 : [EN] - Tale of the Forest King
+ 221020 : [EN] - Tale of the Desert
+ 221021 : [EN] - Tale of the King's Squire
+ 221022 : [EN] - Tale of the Moonlight
+ 221023 : [EN] - Tale of the Portent
  221032 : 説明：雷神の瞳の共鳴石
  221034 : 図譜：雷のトレジャーコンパス
  221035 : 配合：果物餌
  221036 : 配合：赤挽肉餌
  221037 : 配合：ワームの疑似餌
  221038 : 配合：ハエの疑似餌
- 221039 : 配合：甘露餌
- 221057 : 説明：草神の瞳の共鳴石
- 221058 : 図譜：草のトレジャーコンパス
+ 221039 : [EN] - Formula: Sugardew Bait
+ 221057 : [EN] - Instructions: Dendroculus Resonance Stone
+ 221058 : [EN] - Diagram: Dendro Treasure Compass
  222001 : 「絵綺の枕印」
+ 222002 : 「絵綺の枕印」
  223001 : 花雨に重なる雲山
  223002 : 星に満ちた夜空
  223003 : 悠々たる霽青の寒花
@@ -7307,7 +7329,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  350033 : 詩と思索の間
  350034 : 囁く風の間
  350035 : 緋雲文斎
- 350036 : 煙霞の夢閣
+ 350036 : 煙霞の梦閣
  350037 : 秘術研究所
  350038 : 薪と煙の厨房
  350039 : 武器の鍛冶屋
@@ -7331,6 +7353,20 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  350057 : 千振り道場
  350058 : 明窓浄机
  350059 : 楓香る茶室
+ 350060 : 楓香る茶室
+ 350061 : 楓香る茶室
+ 350062 : 楓香る茶室
+ 350063 : 楓香る茶室
+ 350064 : 楓香る茶室
+ 350065 : 楓香る茶室
+ 350066 : 楓香る茶室
+ 350067 : 楓香る茶室
+ 350068 : 楓香る茶室
+ 350069 : 楓香る茶室
+ 350070 : 楓香る茶室
+ 350071 : 楓香る茶室
+ 350072 : 楓香る茶室
+ 350073 : 楓香る茶室
  360001 : 壁面1
  360002 : 壁面2
  360003 : 床1
@@ -7361,22 +7397,17 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  360411 : 御殿灯籠-「徘徊する雷威」
  360412 : 御殿灯籠-「往年の緋月」
  360413 : 御殿灯籠-「心に灯し雷照」
- 360414 : 楓の提灯-「顕光」
+ 360414 : 楓の提灯-「显光」
  360415 : 花咲く燭灯-「蓮の如く澄む」
  360416 : 煌めく明かり-「吉兆の元辰」
  360417 : 「煌々たる灯りは月を照らす」
  360418 : 岩場提灯-「幽洞を貫く光」
- 360419 : 「露が眠る光」
- 360420 : 「翠が滴る光」
- 360421 : 「森邃な光」
  361101 : 極北樺のコーナーカウンター
  361102 : 杉のオープン商品棚
  361103 : 杉の組み合わせ式商品棚
  361104 : 杉の収納棚
  361105 : 大きな樺の衣装棚
  361106 : 却砂の衣装棚
- 361107 : 輝光の白地物置台
- 361108 : 砂域のラック-「歓迎」
  361201 : 図書館の二段本棚
  361202 : 萃華の高級本棚
  361203 : 萃華の格安本棚
@@ -7387,7 +7418,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  361208 : 垂香の収納棚
  361209 : 楓の書棚-「墨染書心」
  361210 : 楓の書棚-「蔵書千卷」
- 361212 : 砂域のシェルフ-「什器」
  361301 : 分厚い図書館の長テーブル
  361302 : 騎士団の書斎机
  361303 : 騎士団のミーティングデスク
@@ -7403,16 +7433,11 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  361314 : 夢見の「涼温な机」こたつ
  361315 : 孔雀の「石定」お茶机
  361316 : 茶屋の長机-「座隙無」
- 361317 : 輝光の陶芸作業台
- 361318 : タマリスクの長机·硬材
  361401 : そよ風に守られたベッド
- 361402 : 煙霞の夢のベッド
+ 361402 : 煙霞の梦のベッド
  361403 : 夢見の「櫻眠」寝台
  361501 : 松の旅館受付
  361502 : 茶屋勘定台-「十四丸」
- 361503 : 砂域の石台-「堅固」
- 361504 : 砂域の暖炉-「温もり」
- 361505 : 砂域の文机-「慎重」
  362101 : 柔らかいラウンジソファ
  362102 : 「青空ブルーの午後」
  362103 : 「強い意志」
@@ -7439,33 +7464,16 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  362217 : 「華麗なる千の響き·繚繞」
  362218 : 佳節香扆-「梯山航海」
  362219 : 佳節香扆-「精金良玉」
- 362220 : 「スペシャルシェフの夏の宴会」
- 362221 : 妙々たる宝瓶-「菘藍」
- 362222 : 妙々たる宝瓶-「藤緑」
- 362223 : 妙々たる宝瓶-「熟麦」
- 362224 : 清き宝瓶-「赤銅」
- 362225 : 清き宝瓶-「鞍褐」
- 362226 : 清き宝瓶-「柘黄」
- 362227 : 清き宝瓶-「土器色」
- 362228 : 妙々たる宝瓶-「貝殻」
- 362229 : 妙々たる宝瓶-「昏岩」
- 362231 : 「消散する煙の中で」
  362301 : モンドカーペット-「赤い熱意」
  362302 : モンドカーペット-「倦まない探究」
  362303 : 旅館絨毯-「親切なもてなし」
  362304 : 迎賓絨毯-「暖かい歓迎」
- 362305 : 「青みがかった輝く模様」
- 362306 : 「オレンジがかった眩しい模様」
- 362307 : 「茶色がかった深みある模様」
- 362308 : 「日に晒された荘厳なる模様」
- 362309 : 「橄欖のように繁る模様」
  363101 : 光り続く提灯
  363102 : 琉璃亭の却砂の灯籠
  363103 : 天円提灯-「明燭に花香」
  363104 : 貝殻の硬質机上灯
  363105 : 「閃く輝き」
  363106 : 「澄凝の星光」
- 363107 : 砂域のランプ-「留光」
  363201 : 花瓶-「水色の落着き」
  363202 : 盆栽-「透き通るそよ風」
  363203 : 花瓶-「満開の朱色」
@@ -7496,16 +7504,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  363320 : 酒場のシェーカー-「パワーシェイク」
  363321 : 「お面」
  363322 : 「天象寰転」
- 363323 : 「清香良薬の吊り釜」
- 363324 : 「ヴィパリャス」
- 363325 : 「茂る森の断片」
- 363326 : 「流浪の姿」
- 363327 : 「石の間に綻ぶ歌」
- 363328 : ミニ「ズバイルシアター」
- 363329 : 「大マハマトラの公務時間」
- 363330 : 「醇厚なる歓迎の中で」
- 363331 : 「爽快なる甘さの中で」
- 363332 : 「たなびく薄霧の中で」
  364101 : 風景画-「田舎の民家」
  364102 : 風景画-「大空の層雲」
  364103 : 風景画-「無名の高崖」
@@ -7528,9 +7526,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  364210 : 壁掛け式広告板
  364211 : 絹織の壁飾り
  364212 : 「創龍点睛伝」
- 364213 : タマリスクの円盾·堅鉄
- 364214 : 砂域の壁飾り-「霞垂れ」
- 364215 : 砂域の壁飾り-「炎の翼」
  364301 : 垂香の窓付きドア
  364302 : 杉の騎士団ドア
  364303 : 垣屋楓の扉
@@ -7612,12 +7607,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  368149 : 夜蘭
  368150 : 久岐忍
  368151 : 鹿野院平蔵
- 368152 : ティナリ
- 368153 : コレイ
- 368154 : ドリー
- 368155 : ニィロウ
- 368156 : セノ
- 368157 : キャンディス
  369101 : エメラルド
  369102 : ハスキー
  369103 : イノシシ
@@ -7675,17 +7664,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  369155 : 珊瑚蝶
  369156 : 吉光虫
  369157 : 青雷イタチ
- 369158 : 草晶蝶
- 369159 : ツリーカエル
- 369160 : 赤尾トカゲ
- 369161 : ミニキノシシ
- 369162 : キノシシ
- 369163 : 暝彩鳥
- 369164 : クロトキ
- 369165 : 仮面イタチ
- 369166 : 聖金虫
- 369167 : 流砂ウナギ
- 369168 : コサックギツネ
  370101 : 干し草の家屋
  370102 : 干し草の貨物倉庫
  370103 : 璃月民居-「隠居屋敷」
@@ -7720,17 +7698,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  370308 : 「百味四宮鍋」
  370309 : 青果露店-「田園の恵み」
  370310 : 御伽材ラーメン屋台
- 370311 : 「織物の奥行き」
- 370312 : 「織物の尺度」
- 370313 : 「織物の果物並べ」
- 370314 : 「染み渡る甘み」
- 370315 : 「覆い隠される甘み」
- 370316 : 「穴に蔵される甘み」
- 370317 : 「漁労の市場の地」
- 370318 : 「漁労の貯蔵法」
- 370319 : 「漁労の廃物利用」
- 370320 : 輝光の布屋根万屋
- 370321 : 輝光の移動ケバブ屋
  370401 : ヒルチャールの前哨小屋
  370402 : ヒルチャールの頭領部屋
  370501 : 「碧水東の旅商人」
@@ -7779,17 +7746,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  370628 : 稲妻民居-「海祇述懐」
  370629 : 稲妻民居-「一室珊瑚」
  370630 : 稲妻民居-「風浪の屋舎」
- 370700 : 森のブース
- 370701 : 「森の民の按排」
- 370702 : 「森の民の剴切」
- 370703 : 「森の民の孤独」
- 370704 : 「森の民の意志」
- 370705 : 砂域の家屋-「日常」
- 370706 : 砂域の家屋-「集香」
- 370707 : 砂域の家屋-「符号の音」
- 370708 : 砂域の家屋-「微睡み」
- 370709 : 砂域の家屋-「きっさき隠し」
- 370710 : 砂域の家屋-「集溜」
  371101 : 花鳥の噴水
  371102 : ヒルチャールの螺旋型監視塔
  371103 : ヒルチャールの草ぶき小屋
@@ -7806,10 +7762,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  371118 : 外景盤石-「飛揚跋扈」
  371119 : 岩場起重機-「移山」
  371120 : 岩場起重機-「平丘」
- 371122 : 砂域の日覆い-「些事」
- 371123 : 砂域の日覆い-「問い」
- 371124 : 砂域の日覆い-「枯涸」
- 371125 : 砂域の日覆い-「休憩」
  371201 : 三眼の仙牌
  371202 : 樺の庭園正門
  371203 : 模様が彫られた庭園の壁隅
@@ -7843,12 +7795,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  371231 : 青々とした緑-「夢の果て」
  371232 : 青々とした緑-「星花の柵」
  371233 : 青々とした緑-「幻の迷宮」
- 371234 : 「幻夢ノ門扉」
- 371235 : 「漁労の辺境の壁」
- 371236 : 「漁労の絶対境界」
- 371237 : 砂域の石段-「登攀」
- 371238 : 砂域の墻壁-「不意打ち」
- 371239 : 砂域の墻壁-「堅き守り」
  372101 : 外景盤石-「却笠」
  372102 : 外景盤石-「岩塁」
  372103 : 外景盤石-「奇峭」
@@ -7856,8 +7802,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  372105 : 外景盤石-「天階」
  372106 : 外景盤石-「玲瓏」
  372107 : 擬石土台-「時機到来」
- 372108 : 外景盤石-「広漠」
- 372109 : 外景盤石-「礫石」
  372201 : 伏青石
  372202 : 斉身石
  372203 : 帝台石
@@ -7885,8 +7829,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  372225 : 寂修石
  372226 : 渡浪石
  372227 : 温泉白石-「秘火」
- 372228 : 渦巻模様の硬い陶石
- 372229 : 斜めカーブの彩り陶石
  372301 : 「帰風の蒼」
  372302 : 銀鉤のヤシの木
  372303 : 明砂のヤシの木
@@ -7968,26 +7910,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  372446 : 「常夜光樹」
  372447 : 震筆葵茸
  372448 : 築鋒葵茸
- 372449 : 陽紅揺れ茸
- 372450 : 黄褐林立茸
- 372451 : 杏子枯れ茸
- 372452 : 砂橙天井茸
- 372453 : 安定葉傘
- 372454 : 「強靭さを帯びた肌理」
- 372455 : 「夜明けの予兆の如く」
- 372456 : 「中天にかかる白星の如く」
- 372457 : 「月の断片の如く」
- 372458 : 「迫りくる夕焼けの如く」
- 372459 : 「甘さを深くに隠す蜜醸」
- 372460 : 「渋さを深くに隠す裂果」
- 372461 : 「熱砂に焼かれた涼しさ」
- 372462 : 「幽香たる熟睡の枝」
- 372463 : 「柔順を隠し持つ葉脈」
- 372464 : 「輝く遠星の如く」
- 372465 : 「水の中で沸き返る画彩」
- 372466 : 「半分が砂に埋もれた手紙」
- 372467 : 「烈日の輝きの如く」
- 372468 : 「踏足跳躍の禁区」
  372501 : 農業の道-「素晴らしい野菜畑」
  372502 : 農業の道-「麗しい花畑」
  372503 : 農業の道-「美しい水田」
@@ -8038,11 +7960,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  373139 : 梨園弦鼓-「一唱三嘆」
  373140 : 梨園金鳴-「鳴り物入り」
  373141 : 「疾奏音律花·変則チューニング」
- 373142 : 「漁労の豊漁の声」
- 373143 : 「漁労の家庭料理」
- 373144 : 「漁労の売れるコツ」
- 373145 : 「漁労の塵積もり」
- 373146 : 「漁労の厳選網」
  373201 : 盆栽-「翠色の縮図」
  373202 : 保水の花壇
  373203 : 土壌を積んだ木樽
@@ -8105,12 +8022,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  373352 : 「ドドコのビーチナップ」
  373353 : 「ドドコのコレクション棚」
  373354 : 「ドドコのクールパラソル」
- 373355 : 「漁労の織物作り」
- 373356 : 「無くてはならぬもの」
- 373357 : 「旅団の威勢」
- 373358 : 「攻伐の具象」
- 373359 : 「禁足の鉄拒馬」
- 373360 : 「旅団の戦車」
  373401 : 模様が彫られた鉄の街灯
  373402 : 野外の松の街灯
  373403 : 退邪灯-「左右を照らす」
@@ -8129,7 +8040,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  373416 : 孔雀の「連造」街灯
  373501 : 外景ポイント
  373601 : 「霊沼雲池」
- 373602 : 「清波游影」
  373701 : フラワースタンド·古昔
  373702 : フラワースタンド·夢生
  373703 : フラワースタンド·風への頌歌
@@ -8211,42 +8121,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  374026 : 雪だるまの鼻-「嘘つきニンジン」
  374027 : 雪だるまの鼻-「かかって来い」
  374028 : 雪だるまの鼻-「アップルボム」
- 374031 : 木色胴体-「やんちゃ」
- 374032 : 木色胴体-「おとなしい」
- 374033 : 木色胴体-「ガオーガオー」
- 374034 : 木色胴体-「賢い年長者」
- 374035 : 花色胴体-「やんちゃ」
- 374036 : 花色胴体-「おとなしい」
- 374037 : 花色胴体-「ガオーガオー」
- 374038 : 花色胴体-「賢い年長者」
- 374039 : 水色胴体-「やんちゃ」
- 374040 : 水色胴体-「おとなしい」
- 374041 : 水色胴体-「ガオーガオー」
- 374042 : 水色胴体-「賢い年長者」
- 374051 : 木色頭-「ほほぉ」
- 374052 : 木色頭-「へへっ」
- 374053 : 木色頭-「ふふん」
- 374054 : 木色頭-「しくしく」
- 374055 : 花色頭-「ほほぉ」
- 374056 : 花色頭-「へへっ」
- 374057 : 花色頭-「ふふん」
- 374058 : 花色頭-「しくしく」
- 374059 : 水色頭-「ほほぉ」
- 374060 : 水色頭-「へへっ」
- 374061 : 水色頭-「ふふん」
- 374062 : 水色頭-「しくしく」
- 374071 : 木彫りの両目-「聞いてるよ」
- 374072 : 木彫りの両目-「こんにちは」
- 374073 : 木彫りの両目-「なんだと」
- 374074 : 木彫りの両目-「こんなはずじゃ」
- 374081 : 木彫りの帽子-「行商人」
- 374082 : 木彫りの帽子-「森の住民」
- 374083 : 木彫りの帽子-「占い師」
- 374084 : 木彫りの帽子-「怠け者」
- 374085 : 木彫りの帽子-「送別者」
- 374091 : 木彫りのマント-「アランレンジャー」
- 374092 : 木彫りのマント-「博学者」
- 374093 : 木彫りのマント-「歌手」
  374101 : 長い年月を経た竹の柵
  374102 : 力流しの松の柵
  374103 : ヒルチャールの木製柵
@@ -8290,24 +8164,10 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  374503 : 擬石土台-「倍日并行」
  374504 : 青々とした緑-「クッキーの道」
  374505 : 擬石土台-「豪華絢爛」
- 374700 : 「西風ザーザーショップ」
- 374701 : 日除け屋根-「ヴァルベリーの赤」
- 374702 : 日除け屋根-「蒲公英の緑」
- 374703 : 日除け屋根-「シードル湖の青」
- 374704 : 景観装飾品-「甘さちょい増し」
- 374705 : 景観装飾品-「サプライズプレゼント」
- 374706 : 景観装飾品-「一盃の爽やかな香り」
- 374707 : 吊下げ装飾-「見える味」
- 374708 : 吊下げ装飾-「秩序正しく並びましょう」
- 374709 : 吊下げ装飾-「小鳥の接待係」
- 374710 : 吊下げ装飾-「一口だけ」
- 374711 : 吊下げ装飾-「一籠の淡い香り」
- 374712 : 吊下げ装飾-「いらっしゃいませ」
- 374713 : 店先の飾り-「主食をお食べください」
- 374714 : 店先の飾り-「特別セール」
- 374715 : 店先の飾り-「一樽の強い香り」
  375101 : モンド邸宅-「風向きの荘園」
+ 375102 : 楓香る茶室
  375103 : 稲妻垣屋-「雅練上邸」
+ 375104 : 楓香る茶室
  376101 : 遊戯装置-「ダッシュリズム」
  376102 : 「起動パネル」
  376103 : 「終点リング」
@@ -8373,12 +8233,6 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  379021 : 苦鉄砲フグ
  379022 : ディフダエイ
  379023 : フォーマルハウトエイ
- 379024 : 真果コオニフグ
- 379025 : 浮沈蜜桃
- 379026 : 砂吹きコオニフグ
- 379027 : 夕雲コオニフグ
- 379028 : 金青ハチェットウオ
- 379029 : 翠玉ハチェットウオ
  380101 : 木製軒先付き白壁
  380102 : ダーク色のアーチ形木質壁
  380103 : 楓のアーチ形壁
@@ -8401,21 +8255,21 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  380411 : 御殿灯籠-「徘徊する雷威」
  380412 : 御殿灯籠-「往年の緋月」
  380413 : 御殿灯籠-「心に灯し雷照」
- 380414 : 楓の提灯-「顕光」
+ 380414 : 楓の提灯-「显光」
  380415 : 花咲く燭灯-「蓮の如く澄む」
  380416 : 煌めく明かり-「吉兆の元辰」
  380418 : 岩場提灯-「幽洞を貫く光」
- 380419 : 「露が眠る光」
- 380420 : 「翠が滴る光」
- 380421 : 「森邃な光」
+ 380419 : [EN] - Slumbering Dewlight
+ 380420 : [EN] - Dripping Verdant Light
+ 380421 : [EN] - Deepwood Illumination
  381101 : 極北樺のコーナーカウンター
  381102 : 杉のオープン商品棚
  381103 : 杉の組み合わせ式商品棚
  381104 : 杉の収納棚
  381105 : 大きな樺の衣装棚
  381106 : 却砂の衣装棚
- 381107 : 輝光の白地物置台
- 381108 : 砂域のラック-「歓迎」
+ 381107 : [EN] - Plain Brightwood Shelf
+ 381108 : [CHS] - test阿如村室内柜子1
  381201 : 図書館の二段本棚
  381202 : 萃華の高級本棚
  381203 : 萃華の格安本棚
@@ -8426,7 +8280,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  381208 : 垂香の収納棚
  381209 : 楓の書棚-「墨染書心」
  381210 : 楓の書棚-「蔵書千卷」
- 381212 : 砂域のシェルフ-「什器」
+ 381212 : [CHS] - test阿如村室内书柜1
  381301 : 分厚い図書館の長テーブル
  381302 : 騎士団の書斎机
  381303 : 騎士団のミーティングデスク
@@ -8442,16 +8296,16 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  381314 : 夢見の「涼温な机」こたつ
  381315 : 孔雀の「石定」お茶机
  381316 : 茶屋の長机-「座隙無」
- 381317 : 輝光の陶芸作業台
- 381318 : タマリスクの長机·硬材
+ 381317 : [EN] - Brightwood Pottery Worktable
+ 381318 : [CHS] - test阿如村室内桌子1
  381401 : そよ風に守られたベッド
- 381402 : 煙霞の夢のベッド
+ 381402 : 煙霞の梦のベッド
  381403 : 夢見の「櫻眠」寝台
  381501 : 松の旅館受付
  381502 : 茶屋勘定台-「十四丸」
- 381503 : 砂域の石台-「堅固」
- 381504 : 砂域の暖炉-「温もり」
- 381505 : 砂域の文机-「慎重」
+ 381503 : [CHS] - test阿如村室内厨台
+ 381504 : [CHS] - test阿如村室内火炉1
+ 381505 : [CHS] - test阿如村室内木阶梯1
  382101 : 柔らかいラウンジソファ
  382102 : 「青空ブルーの午後」
  382103 : 「強い意志」
@@ -8477,31 +8331,31 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  382216 : 夢見の「入画」屏風
  382218 : 佳節香扆-「梯山航海」
  382219 : 佳節香扆-「精金良玉」
- 382221 : 妙々たる宝瓶-「菘藍」
- 382222 : 妙々たる宝瓶-「藤緑」
- 382223 : 妙々たる宝瓶-「熟麦」
- 382224 : 清き宝瓶-「赤銅」
- 382225 : 清き宝瓶-「鞍褐」
- 382226 : 清き宝瓶-「柘黄」
- 382227 : 清き宝瓶-「土器色」
- 382228 : 妙々たる宝瓶-「貝殻」
- 382229 : 妙々たる宝瓶-「昏岩」
- 382231 : 「消散する煙の中で」
+ 382221 : [EN] - Hued Vase: Cerulean
+ 382222 : [EN] - Hued Vase: Malachite
+ 382223 : [EN] - Hued Vase: Amber
+ 382224 : [EN] - Plain Vase: Bronze
+ 382225 : [EN] - Plain Vase: Tawny
+ 382226 : [EN] - Plain Vase: Ocher
+ 382227 : [EN] - Plain Vase: Sepia
+ 382228 : [CHS] - test阿如村室内陶罐1
+ 382229 : [CHS] - test阿如村室内陶罐2
+ 382231 : [CHS] - test须弥室内香炉bp用
  382301 : モンドカーペット-「赤い熱意」
  382302 : モンドカーペット-「倦まない探究」
  382303 : 旅館絨毯-「親切なもてなし」
  382304 : 迎賓絨毯-「暖かい歓迎」
- 382305 : 「青みがかった輝く模様」
- 382306 : 「オレンジがかった眩しい模様」
- 382307 : 「茶色がかった深みある模様」
- 382308 : 「日に晒された荘厳なる模様」
- 382309 : 「橄欖のように繁る模様」
+ 382305 : [EN] - Glorious Emerald Tapestry
+ 382306 : [EN] - Dazzling Golden Tapestry
+ 382307 : [EN] - Musing Tawny Tapestry
+ 382308 : [CHS] - test阿如村室内地毯1
+ 382309 : [CHS] - test通用室内地毯4
  383101 : 光り続く提灯
  383102 : 琉璃亭の却砂の灯籠
  383103 : 天円提灯-「明燭に花香」
  383104 : 貝殻の硬質机上灯
  383106 : 「澄凝の星光」
- 383107 : 砂域のランプ-「留光」
+ 383107 : [CHS] - test阿如村室内地灯1
  383201 : 花瓶-「水色の落着き」
  383202 : 盆栽-「透き通るそよ風」
  383203 : 花瓶-「満開の朱色」
@@ -8528,11 +8382,11 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  383317 : 「神の嗅覚」こんこんだるま
  383318 : 「真の料理の腕前」たぬたぬだるま
  383322 : 「天象寰転」
- 383325 : 「茂る森の断片」
- 383326 : 「流浪の姿」
- 383330 : 「醇厚なる歓迎の中で」
- 383331 : 「爽快なる甘さの中で」
- 383332 : 「たなびく薄霧の中で」
+ 383325 : [EN] - A Lush Glimpse
+ 383326 : [EN] - Jubilant Posture
+ 383330 : [CHS] - test阿如村室内茶具套装
+ 383331 : [CHS] - test阿如村室内桌面摆件
+ 383332 : [CHS] - test阿如村室内桌面香炉
  384101 : 風景画-「田舎の民家」
  384102 : 風景画-「大空の層雲」
  384103 : 風景画-「無名の高崖」
@@ -8554,9 +8408,9 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  384209 : 壁掛け式記録板
  384210 : 壁掛け式広告板
  384211 : 絹織の壁飾り
- 384213 : タマリスクの円盾·堅鉄
- 384214 : 砂域の壁飾り-「霞垂れ」
- 384215 : 砂域の壁飾り-「炎の翼」
+ 384213 : [CHS] - test须弥盾牌墙面挂饰
+ 384214 : [CHS] - test阿如村室内墙面布帘1
+ 384215 : [CHS] - test阿如村室内墙面装饰1
  384501 : 「絆の時」
  390101 : 干し草の家屋
  390102 : 干し草の貨物倉庫
@@ -8592,17 +8446,17 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  390308 : 「百味四宮鍋」
  390309 : 青果露店-「田園の恵み」
  390310 : 御伽材ラーメン屋台
- 390311 : 「織物の奥行き」
- 390312 : 「織物の尺度」
- 390313 : 「織物の果物並べ」
- 390314 : 「染み渡る甘み」
- 390315 : 「覆い隠される甘み」
- 390316 : 「穴に蔵される甘み」
- 390317 : 「漁労の市場の地」
- 390318 : 「漁労の貯蔵法」
- 390319 : 「漁労の廃物利用」
- 390320 : 輝光の布屋根万屋
- 390321 : 輝光の移動ケバブ屋
+ 390311 : [EN] - Woven Depth
+ 390312 : [EN] - Woven Length
+ 390313 : [EN] - Woven Fruition
+ 390314 : [EN] - Sweetness in Exchange
+ 390315 : [EN] - Sweetness in the Shade
+ 390316 : [EN] - Sweetness in Storage
+ 390317 : [EN] - Fisherman's Dealings
+ 390318 : [EN] - Fisherman's Preservation Trick
+ 390319 : [EN] - Fisherman's Maintenance
+ 390320 : [EN] - Brightwood Grocery Stall
+ 390321 : [EN] - Brightwood Kebab Cart
  390401 : ヒルチャールの前哨小屋
  390402 : ヒルチャールの頭領部屋
  390501 : 「碧水東の旅商人」
@@ -8651,16 +8505,16 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  390628 : 稲妻民居-「海祇述懐」
  390629 : 稲妻民居-「一室珊瑚」
  390630 : 稲妻民居-「風浪の屋舎」
- 390701 : 「森の民の按排」
- 390702 : 「森の民の剴切」
- 390703 : 「森の民の孤独」
- 390704 : 「森の民の意志」
- 390705 : 砂域の家屋-「日常」
- 390706 : 砂域の家屋-「集香」
- 390707 : 砂域の家屋-「符号の音」
- 390708 : 砂域の家屋-「微睡み」
- 390709 : 砂域の家屋-「きっさき隠し」
- 390710 : 砂域の家屋-「集溜」
+ 390701 : [EN] - Deepwood Dweller's Deliberation
+ 390702 : [EN] - Deepwood Dweller's Estimation
+ 390703 : [EN] - Deepwood Dweller's Lonesome
+ 390704 : [EN] - Deepwood Dweller's Perseverance
+ 390705 : [CHS] - test阿如村建筑1
+ 390706 : [CHS] - test阿如村建筑2
+ 390707 : [CHS] - test阿如村建筑3
+ 390708 : [CHS] - test阿如村建筑4
+ 390709 : [CHS] - test阿如村建筑5
+ 390710 : [CHS] - test阿如村建筑6
  391101 : 花鳥の噴水
  391102 : ヒルチャールの螺旋型監視塔
  391103 : ヒルチャールの草ぶき小屋
@@ -8677,10 +8531,10 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  391118 : 外景盤石-「飛揚跋扈」
  391119 : 岩場起重機-「移山」
  391120 : 岩場起重機-「平丘」
- 391122 : 砂域の日覆い-「些事」
- 391123 : 砂域の日覆い-「問い」
- 391124 : 砂域の日覆い-「枯涸」
- 391125 : 砂域の日覆い-「休憩」
+ 391122 : [CHS] - test阿如村棚子1
+ 391123 : [CHS] - test阿如村棚子2
+ 391124 : [CHS] - test阿如村棚子3
+ 391125 : [CHS] - test阿如村棚子4
  391201 : 三眼の仙牌
  391202 : 樺の庭園正門
  391203 : 模様が彫られた庭園の壁隅
@@ -8711,11 +8565,11 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  391228 : 温泉外壁-「無越」
  391229 : 温泉の壁-「穏足」
  391230 : 温泉の扉-「避涼」
- 391235 : 「漁労の辺境の壁」
- 391236 : 「漁労の絶対境界」
- 391237 : 砂域の石段-「登攀」
- 391238 : 砂域の墻壁-「不意打ち」
- 391239 : 砂域の墻壁-「堅き守り」
+ 391235 : [EN] - Fisherman's Fence
+ 391236 : [EN] - "No Fishing Ahead"
+ 391237 : [CHS] - test阿如村楼梯
+ 391238 : [CHS] - test阿如村围墙墙体长
+ 391239 : [CHS] - test阿如村围墙墙体短
  392107 : 擬石土台-「時機到来」
  393101 : 交差して置かれた杉の貨物箱
  393102 : ちゃんと積み上げられた杉の酒樽
@@ -8754,11 +8608,11 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  393137 : 大型飲食店専用かまど
  393138 : 悠々たる炎
  393141 : 「疾奏音律花·変則チューニング」
- 393142 : 「漁労の豊漁の声」
- 393143 : 「漁労の家庭料理」
- 393144 : 「漁労の売れるコツ」
- 393145 : 「漁労の塵積もり」
- 393146 : 「漁労の厳選網」
+ 393142 : [EN] - Fisherman's Catch
+ 393143 : [EN] - Fisherman's Delicacy
+ 393144 : [EN] - Fisherman's Storage Solution
+ 393145 : [EN] - Fisherman's Efforts
+ 393146 : [EN] - Fisherman's Clemency
  393201 : 盆栽-「翠色の縮図」
  393202 : 保水の花壇
  393203 : 土壌を積んだ木樽
@@ -8807,12 +8661,12 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  393352 : 「ドドコのビーチナップ」
  393353 : 「ドドコのコレクション棚」
  393354 : 「ドドコのクールパラソル」
- 393355 : 「漁労の織物作り」
- 393356 : 「無くてはならぬもの」
- 393357 : 「旅団の威勢」
- 393358 : 「攻伐の具象」
- 393359 : 「禁足の鉄拒馬」
- 393360 : 「旅団の戦車」
+ 393355 : [EN] - Fisherman's Craftsmanship
+ 393356 : [EN] - The Essentials
+ 393357 : [EN] - The Eremites' Flame of Vigor
+ 393358 : [EN] - Embodiment of Warfare
+ 393359 : [EN] - Steel Stopper
+ 393360 : [EN] - The Eremites' Odyssey
  393401 : 模様が彫られた鉄の街灯
  393402 : 野外の松の街灯
  393403 : 退邪灯-「左右を照らす」
@@ -8830,7 +8684,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
  393415 : 御伽の簡易街灯
  393416 : 孔雀の「連造」街灯
  393601 : 「霊沼雲池」
- 393602 : 「清波游影」
+ 393602 : [EN] - Shaded Clarity
  394101 : 長い年月を経た竹の柵
  394102 : 力流しの松の柵
  394103 : ヒルチャールの木製柵
@@ -8929,6 +8783,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 20040401 : 無相の水
 20040501 : 無相の氷 ダレット
 20040601 : 無相の炎 アイン
+20040701 : 無相の炎 アイン
 20050101 : 純水精霊
 20050102 : 純水精霊（本体）
 20050201 : 幻形イノシシ·水
@@ -9607,6 +9462,11 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 29060201 : [N/A] 3574291769
 29060202 : [N/A] 2732789569
 29060203 : [N/A] 2002743809
+29070101 : 雷電将軍
+29070102 : 雷電将軍
+29070103 : 雷電将軍
+29070104 : 雷電将軍
+29070105 : 雷電将軍
 35210101 : [N/A] 2099947705
 35210102 : [N/A] 2521295977
 35210501 : [N/A] 4181653881
@@ -9761,10 +9621,19 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 20149 : Level_SmrDungeon_Tinali
 20150 : Level_VoidWorldTree
 20151 : Level_FC_DeshretTemple
+20152 : IndoorScene_Xm_Csd
+20153 : IndoorScene_Xm_Csd
+20154 : IndoorScene_Xm_Csd
+20155 : IndoorScene_Xm_Csd
+20156 : IndoorScene_Xm_Csd
 20157 : Level_SmrDungeon_Cyno
 20159 : Level_XMDungeon_WQ01
 20160 : Level_FC_DeshretTemple
 20161 : Level_FC_DeshretTemple
+20162 : IndoorScene_Xm_Csd
+20163 : IndoorScene_Xm_Csd
+20165 : IndoorScene_Xm_Csd
+20168 : IndoorScene_Xm_Csd
 30001 : LevelTest_CurseMaze
 30100 : Level_Tower_Morning_01
 30101 : Level_Tower_Morning_01
@@ -10509,6 +10378,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
   30315 : 女神像アンロック - [N/A] 2041734695
   30316 : 女神像アンロック - [N/A] 4028276703
   30317 : 女神像アンロック - [N/A] 3048585239
+  30318 : 女神像アンロック - [N/A] 3048585239
   30600 : 昔日の風 - 神殿の入口でアンバーと合流する
   30601 : 昔日の風 - アンバーと会話する
   30602 : 昔日の風 - 神殿に入る
@@ -12526,7 +12396,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 1100815 : 翠石の玉壺·一 - [CHS] - (test)跟烟绯对话$HIDDEN
 1100816 : 翠石の玉壺·一 - 適切な場所でシコウと会話する
 1100901 : 瓊台玉閣 - 玉京台に行って、凝光の演説を聞く
-1100902 : 瓊台玉閣 - 情報商人と見知らぬ女性の争いを観察する
+1100902 : 瓊台玉閣 - 情報商人と見知らぬ少女の争いを観察する
 1100903 : 瓊台玉閣 - 申鶴を不卜廬に連れて行き、薬材を買う
 1100904 : 瓊台玉閣 - [CHS] - (test)【废弃】前往说书人处商议计划
 1100905 : 瓊台玉閣 - 「情報商人」について行き、情報を聞く
@@ -13254,9 +13124,9 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 1202107 : 絶えない噂 - ファデュイの臨時拠点を調べる
 1202108 : 絶えない噂 - 心海に返事する
 1202109 : 絶えない噂 - 貨物を商人に返す
-1202110 : 絶えない噂 - [EN] - Talk to Paimon (Discarded)
-1202111 : 絶えない噂 - [EN] - Talk to Paimon (Discarded)
-1202112 : 絶えない噂 - [EN] - Talk to Paimon (Discarded)
+1202110 : 絶えない噂 - [CHS] - 和派蒙对话（废弃）
+1202111 : 絶えない噂 - [CHS] - 和派蒙对话（废弃）
+1202112 : 絶えない噂 - [CHS] - 和派蒙对话（废弃）
 1202113 : 絶えない噂 - 心海と共に散歩する
 1202114 : 絶えない噂 - 心海と会話する
 1202115 : 絶えない噂 - [CHS] - （隐藏）完成心海策略-先杀BOSS$HIDDEN
@@ -17043,7 +16913,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 4007006 : [N/A] 0 - 島の水脈を引く
 4007007 : [N/A] 0 - 島の水脈を引く
 4007008 : [N/A] 0 - [CHS] - (test)(hide)回滚隔离环$HIDDEN
-4007009 : [N/A] 0 - 「氷封の心」の花びらを埋める
+4007009 : [N/A] 0 - て、「氷封の心」の花びらを埋め
 4007010 : [N/A] 0 - 風が吹く山頂に行く
 4007011 : [N/A] 0 - ファデュイの装置の状況を確認する
 4007012 : [N/A] 0 - 敵を倒す
@@ -18292,12 +18162,12 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 7014203 : [CHS] - 玩家爬上天空岛大柱子顶端彩蛋任务$HIDDEN - [CHS] - 玩家爬上天空岛大柱子顶端彩蛋任务$HIDDEN
 7014301 : 低温調査 - 玉霞と会話する
 7014302 : 低温調査 - キャサリンと会話する
-7014401 : [EN] - Chilled to the Bone - [EN] - Defeat the Cryo Hypostasis
-7014402 : [EN] - Chilled to the Bone - [EN] - Report back to Iris
-7014403 : [EN] - Chilled to the Bone - [EN] - Talk to Iris
-7014404 : [EN] - Chilled to the Bone - [CHS] - (test)记录是否击杀无相冰-隐藏$HIDDEN
-7014405 : [EN] - Chilled to the Bone - [EN] - Investigate the strange cold current
-7014406 : [EN] - Chilled to the Bone - [EN] - Talk to Iris
+7014401 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)打倒无相之冰$HIDDEN
+7014402 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)向玉霞回报$HIDDEN
+7014403 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)与玉霞对话$HIDDEN
+7014404 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)记录是否击杀无相冰-隐藏$HIDDEN
+7014405 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)前往调查异常的寒流$HIDDEN
+7014406 : [CHS] - (test)刺骨幽寒$HIDDEN - [CHS] - (test)与玉霞对话$HIDDEN
 7014501 : [CHS] - (test)低温调查】与【山中之物$HIDDEN - [N/A] 3842997996
 7050001 : からくり調理法·三 - 留雲借風真君と会話する
 7050002 : からくり調理法·三 - 気配をたどって食材を探す
@@ -18408,6 +18278,11 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 7051608 : [N/A] 0 - [N/A] 191754380
 7051701 : [N/A] 0 - パイモンが言った場所へ行く
 7051702 : [N/A] 0 - [N/A] 1594540468
+7051901 : [N/A] 0 - [N/A] 1865203756
+7052001 : [N/A] 0 - [N/A] 1865203756
+7052101 : [N/A] 0 - [N/A] 1865203756
+7052201 : [N/A] 0 - [N/A] 1865203756
+7052301 : [N/A] 0 - [N/A] 1865203756
 7065001 : モンド城の騎士 - ヘルターと会話する
 7065002 : モンド城の騎士 - [CHS] - 与赫塔对话$HIDDEN
 7065101 : 採掘の道 - ワーグナーと会話する
@@ -18439,6 +18314,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 7066109 : 魚群大発生 - ナンタックと会話する
 7066110 : 魚群大発生 - [CHS] - (test)检测是否获取观赏鱼$HIDDEN
 7066201 : [CHS] - (test)钓鱼引导任务$HIDDEN - [CHS] - (test)发鱼竿的隐藏任务$HIDDEN
+7066401 : [N/A] 0 - [N/A] 1865203756
 7070001 : ヘレンの喉ケア特効茶 - スイートフラワーをヘレンに10本渡す
 7070002 : ヘレンの喉ケア特効茶 - ヘレンと会話する
 7070101 : グローリーの願い - 蒲公英の種をグローリーに3つ渡す
@@ -19841,7 +19717,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 7182204 : 学者と伝説 - 山道に沿って進む
 7182205 : 学者と伝説 - ヒルチャールを倒す
 7182206 : 学者と伝説 - ソラヤーと会話する
-7182207 : 学者と伝説 - [CHS] - 打倒丘丘人（隐藏）$HIDDEN
+7182207 : 学者と伝説 - [EN] - Defeat the hilichurls (hidden) $HIDDEN
 7182208 : 学者と伝説 - [N/A] 201980468
 7182301 : 郷を守る人 - 軽策荘の野外に行ってみる
 7182302 : 郷を守る人 - 凪と会話する
@@ -20614,7 +20490,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 7215201 : [CHS] - 浮浪双梦记$HIDDEN - [CHS] - (test)查看盗宝团遗留的笔记$HIDDEN
 7215202 : [CHS] - 浮浪双梦记$HIDDEN - [CHS] - (test)寻找海盗宝藏$HIDDEN
 7215203 : [CHS] - 浮浪双梦记$HIDDEN - [CHS] - (test)找到真正的宝藏$HIDDEN
-7215301 : 異郷にて - [EN] - Talk to Alrani
+7215301 : 異郷にて - [CHS] - 与爱拉尼对话$HIDDEN
 7215302 : 異郷にて - アラニについて行く
 7215303 : 異郷にて - 「天井屋」と店主の写真を撮る
 7215304 : 異郷にて - 楓と会話する
@@ -21996,9 +21872,9 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 7266703 : 釣り餌補充計画 - [CHS] - 回滚任务$HIDDEN
 7266801 : [CHS] - 和派蒙隐藏对话$HIDDEN - [N/A] 2751061716
 7266802 : [CHS] - 和派蒙隐藏对话$HIDDEN - [N/A] 3871313788
-7266901 : [EN] - Bait Resupply Plan - [CHS] - 废弃$HIDDEN
-7266902 : [EN] - Bait Resupply Plan - 破棄
-7266903 : [EN] - Bait Resupply Plan - 破棄
+7266901 : [CHS] - 隐藏发鱼饵$HIDDEN - [CHS] - 废弃$HIDDEN
+7266902 : [CHS] - 隐藏发鱼饵$HIDDEN - 破棄
+7266903 : [CHS] - 隐藏发鱼饵$HIDDEN - 破棄
 7267001 : 我、遊学者 - ホッセイニと会話する
 7267002 : 我、遊学者 - 望舒旅館西側にある三つの拠点を片付ける
 7267003 : 我、遊学者 - ホッセイニに報告する
@@ -22160,6 +22036,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 7272401 : 写真を撮ろう - 阿旭と会話する
 7272501 : [CHS] - (test)容彩祭插花隐藏任务发奖励$HIDDEN - [N/A] 1733714404
 7272601 : [N/A] 0 - [N/A] 3736577220
+7272701 : [N/A] 0 - [N/A] 1865203756
 7280001 : 全能グルメチーム·グルメ巡りの旅 - 旭東と会話する
 7280002 : 全能グルメチーム·グルメ巡りの旅 - 目標地点に行き、食材を探す
 7280003 : 全能グルメチーム·グルメ巡りの旅 - 前方を探索し、食材を探す
@@ -22249,7 +22126,7 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 7281307 : 肥料…販売員？ - カウシックを探す
 7281308 : 肥料…販売員？ - カウシックと会話する
 7281309 : 肥料…販売員？ - カウシックと共にゴローに報告する
-7281310 : 肥料…販売員？ - アラニと共に岩田を探す
+7281310 : 肥料…販売員？ - アラ二と共に岩田を探す
 7290201 : [CHS] - 婷婷送礼任务$HIDDEN - [N/A] 964212324
 7290301 : [CHS] - 奔雷手秦师傅送礼任务$HIDDEN - [N/A] 1688587772
 7290401 : [CHS] - 小畑送礼任务$HIDDEN - [N/A] 1978950732
@@ -23793,6 +23670,36 @@ setFetterLevel : 現在アクティブなキャラクターの突破レベルを
 7305028 : [N/A] 0 - [N/A] 1865203756
 7305029 : [N/A] 0 - [N/A] 1865203756
 7305030 : [N/A] 0 - [N/A] 1865203756
+7305201 : [N/A] 0 - [N/A] 1865203756
+7305301 : [N/A] 0 - [N/A] 1865203756
+7305401 : [N/A] 0 - [N/A] 1865203756
+7305501 : [N/A] 0 - [N/A] 1865203756
+7308301 : [N/A] 0 - [N/A] 1865203756
+7308401 : [N/A] 0 - [N/A] 1865203756
+7311001 : [N/A] 0 - [N/A] 1865203756
+7318901 : [N/A] 0 - [N/A] 1865203756
+7319001 : [N/A] 0 - [N/A] 1865203756
+7319101 : [N/A] 0 - [N/A] 1865203756
+7319301 : [N/A] 0 - [N/A] 1865203756
+7320301 : [N/A] 0 - [N/A] 1865203756
+7320401 : [N/A] 0 - [N/A] 1865203756
+7320501 : [N/A] 0 - [N/A] 1865203756
+7320601 : [N/A] 0 - [N/A] 1865203756
+7320701 : [N/A] 0 - [N/A] 1865203756
+7320801 : [N/A] 0 - [N/A] 1865203756
+7320901 : [N/A] 0 - [N/A] 1865203756
+7323301 : [N/A] 0 - [N/A] 1865203756
+7326701 : [N/A] 0 - [N/A] 1865203756
+7367301 : [N/A] 0 - シャオユウと会話する
+7367302 : [N/A] 0 - [CHS] - 与小雨对话$HIDDEN
+7367501 : [N/A] 0 - [N/A] 1865203756
+7367601 : [N/A] 0 - [N/A] 1865203756
+7367701 : [N/A] 0 - [N/A] 1865203756
+7367801 : [N/A] 0 - [N/A] 1865203756
+7367901 : [N/A] 0 - [N/A] 1865203756
+7368001 : [N/A] 0 - [N/A] 1865203756
+7368101 : [N/A] 0 - [N/A] 1865203756
+7368201 : [N/A] 0 - [N/A] 1865203756
 7900001 : 海を聞く人 - フタフタ島で宝を探す
 7900002 : 海を聞く人 - 宝物を探す
 7900003 : 海を聞く人 - 宝箱を開ける
